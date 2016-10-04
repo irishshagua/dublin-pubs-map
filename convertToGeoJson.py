@@ -16,7 +16,7 @@ with open("postgres-pubs-dump.txt") as file:
     	
     	geometry = {}
     	geometry['type'] = 'Point'
-    	geometry['coordinates'] = [row[0], row[1]]
+    	geometry['coordinates'] = [row[1], row[0]]
     	feature['geometry'] = geometry
     	
     	properties = {}
