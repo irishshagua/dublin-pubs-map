@@ -1,1 +1,3 @@
 # dublin-pubs-map
+
+This repo holds a map of all the pubs that me and Kev have drank in with each other in Dublin. It's part of our ongoing plan to try and drink in every pub in Dublin...
