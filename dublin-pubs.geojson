@@ -2735,21 +2735,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.22318, 
-          53.3387
-        ]
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "review": "Tis grand sure. Bice pub. Tree tarded bar peoples....", 
-        "name": "The village Inn", 
-        "marker-symbol": "beer"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -6.22261, 
           53.33914
         ]
@@ -3088,6 +3073,66 @@
       "properties": {
         "review": "Where do I start with this cunt hole...  The door to the jacks looks like a wall and you have to push the left hand side to open it. They left Kev waiting for fuckin ever for just a bottle of beer and a vodka. Oh... And it's full of tossers...", 
         "name": "Cafe H", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26505, 
+          53.33049
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I like this place. Proper auld fella boozer feel to it. Drink was grand. Barman was good....  7 thumbs up", 
+        "name": "The Lower Deck", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26407, 
+          53.33031
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Not bad.  Front bar is better than the lounge. A few dick tourists in but that was offset by some bang on locals...", 
+        "name": "The Portobello", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25036, 
+          53.3309
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Bit of an auld jazz bar. If you 30 - 40 and past ur best but still think you're cool,  this is the cunt hole for you.", 
+        "name": "The Leeson Lounge", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25157, 
+          53.33138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "May be full of auld ones but it's a proper pub. Barmen know what their doing....  COYBIG", 
+        "name": "O'Briens", 
         "marker-symbol": "beer"
       }
     }, 
