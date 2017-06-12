@@ -3140,13 +3140,88 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.25569, 
-          53.34597
+          -6.25506, 
+          53.30802
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "review": "The drink is fuckin expensive here. It's an old haunt of me aul fellas and its close to the train dart line so good location, nice selection of beers but mug prices.", 
+        "review": "Good bar. Chatty bar man and nice look to the place. Old trinkets and shit. A little isolated though", 
+        "name": "The Dropping Well", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24657, 
+          53.2952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nithing wrong with the place but was absolutely empty. Shit atmosphere", 
+        "name": "Uncle Toms Cabin", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2434, 
+          53.28938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Bar seemed alright but lounge was a little too fancy. Too many eating food to be comfortable. Really hot bar girl though", 
+        "name": "Dundrum House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24322, 
+          53.28907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice down to earth bar and lounge. Darts team in the corner. Decent drink selection... not bad...", 
+        "name": "The Eagle", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25695, 
+          53.29505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Shit new age shite hole... fuckin leopard skin chairs and stuff. Cock hole", 
+        "name": "The Bottle Tower", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25559, 
+          53.34598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "The drink is fuckin expensive here. Its an old haunt of me aul fella and its close to the dart, so good location, good selection of beers but mug prices.", 
         "name": "The Long Stone", 
         "marker-symbol": "beer"
       }
