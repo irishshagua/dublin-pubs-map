@@ -3138,6 +3138,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25789, 
+          53.34603
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "The drink is fuckin expensive here. It's an old haunt of me aul fellas and its close to the train dart line so good location, nice selection of beers but mug prices.", 
+        "name": "The Long Stone", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
