@@ -3228,6 +3228,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10728, 
+          53.28712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "A bit posh looking. Price of a pint was alright though. They showed the football and the bar girl was nice and chatty. Dont get served by the dickhead with the slicked back hairdo", 
+        "name": "The Daffy Duck", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10515, 
+          53.27778
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Snobby foodatorium. Shithole with a retard barman", 
+        "name": "The Queens", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10475, 
+          53.27756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Not bad, good crowd, showed the footy. Barman was good. No complaints... Wuda liked to stay longer", 
+        "name": "The Kings Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10324, 
+          53.27708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice. Feels closest to a proper pub in the town so far. Bit of a craft bar but nice layout and they have bacon fries... :)", 
+        "name": "The Magpie Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10308, 
+          53.27646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Good crowd in the pub. Cuda showed the match on more TVs but seemed a good buzz in the place. Oh and the ridiculously young bargiel had an ass that Kev said he would nuke Tahiti for. I mean.. it was nice like... but it was prob more to do with the fact that she was wearin them skin tight pants which push the ass up. I definitely wouldnt say no meself. But I'd prob need a longer view before I could say whether or not nuking Tahiti was actually justified. Who even knows anyone from Tahiti. Fuck Tahiti. Pretentious cunts...", 
+        "name": "Finnegans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
