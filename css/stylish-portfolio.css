@@ -164,6 +164,16 @@ hr.small {
   background-size: cover;
 }
 
+.header h1 {
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+}
+
+.header h3 {
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+}
+
 
 /* About */
 
