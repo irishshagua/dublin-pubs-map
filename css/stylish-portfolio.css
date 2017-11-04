@@ -157,7 +157,7 @@ hr.small {
   display: table;
   width: 100%;
   height: 100%;
-  background: url(../img/bg.jpg) no-repeat center center scroll;
+  background: url(../img/main.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -209,7 +209,22 @@ hr.small {
 }
 
 .img-portfolio {
+  position: relative;
   margin: 0 auto;
+}
+
+.img-portfolio span {
+   position: absolute;
+   text-align: left;
+   bottom: 10px;
+   left: 0;
+   width: 100%;
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
 }
 
 .img-portfolio:hover {
