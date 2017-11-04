@@ -10,8 +10,6 @@
 
     <title>Dublin Pubs</title>
 
-    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-
     <link href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" rel="stylesheet"/>
 
     <!-- Bootstrap Core CSS -->
@@ -137,40 +135,9 @@
     </section>
 
     <!-- Map -->
-    <!--<section id="contact" class="map">-->
-      <!--<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export#map=18/53.34584/-6.26432"></iframe>-->
-      <!--<br/>-->
-      <!--<small>-->
-        <!--<a href="http://www.openstreetmap.org/export#map=18/53.34584/-6.26432"></a>-->
-      <!--</small>-->
-    <!--</section>-->
     <section id="contact" class="map">
       <div id="osm-map"></div>
     </section>
-    <script>
-      // Where you want to render the map.
-      var element = document.getElementById('osm-map');
-
-      // Height has to be set. You can do this in CSS too.
-      element.style = 'height:500px;';
-
-      // Create Leaflet map on map element.
-      var map = L.map(element);
-
-      // Add OSM tile leayer to the Leaflet map.
-      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-          attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-      }).addTo(map);
-
-      // Target's GPS coordinates.
-      var target = L.latLng('53.34584', '-6.26432');
-
-      // Set map's center to target with zoom 14.
-      map.setView(target, 14);
-
-      // Place a marker on the same location.
-      //L.marker(target).addTo(map);
-    </script>
 
     <!-- Footer -->
     <footer>
@@ -212,13 +179,35 @@
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-    <!-- Custom scripts for this template -->
+    <script src="vendor/leaflet/leaflet.min.js"></script>
     <script src="js/stylish-portfolio.js"></script>
+    <script src="js/github-rest-client.js"></script>
 
+    <script>
+      // Where you want to render the map.
+      var element = document.getElementById('osm-map');
+
+      // Height has to be set. You can do this in CSS too.
+      element.style = 'height:500px;';
+
+      // Create Leaflet map on map element.
+      var map = L.map(element);
+
+      // Add OSM tile leayer to the Leaflet map.
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      // Set map's center to target with zoom 14.
+      map.setView(L.latLng('53.34584', '-6.26432'), 14);
+
+      getPubs(function(pubs) {
+        pubs.forEach(function(pub) {
+          L.marker([pub.latitude, pub.longitude]).addTo(map).bindPopup("<b>" + pub.name + "</b><br>" + pub.description);
+        })
+      })
+    </script>
   </body>
 
 </html>
