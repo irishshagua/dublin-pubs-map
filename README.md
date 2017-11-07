@@ -1,3 +1,5 @@
 # dublin-pubs-map
+A cheap datastore for all the pubs which have been added to the Dublin Pubs project.
 
-This repo holds a map of all the pubs that me and Kev have drank in with each other in Dublin. It's part of our ongoing plan to try and drink in every pub in Dublin...
+
+![Dublin Pubs](dublin-pubs.geojson)
