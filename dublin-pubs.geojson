@@ -3303,6 +3303,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.23947, 
+          53.33733
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice layout and feel to the palce but the bar stuff were fuckin clueless. Kev seemed to like it though.", 
+        "name": "The Schoolhouse", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.23737, 
+          53.33808
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Great selection of craft beer. Bit pricey, but perfect location for a sneaky one on the way to the train station. TBH, I can't actually remember being here with Kev but he swears we were in it. Must've been drunk. \u00af\\_(\u30c4)_/\u00af", 
+        "name": "Gasworks", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
