@@ -3333,6 +3333,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.36243, 
+          53.37294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Hard to judge. Place was empty due to renovations. Certainly plenty of room in the place and the Guinness was alright, so... meh...", 
+        "name": "Myos", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.3677, 
+          53.384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big generic gastro pub. If you've been in one you've been in them all. Nice tiles on the ceiling I suppose.", 
+        "name": "Bradys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
