@@ -3453,6 +3453,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.12431, 
+          53.230068
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice pub. Plenty of room, racing on the telly. Was early so was a bit quiet and Kev had his under armour on so was sweating balls but no complaints about the place or the price.", 
+        "name": "Bradys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
