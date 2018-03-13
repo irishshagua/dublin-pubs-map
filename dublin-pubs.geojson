@@ -3468,6 +3468,96 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.281042, 
+          53.343316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Real local. Kids in the corner with the bottle of seven up. reminds me of me own youth... How sad... Pint was fine. Lots of pix about the Titanic so maybe the owner has some interest in that.", 
+        "name": "Agnes Brownes", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.288514, 
+          53.342493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I like it. Nice mix of locals and people working in Guinesses. Big mural across the road about some IRA lad who used to drink there.", 
+        "name": "Harkins The Old Harbour", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.289117, 
+          53.343532
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Was in the middle of renovations so was in a bit of a mess. Small place but good buzz. A few in even though it was early.", 
+        "name": "McCanns Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.290492, 
+          53.343464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Looks like its been recently done up. Tons of photos on the ceiling so you won't be bored when you fall over..", 
+        "name": "J.K. Stoutmans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.290975, 
+          53.34296
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ha, I love this place. Belting out the classics at half 5. Good barmen. Big enough pub as well... Has everything going for it.", 
+        "name": "The Malth House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.294543, 
+          53.342405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Very big pub. Was a bit quiet when we were there. No issues with the pint or the crisps.", 
+        "name": "Kennys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
