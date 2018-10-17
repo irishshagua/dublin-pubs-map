@@ -3678,6 +3678,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.205843, 
+          53.371012
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big place. Seemed to be the only boozer in the town. Attentive bar staff, racing on the telly, bacon fries and lovely slurpy Guinness.... What's not to like?", 
+        "name": "Beachcomber", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.216601, 
+          53.367197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Another big one. Really cool layout to the bar. Runs along three little snugs.  Large smoking area. A bit too expensive though.", 
+        "name": "Harry Byrnes", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.227163, 
+          53.367853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice place. They serve either peas or beans.... So you've a fuck ton of choice.", 
+        "name": "Graingers", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.228875, 
+          53.365788
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Had to play hide and seek with the bar man for a little while but apart from that was grand. Plenty of room. Nice pints and SCAMPI FRIES.... YAY", 
+        "name": "Kavanaghs", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.262716, 
+          53.346026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "What kind of a cunt whole can charge 14 euro for two bottles of piss and keep a straight face. Some poor fuckin tourist got quoted 85 quid for a single measure. Rip off central. Shall not be back...", 
+        "name": "Merchants Arch", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
