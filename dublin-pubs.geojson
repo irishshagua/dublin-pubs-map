@@ -3753,6 +3753,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.258454, 
+          53.346872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Meh... Over the hill hangout. And Kev reckons the barman was the cunt from Doyles", 
+        "name": "River Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.258131, 
+          53.347011
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Not a bad bar. Jacks are up 27 flights of stairs which is a bit annoyin and their own Stout is utter piss but the place is grand. Very central so gets a crowd.", 
+        "name": "Sweetmans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
