@@ -3783,6 +3783,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.394, 
+          53.35269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "More restaurant than bar. Location does nothing for it. Staff were nice though... Can't see meself being here again unless I'm trying to escape a shopping trip.", 
+        "name": "Hudson", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
