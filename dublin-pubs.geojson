@@ -3813,6 +3813,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.310706, 
+          53.340704
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I can't remember this at all. Kev assures me we did it though. Apparently the smoking ban was optional in there...", 
+        "name": "The Geln of Aherlow", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
