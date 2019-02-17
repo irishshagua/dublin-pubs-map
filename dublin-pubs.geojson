@@ -3798,6 +3798,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.321399, 
+          53.339533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Kev was a Meh... I was a little less impressed. Trying too much to be a restaurant kills the bar atmosphere. Not great tbh...", 
+        "name": "The Richmond", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
