@@ -152,6 +152,11 @@
                 </div>
               </div>
             </div>
+            <p>
+              We are using the pub registry details from the
+              <a href="https://www.revenue.ie/en/corporate/information-about-revenue/statistics/excise/licences/liquor-licences.aspx">revenue</a>
+              site to solve any contentious <i>Is this a real pub?</i> type issues...
+            </p>
           </div>
           <!-- /.col-lg-10 -->
         </div>
@@ -171,7 +176,7 @@
         <div class="row">
           <div class="col-lg-10 mx-auto text-center">
             <h4>
-              <strong>Dublin Pubs</strong>
+              <strong id="pubCount">Dublin Pubs</strong>
             </h4>
             <ul class="list-unstyled">
               <li>
@@ -229,6 +234,8 @@
       map.setView(L.latLng('53.34584', '-6.26432'), 14);
 
       getPubs(function(pubs) {
+        var pubCount = document.getElementById('pubCount');
+        pubCount.innerText = pubs.length + ' pubs and counting'
         pubs.forEach(function(pub) {
           L.marker([pub.latitude, pub.longitude]).addTo(map).bindPopup("<b>" + pub.name + "</b><br>" + pub.description);
         })
