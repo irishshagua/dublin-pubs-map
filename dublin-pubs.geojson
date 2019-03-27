@@ -3828,6 +3828,96 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.139319, 
+          53.294701
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I liked this pub. A few in watching the racing, barman offered to sell me tennis balls. Friendly locals....", 
+        "name": "McKennas", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.140055, 
+          53.293926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Auld fart bar. Good old country bar look to the place. Jacks are out the back somewhere. Yappy enough punters", 
+        "name": "O'Loughlins", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.137471, 
+          53.292989
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Kev was put off by all the board games. Bit expensive as well. But they had a pic of Phillo behind the bar so some saving grace at least. A little too hipster for the tastes though", 
+        "name": "The Lighthouse", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.135145, 
+          53.29178
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Wouldnt be a massive fan. Nothing wrong with the place when we were in, it just seemed a little too nice. fancy carpets... fancy lighting... meh", 
+        "name": "O'Neills", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.130662, 
+          53.290068
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Must be the local celebrity hang out. Saw PJ Gallagher in there. Although the fact that he's Boez Scum has to drag the place down in terms of points. Drink was grand though", 
+        "name": "McLoughlins", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.134219, 
+          53.292478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "As in Laurel and fuckin Hardy... This one is a bit controversial. First things first, it was a snobbish cunt hole that ya wouldnt feel comfortable drinking in anyways... But the controversial thing is that its basically a hotel bar. And the rules specifically state that hotel bars arent allowed. I wanted very much to exclude this place from the list but I checked the revenue site and apparently they are operating under a pub license, so... (shrug)", 
+        "name": "Hardys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
