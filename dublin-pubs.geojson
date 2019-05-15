@@ -3918,6 +3918,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.258063, 
+          53.347958
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "A regular of the Mammy. Not a bad bar. A load of shite on the walls for decoration and staff are generally friendly but they refused Kev after an Ireland match, so fuck ye. fuck ye in ur fuckin nancy pancy little arses.", 
+        "name": "Lanigans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
