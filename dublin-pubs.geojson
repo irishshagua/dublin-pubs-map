@@ -3933,6 +3933,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.446417, 
+          53.279509
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Very friendly staff but smacks off a hotel. Drinks are too expensive and layout is too fancy. A big meh...", 
+        "name": "The Maple Tree", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
