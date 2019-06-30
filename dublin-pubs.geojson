@@ -3948,6 +3948,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.233533, 
+          53.245715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Stunning views over Dublin from the many outdoor tables. Seems a good atmosphere in the boozer as well. Liked this place a lot. Although the roads on the way to it are fuckin tiny. Oh and they even had Nobbys Nuts. So extra bonus points.", 
+        "name": "The Blue Light", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
