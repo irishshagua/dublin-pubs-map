@@ -3978,6 +3978,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.240209, 
+          53.264647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I'd say the last time this place was done up was sometime in the 70's. Went with the kids to check out The Exploratorium beside it which just left me confused and scared. Food is shite. Bar is pretty good apart from that though. Friendly relaxed feel to the place. Very remote, so prob won't be back.", 
+        "name": "Lamb Doyles", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
