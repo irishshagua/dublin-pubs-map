@@ -3963,6 +3963,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.15104, 
+          53.485187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Oscar the barman has the best cross Chinese/Dub accent I've ever heard. Also Joe O'Shea wired the place and said they never paid him for it but fuck it at least the pint was nice", 
+        "name": "Smyths", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
