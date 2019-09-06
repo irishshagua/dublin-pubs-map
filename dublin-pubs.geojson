@@ -3993,6 +3993,111 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.167217, 
+          53.388288
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Larger than you'd think from the outside. Nice local boozer. There was a one eyed dog asleep on the floor when we got in. Guiness wasn't the best but there was a lad actually working on the taps so that's my bad for going for a fuckin Guinness... ", 
+        "name": "Madigans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.15548, 
+          53.385984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Like walking down a players tunnel to get into it. Big pub but the Sky box was busted so no racing on... Ended up having to talk to Kev... Ughhhh", 
+        "name": "The Foxhound Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.164922, 
+          53.381192
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Good boozer. Friendly locals. They had the Dublin v Kerry game on repeat in the bar...", 
+        "name": "Cedar Lounge", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.174249, 
+          53.37999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Pool hall upstairs if you're bored. Local feel to the place.... Scampi fries... they did have scampi fries... I do likes me scampi fries", 
+        "name": "Raheny Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.174902, 
+          53.380493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ginger Beer and some fuckin bitters addin thing... I dunno what the fuck Kev was drinking tbh. The place is modern and hipstery. Hog heads on the wall and animal hair backed bar stools... Although I'm sure the animal hair is fake. I can't imagine the hipsters would be for killing the poor animals and all that. A bit foody and full of auld ones but sure fuck it.. A pints a pint", 
+        "name": "The Manhattan Beer Co", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.177264, 
+          53.379881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Yeah good pub. Discout for OAPs which was kinda cool. Although I'm not an OAP. Good barman, good crowd in... decent boozer", 
+        "name": "The Watermill", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.193521, 
+          53.378408
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Kev gave me some very solid advice here to not laugh at people when their horse comes last... He's a very wise zen master indeed.", 
+        "name": "Horse and Hound", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
