@@ -4098,6 +4098,111 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.257905, 
+          53.349079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Chipboard walls. 3 staff on to cater for the 6 people in the bar. More gin than ya cud shake a fist at... All a bit hipstery.. Not bad though", 
+        "name": "Pipers Corner", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.295065, 
+          53.348933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Small but good. Warm feel to the place. Barman was good and chatty. And there was a lad in swapping door handles for pints... Love that...", 
+        "name": "Sackville Louge", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.258027, 
+          53.349503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Normal down to earth bar. Nothing special. Barman on was handling the place well. Signed McManamon montage on the wall look kinda cool. More pissers than the DunLeary/Rathdown head office...", 
+        "name": "Briodys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.258838, 
+          53.348624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ok pub. Seemed a bit touristy. This is where things start to go south though. Sure who wants to go see fuckin Bulgaria anyways...", 
+        "name": "Madigans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.259187, 
+          53.358347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ughhh... Wasn't mad about it. Bit too nice... or whatever. They had lights on the table that when turned upside down electrocuted the heroin addicted barstaff though. So that was kinda fun to play with", 
+        "name": "Grand Central", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.259351, 
+          53.350227
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Once Kev wanted a breakfast from Annes... But Annes wasnt open... So he went in here and had a pint instead... Oh the hilarity of it all... Laugh Laugh Laugh.... Seriously though... Shite!", 
+        "name": "Madigans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.259787, 
+          53.350458
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Zap wasn't in which was a bit dissapointing but apart from that tis a standard city centre pub. A load of food orders going out which is meh.. but pints and service was generally good...", 
+        "name": "Brannigans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
