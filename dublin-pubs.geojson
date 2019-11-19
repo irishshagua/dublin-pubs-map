@@ -4203,6 +4203,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.256529, 
+          53.349043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "A weatherspoons pub. Was hooping when we were there and food and drink are piss cheap. It's hard not to like these places... :shrug:", 
+        "name": "The Silver Penny", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
