@@ -4233,6 +4233,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.486088, 
+          53.362474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Was our first post Covid world pub. To be honest we didn't even know the place was in Dublin until someone highlighted the stupidity of the localized lockdowns being placed along county lines... Cool pub though. They put the effort in to make social distancing possible. Ya can rent a horse box to have ur 9 euro meal and few scoops, which sounds a lot worse than it actually is. After nearly 5 months without a pint in the pub, the Guinness here was possibly the best Guinness I've ever had. Fuckin loved it. Kev only had the one though. He was driving. Aghgghhhahahagahagahagahagahhahahahhahaahhahhahhahahahahaahahaha...", 
+        "name": "The Salmon Leap", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
