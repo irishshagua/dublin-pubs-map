@@ -178,6 +178,30 @@
             <h4>
               <strong id="pubCount">Dublin Pubs</strong>
             </h4>
+            <details>
+              <summary>Add a new pub</summary>
+              <form action="https://script.google.com/macros/s/AKfycbzYFe1k_Ad0Y7523gcWqXOTe83EH8cupLXsRhXtNo_gNGr_L1F7/exec" method="post">
+                <div>
+                  <label for="pubName">Name: </label>
+                  <input type="text" name="pubName" required>
+                </div>
+                <div>
+                  <label for="review">Review: </label>
+                  <input type="text" name="review" required>
+                </div>
+                <div>
+                  <label for="latitude">Latitude: </label>
+                  <input type="number" name="latitude" id="formLatitude" step="0.000001" required>
+                </div>
+                <div>
+                  <label for="longitude">Longitude: </label>
+                  <input type="number" name="longitude" id="formLongitude" step="0.000001" required>
+                </div>  
+                
+                <input type="submit" value="Add">
+              </form>
+              <button onclick="getLocation()">Load Coords</button>  
+            </details>  
             <ul class="list-unstyled">
               <li>
                 <i class="fa fa-envelope-o fa-fw"></i>
@@ -240,6 +264,22 @@
           L.marker([pub.latitude, pub.longitude]).addTo(map).bindPopup("<b>" + pub.name + "</b><br>" + pub.description);
         })
       })
+      
+      function getLocation() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(showPosition);
+        } else {
+          alert("Geolocation is not supported by this browser.");
+        }
+      }
+
+      function showPosition(position) {
+        var longitude = document.getElementById('formLongitude');
+        var latitude = document.getElementById('formLatitude');
+        
+        longitude.value = position.coords.longitude.toFixed(6);
+        latitude.value = position.coords.latitude.toFixed(6);
+      }
     </script>
   </body>
 
