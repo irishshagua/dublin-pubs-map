@@ -4248,6 +4248,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.188535, 
+          53.587506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "These are strange covid times we're livinig in. So hard to rate a place. First pub we've been to in a year.... \ud83e\udd2f Staff were bang on anyways. Only had the one here so not much to say. Layout is grand. Wayyyyy out for us. Only reason we made it here was by bringing the kids out to Ardgillan castle for a trip. Defo not the worst though. ", 
+        "name": "The Balrothery Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
