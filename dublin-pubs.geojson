@@ -4256,8 +4256,38 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "review": "These are strange covid times we're livinig in. So hard to rate a place. First pub we've been to in a year.... \ud83e\udd2f Staff were bang on anyways. Only had the one here so not much to say. Layout is grand. Wayyyyy out for us. Only reason we made it here was by bringing the kids out to Ardgillan castle for a trip. Defo not the worst though. ", 
+        "review": "These are strange covid times we're livinig in. So hard to rate a place. First pub we've been to in a year.... Staff were bang on anyways. Only had the one here so not much to say. Layout is grand. Wayyyyy out for us. Only reason we made it here was by bringing the kids out to Ardgillan castle for a trip. Defo not the worst though. ", 
         "name": "The Balrothery Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.385769, 
+          53.362317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Impressive outdoor setup. Lots of parking space which is handy as the place is a bit out of the way. Savage views of the underside of the M50 are unique I guess.", 
+        "name": "The Strawberry Hall", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.401808, 
+          53.362486
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Beautiful looking bar. Will definitely be back as we had to drink outside due to covid. Quiet bar, good vibes and they did a savage little blueberry cocktail for Kev.", 
+        "name": "The Wrens Nest", 
         "marker-symbol": "beer"
       }
     }, 
