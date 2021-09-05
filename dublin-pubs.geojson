@@ -4293,6 +4293,66 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.255036, 
+          53.350611
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Gary, the barman, does not give a fuck what you do. Nice pub, good decor, very music oriented. Good mix of tourists and locals as well.", 
+        "name": "The Celt", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.261513, 
+          53.346311
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Friendly barman, a little bit hipstery. Lots of deals on shots and stuff like that. Great location but prob geared for a younger crowd than me", 
+        "name": "Riot", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.265803, 
+          53.344608
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Looks like a hotel bar. Loads of boats hanging out of the ceiling for some reason. Was pretty good though. Kev flip-flopped on the place a bit but the cycling motif in the jacks really upper the tierage.", 
+        "name": "The Wild Duck", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.258935, 
+          53.343032
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Bargirl definitely had a thing for me here. In another life it could've been magical. What can I say, the place is a purveryor of porters and lots of other stuff. Great selection but steep prices", 
+        "name": "The Portehouse", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
