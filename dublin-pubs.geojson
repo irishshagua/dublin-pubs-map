@@ -4383,6 +4383,51 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.272903, 
+          53.369699
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Have to admit I was a little bit overawed in here. Massive reputation. Of course went with the Guinness and Coddle. Bang on. No complaints. Outside of that, they have a savage little menu. Really want to try the bacon and cabbage spring roll.... If you're reading this, and yer not me, just fuckin go here and do a tour of the Glasnevin cementary and then sink a few Guinness and have some coddle and batch. Fuckin perfect things dont happen often.", 
+        "name": "Gravediggers", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.272124, 
+          53.365231
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Apart from the savage name it's not a bad little boozer. Not cheap but fuckin where is these days. No complaints. Even if itis in the heart of Boez Scum land.", 
+        "name": "The Brian Boru", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.271447, 
+          53.36468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ok let's be honest for a sec. I'm too old for shiholes like this. It's not the beanie hats. It's not the fact that the bar staff are fuckin young enough to play with me kids. It's not even the stupid fuckin disco ball swirling around the bar at fuckin 2 o'clock on a Wednesday. It's just... not a fuckin bar. Let it off to the young wans. Fuck it. I'll resign meself as an unknowing dinosaur in this sense.", 
+        "name": "The Berndar Shaw (Part Deux)", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
