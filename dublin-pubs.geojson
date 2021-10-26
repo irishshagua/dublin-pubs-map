@@ -4428,6 +4428,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.393518, 
+          53.32129
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Massive pub. was in with the kids for a bit of a lunch. Scampi was bang on. Guinness was nice and slurpy. Hard to rate a place when it's midday but nothing to object about anyways.", 
+        "name": "Quinlans - The Black Lion", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
