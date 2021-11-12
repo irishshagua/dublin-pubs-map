@@ -4443,6 +4443,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.324064, 
+          53.336108
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Doesn't really feel like a pub and they've no fuckin crisps but I won't hear a bad word said about the place. They support Pat so I support them with my drunken endeavours. Also the pizza looked nice.", 
+        "name": "Rascals", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.32656, 
+          53.32407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Owned by a scumbag. And they don't have crisps. ", 
+        "name": "The Black Forge Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.32553, 
+          53.3242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Auld farts feel to the place. I like it. For some reason they didn't seem to want me to pay. Kev said mention that they had very small bags of nuts. But they didnt charge for them anyways, so can't gripe.", 
+        "name": "Eleanoras", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.32846, 
+          53.32388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Massive place. Modern gastropub feel to the place. Watched the first half of Ireland v Portugal here. Why not at the match you ask? Because every muppet in the country wanted to lick the sweat off Ronaldos balls. Fuck em. Let them at it. I was happy enough drinking instead", 
+        "name": "The Halfway House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.30332, 
+          53.32868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Was well oiled by the time I got here so can't remember too much about it. Kev recognised the barman from The Black Lion. Also he was very adamant that the wrong drink was just a mistake. Grand boozer. No complaints.", 
+        "name": "The gate Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
