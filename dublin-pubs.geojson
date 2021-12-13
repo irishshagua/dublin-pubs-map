@@ -4518,6 +4518,66 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24823, 
+          53.3492
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Meh. Nice selection of beers and downstairs looks kinda cool but it doesn't really feel like a pub. Nothing bad about it but just not my style.", 
+        "name": "Urban Brewing", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2587, 
+          53.34066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Oh god. Do not like. Kev enjoyed the singing. fuck it... its done... i never have to go back", 
+        "name": "Cafe Insane", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2634, 
+          53.34403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Small bar but seemed popular. Nothing overly memorable about it but nothing wrong with it either", 
+        "name": "Mulligan & Haines", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26476, 
+          53.34533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Very touristy but the prices weren't ridiculously higher than other places. Maybe everywhere in Dublin is just a rip off anyways. If ya don't mind dodging coked up tourists then it's fine... I guess...", 
+        "name": "The Norseman", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
