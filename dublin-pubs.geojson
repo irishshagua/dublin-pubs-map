@@ -4578,6 +4578,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.196718, 
+          53.239551
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Fairly standard housing estate type pub. A good few in for Sunday lunch. Lots of staff buzzing around. No complaints though. We were in after doing a little hike in the mountains there. Its a nice area.", 
+        "name": "Farmer Browns", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
