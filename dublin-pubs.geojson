@@ -4593,6 +4593,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24568, 
+          53.34646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Pretentious overpriced kip. Fuckin 4.50 for nuts. Yis arent fuckin New Yrok. FUck off will ya.", 
+        "name": "Dockers", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.23814, 
+          53.34438
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Another fuckin Weatherspoons. I really want to hate these places so much. Soul-less. But fuck me they do some perfectly priced drink. Stopped in on the way to a match in Lansdowne and the previous pub, the round was 14, this place the round is 8. Like how can ya argue with that. Even if it is an assembly line hammer blow to real locals... conflicted...", 
+        "name": "The South Strand", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
