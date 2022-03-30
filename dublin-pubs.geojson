@@ -4623,6 +4623,66 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27543, 
+          53.33236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Good chat at the bar. Barman was from Mayo and a punter was a closet Combat 18 fan so plenty of sporty banter. Place looks more like a restaurant than a pub but they have Ambush on tap (which is fuckin heavenly) and good chat == happy punters", 
+        "name": "57 The Headline", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27541, 
+          53.33217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Looks like a good local bar. Was quiet when we were there. Cheaper than its neighbour but nothing massively standoutish about it.", 
+        "name": "Leonards Corner", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27563, 
+          53.33041
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Same owner/operator as Square Ball and very much the same vibe. Barman was a god yap though. He's the first lad to actually ask for a link to the review site, so hello if yer reading. In terms of the place, its a bit pricey and the furniture is a bit poncey. I'm sure we're not their target audience but a decent drink selection on tap, so no complaints.", 
+        "name": "MVP", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27523, 
+          53.33002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Old bar feel to the place. Football was on the TV. No fuckin salt and vinegar though. WTF. Plenty of Dubs licence plates on the wall so say it'd be a good shout for watching a match.", 
+        "name": "Harold House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
