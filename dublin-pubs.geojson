@@ -4683,6 +4683,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.12375, 
+          53.38934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice bar. Plenty of room. Most importantly though it was open by half 11 on a bank holiday Monday unlike all the kips in Howth... :D", 
+        "name": "The Elphin Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
