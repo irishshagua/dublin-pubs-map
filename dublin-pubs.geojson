@@ -4698,6 +4698,96 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25212, 
+          53.34481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Some expensive-ass whiskey in the place but has a nice feel to it. Little snug in the corner as well. Owner apparently has another place out in Donabate but it wasn't Oscars place...", 
+        "name": "Moss Lane", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27336, 
+          53.34331
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Standard enough Galway brewhouse type deal. Beers on a chalk board. Lots of wooly hats for no discernable reason. The window at the front of the bar is a savage little view out on the world though. Nice to sink a pint and stare at randos walking by", 
+        "name": "The Beer Market", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27925, 
+          53.34292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Real local bar but the owner is a Pats fan so immediately in the good books. Scarf up behind the bar. Schlurpy pints. No complaints", 
+        "name": "The Clock", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27896, 
+          53.3427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ambush on tap. Fuck yeah. Bargirl confused Kev though... Another great cross Brazilian/Dublin accent", 
+        "name": "Dudleys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27756, 
+          53.34269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "We were all set to hate this place. Made up to look like an old shop and then suddenly morphs into a fuckin American diner in the middle and then the jacks at the back. Seems to be putting a lot of effort in to look like something but it wasnt too bad tbh. Good crowd in for pre-gig drinks so the atmosphere was alright", 
+        "name": "Johns Bar & Haerdashery", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6277250.0, 
+          53.34274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Standard enough place. Some world class Darts lads warming up. Or maybe they were shit. Da Fuck do I know about Darts. Another one that gets a bit of atmosphere from pre gig crowds so there's an interesting mix in the place", 
+        "name": "Tom Kennedys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
