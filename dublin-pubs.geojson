@@ -4788,6 +4788,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.33204, 
+          53.37585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice location alongside the canal. Nice food and reasonably priced. ", 
+        "name": "The Lock Keeper", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
