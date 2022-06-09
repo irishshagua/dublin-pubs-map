@@ -4803,6 +4803,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25858, 
+          53.34785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Tis a magical wonderous place where bartenders use some kind of vulcan mind meld power to guess what crisps you secretly desire most and your first round is always free. We were even joined by two Mexican lads Francisco and Alvaro. Unfortunately they forgot to bring the Tortillas... much sadness...", 
+        "name": "Meaghers", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25788, 
+          53.34581
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "So lets be clear from the get go. It may be owned by the same owner as a certain kip hole cunt place.... BUT ITS A DIFFERENT BAR. Dodgey gray area sure. Bar is nice though. Francis joined us for a pint but he was a little bit scared of all the old women wandering around stealing glasses. Still... Pints were schlurpy", 
+        "name": "Bowes", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
