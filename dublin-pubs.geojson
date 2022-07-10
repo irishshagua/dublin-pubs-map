@@ -4833,6 +4833,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24894, 
+          53.35725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Brilliant Dubs mural means ya can spot this place from a mile away. Tunes from the flats were blasting and the place was hopping before the Dubs Kerry game. Fast bar service, brilliant weather. Had a good time here...", 
+        "name": "Bridge Tavern", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
