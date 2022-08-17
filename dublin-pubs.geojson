@@ -4848,6 +4848,51 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.424008, 
+          53.347411
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big roomy middle estate style pub. Things to like and dislike so could go either way. Was busy when we were there, was a cracking day so lots sitting outside for food. Plenty of staff on and the bar staff seemed decent but one of the lounge boys knicked me change... \ud83e\udd23. Not the usual style of bar I like but nothing seriously wrong with it tbh", 
+        "name": "Penny Hill", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.398057, 
+          53.344773
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Bit of a kip this tbh. Nothing wrong with the place just old and mostly unmaintained. Atmosphere iside was grand. Its big and roomy but stick some new fuckin padding in the couches", 
+        "name": "The Finches", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.39431, 
+          53.35283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I really wanted to exclude this place from the list in the hope that it was a restaraunt licence or something but I was too lazy to check. Fuckin wank stain of a place anyways. Avoid.", 
+        "name": "Hudson Shithole", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
