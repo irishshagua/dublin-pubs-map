@@ -4878,6 +4878,111 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24556, 
+          53.38105
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "The bar appears to be named after a plane which crashed while flying from Cork to London in the 60s. Was quiet when we were here but the decor was pretty cool. No complaints. Seems a good local.", 
+        "name": "The Viscount", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.22076, 
+          53.45935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "First bar that we did in Swords and tbh, we peaked early. Prob the best boozer in the town. Barman was very friendly, helped us plan the route for the rest of the pubs. Bar was a nice feel. Would defo return.", 
+        "name": "The Pound & The Attic", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.223, 
+          53.45678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Absolutely massive place. Completely devoid of any kind of atmosphere though. No charger behind the bar either... and there probably was a charger behind the bar. Also, why fuckin play CHristmas songs over the football commentary. Not a fan.", 
+        "name": "The Old Schoolhouse", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.22204, 
+          53.45643
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nearly didnt do this place as we thought it was a hotel but a quick scan of the revenue site confirmed they have a 7 day pub licence so it counts. Yes its a Widdershins but tbh it's better than the Schoolhouse place behind it. Also 20 quid for two dinners and two pints, can't fuckin argue with that. And the barman gave me a charger for the phone as well. No complaints", 
+        "name": "The Old Borough", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.22068, 
+          53.45622
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Got a bang of auld lad trying to pick up young wans from this place. Seems to be disco bar style. Not a massive fan but nice beers on tap at least.", 
+        "name": "Wrights Cafe Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.22016, 
+          53.45864
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Not a bad bar. Good staff, plenty of viewing angles for the TV but still places to hide away from the TV. Decent crowd in for a Tuesday. Would use the place again for a bit of food but very big so doesnt have that cozy bar feel.", 
+        "name": "The Arch Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.22057, 
+          53.4579
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "It's like a seven mile trek from the front bar down to the jacks. Maybe third best pub in the town. Nothing against it though. Except the fact they don't have salt & vinegar crips. WTF. Anyways, beer was nice.", 
+        "name": "The Cock Tavern", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
