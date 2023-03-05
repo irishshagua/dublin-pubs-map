@@ -4983,6 +4983,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.32294, 
+          53.36583
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Popped in for a quick pint in the Presidents snug after bursting James' nose open with an over-zealous challenge in the Phoenix Park. Crisps and coke solve all woes though. Great bit of history in the place. Would have loved to stay for another few.", 
+        "name": "Hole In The Wall", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
