@@ -4998,6 +4998,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.23567, 
+          53.36325
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Same as all the Galway Bay pubs, there's a great selection of beers but the prices are definitely steep. Nice feel to the place though, not too hipster. Nice old library in one of the corners. Fairview park across the road is great for a play as well so the pub works well after you've built up a thirst.", 
+        "name": "Bru House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.23651, 
+          53.363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Great little snug at the front of the bar. Nice classic feel to the place. Liked this place, would defo be back. Close enough to let the kids play in the park as well... :D", 
+        "name": "Gaffneys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
