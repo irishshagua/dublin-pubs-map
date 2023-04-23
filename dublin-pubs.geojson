@@ -5028,6 +5028,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.33298, 
+          53.3165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Exciting enough visit with Spurs going 5 nil down to Newcastle inside 20 mins. But the free pastries perked Kev back up a bit. Nice pub. Plenty of space and a good local feel. ", 
+        "name": "Cherrytree", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.33226, 
+          53.3174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Very large and was full of people getting their carvery on while we were there. Wouldnt be a massive fan. Nearly too large to feel like a proper pub but no major complaints against it.", 
+        "name": "Kestrel", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
