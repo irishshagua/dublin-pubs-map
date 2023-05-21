@@ -5058,6 +5058,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.3546, 
+          53.27534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "We were doing a couple pubs and I was driving so switched onto a zero after a bottle. Barman looked absolutely disgusted with me. TBH that's prob a plus point for the place. Nice local feel. Nothing against it", 
+        "name": "The Old Mill", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.35844, 
+          53.2779
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice roomy bar. Plenty of room in the place and a good smattering of TVs. Kev was mucho impressed with the lemony scent in the jacks. He's an odd fuck though.", 
+        "name": "Ahernes", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
