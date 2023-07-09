@@ -5088,6 +5088,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25697, 
+          53.35978
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Savage location for the bar, tucked away in a tiny little housing estate just around the corner from Croker. Got in for a quick pint before the Kilkenny v Clare semi final. Friendly staff, bit of banter, great location.... 3 thumbs up.", 
+        "name": "The Hideout", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25594, 
+          53.35839
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Gets a decent crowd in on a match day. Does be absolutely wedged. Staff still churn out the pints though. Always a joy to watch quality bar staff in action", 
+        "name": "Ryans Hogan Stand", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
