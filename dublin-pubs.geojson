@@ -5118,6 +5118,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.21144, 
+          53.29647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Brought Emma and Jenny here for some grub after a camogie blitz in UCD. Fuck me the place was expensive. Nothing wrong with apart. The food was nice, the staff were nice, the beer was fine.... Just the prices in pubs now if feckin mental", 
+        "name": "Kennedys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.20469, 
+          53.28834
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Was a flying visit. Hard to rate. Fuckin expensive. But sure every fuckin place seems to be expensive now. Plenty of staff. Quick service. No real complaints. Just.... expensive", 
+        "name": "The Millhouse", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
