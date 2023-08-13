@@ -5148,6 +5148,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.47703, 
+          53.28115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Lots of old antique stuff and a well run bar. Gets a good crowd in and they have people managing parking etc. Prob an interesting spot to show off to people. Can't imagine that it'd ever feel like a regular to me.", 
+        "name": "An Poitin Stil", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
