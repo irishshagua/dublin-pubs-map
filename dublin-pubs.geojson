@@ -5163,6 +5163,51 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25885, 
+          53.34667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Decent tunes in the place. Good selection of beers. Bit expensive but ya can't really get more central with the location. Not really a bar feel. More disco bar / lounge type deal but nothing wrong with the place I suppose. Barman had very shakey hands.", 
+        "name": "Pillar Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25885, 
+          53.34637
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Real Berlin style grunge bar look. Meanies and burger buns crisps. Not fuckin bad. Barman had hair like the dude from Static-X as well. Cool bar. Daycent beers.", 
+        "name": "Cassidys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25841, 
+          53.35033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Tiny little bar. \\real mix of locals and blow ins. Lovely slurpy Guinness. I likes it", 
+        "name": "The Confession Box", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
