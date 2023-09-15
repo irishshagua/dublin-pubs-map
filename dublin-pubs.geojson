@@ -5201,8 +5201,113 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "review": "Tiny little bar. \\real mix of locals and blow ins. Lovely slurpy Guinness. I likes it", 
+        "review": "Tiny little bar. real mix of locals and blow ins. Lovely slurpy Guinness. I likes it", 
         "name": "The Confession Box", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.261, 
+          53.34126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Able to spy on the fancy lookin cars parking up in the Westbury. Pub is grand, the trek to jacks can be lethal if you've had a few. Honest clientelle though, left me laptop here after a drink and only realised two pubs later and it was still there. Bonus points for that", 
+        "name": "McDaids", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26123, 
+          53.34076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "All the barmen are wearing fancy dicky bos. And Kev spotted Bo Martin at the bar. Who's Bo Martin you ask? Shane Lowrys ex caddy. Why ex? Fuck knows, apparently Lowry is a bit of a prick with the caddies. Sure what do I know. Pub is grand anyways. Did I mention they wear dicky bos?", 
+        "name": "Nearys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2618, 
+          53.34096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "They've a wall of whiskey bottles locked behind little doors. Reminded me of that second wizard of oz film where yer one had a lot of heads locked in little cabinets. Anyways pub was fine. Upstairs is more restauranty but no complaints.", 
+        "name": "Sheehans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26565, 
+          53.33964
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Has a statue of some Rugger Bugger in the corner. Bar was grand. Nice old wooden bar. No complaints but nothing standoutish", 
+        "name": "Swan Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26594, 
+          53.33751
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Had a few tunes going and the bar sang happy birthday to some lad and he was scarlet. Also took me way longer than it should have to find the jacks. No complaints though, nice bar.", 
+        "name": "The Landmark", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26566, 
+          53.33657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Went to see a Pat McManus gig here... but there was no Pat McManus... Where the fuck was Pat McManus????", 
+        "name": "Whelans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2657, 
+          53.33638
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Fuck me I'm old...", 
+        "name": "Ryans", 
         "marker-symbol": "beer"
       }
     }, 

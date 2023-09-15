@@ -344,4 +344,11 @@
 53.281150	-6.477030	An Poitin Stil	Lots of old antique stuff and a well run bar. Gets a good crowd in and they have people managing parking etc. Prob an interesting spot to show off to people. Can't imagine that it'd ever feel like a regular to me.
 53.346670	-6.258850	Pillar Bar	Decent tunes in the place. Good selection of beers. Bit expensive but ya can't really get more central with the location. Not really a bar feel. More disco bar / lounge type deal but nothing wrong with the place I suppose. Barman had very shakey hands.
 53.346370	-6.258850	Cassidys	Real Berlin style grunge bar look. Meanies and burger buns crisps. Not fuckin bad. Barman had hair like the dude from Static-X as well. Cool bar. Daycent beers.
-53.350330	-6.258410	The Confession Box	Tiny little bar. \real mix of locals and blow ins. Lovely slurpy Guinness. I likes it
+53.350330	-6.258410	The Confession Box	Tiny little bar. real mix of locals and blow ins. Lovely slurpy Guinness. I likes it
+53.341260	-6.261000	McDaids	Able to spy on the fancy lookin cars parking up in the Westbury. Pub is grand, the trek to jacks can be lethal if you've had a few. Honest clientelle though, left me laptop here after a drink and only realised two pubs later and it was still there. Bonus points for that
+53.340760	-6.261230	Nearys	All the barmen are wearing fancy dicky bos. And Kev spotted Bo Martin at the bar. Who's Bo Martin you ask? Shane Lowrys ex caddy. Why ex? Fuck knows, apparently Lowry is a bit of a prick with the caddies. Sure what do I know. Pub is grand anyways. Did I mention they wear dicky bos?
+53.340960	-6.261800	Sheehans	They've a wall of whiskey bottles locked behind little doors. Reminded me of that second wizard of oz film where yer one had a lot of heads locked in little cabinets. Anyways pub was fine. Upstairs is more restauranty but no complaints.
+53.339640	-6.265650	Swan Bar	Has a statue of some Rugger Bugger in the corner. Bar was grand. Nice old wooden bar. No complaints but nothing standoutish
+53.337510	-6.265940	The Landmark	Had a few tunes going and the bar sang happy birthday to some lad and he was scarlet. Also took me way longer than it should have to find the jacks. No complaints though, nice bar.
+53.336570	-6.265660	Whelans	Went to see a Pat McManus gig here... but there was no Pat McManus... Where the fuck was Pat McManus????
+53.336380	-6.265700	Ryans	Fuck me I'm old...
