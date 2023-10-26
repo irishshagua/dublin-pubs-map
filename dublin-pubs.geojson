@@ -5328,6 +5328,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27234, 
+          53.33891
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Hipstery type place. Decent selection of beers but doesn't have that homely pub feel to the place", 
+        "name": "The Fourth Corner", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2734, 
+          53.33898
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I like it. Good classic bar feel. Was busy enough. Ling used to live in the area and its near the best named Guitar shop ever. What's not to like", 
+        "name": "Fallons (The Capstan)", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27524, 
+          53.33724
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "A bit meh. Felt like a hotel lobby. It did have a cool old map of DUblin on the wall. I liked that. Also the barman ran out after me when I fogot me cap so nice peoples. Just the atmosphere was a bit meh. They seemed to have take home dinners though which was kinda novel", 
+        "name": "Tenters", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27483, 
+          53.34155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice local pub feel to the place. I don't really remember it well tbh. Guinness was taking it's toll at this stage", 
+        "name": "The Liberty Belle", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27861, 
+          53.34154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "More of a restaurant feel than a bar. But sure fuck it, its done now", 
+        "name": "Luckys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
