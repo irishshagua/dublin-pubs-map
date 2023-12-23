@@ -5403,6 +5403,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.12315, 
+          53.287
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nothing particularly against the place. It's an expensive part of Dublin, so was prepared for the prices. Its big and roomy. It just doesn't have a pub vibe tbh. More restauranty. No complaints though. Had a pint. The darts were on. Grand place.", 
+        "name": "The Greedy Eagle", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.11864, 
+          53.286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "If I ever win the lotto and move to this part of Dublin, this would prob be me local. I liked it. Decent selection of pints on tap. Good bar feel. Also, the jacks handle are made out of old pennies which was pretty cool. Not a bad pub.", 
+        "name": "Fitzgeralds", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.13008, 
+          53.28978
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "What an absolute waste of space. Staff were shite, couldn't pull a pint to save their lives and absolutely reeked of lack of interest. Decor was crap. Clientelle was boring. Just a really shit pub. Only reason we stayed in the kip so long was because it took so long to get served. It wasn't even fuckin busy. Useless kip.", 
+        "name": "Walters", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.14164, 
+          53.29478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "It's a weird fuckin layout. They've stupid fuckin low tables in the middle of the walkways. Big sofa style chairs. Only one person in the jacks at a time. Just weird. Prob be a decent boozer with a better interior design. But meh.... Seems to be one for the hipsters", 
+        "name": "Buck Mulligans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.14807, 
+          53.2952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "They had a staff to customer ratio of about 27 to 1 and there was like 20 customers in. But apart from that, it was fine. Introduced Kev to yellow spot. No complaints though. Grand pub.", 
+        "name": "The Purty Kitchen", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
