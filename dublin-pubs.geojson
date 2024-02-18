@@ -5478,6 +5478,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24915, 
+          53.27643
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Lovely ornate interior. A library wall is actually a great idea and something I'd love to see more of. It's an expensive area, so ya pay for it but definitely one of the more impressive look & feels to a pub", 
+        "name": "The Coach House Pub", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25447, 
+          53.27473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big modern gastro pub feel for it. No great enjoyment off the interior and not exactly cheap. Nothing particularly against the place but most likely will never frequent it.", 
+        "name": "Ballinteer House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
