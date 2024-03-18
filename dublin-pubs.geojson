@@ -5508,6 +5508,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.38394, 
+          53.56659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Lovely rustic local. Raging fire in the corner. Quiet day time drink. Only a few lads and the racing. If I was living in the middle of fuckin no-where, this is the type of pub I'd want as me local.", 
+        "name": "Gormleys Pub", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.33253, 
+          53.43313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Was there with the kids so was in the lounge for food. Lovely grub. Busy place, does a good trade. There's a pnp course beside it which me Da loves and it's right in the path for Dublin airport so nice for any airplane spotters.", 
+        "name": "The Brock Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
