@@ -5538,6 +5538,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.28168, 
+          53.35037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Great pub. Was heaving on a Saturday evening. Has a cool little front bar as well. Also.... Spicy Nuts... Fuck Yeah", 
+        "name": "Walshs", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.28205, 
+          53.35038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Slightly weird American cocktail bar feel to the place but it's not too bad. Decent 70s playlist on and the Guinness was fine. Was starting to grow on Kev by the end", 
+        "name": "The Belfry", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.28202, 
+          53.35083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "One of the few pubs in Dublin that's cash only. I guess it's a hipster thing. There wasn't a fuckin inch of wall space that didnt have some poster or milk float or suitcase. Just seemed to be random. Not sure what effect they were going for. Also.... The Guinness was shite. Watery. Just badly pured tbh. There was a good crowd in though", 
+        "name": "The Glimmer Man", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.28227, 
+          53.351
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Hipster bar. Big fuckin beard on the Cark barman, Locally produced ales, People sitting at the bar playing D&D... Nothing wrong with the place but quite pricey and not my scene", 
+        "name": "Mulligans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.28236, 
+          53.35107
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Had everything going for it.... Except the fuckin Boez jersey on the wall. Nice bar. Meant to be a good trad sesh in the place as well but there was no music when we were there. ", 
+        "name": "Tommy O'Garas", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
