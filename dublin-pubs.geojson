@@ -5643,6 +5643,96 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.05806, 
+          53.37258
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "More restaurant than pub. Yet they don't do breakfasts. Why not do breakfasts. All the constituent parts were in the menu just allow them to be added to a plate. Inside looks kinda nice and the chowder was good but not the place you'd go for a sesh", 
+        "name": "The Summit Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.06532, 
+          53.38465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Yeah nice proper boozer feel to the place. Was prob the best pub that we visited on the day in Howth. Pool table, good barman... Would prob be me local if I lived there", 
+        "name": "McNeills", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.06404, 
+          53.38823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Fuckin useless American tourist focussed wank stain of a place. Every table has a reserved sign on it by default. Just not a welcoming pub feel. Didn't like it", 
+        "name": "O'Connells", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.07243, 
+          53.3886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Meh. Another fuckin tourist experiment more than a pub. Shit staff. Shit drinks. Shit atmosphere. Just avoid if yer looking for a drink", 
+        "name": "Findlater", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.07422, 
+          53.38897
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "What can ya say about the best pub in the world ever (well.. in Fingla in 2015)... It's not actually that bad. The owner seemed drunk and his idiot roided up son seemed a little retarded but it had a nice open fire. And the drinks were grand. Borderline pub/restaurant vibes again but not as bad as O'Connels or Findlater. Enjoyed the pint so no mad complaints.", 
+        "name": "The Bloody Stream", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.14121, 
+          53.38893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ah this place is a little gem. Good access to TVs. Good barman. Good pints. Even a fuckin buffalo skull on the wall. WTF. Would defo drink here if I lived in the area.", 
+        "name": "The Bayside Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
