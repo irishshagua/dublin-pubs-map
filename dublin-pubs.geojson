@@ -5733,6 +5733,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.3707, 
+          53.35635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Massive pub. Loads of room. We were there early for a bit of lunch with the kids and was eerily empty but I'd say it's good when there's a crowd in.", 
+        "name": "Palmerstown House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.37728, 
+          53.35
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Looks a bit run down from teh front and was dead when we were there except for two eegits arguing about riding each others sisters. Looks big though. I'd say it's better with a crwd in.", 
+        "name": "The Silver Granite", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
