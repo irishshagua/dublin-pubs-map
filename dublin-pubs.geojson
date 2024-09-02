@@ -5763,6 +5763,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.32144, 
+          53.34167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Great price for a pint. One of the cheapest in Dublin. Savage little Mexican place (that's defo more expensive though) next door and ya can eat it in the pub. Great option for a pint and a taco before a Pats game.", 
+        "name": "Clearys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
