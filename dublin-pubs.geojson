@@ -5778,6 +5778,96 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.15445, 
+          53.45071
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Large and modern. Bar staff were a bit shit. But was a bit of craic watching the Milton hurricane buildup on the TV. Most likely wouldn't bother with the palce if it was me local", 
+        "name": "Duffys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.15388, 
+          53.45112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Best bar in Malahide. Savage little snug in the place. Also, Kev didnt know who was the 2008 Gold Cup winner.... And he says he likes horses... <eye-roll>", 
+        "name": "Duffys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.1352, 
+          53.45169
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Meh... Not great tbh. Looks more like a nightclub. Also, the weird shape of the wall suggests that maybe some people have been killed and hidden in the walls there", 
+        "name": "Gilbert & Wright", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.13792, 
+          53.42054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Only bar in Portmarnock I think. It was grand. A goo spot for plane watching actually. Also, they had YunYun rings at the bar!", 
+        "name": "O'Dwyers", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.1271, 
+          53.39799
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Savage bar. Lovely range going in the corner. Nice friendly fella handing out beer mats. Would defo drink here again", 
+        "name": "The White House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.1375, 
+          53.39666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nothing wrong with the bar. Seemed a few in, was a good buzz in the place but the building is one of them altogether type shop things and looks a bit shit.", 
+        "name": "Racecourse Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
