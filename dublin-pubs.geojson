@@ -530,8 +530,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.26398, 
-          53.34428
+          -6.26396, 
+          53.34408
         ]
       }, 
       "type": "Feature", 
@@ -605,8 +605,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.26539, 
-          53.34373
+          -6.26634, 
+          53.3443
         ]
       }, 
       "type": "Feature", 
@@ -845,8 +845,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.26304, 
-          53.34449
+          -6.26344, 
+          53.34442
         ]
       }, 
       "type": "Feature", 
@@ -1370,8 +1370,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.26382, 
-          53.34395
+          -6.26367, 
+          53.34383
         ]
       }, 
       "type": "Feature", 
@@ -5726,7 +5726,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "review": "Ah this place is a little gem. Good access to TVs. Good barman. Good pints. Even a fuckin buffalo skull on the wall. WTF. Would defo drink here if I lived in the area.", 
+        "review": "Ah this place is a little gem. Good access to TVs. Good b6356arman. Good pints. Even a fuckin buffalo skull on the wall. WTF. Would defo drink here if I lived in the area.", 
         "name": "The Bayside Inn", 
         "marker-symbol": "beer"
       }
@@ -5863,6 +5863,126 @@
       "properties": {
         "review": "Nothing wrong with the bar. Seemed a few in, was a good buzz in the place but the building is one of them altogether type shop things and looks a bit shit.", 
         "name": "Racecourse Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26356, 
+          53.34372
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Kudos for being the cheapest pint of Guinness in Dublin Monday to Friday between 1 and 4. Head on the Guinness was a bit manky tbh but we'll cut them some slack as it was prob the first pour of the day. Pint and a sangidg for 10 euro. Not bad", 
+        "name": "Disndat", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26601, 
+          53.34147
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "A real local boozer. Good characters in the place. Dont mind the lad that was doing his methdaone beside us", 
+        "name": "The Snug", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27287, 
+          53.33635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Grand auld local. A few lads propping up the bar. Bit of birthday cake doing the rounds. Would have no problem drinking here", 
+        "name": "Kavanghs", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27347, 
+          53.33626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ooh Ah Up the Ra say Ooh Ah Up the Ra... Also, they sell vintage jerseys in the hall", 
+        "name": "Peader Browns", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27858, 
+          53.32372
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Lovely big spacious place. Nice fire going. Just fuckin dead. Pricey as well.", 
+        "name": "Peggy Kellys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.28009, 
+          53.32333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Is it a Chinese, is it a pub, is it a Golf memorial.... Who knows... Who cares.... Was grand", 
+        "name": "McGowans", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.27947, 
+          53.32164
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nothing wrong with it. Bit of sport on the telly. Pizza available if so inclined. Pints flowing. Nothing remarkable but nothing bad", 
+        "name": "Lysters", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2922, 
+          53.32068
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Officially pub number 400... So it'll always have that. ", 
+        "name": "The Stone Boat", 
         "marker-symbol": "beer"
       }
     }, 

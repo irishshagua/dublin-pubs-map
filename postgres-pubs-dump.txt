@@ -33,12 +33,12 @@
 53.33389	-6.26494	The Bleedin' Horse	Not Bad. Gets a big office crowd
 53.34049	-6.26123	Sinnots Bar	Downstairs Pub. Good for matches
 53.34449	-6.26304	Citi Bar	COCKtail bar, wont be returning
-53.34428	-6.26398	Mercantile	Weird. Looks like an old Palace or something. Well. A palace that sells beer
+53.34408	-6.26396	Mercantile	Weird. Looks like an old Palace or something. Well. A palace that sells beer
 53.35268	-6.26135	Murrays	Right in the heart. Good for football
 53.34133	-6.26357	The Hairy Lemon	Decent Pub. Good Area.
 53.34116	-6.26357	Peters Pub	Cant remember. Possibly drunk
 53.34594	-6.25949	Buskers Bar	Popular Dubs hangout
-53.34373	-6.26539	Brogans	Tis a pub
+53.34430	-6.26634	Brogans	Tis a pub
 53.34180	-6.26031	Bruxelles	Check out the Phillo tribute
 53.34575	-6.25486	McTurtles	Too big. No atmosphere
 53.34758	-6.34598	The Bridge Inn	Good for a pint while waiting for the bus after a Pats match
@@ -54,7 +54,7 @@
 53.35028	-6.26713	Woolshed	Aussie Bar. Good seelction of beers. Great for sport
 53.34217	-6.25076	Kennedys	Cunt Pub. Refused Kev for being a scummer. Shall never return
 53.36716	-6.25568	Kennedys	Pre Croker/Shells matches
-53.34449	-6.26304	The Foggy Dew	Kev doesnt like. I do. Contentious
+53.34442	-6.26344	The Foggy Dew	Kev doesnt like. I do. Contentious
 53.29352	-6.13341	Gastro Pub	More Restaurant than pub. But we were desperate for a pint...
 53.33978	-6.31906	Tommy Croughs	New Pub in Inchicore. A bit too nice looking
 53.33739	-6.23204	Murrays	Maybe only opens for matches
@@ -89,7 +89,7 @@
 53.35679	-6.27394	McGowans	Nurses Hangout. Frequent before Boez Scum matches
 53.34384	-6.26275	Dame Tavern	Tiny place. Drink on the streets when its busy
 53.33516	-6.26355	Diceys Garden	Right beside Coppers... Not really a pub
-53.34395	-6.26382	The Stags Head	Decent pub. Old style feel and a newer downstairs
+53.34383	-6.26367	The Stags Head	Decent pub. Old style feel and a newer downstairs
 53.34435	-6.26490	Peader Kearneys	Really nice pub. Always good for a bit of music
 53.34436	-6.26718	Thomas Read	Cant remember it. Damn gargle dimmed brain
 53.34651	-6.26763	Nealons	Decent Pub. Classic feel to it
@@ -379,7 +379,7 @@
 53.388230	-6.064040	O'Connells	Fuckin useless American tourist focussed wank stain of a place. Every table has a reserved sign on it by default. Just not a welcoming pub feel. Didn't like it
 53.388600	-6.072430	Findlater	Meh. Another fuckin tourist experiment more than a pub. Shit staff. Shit drinks. Shit atmosphere. Just avoid if yer looking for a drink
 53.388970	-6.074220	The Bloody Stream	What can ya say about the best pub in the world ever (well.. in Fingla in 2015)... It's not actually that bad. The owner seemed drunk and his idiot roided up son seemed a little retarded but it had a nice open fire. And the drinks were grand. Borderline pub/restaurant vibes again but not as bad as O'Connels or Findlater. Enjoyed the pint so no mad complaints.
-53.388930	-6.141210	The Bayside Inn	Ah this place is a little gem. Good access to TVs. Good barman. Good pints. Even a fuckin buffalo skull on the wall. WTF. Would defo drink here if I lived in the area.
+53.388930	-6.141210	The Bayside Inn	Ah this place is a little gem. Good access to TVs. Good b6356arman. Good pints. Even a fuckin buffalo skull on the wall. WTF. Would defo drink here if I lived in the area.
 53.356350	-6.370700	Palmerstown House	Massive pub. Loads of room. We were there early for a bit of lunch with the kids and was eerily empty but I'd say it's good when there's a crowd in.
 53.350000	-6.377280	The Silver Granite	Looks a bit run down from teh front and was dead when we were there except for two eegits arguing about riding each others sisters. Looks big though. I'd say it's better with a crwd in.
 53.341670	-6.321440	Clearys	Great price for a pint. One of the cheapest in Dublin. Savage little Mexican place (that's defo more expensive though) next door and ya can eat it in the pub. Great option for a pint and a taco before a Pats game.
@@ -389,3 +389,11 @@
 53.420540	-6.137920	O'Dwyers	Only bar in Portmarnock I think. It was grand. A goo spot for plane watching actually. Also, they had YunYun rings at the bar!
 53.397990	-6.127100	The White House	Savage bar. Lovely range going in the corner. Nice friendly fella handing out beer mats. Would defo drink here again
 53.396660	-6.137500	Racecourse Inn	Nothing wrong with the bar. Seemed a few in, was a good buzz in the place but the building is one of them altogether type shop things and looks a bit shit.
+53.34372	-6.26356	Disndat	Kudos for being the cheapest pint of Guinness in Dublin Monday to Friday between 1 and 4. Head on the Guinness was a bit manky tbh but we'll cut them some slack as it was prob the first pour of the day. Pint and a sangidg for 10 euro. Not bad
+53.34147	-6.26601	The Snug	A real local boozer. Good characters in the place. Dont mind the lad that was doing his methdaone beside us
+53.33635	-6.27287	Kavanghs	Grand auld local. A few lads propping up the bar. Bit of birthday cake doing the rounds. Would have no problem drinking here
+53.33626	-6.27347	Peader Browns	Ooh Ah Up the Ra say Ooh Ah Up the Ra... Also, they sell vintage jerseys in the hall
+53.32372	-6.27858	Peggy Kellys	Lovely big spacious place. Nice fire going. Just fuckin dead. Pricey as well.
+53.32333	-6.28009	McGowans	Is it a Chinese, is it a pub, is it a Golf memorial.... Who knows... Who cares.... Was grand
+53.32164	-6.27947	Lysters	Nothing wrong with it. Bit of sport on the telly. Pizza available if so inclined. Pints flowing. Nothing remarkable but nothing bad
+53.32068	-6.29220	The Stone Boat	Officially pub number 400... So it'll always have that. 
