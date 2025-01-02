@@ -5988,6 +5988,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.12308, 
+          53.25252
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I always maintain that the barman makes the pub and the Igo is the eiptomy of that. Fine roomy pub, nothing particularly special but the barman was bang on. Popped in for a couple of scoops and bit of food with the kids after climbing Kiliney Hill. Barman was bang on. Guinness was lovely. Would def return if it wasnt a million miles away from me.", 
+        "name": "The Igo Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
