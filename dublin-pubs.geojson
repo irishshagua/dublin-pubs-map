@@ -6003,6 +6003,36 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.21511, 
+          53.36167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Expensive gastro pub with kids working instead of barmen. Really not a great experience for a pint. Expensive too. Shan't be back daaarling", 
+        "name": "The Yacht", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.19575, 
+          53.35913
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Pretty expensive but maybe understandable for the area. Seems an alright bar. There was a funeral starting when we were there so maybe not the best time to rate but wouldnt have a problem drinking here again..... if the drink was bought for me.....", 
+        "name": "Connollys The Sheds", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
