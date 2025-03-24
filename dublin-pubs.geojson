@@ -6033,6 +6033,81 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26951, 
+          53.34597
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Dark and trendy vibe to the place. There was a chess club in having a games night when we were there. I think I'd like the place but it's fuckin expensive. 16:60 for two pints is mad.", 
+        "name": "Sin \u00e9", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26991, 
+          53.34394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Very much targeted at Americans. Not that it's bad though. Good sport on. Nice session going in the corner. Looked to have some savage food. But it's priced to match all that. Apparently there are local prices but it wasn't offered to me no matter how much I bemoaned the Dubs losing to Tyrone", 
+        "name": "Darkie Kellys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26714, 
+          53.34532
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Massive place. Lots of game options (pool, digital darts) and even a wow burger in the place. TBH, it doesn't feel like a pub. More an event space. Another one that's quite pricey.", 
+        "name": "The Giddy Dolphin", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26623, 
+          53.34518
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Ughhh. This is just everything that's wrong with pubs in Dublin atm. Stupid faux interior made to look like an old hardware store. Staff that don't give a fuck. ZERO atmospohere. And expensive drinks. Just..... Shite.....", 
+        "name": "Annes Bar & Hardware", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.26506, 
+          53.34547
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I need to compose meself here. Yes, yer in Temple Bar and the rent is prob high. Yes, you've stuck on some shit guitarist during the day. Yes, you have more fuckin bar stafff than rats in New York. But No. Just fuckin NO WAY can you justify charging twenty one fuckin euro for two pints. I was just lost for words. Fuckin insanity", 
+        "name": "Fitzsimons", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
