@@ -6153,6 +6153,126 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.37142, 
+          53.33165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big gastro pub in the middle of an industrial estate so never gonna have that homely pub feel. Nothing wrong with the place though. Lots of staff on. Quick service. Bar man seemed a friendly fella", 
+        "name": "The Park West Tavern", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.35884, 
+          53.34242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big roomy pub. Loads of music stuff on the walls which was kinda cool but the most impressive thing by far was that they had NOBBYS NUTS. Fuck yeah.", 
+        "name": "O'Sheas The 79 Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.35711, 
+          53.34235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Bit of a bomb shelter this one. Apparently me Das favourite pub in Ballyer though. Was v quiet when there but nothing wrong with the place.", 
+        "name": "Downeys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.35645, 
+          53.34269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "An upstairs pub. Now that's a novelty. Massive bar to be fair. I'd say it used to be downstairs as well but there's a Chinese in there now", 
+        "name": "The Manhattan", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.35676, 
+          53.34168
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Reminded me of The Roost in Maynooth with the shape of the bar. Kev was dazzling the lad sitting next to him with his galactical knowledge of Womens Tennis. Fucker just wouldn't take a hint...", 
+        "name": "Tim Younges", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.35361, 
+          53.34246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Another upstairs pub in Ballyer. Comfy place, nothing wrong with it but nothing particularly special either", 
+        "name": "Chasers", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.34441, 
+          53.34969
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Lovely small homely feel to this bar. Althoguh the barman seemed to be a coke fiend. And they had the ginger beer and bitters for Kev so three thumbs up", 
+        "name": "The Villager", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.34243, 
+          53.34834
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Who's round is it? Kevs? Throw on a bowl of wings onto the round. Gettin hungy now. Really wanted to get into the rampart thingy but didnt know how. Brain wasn't functioning. Also, it's a bitch of a walk down to Heuston from there. Who's stupid idea was that.", 
+        "name": "The Mullingar House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
