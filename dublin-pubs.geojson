@@ -6273,6 +6273,21 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.31496, 
+          53.52498
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Very remote so can't see meself being back but it's a lovely pub. Roaring fire in the corner, lots of sport memorabilia on the walls. A mug collection overhanging the bar and a barman who will serve you when the race is done.... so wait yer turn.... Oh and the stained glass GAA windows are cool. Would defo be a regular if I was local.", 
+        "name": "Oldtown House", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
