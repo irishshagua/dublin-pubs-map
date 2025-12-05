@@ -6288,6 +6288,186 @@
     }, 
     {
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.18526, 
+          56.61103
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Great little boozer. Lots of racing TVs setup. Bit of a crowd in even at 12 in the day. Talking about Might Mouse but fuck it at least there were people. Big roomy pub.", 
+        "name": "The Milestone", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.18361, 
+          56.60965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "I can't remember the last pub that had a snooker table in it, never mind two. Massive place. Was very quiet when we were there though.", 
+        "name": "Mrs O's", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.18327, 
+          53.60843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice comfy little bar. Friendly staff and patrons. No complaints about this place. A lad at the bar was pissed already at 1 o'clock.", 
+        "name": "Dempseys", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.20683, 
+          53.61363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Fuckin miles away from the town. Tis the typical centre of a housing estate type bar. Loads of room, doesnt really feel like a bar from the outside but nothing wrong with the place. Except the location.", 
+        "name": "Hamlet Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.18554, 
+          53.61094
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "We fucked up here. Went into the lounge by mistake. Looked like a plush fancy yoke. All cushions and shit. Should've went into the bar. But... There was a drunk lad who stores his wine behind the bar.... at elast there was him...", 
+        "name": "The Harvest", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10483, 
+          53.5848
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Beautiful location. Barman was sound as well. Had a good yap. Nothing special inside but felt like a bar so we were happy enough.", 
+        "name": "Joe Mays", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10495, 
+          53.58499
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Tis basically a restaurant but it has a bar licence so it had to be done. More staff than customers when we were there and while I don't think I'll be backl, there was nothing really wrong with the place. Just no bar feels.", 
+        "name": "Blue Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.1047, 
+          53.58436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Another restaurant but had a bar licence. Meh is the best I can say...", 
+        "name": "Stoop Your Head", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10722, 
+          53.58043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Big tall American lad behind the bar. Always seems a little awkward. A few in, not a bad atmosphere. Barman served one pint through the front door for some fuckin reason.", 
+        "name": "The Bus Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10829, 
+          53.58078
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Kevs favourite pub of the crawl. Bunch of retards sitting at the bar and cash only... What's not to like.", 
+        "name": "The Gladstone Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10857, 
+          53.5793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Cosy little snug in front of a fire. Felt a little snobbish but was grand", 
+        "name": "Nealons Bar", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.10865, 
+          53.57894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "review": "Nice layout to the place. Circular bar type thing. The fat bald lad (no not me) was nearly fighting with a bunch of yung lads. Think he was protecting a yung wans honour or something. But all was good in the end.", 
+        "name": "The COast Skerries Inn", 
+        "marker-symbol": "beer"
+      }
+    }, 
+    {
+      "geometry": {
         "type": "Polygon", 
         "coordinates": [
           [
