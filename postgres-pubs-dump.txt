@@ -430,3 +430,6 @@
 53.57930	-6.10857	Nealons Bar	Cosy little snug in front of a fire. Felt a little snobbish but was grand
 53.57894	-6.10865	The Coast Skerries Inn	Nice layout to the place. Circular bar type thing. The fat bald lad (no not me) was nearly fighting with a bunch of yung lads. Think he was protecting a yung wans honour or something. But all was good in the end.
 53.32863	-6.39650	The Waterside	Massive place. Even the bar has tns of space but still retains that local feel. If yer going for a walk along the canal it's a great stopping off point and the Pattaya restaurant beside it has some savage food for the soakage.
+53.29412	-6.15345	Franks Bar	Basically just a waiting room for FX Buckleys restaurant. Nothing wrong with the place, very well maintained etc but no local vibes
+53.30192	-6.17803	The Wicked Wolf	Barman was nice and frindly and seemed a decent atmosphere inside. Was quite expensive for a round comapred to other local places.
+53.30101	-6.17728	Kelly & Coopers	Borderline restaurant but was drinking room at the bar. Had a nice enough garden out the back but nothing particularly run-backableto about the place.

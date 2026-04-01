@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 
 import csv
 import json
@@ -7,7 +6,7 @@ import json
 with open("dublinBoundary.geojson") as dublinPolygonJsonFile:
 	dublinPolygon = json.load(dublinPolygonJsonFile)
 
-	with open("postgres-pubs-dump.txt") as file: 
+	with open("postgres-pubs-dump.txt", newline='') as file: 
 	    reader = csv.reader(file, delimiter='\t')
 
 	    data = {}
@@ -23,9 +22,9 @@ with open("dublinBoundary.geojson") as dublinPolygonJsonFile:
 	    	feature['geometry'] = geometry
 	    	
 	    	properties = {}
-	        properties['marker-symbol'] = 'beer'
+	    	properties['marker-symbol'] = 'beer'
 	    	properties['name'] = row[2]
-	        properties['review'] = row[3]
+	    	properties['review'] = row[3]
 	    	feature['properties'] = properties
 
 	    	features.append(feature)
