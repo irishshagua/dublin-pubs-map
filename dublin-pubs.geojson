@@ -6693,6 +6693,51 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.374456,
+          53.385907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "name": "The Black Wolf",
+        "review": "Big roomy pub in the centre of Blanch village. Lovely ice cream options on the menu but the cow skin seat coverings were a bit much. Also, the snug was weirdly positioned. I'd say it does a good trade though."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.371733,
+          53.384784
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "name": "The Bell",
+        "review": "Another large pub. Was a decent crowd in for a Monday. Seems to go a good family dinner trade. Prices were fuckin steep but sure everywhere is now."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.377727,
+          53.38676
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "name": "The Greyhound",
+        "review": "Prob the best bar feel in the village. Nice Monday crowd in watching the races. Had Mam with us on the absolute tear... three bottles for her is a tear... Has a cocktail bar in the Lounge so maybe gets a good crowd in the evenings."
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "stroke": "#0016c2",
         "stroke-width": 1,
