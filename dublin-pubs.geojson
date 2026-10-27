@@ -6738,6 +6738,21 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.184251,
+          53.561893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "name": "Man O'War",
+        "review": "Absolutely loved this place. The decor is great, the bar is lovely, the price of the pint is right and they even let doggo sit with us while we grabbed a bit of lunch. Food prices are on the steep side but well backed up by the quality. Only dissapointing this is the remoteness, I may never get a chance to return."
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "stroke": "#0016c2",
         "stroke-width": 1,
