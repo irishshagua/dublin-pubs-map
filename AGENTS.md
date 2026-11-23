@@ -6,6 +6,7 @@ This project tracks pubs visited in Dublin and publishes a map. Most changes add
 
 - `postgres-pubs-dump.txt` is the source of truth. It is a headerless, tab-separated file with four fields: latitude, longitude, pub name and review.
 - Preserve reviews as supplied, including subjective comments and profanity. Do not rewrite them unless asked.
+- Before regenerating, run `python3 validate_pubs.py` from the repository root. Fix validation errors and review shared-coordinate warnings; shared coordinates are not necessarily mistakes.
 - After changing the pub data, run `python3 convertToGeoJson.py` from the repository root and include the regenerated `dublin-pubs.geojson` in the change. The script uses only the Python standard library.
 - The converter emits point coordinates in GeoJSON order (longitude, latitude), carries over names and reviews, and appends the feature from `dublinBoundary.geojson`.
 - Keep the boundary unchanged unless the task requires changing it.

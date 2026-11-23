@@ -1,11 +1,20 @@
 # Dublin Pubs
-The source of truth for a project to try and drink in all the registered pubs in Dublin.
 
-# Website
-There is a website available [here](https://irishshagua.github.io/dublin-pubs-map) which is built as a GitHub Page. This uses the GitHub API to read current list of pubs from ![a resource stored in this repo](postgres-pubs-dump.txt). So it should always be up to date
+Two brothers on a mission to visit the pubs of Dublin.
 
-# Visualisation
-A GeoJson file is also located ![here](dublin-pubs.geojson). When viewing on Github this should be rendered by a GeoJson viewer.
+- [Explore the map](https://irishshagua.github.io/dublin-pubs-map)
+- [View the pub list](postgres-pubs-dump.txt)
+- [View the GeoJSON map](dublin-pubs.geojson)
 
-# Updates
-When adding or updating pubs, they should be edited ![here](postgres-pubs-dump.txt) and then ![this](convertToGeoJson.py) should be run to rebuild the geo json file so that the visualisations (as mentioned above) are up to date on Github. This is not a requirement for the GitHub Page mentioned further above, as this is rendered in OpenStreet Maps with detail from the ![master](postgres-pubs-dump.txt) data file.
+## Adding or updating pubs
+
+Edit `postgres-pubs-dump.txt`. Each line contains latitude, longitude, name and review, separated by tabs. Then run from the repository root:
+
+```sh
+python3 validate_pubs.py
+python3 convertToGeoJson.py
+```
+
+Review any shared-coordinate warnings and commit both the pub list and regenerated GeoJSON. Python 3 is the only requirement.
+
+The website reads the pub list through the GitHub API; its source is on the `gh-pages` branch. The GeoJSON is a separate visualisation and includes the Dublin boundary.
