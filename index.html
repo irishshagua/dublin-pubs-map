@@ -167,61 +167,10 @@
 
     <section id="contact" class="pub-tracker" aria-labelledby="tracker-heading">
       <div class="container">
-        <h2 id="tracker-heading">Explore Dublin pubs</h2>
-        <p id="progress" role="status">Loading licence progress…</p>
-        <p id="visited-status" role="status">Loading visited pubs and reviews…</p>
-        <fieldset class="view-switch">
-          <legend>Map view</legend>
-          <label><input type="radio" name="pub-view" value="visited" checked> Visited pubs and reviews</label>
-          <label><input type="radio" name="pub-view" value="remaining"> Remaining candidates and review</label>
-        </fieldset>
+        <h2 id="tracker-heading">Our Dublin pub map</h2>
+        <p id="licence-count" role="status">Loading Dublin licence total…</p>
         <p id="map-status" role="status"></p>
-        <p id="map-legend" hidden><strong>Map legend:</strong> Blue pin = remaining candidate; <span class="legend-review" aria-hidden="true">!</span> = needs review — may already be visited. Only entries with coordinates are shown.</p>
-        <div id="osm-map" class="map" aria-label="Map of Dublin pubs"></div>
-
-        <div class="route-planner">
-          <h3>Plan a walking route</h3>
-          <p>Select up to three remaining candidates or pubs needing review from the lists or map. Remaining candidates were not matched to a visit; they may still have been visited. Review entries are unverified, may already have been visited or may be unsuitable, and are counted separately. Unlocated stops are sent to Google Maps by name and address; check the result before travelling.</p>
-          <label for="home-address">Home address (start and finish)</label>
-          <input id="home-address" type="text" autocomplete="street-address" class="form-control" placeholder="Enter your home address">
-          <p class="privacy-note">Your address stays in this browser and is only sent to Google Maps when you open directions. Clear it below when you no longer want it stored.</p>
-          <button id="clear-home" type="button" class="btn btn-outline-secondary">Clear saved address</button>
-          <p id="storage-status" role="status"></p>
-          <p id="selection-status" aria-live="polite">No pubs selected.</p>
-          <button id="directions" type="button" class="btn btn-primary">Open walking directions in Google Maps</button>
-          <p id="route-status" role="status"></p>
-        </div>
-
-        <div class="pub-lists">
-          <h3>Remaining candidates</h3>
-          <p>These licences were not matched to a recorded visit. This is not proof they have not been visited; check them before relying on the list.</p>
-          <label for="pub-search">Filter remaining candidates by name or address</label>
-          <input id="pub-search" type="search" class="form-control" placeholder="Search remaining candidates">
-          <p id="remaining-status" role="status">Loading remaining candidates…</p>
-          <ul id="remaining-list" class="pub-list" aria-label="Remaining candidates"></ul>
-
-          <details open>
-            <summary id="review-summary">Unverified and probably visited</summary>
-            <p>These entries are not confirmed. They may already have been visited or may not be eligible. Select any for a route; check the destination before travelling. Review is optional.</p>
-            <label for="review-search">Filter review pubs by name or address</label>
-            <input id="review-search" type="search" class="form-control" placeholder="Search pubs pending review">
-            <p id="review-status" role="status">Loading pubs pending review…</p>
-            <ul id="review-list" class="pub-list"></ul>
-          </details>
-          <details>
-            <summary id="unlocated-summary">Unlocated licences</summary>
-            <p>These entries have no usable coordinates and are not shown on the map. Address-based Google Maps results need checking.</p>
-            <ul id="unlocated-list" class="pub-list"></ul>
-          </details>
-          <details>
-            <summary id="visited-summary">Historical visits and reviews</summary>
-            <ul id="visited-list" class="pub-list"></ul>
-          </details>
-          <details>
-            <summary id="visited-unlocated-summary">Unlocated visits</summary>
-            <ul id="visited-unlocated-list" class="pub-list"></ul>
-          </details>
-        </div>
+        <div id="osm-map" class="map" aria-label="Map of visited Dublin pubs"></div>
       </div>
     </section>
 
@@ -270,7 +219,7 @@
     <script src="js/stylish-portfolio.js"></script>
     <script src="js/github-rest-client.js"></script>
 
-    <script src="js/pub-tracker.js"></script>
+    <script src="js/visited-map.js"></script>
   </body>
 
 </html>
