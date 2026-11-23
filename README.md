@@ -8,21 +8,20 @@ Two brothers on a mission to visit the pubs of Dublin.
 
 ## Adding or updating pubs
 
-Edit `postgres-pubs-dump.txt`. Each line contains latitude, longitude, name and review, separated by tabs. Install the workbook dependency as described below, then run from the repository root:
+Edit `postgres-pubs-dump.txt`. Each line contains latitude, longitude, name and review, separated by tabs. Then run from the repository root:
 
 ```sh
 python3 validate_pubs.py
 python3 convertToGeoJson.py
-python3 refresh_licences.py
 ```
 
-Review any shared-coordinate warnings and inspect `licence-review.csv` for the new or updated visit. Ambiguous matches remain in review; once confirmed, link the exact visit in `licence-overrides.json` as described below and run the refresh again. Publish the pub list, regenerated GeoJSON, licence JSON, review CSV, source metadata and any changed overrides or location cache together. The website reads the pub list and licence JSON from the default branch; its source is on the `gh-pages` branch. The GeoJSON is a separate visualisation and includes the Dublin boundary.
+Review shared-coordinate warnings and include the pub list and regenerated GeoJSON. The website reads the visit list from the default branch; its source is on `gh-pages`.
 
 ## Refreshing the licence list
 
 The published `remaining-pubs.json` comes from Revenue's [register of renewed liquor licences](https://www.revenue.ie/en/corporate/information-about-revenue/statistics/excise/licences/liquor-licences.aspx). It includes **only** rows whose description is exactly `Publican's Licence (7-Day Ordinary)` and whose county field is exactly either `CO. DUBLIN` or `DUBLIN CITY`. Both are needed for Dublin city and county. It is a licence register, not a complete directory of open pubs: premises with another county label, new or unrenewed licences, closures, and licence changes may be absent. The date is Revenue's register date, not the download date. A premises may have renewed after that date.
 
-For each annual refresh (or after changing visits or overrides), install Python 3 and the workbook reader, then run:
+To refresh the displayed licence total, install Python 3 and the workbook reader, then run:
 
 ```sh
 python3 -m venv .venv
@@ -33,9 +32,15 @@ python3 refresh_licences.py
 
 The script downloads the current [Revenue XLS](https://www.revenue.ie/en/corporate/documents/statistics/excise/liquor-licences.xls), validates its headers and date, and writes `remaining-pubs.json`, `licence-review.csv` and `licence-source.json` with the source URL, register date and workbook SHA-256. The initial published data uses Revenue's 2026-11-03 register (2026/2027), downloaded 2026-11-23, SHA-256 `b37f55aa1d6457d373daade85c861196d1fb0a83948e7abc0ee9d401a7c6563b`. To reproduce an older refresh, retain the original workbook and pass `--xls /path/to/liquor-licences.xls`; local input must be verified against Revenue separately. Include the output files and any changed overrides or location cache together in the repository. No reviews are changed by this process.
 
-`visited` is a confirmed link to a visit; `probable` is a unique exact name match without independently verified coordinates; `remaining` is an unmatched candidate; `review` is unverified; `excluded` is a manual decision. Probable and review entries remain selectable on the site and can be corrected in `licence-overrides.json`; manual review is optional. A new visit may move a candidate to review, and conflicting names or locations remain unverified. The counts are estimates of licences, not necessarily distinct pubs. Entries without coordinates can be routed by name and address, but Google Maps results need checking.
+## Paused: matching and route planner
 
-### Resolving visits, hotels and locations
+The website no longer shows a remaining-pubs list or route planner. The Revenue count is independent of historical visits and counts licences, not necessarily distinct pubs. Matching results in the generated files are experimental and must not be treated as a verified remaining list.
+
+The November 2026 snapshot contained 639 licences, 450 historical visits and 503 licences without verified coordinates. A rough offline OpenStreetMap address experiment identified 85 unlocated entries with a potentially matching street and house number near a visit; these were not verified matches. Nearby or shared addresses can refer to different pubs, and Revenue trading names may differ from visit names. Address-to-location matching and stronger name/location evidence may improve coverage; keep uncertain matches separate from verified visits.
+
+The previous prototype is available in the `gh-pages` commit `c6a0586`. The retained `refresh_licences.py`, `osm-locations.json`, `licence-review.csv` and overrides document the current matching attempt and can be revisited later.
+
+### Experimental matching details
 
 Inspect `licence-review.csv`, Revenue's address, and the existing visit before deciding. The candidate list is a hint, not a match. Edit `licence-overrides.json`, keyed by Revenue licence reference. To link a visit, copy its **exact** name and coordinates from the tab-separated visit list. For example, replace `<licence reference>` with the correct reference after verifying the premises:
 

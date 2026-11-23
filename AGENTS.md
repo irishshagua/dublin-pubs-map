@@ -13,9 +13,8 @@ This project tracks pubs visited in Dublin and publishes a map. Most changes add
 
 ## Licence data (master)
 
-- See README for the Revenue XLS refresh and manual review process. `remaining-pubs.json` is generated; make decisions in `licence-overrides.json`, keyed by licence reference, then rerun `refresh_licences.py`.
-- Keep ambiguous matches as `review`, and decide hotel exclusions manually. Do not infer coordinates or publish a home address. Preserve the per-location OSM source and snapshot when refreshing the cache.
-- After adding a visit, run the licence refresh too and inspect `licence-review.csv` for the corresponding licence. Keep the visit list and its reviews intact.
+- See README for the annual Revenue XLS refresh. The site displays the count of licence rows in `remaining-pubs.json`, not the experimental match statuses.
+- The remaining-pub matching and route-planner work is paused; its data and investigation are retained for future work. Do not present uncertain matches as verified visits or require a licence refresh when adding a visit.
 
 ## Website (gh-pages)
 
@@ -25,4 +24,4 @@ This project tracks pubs visited in Dublin and publishes a map. Most changes add
 
 ## Verification
 
-- There is no test suite on `master`. For data changes, run the converter and check that the generated features reflect the edited rows. For website changes, verify the affected page and map in a browser when possible.
+- For data changes, run the converter and check that generated features reflect edited rows. Licence refresh regression tests are in `test_refresh_licences.py`. For website changes, verify the affected page and map in a browser when possible.
