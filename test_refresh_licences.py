@@ -60,6 +60,10 @@ class RefreshTests(unittest.TestCase):
 
             self.assertEqual(run_refresh(), 'probable')
             self.assertEqual(visits.read_text(encoding='utf-8'), '53.3\t-6.3\tCity Pub\tOriginal review\n')
+            overrides = root / 'licence-overrides.json'
+            overrides.write_text(json.dumps({'COUNTY1': {'visit': {'name': 'City Pub', 'latitude': 53.3, 'longitude': -6.3}}}), encoding='utf-8')
+            self.assertEqual(run_refresh(), 'review')
+            overrides.unlink()
             with visits.open('a', encoding='utf-8') as file:
                 file.write('53.31\t-6.31\tCity Pub\tOther review\n')
             self.assertEqual(run_refresh(), 'review')

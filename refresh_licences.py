@@ -299,7 +299,9 @@ def main():
                     used_visits[key] = ref
                 else:
                     status, reason = 'review', 'possible visit already linked to another licence'
-            elif location is None and name_counts[normalized(record['name'])] == 1 and visit_name_counts.get(normalized(record['name'])) == 1 and any(normalized(c[0]['name']) == normalized(record['name']) for c in possible):
+            elif location is None and name_counts[normalized(record['name'])] == 1 and visit_name_counts.get(normalized(record['name'])) == 1 and any(
+                    normalized(c[0]['name']) == normalized(record['name']) and
+                    (c[0]['name'], c[0]['latitude'], c[0]['longitude']) not in used_visits for c in possible):
                 status, reason = 'probable', 'unique exact name match without verified location'
             else:
                 status, reason = 'review', 'possible visit: check name and location'
