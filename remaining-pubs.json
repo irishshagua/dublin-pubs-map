@@ -1,0 +1,5117 @@
+{
+  "source_date": "2026-11-03",
+  "pubs": [
+    {
+      "licence_ref": "N0033",
+      "name": "3 ARENA",
+      "address": "NORTH WALL QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3176",
+      "name": "ABBERLEY COURT HOTEL",
+      "address": "JUNCTION OF HIGH STREET, AND BELGARD ROAD, TALLAGHT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1597",
+      "name": "AHERNES",
+      "address": "AND PREMISES ATTACHED, OLD BAWN, TALLAGHT, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013164",
+      "name": "ALLTECH'S BEVERAGE DIVISION IRELAND LIMITED",
+      "address": "121/125 JAMES' STREET, FORMERLY KNOWN AS \"ST. JAMES' CHURCH\", DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013769",
+      "name": "AMBER WAY LIMITED",
+      "address": "THE BASEMENT, NUMBER 9, ST. STEPHEN'S GREEN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4530",
+      "name": "AMPBAY LIMITED",
+      "address": "27/28/29 AND 30 PARLIAMENT STREET, AND 2 ESSEX GATE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1583",
+      "name": "AN POITIN STIL",
+      "address": "RATHCOOLE, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010902",
+      "name": "ANGELINA'S",
+      "address": "PART GROUND FLOOR AND BASEMENT, 50-58 PERCY PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0027",
+      "name": "ANNESLEY HOUSE",
+      "address": "70 NORTH STRAND ROAD AND 1 ANNESLEY PLACE, FAIRVIEW, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.35966973020829,
+      "longitude": -6.240354320438032
+    },
+    {
+      "licence_ref": "S1575",
+      "name": "ANNIE MAY'S",
+      "address": "MAIN STREET, NEWCASTLE, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.2997095,
+      "longitude": -6.5009707
+    },
+    {
+      "licence_ref": "S0197",
+      "name": "ANSEO",
+      "address": "18 LOWER CAMDEN STREET AND, 1 CAMDEN VILLAS, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0211",
+      "name": "ARTHUR MAYNES DONNYBROOK",
+      "address": "48 AND 48A DONNYBROOK ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1516",
+      "name": "ARTHUR'S",
+      "address": "28 THOMAS STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34309131532835,
+      "longitude": -6.281710164434309
+    },
+    {
+      "licence_ref": "N2433",
+      "name": "ASTRO PARK",
+      "address": "SOUTHERN SIDE OF OSCAR TRAYNOR ROAD, COOLOCK LANE, COOLOCK, ADJACENT TO EXSISTING AMATEUR FOOTBALL PREMISES, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0065",
+      "name": "AURORA CAFE BAR",
+      "address": "72/73 UPPER DORSET STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2178",
+      "name": "AXIS",
+      "address": "MAIN STREET, BALLYMUN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1582",
+      "name": "B&B TAVERNS",
+      "address": "MAIN STREET, RATHCOOLE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0085",
+      "name": "BAD BOBS PUBLIC HOUSE",
+      "address": "35/36/37 EAST ESSEX STREET, AND 9 SYCAMORE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0406",
+      "name": "BAKERS CORNER",
+      "address": "KILL O'THE GRANGE, AND PREMISES ATTACHED AND ADJOINING, ROCHESTOWN AVENUE, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1129",
+      "name": "BALLALLEY HOUSE",
+      "address": "(AND EXTENSIONS), LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1328",
+      "name": "BALLINTEER HOUSE",
+      "address": "BALLINTEER AVENUE, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.2747643,
+      "longitude": -6.2545959
+    },
+    {
+      "licence_ref": "DG0508",
+      "name": "BALROTHERY INN",
+      "address": "BALROTHERY, BALBRIGGAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0097",
+      "name": "BAR ANAM",
+      "address": "199 NORTH KING STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.35090997501351,
+      "longitude": -6.270153699575151
+    },
+    {
+      "licence_ref": "S0080",
+      "name": "BAR RUA",
+      "address": "32 CLARENDON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.341086780998346,
+      "longitude": -6.262434222223734
+    },
+    {
+      "licence_ref": "N2076",
+      "name": "BAR1661",
+      "address": "10 /11 LITTLE BRITAIN STREET, AND 1 AND PART OF 2 GREEN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2152",
+      "name": "BARCODE FUSION FUN AND FORTUNE",
+      "address": "CLONTARF ROAD AND ADJACENT, TO THE NORTH END OF FAIRVIEW PARK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0226",
+      "name": "BATCHSIDE LIMITED",
+      "address": "MAIN STREET, BLANCHARDSTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0396",
+      "name": "BETTER VALUE UNLIMITED COMPANY",
+      "address": "CORNELSCOURT, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1236",
+      "name": "BETTER VALUE UNLIMITED COMPANY",
+      "address": "68 DEERPARK ROAD, MOUNT MERRION, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1099",
+      "name": "BIDDY MULLIGAN & CO. LIMITED",
+      "address": "16 SACKVILLE PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0193",
+      "name": "BIRCHALLS",
+      "address": "127/129 RANELAGH, GROUND FLOOR AND PREMISES AT REAR, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3233904,
+      "longitude": -6.2503391
+    },
+    {
+      "licence_ref": "1021081",
+      "name": "BLACKBANKS BAR & GRILL",
+      "address": "GREENDALE ROAD, KILBARRACK, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.3859746,
+      "longitude": -6.1555082
+    },
+    {
+      "licence_ref": "S0235",
+      "name": "BLACKBIRD RATHMINES",
+      "address": "82/84 LOWER RATHMINES ROAD, AND RICHMOND HILL, RATHMINES, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0088",
+      "name": "BLEECKER STREET CAFE",
+      "address": "68 UPPER DORSET STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0136",
+      "name": "BLOOMS HOTEL/ THE VATHOUSE BAR OF TEMPLE BAR/ CLUB M",
+      "address": "COPE STREET, ANGLESEA STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021424",
+      "name": "BLUE BAR",
+      "address": "25 HARBOUR ROAD, SKERRIES, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1620",
+      "name": "BODKINS",
+      "address": "57 BOLTON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013579",
+      "name": "BOHANS",
+      "address": "78 MEATH STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0192",
+      "name": "BONOBO",
+      "address": "BONOBO, 119-121 CHURCH STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0104",
+      "name": "BOOZE2GO",
+      "address": "144 PARNELL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010802",
+      "name": "BOW LANE",
+      "address": "17/18 AUNGIER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0018",
+      "name": "BOWES",
+      "address": "31 FLEET STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34580694423559,
+      "longitude": -6.257886008972081
+    },
+    {
+      "licence_ref": "S1527",
+      "name": "BRADY'S OF TERENURE",
+      "address": "5/7/9/9A AND 11 TERENURE PLACE, GROUND FLOOR ONLY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1072",
+      "name": "BRANNIGANS",
+      "address": "9 CATHEDRAL STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.35038541396054,
+      "longitude": -6.259788011279088
+    },
+    {
+      "licence_ref": "N0588",
+      "name": "BREFFNI INN",
+      "address": "27/29 ASHTOWN GROVE, NAVAN ROAD, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.37071364422351,
+      "longitude": -6.323697732401895
+    },
+    {
+      "licence_ref": "S0294",
+      "name": "BREFFNI LOUNGE",
+      "address": "10 AND REAR 12 MAIN STREET, BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1016206",
+      "name": "BREWDOG",
+      "address": "NO 4 THREE LOCKS SQUARE, CAPITAL DOCK, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1083",
+      "name": "BRIODY'S",
+      "address": "97 MARLBOROUGH STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34958101015036,
+      "longitude": -6.258165549854669
+    },
+    {
+      "licence_ref": "S3208",
+      "name": "BROADWAY",
+      "address": "WOODFORD WALK,, KNOCKMITTEN, CLONDALKIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0189",
+      "name": "BRYANNA ALTON",
+      "address": "17 BENBURB STREET AND, 6 HENDRICK LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0257",
+      "name": "BUGLERS",
+      "address": "BALLYBODEN HOUSE, BALLYBODEN, RATHFARNHAM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0233",
+      "name": "BUSHES",
+      "address": "114 AND 115 PHIBSBOROUGH ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0088",
+      "name": "BUTTERFIELD TEMPLE BAR LIMITED",
+      "address": "1 UPPER FOWNES STREET AND PART OF, 14/19 CROW STREET AND, 2 SPRANGERS YARD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0877",
+      "name": "BUZVALE UNLIMITED COMPANY",
+      "address": "PHOENIX PARK RACECOURSE, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0397",
+      "name": "BYRNES OF GALLOPING GREEN",
+      "address": "PHILIPSTOWN HOUSE, GALLOPING GREEN, STILLORGAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1007884",
+      "name": "C & D HOSPITALITY LIMITED",
+      "address": "1 AND 2 DEMESNE VIEW, MAIN STREET, LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4458",
+      "name": "CAFE 1920",
+      "address": "BASEMENT AND GROUND FLOOR OF 10 WESTMORELAND STREET, BASEMENT AND PART GROUND FLOOR OF 1/5 PRICES LANE AND, BASEMENT OF 11/12 WESTMORELAND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3053",
+      "name": "CAFE EN SEINE",
+      "address": "39 DAWSON STREET, 40 DAWSON STREET, AND 39 ANNE'S LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3407232,
+      "longitude": -6.2585998
+    },
+    {
+      "licence_ref": "N0273",
+      "name": "CAIRN HOMES PROPERTIES LIMITED",
+      "address": "CORBALLIS, DONABATE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0066",
+      "name": "CAPITOL BAR",
+      "address": "1 AND 1A AUNGIER STREET (GROUND FLOOR AND BASEMENT), 2 AUNGIER STREET, AND 18/19 LOWER STEPHEN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1001683",
+      "name": "CAPTAIN AMERICA'S COOKHOUSE",
+      "address": "UNIT 410 BLANCHARDSTOWN RETAIL PARK, 2 EXTENSION, BLANCHARDSTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2119",
+      "name": "CAPTAIN AMERICA'S COOKHOUSE",
+      "address": "149 BAGGOT ST, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3965",
+      "name": "CASSIDY'S BAR",
+      "address": "BALDUCCI'S RESTAURANT, 27 WESTMORELAND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0198",
+      "name": "CASSIDYS",
+      "address": "42 LOWER CAMDEN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1000743",
+      "name": "CASTLE HOTEL/ WALTONS HOTEL",
+      "address": "2-4 GARDINER ROW (EXC. REAR 2 GARDINER ROW), 1-5 NORTH FREDERICK ST, (EXC. GRD FLR & BASEMENT OF 3-4 FREDERICK ST & PART GRD FLR & BASEMENT, 5 NORTH FREDERICK ST & 1 GARDINER ROW) & EXT. AT REAR 2-4 GARDINER ROW, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1119",
+      "name": "CASTLE INN",
+      "address": "4 LONG MILE ROAD AND PREMISES ATTACHED AT NO. 2 LONG MILE ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.32420436878204,
+      "longitude": -6.329123058227559
+    },
+    {
+      "licence_ref": "1009141",
+      "name": "CASTLEKNOCK GOLF CLUB",
+      "address": "DISWELLSTOWN, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0023",
+      "name": "CHAPLINS",
+      "address": "(BASEMENT GROUND AND 1ST FLOOR), 1/2 HAWKINS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34621083821954,
+      "longitude": -6.2571845044123755
+    },
+    {
+      "licence_ref": "S0279",
+      "name": "CHARLES FITZGERALD ALBERT HOUSE",
+      "address": "11 SANDYCOVE ROAD, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3626",
+      "name": "CHARLOTTE QUAY RESTAURANT",
+      "address": "PORTION OF THE BASEMENT & GROUND FLOOR MILLENNIUM TOWER BUILDING, BLOCK B MILLENIUM TOWER BUILDING, CHARLOTTE QUAY, RINGSEND ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1203",
+      "name": "CHASERS",
+      "address": "308 BALLYFERMOT ROAD, (PART THEREOF), BALLYFERMOT, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2588",
+      "name": "CHQ DUBLIN LIMITED",
+      "address": "UNIT A, CHQ, CUSTOM HOUSE QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015320",
+      "name": "CHURCHTOWN STORES",
+      "address": "5 BRAEMORE ROAD, CHURCHTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2741",
+      "name": "CILL AIRNE",
+      "address": "16C NORTH WALL, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1020304",
+      "name": "CISS MADDENS",
+      "address": "46 DRURY STREET, DUBLIN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021092",
+      "name": "CLINK",
+      "address": "35 AND 36 UPPER ABBEY STREET AND, NUMBERS 1,2,3,4,5,6,7, AND 8 ABBEY COTTAGES,, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0132",
+      "name": "CLONTARF CASTLE HOTEL",
+      "address": "CASTLE AVENUE, CLONTARF, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1118",
+      "name": "CLUB 92, FILLIES CAFE BAR, THE PAVILION, LEOPARDSTOWN GOLF CENTRE",
+      "address": "LEOPARDSTOWN RACECOURSE/ PAVILION/ GRAND STAND AND NEW STAND, LEOPARDSTOWN RACECOURSE, LEOPARDSTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0312",
+      "name": "COACHMAN'S INN",
+      "address": "CLOGHRAN, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1006700",
+      "name": "COLGANS",
+      "address": "47-51 DECIES LIMITED, BALLYFERMOT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0243",
+      "name": "COMANS OF RATHGAR",
+      "address": "2/4 GROUND FLOOR OF NUMBER 6, AND REAR OF NUMBER 8, TERENURE ROAD EAST, RATHGAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1381",
+      "name": "COOLQUAY LODGE",
+      "address": "THE WARD AND AN EXTENSION, ATTACHED TO AND ADJOINING, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1491",
+      "name": "COOPERS CORNER",
+      "address": "GROUND FLOOR AND BASEMENT 1-3 BOWBRIDGE, BOWLANE, KILMAINHAM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1128",
+      "name": "COURTNEY'S BAR",
+      "address": "LUCAN ROAD, LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0175",
+      "name": "COW PUB AND KITCHEN",
+      "address": "1 BATH AVENUE AND 2 SHELBOURNE ROAD, DONNYBROOK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0190",
+      "name": "CRAFT ENTERTAINMENT LIMITED",
+      "address": "60 RANELAGH ROAD, RANELAGH, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0162",
+      "name": "CROWES",
+      "address": "10 MERRION ROAD, BALLSBRIDGE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3291081,
+      "longitude": -6.2305605
+    },
+    {
+      "licence_ref": "N0238",
+      "name": "CUMISKEYS",
+      "address": "463/465 BLACKHORSE AVENUE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0063",
+      "name": "CUMISKEYS LOUNGE",
+      "address": "41 UPPER DOMINICK STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0028",
+      "name": "CUSACKS",
+      "address": "145 NORTH STRAND, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1019163",
+      "name": "D-ONE-FIVE",
+      "address": "ASHLEIGH RETAIL CENTRE, MAIN STREET, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0247",
+      "name": "DAA PUBLIC LIMITED COMPANY",
+      "address": "NAUL ROAD, CLOGHRAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0297",
+      "name": "DAATA BLACKROCK",
+      "address": "20/22 TEMPLE ROAD, BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3712",
+      "name": "DAKOTA",
+      "address": "39/40 DRURY STREET AND, 8 AND 9 SOUTH WILLIAM STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0081",
+      "name": "DAME TAVERN",
+      "address": "18 DAME COURT, (OFF DAME STREET), DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3438207,
+      "longitude": -6.263915
+    },
+    {
+      "licence_ref": "1007394",
+      "name": "DAVY BYRNES",
+      "address": "AND ADJOINING PREMISES SITUATE AT 21 DUKE STREET AND, 7A DUKE LANE, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.34184051441083,
+      "longitude": -6.259358089334266
+    },
+    {
+      "licence_ref": "N0222",
+      "name": "DEAD SPACE ENTERPRISES LIMITED",
+      "address": "18 STONEY BATTER, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1449",
+      "name": "DEAN PREMIER",
+      "address": "40 FRANCIS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2168",
+      "name": "DECK LOUNGE & BAR",
+      "address": "FACILITIES BUILDING, BLOCK E, EASTPOINT BUSINESS PARK, FAIRVIEW, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010478",
+      "name": "DEERPARK HOTEL AND GOLF COURSES",
+      "address": "DEERPARK HOWTH ESTATE, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0067",
+      "name": "DELAHUNTYS",
+      "address": "99 UPPER DORSET STREET, & 1 WELLINGTON STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0199",
+      "name": "DELANEYS BAR",
+      "address": "83 & 83A NORTH KING STREET., DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1595",
+      "name": "DELANYS THE KNOCKLYON INN",
+      "address": "TEMPLEOGUE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "DG0480",
+      "name": "DEMPSEYS",
+      "address": "1-3 DUBLIN STREET, BALBRIGGAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0199",
+      "name": "DEVITTS LOUNGE BAR",
+      "address": "78 LOWER CAMDEN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022775",
+      "name": "DION",
+      "address": "LEVEL 9, LEVEL 10 AND LEVEL -1 (PART),, ONE CENTRAL PLAZA DAME STREET/COLLEGE GREEN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1017216",
+      "name": "DOCKERS",
+      "address": "GROUND FLOOR AND BASEMENT OF, 4 AND 5 SIR JOHN ROGERSON'S QUAY, AND THE BASEMENT OF 6 SIR JOHN ROGERSON'S QUAY, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3464282,
+      "longitude": -6.2456211
+    },
+    {
+      "licence_ref": "S0002",
+      "name": "DOHENY AND NESBITT",
+      "address": "NUMBER 5 LOWER BAGGOT STREET, AND EXTENSION ATTACHED AT, NUMBER 4 BAGGOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0248",
+      "name": "DOLLYS",
+      "address": "105/107 TERENURE ROAD NORTH, RATHFARNHAM, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3100178,
+      "longitude": -6.2832522
+    },
+    {
+      "licence_ref": "1015814",
+      "name": "DOOLALLY",
+      "address": "PART OF THE BASEMENT AND GROUND FLOOR OF THE BUILDING COMPRISING, 47-51 SOUTH RICHMOND STREET, AND INCLUDING FRONTAGE TO LENNOX STREET, DUBLIN 8, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0593",
+      "name": "DOWNEYS",
+      "address": "89 CABRA ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3612004,
+      "longitude": -6.282982570913658
+    },
+    {
+      "licence_ref": "S0009",
+      "name": "DOYLES",
+      "address": "9 COLLEGE STREET AND 1ST FLOOR OF 8 COLLEGE STREET & EXTENSION, ATTACHED AT NO.28 FLEET STREET & BASEMENT OF 29/30 FLEET STREET AND, FURTHER EXTENSION AT GROUND FLOOR 28/30 FLEET STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.345769535322084,
+      "longitude": -6.25754224491374
+    },
+    {
+      "licence_ref": "N1312",
+      "name": "DROGHEDA LODGE/THE FULL SHILLING",
+      "address": "MAIN STREET, FINGLAS, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0187",
+      "name": "DROPPING WELL",
+      "address": "JUNCTION OF DARTY ROAD AND, LOWER CHURCHTOWN ROAD AND NEW EXTENSIONS, CLASSONS BRIDGE, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010804",
+      "name": "DRUNKEN FISH",
+      "address": "THE EXCISE BUILDING, MAYOR STREET LOWER, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3491745,
+      "longitude": -6.244184
+    },
+    {
+      "licence_ref": "1008192",
+      "name": "DRURY BUILDINGS",
+      "address": "52/55 DRURY STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2860",
+      "name": "DTDL LIMITED",
+      "address": "UNIT B3 (A) LOWER GROUND FLOOR, ST. STEPHENS GREEN CENTRE, SOUTH KING STREET AND, MERCER STREET LOWER, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3908",
+      "name": "DTDL LIMITED",
+      "address": "UNIT 5B ST STEPHENS GREEN SHOPPING CENTRE, 128/134 ST STEPHENS GREEN WEST, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0018",
+      "name": "DUBLIN ONE HOTEL",
+      "address": "39 40 41 AND 41A LOWER DORSET STREET AND, 495/497 NORTH CIRCULAR ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1465",
+      "name": "DUDLEY'S",
+      "address": "47 THOMAS STREET AND, GROUND FLOOR AND BASEMENT OF, 48 THOMAS STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34264730615041,
+      "longitude": -6.278945859795308
+    },
+    {
+      "licence_ref": "N0314",
+      "name": "DUFFY ARMS",
+      "address": "MAIN STREET, MALAHIDE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0214",
+      "name": "DUNDRUM HOUSE",
+      "address": "WINDY ARBOUR, DUNDRUM ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0249",
+      "name": "DUNDRUM HOUSE",
+      "address": "57 MAIN STREET, DUNDRUM, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.28941368972636,
+      "longitude": -6.243298623251481
+    },
+    {
+      "licence_ref": "S4289",
+      "name": "DUNDRUM RETAIL GP DAC",
+      "address": "BUILDING A, UNIT 1-2, DUNDRUM TOWN CENTRE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1014271",
+      "name": "DUNNE & CRESCENZI",
+      "address": "14-17 SOUTH FREDERICK STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0398",
+      "name": "DUNNES STORES UNLIMITED COMPANY",
+      "address": "JUNCTION OF NEWTOWN PARK AVENUE AND, NEWTOWNPARK,INCLUDING 3 AND 3A NEWTOWNPARK AVENUE, BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3953",
+      "name": "DV8 EVENTS",
+      "address": "130/131/132 JAMES STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1480",
+      "name": "ELEANORA'S",
+      "address": "147A/149 AND RERE OF 147 DRIMNAGH ROAD, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.32415394794418,
+      "longitude": -6.325487740089842
+    },
+    {
+      "licence_ref": "N0229",
+      "name": "EMERALD CONSTRUCTION LIMITED",
+      "address": "RATOATH ROAD, MULHUDDART, DUBLIN 15, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0145",
+      "name": "FAGANS",
+      "address": "146 LOWER DRUMCONDRA ROAD, & 4 VICTORIA LANE & PREMISES ATTACHED, DRUMCONDRA, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1018953",
+      "name": "FALLON AND BYRNE",
+      "address": "1ST, 2ND AND 3RD FLOORS, 11-17 EXCHEQUER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1008283",
+      "name": "FALLONS (THE CAPSTAN BAR)",
+      "address": "129 THE COOMBE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021467",
+      "name": "FIDELITY",
+      "address": "79 QUEEN STREET AND, 91/92 BENBURB STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3471016,
+      "longitude": -6.2802916
+    },
+    {
+      "licence_ref": "1008060",
+      "name": "FITZERS BAR & BISTRO",
+      "address": "33 EXCHEQUER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0065",
+      "name": "FITZGERALD'S BAR",
+      "address": "22 ASTON QUAY, FORMERLY KNOWN AS 26 ASTON QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011789",
+      "name": "FLANNERYS OF CAMDEN STREET",
+      "address": "6 AND 7 AND REAR OF 8 AND 9 CAMDEN STREET LOWER, AND EXTENSION TO GROUND FLOOR AND MEZZANINE OF 9 CAMDEN STREET LOWER, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3727",
+      "name": "FLIGHT CUB DARTS DUBLIN",
+      "address": "35 AND 36 DAWSON STREET AND NO. 8 ANNES, LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0028",
+      "name": "FOLEYS BAR",
+      "address": "1 MERRION ROW, AND PREMISES ATTACHED, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1002655",
+      "name": "FORMERLY CHIEF O'NEILL'S",
+      "address": "EAST SIDE SMITHFIELD SQUARE, BOUNDED BY DUCK LANE AND JAMESON LANE, SMITHFIELD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3708",
+      "name": "FOUR DAME LANE",
+      "address": "4 DAME LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0315",
+      "name": "FOWLERS MALAHIDE",
+      "address": "12 NEW STREET, MALAHIDE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0213",
+      "name": "FRANK RYAN'S AND SON",
+      "address": "5 QUEEN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1523",
+      "name": "FREHILLS TAVERN",
+      "address": "62A/64 ST AGNES PARK, CRUMLIN, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0134",
+      "name": "GAFFNEY AND SON",
+      "address": "5/6 FAIRVIEW, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0308",
+      "name": "GARRISTOWN INN",
+      "address": "GARRISTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013257",
+      "name": "GIBNEY'S OF MALAHIDE",
+      "address": "4, 5, 6 AND 7 NEW STREET, MALAHIDE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1000937",
+      "name": "GIFFORD TAVERN LIMITED",
+      "address": "6 SUMMERHILL PARADE, AND PART OF NUMBER 7 SUMMERHILL PARADE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1000393",
+      "name": "GILBERT AND WRIGHT MALAHIDE LIMITED",
+      "address": "GROUND FLOOR, NUMBER 1 ROSS TERRACE, MALAHIDE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0300",
+      "name": "GLEESONS OF BOOTERSTOWN",
+      "address": "44 BOOTERSTOWN AVENUE AND 1/2 WILLOW PLACE, BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0301",
+      "name": "GOGGINS",
+      "address": "99 MONKSTOWN ROAD AND EXTENSIONS, 101 MONKSTOWN ROAD (PART OF GROUND FLOOR), BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.29357425449093,
+      "longitude": -6.154590401025466
+    },
+    {
+      "licence_ref": "N0309",
+      "name": "GORMLEYS",
+      "address": "GARRISTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0241",
+      "name": "GRACE'S",
+      "address": "2/5 RATHGAR ROAD, RATHMINES, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3218142,
+      "longitude": -6.2664357
+    },
+    {
+      "licence_ref": "N0053",
+      "name": "GRAINGER",
+      "address": "51/52 TALBOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2404",
+      "name": "GRAND CENTRAL",
+      "address": "38/89 LOWER ABBEY STREET AND, 10/11 LOWER O'CONNELL STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0116",
+      "name": "HA'PENNY BRIDGE INN",
+      "address": "42 WELLINGTON QUAY, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34586268943863,
+      "longitude": -6.2633146924728935
+    },
+    {
+      "licence_ref": "S0131",
+      "name": "HAIRY LEMON",
+      "address": "41/42 LOWER STEPHEN STREET, & 64 DRURY STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2723",
+      "name": "HAMLET BAR",
+      "address": "BASEMENT GROUND FLOOR, PART OF BLOCK A CASTLEMILL DEVELOPMENT, HAMLET LANE, BALBRIGGAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0094",
+      "name": "HARRY STREET COMPANY LIMITED",
+      "address": "7/8 HARRY STREET AND, BASEMENT OF 71 GRAFTON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0024",
+      "name": "HARTIGANS BAR",
+      "address": "100 LOWER LEESON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1433",
+      "name": "HARTSTOWN HOUSE",
+      "address": "HARTSTOWN SHOPPING CENTRE, CHARRYFIELD LAWN, HARTSTOWN, CLONSILLA, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1434",
+      "name": "HEADLINE BAR",
+      "address": "116 SOUTH CIRCULAR ROAD AND, 57 LOWER CLANBRASSIL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022720",
+      "name": "HILTON DUBLIN",
+      "address": "CHARLEMONT PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0090",
+      "name": "HOGANS",
+      "address": "35/36 SOUTH GREAT GEORGES STREET, AND 37 (BASEMENT AND GROUND FLOOR), DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1003309",
+      "name": "HOGS & HEIFERS",
+      "address": "UNIT 3, BUILDING A AIRSIDE SOUTH QUARTER, NEVINSTOWN, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011234",
+      "name": "HOGS AND HEIFERS",
+      "address": "UNIT 5 FIRST FLOOR, LIFFEY VALLEY SHOPPING CENTRE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0177",
+      "name": "HORSE AND HOUND",
+      "address": "44 - 46 BROOKWOOD RISE, HARMONSTOWN, ARTANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0192",
+      "name": "HUMPHREYS",
+      "address": "79/81 RANELAGH AND, GARDEN AT REAR OF BOTH PREMISES, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011186",
+      "name": "HYNES BAR",
+      "address": "79/80 PRUSSIA STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011716",
+      "name": "IDLEWILD",
+      "address": "THE BASEMENT AND GROUND FLOOR OF, NUMBER 14 FADE STREET, ST. ANDREWS, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3420846,
+      "longitude": -6.2641425
+    },
+    {
+      "licence_ref": "S0161",
+      "name": "INCHICORE INNS LIMITED",
+      "address": "60A IRISHTOWN & 1 PEMBROKE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1017288",
+      "name": "INCHICORE PARKVIEW RESIDENCES LIMITED",
+      "address": "53 SARSFIELD ROAD, INCHICORE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1014989",
+      "name": "ISABELLE'S",
+      "address": "UNIT 17 & 18, ROYAL HIBERNIAN WAY, DAWSON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1014216",
+      "name": "IVEAGH GARDENS",
+      "address": "72/74 HARCOURT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0209",
+      "name": "J O'CONNELL",
+      "address": "29 SOUTH RICHMOND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4304",
+      "name": "J ROE WHISKEY LIMITED",
+      "address": "21-26 SOUTH ANNE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0123",
+      "name": "J. GROGANS CASTLE LOUNGE",
+      "address": "15 WILLIAM STREET SOUTH, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0022",
+      "name": "J. KENNEDY",
+      "address": "10 GEORGE'S QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0005",
+      "name": "J.R MAHONS",
+      "address": "1 AND 2 BURGH QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3470014,
+      "longitude": -6.2581487
+    },
+    {
+      "licence_ref": "N1070",
+      "name": "JACK NEALONS PUB",
+      "address": "165/166 CAPEL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0295",
+      "name": "JACK O'ROURKE'S",
+      "address": "15 MAIN STREET, AND FIRST FLOOR EXTENSION, BLACKROCK, CO. DUBLIN",
+      "status": "visited",
+      "latitude": 53.3015086,
+      "longitude": -6.1778326
+    },
+    {
+      "licence_ref": "S1586",
+      "name": "JACOBS BAR",
+      "address": "MAIN STREET, SAGGART, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1016072",
+      "name": "JACOBS INN",
+      "address": "PORTION OF THE GROUND FLOOR OF 21-28, TALBOT PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015767",
+      "name": "JD WETHERSPOON IRELAND",
+      "address": "THE SILVER PENNY, 12B(FORMERLY12A) AND 12C ABBEY STREET LOWER, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3795",
+      "name": "JD WETHERSPOON IRELAND",
+      "address": "THE FORTY FOOT, THE PAVILLION (JUNCTION OF ROYAL MARINE ROAD AND QUEEN'S ROAD), MARINE ROAD, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "DG0500",
+      "name": "JOE MAY",
+      "address": "HARBOUR ROAD, SKERRIES, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0158",
+      "name": "JOHN CLARKE AND SONS SOUTH DOCK",
+      "address": "PART OF 12,14 AND 16 BRIDGE STREET, RINGSEND, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0078",
+      "name": "JOHN KAVANAGH",
+      "address": "1 PROSPECT SQUARE, GLASNEVIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0035",
+      "name": "JOHN MULLIGAN",
+      "address": "8 POOLBEG STREET &, GROUND FLOOR & BASEMENT OF 9 POOLBEG STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1014121",
+      "name": "JOHN O DWYER'S",
+      "address": "43 AUNGIER STREET AND 1 DIGGES STREET, IN THE PARISH OF ST. PETER AND CITY OF DUBLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1016704",
+      "name": "JOHN'S BAR AND HABERDASHERY",
+      "address": "61-62 THOMAS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0366",
+      "name": "JOHNNIE FOXS",
+      "address": "GLENCULLEN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0278",
+      "name": "JOYOUS GARDEN",
+      "address": "OLD ROAD, RUSH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0020",
+      "name": "JUNO",
+      "address": "58 LOWER DORSET STREET, AND PREMISES ATTACHED AND ADJOINING, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2517",
+      "name": "KATE MCAULEY'S",
+      "address": "43 MALPAS STREET, AND 116/117 CLANBRASSIL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0136",
+      "name": "KAVANAGH'S",
+      "address": "EXISTING LICENSED PREMISE AT 16 MALAHIDE ROAD AND AN EXTENDED ATTACHED, TO AND ADJACENT SAID PREMISES THE EXTENSION THAT THE AREA OUTLINED, WITH A GREEN VERGE BE DE-LICENSED, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0105",
+      "name": "KAVANAGH'S PUBLIC HOUSE",
+      "address": "35 NEW STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0313",
+      "name": "KEALYS OF CLOGHRAN",
+      "address": "CLOGHRAN, CORBALLIS TOWNLAND, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0001",
+      "name": "KEHOES",
+      "address": "9 SOUTH ANNE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0144",
+      "name": "KENNEDYS",
+      "address": "132 AND 134 LOWER DRUMCONDRA ROAD, AND 6 VICTORIA LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0048",
+      "name": "KENNEDYS PUB",
+      "address": "30/31/32 WESTLAND ROW, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1126",
+      "name": "KENNYS",
+      "address": "LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4514",
+      "name": "KILTIPPER CAFE BAR",
+      "address": "KILTIPPER WAY, TALLAGHT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0280",
+      "name": "KING'S INN",
+      "address": "45 CASTLE STREET, DALKEY, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.27746351329752,
+      "longitude": -6.104896741195036
+    },
+    {
+      "licence_ref": "S2821",
+      "name": "KINGSWOOD LODGE",
+      "address": "KINGSWOOD HEIGHTS, BALLYMOUNT LANE, CLONDALKIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0142",
+      "name": "KITTY KIERNANS",
+      "address": "61,61A & 63 COLLINS AVENUE WEST, AND THE REAR OF 65 COLLINS AVENUE WEST, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.37664729801394,
+      "longitude": -6.223341034954091
+    },
+    {
+      "licence_ref": "N1061",
+      "name": "KKD MULVEY LIMITED",
+      "address": "4 LOWER ABBEY STREET, (BASEMENT AND GROUND FLOORS), DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0237",
+      "name": "KODIAK",
+      "address": "304 LOWER RATHMINES ROAD, RATHMINES, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2805",
+      "name": "KREWE",
+      "address": "51 AND 52 CAPEL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0121",
+      "name": "KYLES",
+      "address": "COOLOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013740",
+      "name": "LAFAYETTE CAFE BAR",
+      "address": "PART OF GROUND FLOOR AND BASEMENT AT, 22/23 WESTMORELAND STREET AND, 1/6 D'OLIER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022169",
+      "name": "LANE7",
+      "address": "BASEMENT UNIT, CHATHAM AND KING, CHATHAM STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021935",
+      "name": "LANE7 DUBLIN (NO. 2) LIMITED",
+      "address": "BUILDING 13, DUNDRUM TOWN CENTRE, SANDYFORD ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1004917",
+      "name": "LEMON AND DUKE",
+      "address": "UNIT 1 AND UNIT 2, ROYAL HIBERNIAN WAY, DAWSON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1437",
+      "name": "LEONARD'S CORNER",
+      "address": "1 CLANBRASSIL STREET UPPER, AND PREMISES ATTACHED AND ADJOINING, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1422",
+      "name": "LEONARD'S PUB",
+      "address": "1 LEONARD'S PUB, CORDUFF SHOPPING CENTRE, CORDUFF, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0971",
+      "name": "LEOPARDSTOWN INN",
+      "address": "LEOPARDSTOWN AVENUE, BREWERY ROAD, STILLORGAN, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.2792395,
+      "longitude": -6.1967897
+    },
+    {
+      "licence_ref": "N2405",
+      "name": "LIACONDAR LIMITED",
+      "address": "PROSPECT ROAD & WHITWORTH ROAD, & EXTENSION ATTACHED, GLASNEVIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1019107",
+      "name": "LIBERTY RENAISSANCE LIMITED",
+      "address": "BASEMENT AND GROUND FLOOR OF TAILOR'S HALL, BACK LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0026",
+      "name": "LINCOLN'S INN",
+      "address": "18 / 19 LINCOLN PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34201904362861,
+      "longitude": -6.252528363378888
+    },
+    {
+      "licence_ref": "N0009",
+      "name": "LLOYDS BAR AND LOUNGE",
+      "address": "46 AMIENS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1984",
+      "name": "LORD LUCAN",
+      "address": "FINNSTOWN CENTRE, NEWCASTLE ROAD, FINNSTOWN, LUCAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1006937",
+      "name": "LORIEN SANDYFORD",
+      "address": "UNIT NUMBER R-A8 BLOCK A, BEACON SOUTH QUARTER, SANDYFORD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015988",
+      "name": "LOTTIES",
+      "address": "NO 6 RATHGAR ROAD AND NO 7-9 RATHGAR ROAD, RATHMINES, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1007228",
+      "name": "LOVE TEMPO",
+      "address": "110/111 THOMAS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1446",
+      "name": "LOWES",
+      "address": "27 DOLPHINS BARN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0107",
+      "name": "LUNDYFOOTS",
+      "address": "3 ESSEX GATE AND, 14A, 15 AND PART 16 OF LOWER EXCHANGE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1883",
+      "name": "LUTTRELLSTOWN CASTLE RESORT",
+      "address": "THE CLUBHOUSE, LUTTRELLSTOWN CASTLE GOLF AND COUNTRY CLUB, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1004353",
+      "name": "LYSTER'S",
+      "address": "236 AND 238A HAROLD'S CROSS ROAD, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0066",
+      "name": "M AND R KHAYA INVESTMENT LIMITED",
+      "address": "80 UPPER DORSET STREET, CONSISTING OF BASEMENT AND GROUND FLOOR, TOGETHER WITH SINGLE STOREY AT THE REAR OF 79/80 UPPER DORSET STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0061",
+      "name": "M. HUGHES",
+      "address": "19/20 CHANCERY PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0240",
+      "name": "M.B SLATTERY",
+      "address": "217/219 LOWER RATHMINES ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022699",
+      "name": "M.J. WRIGHT",
+      "address": "17 SOUTH GREAT GEORGES STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1016097",
+      "name": "MACKENZIES",
+      "address": "UNIT 1 OPUS, 6 HANOVER QUAY, GRAND CANAL DOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0845",
+      "name": "MADIGAN'S",
+      "address": "KILBARRACK SHOPPING CENTRE, GRANGE PARK PARADE, KILBARRACK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1074",
+      "name": "MADIGAN'S",
+      "address": "25 NORTH EARL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.35008165,
+      "longitude": -6.2593467
+    },
+    {
+      "licence_ref": "S0025",
+      "name": "MADIGAN'S",
+      "address": "104/105 LOWER LEESON  STREET, AND PORTION OF BASEMENT OF 103 LOWER LEESON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0164",
+      "name": "MADIGAN'S",
+      "address": "HORSE SHOW HOUSE, 34/36 AND PART OF, 32 MERRION ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1224",
+      "name": "MADIGANS",
+      "address": "THE 19 O'CONNELL, 19/19A UPPER O'CONNELL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0184",
+      "name": "MAGHOY HOLDINGS LIMITED",
+      "address": "147/148 UPPER LEESON STREET AND ADJOINING PREMISES, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1019413",
+      "name": "MAMA YO",
+      "address": "75, 75A AND 76 LOWER CAMDEN STREET, AND 41A PLEASANT STREET, DUBLIN 8, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "DG0478",
+      "name": "MAN O'WAR PUB",
+      "address": "COURTLOUGH, BALBRIGGAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0168",
+      "name": "MARINE HOTEL",
+      "address": "AND PREMISES ATTACHED AND ADJOINING THERETO, SUTTON, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0153",
+      "name": "MARTIN'S BAR",
+      "address": "BALLYGALL ROAD WEST, AND EXTENSION ATTACHED AND ADJOINING THERETO, FINGLAS, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3271",
+      "name": "MARY'S BAR AND HARDWARE",
+      "address": "6-8 WICKLOW STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0106",
+      "name": "MATY CATERING LIMITED",
+      "address": "155 PARNELL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0202",
+      "name": "MCCAFFERTY'S AT THE BARGE",
+      "address": "42 CHARLEMONT STREET AND, 32 CHARLEMONT MALL, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0093",
+      "name": "MCDAIDS",
+      "address": "3 HARRY STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34122768717764,
+      "longitude": -6.261001338030643
+    },
+    {
+      "licence_ref": "N0214",
+      "name": "MCGETTIGANS PUB",
+      "address": "78/78A QUEEN STREET AND, 1 BENBURB STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0208",
+      "name": "MCGOWANS OF PHIBSBORO",
+      "address": "18/19 PHIBSBORO ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3759",
+      "name": "MCGRATTANS RESTAURANT",
+      "address": "FITZWILLIAM LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1000064",
+      "name": "MCNEILLS",
+      "address": "140 CAPEL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022924",
+      "name": "MCSORLEY'S",
+      "address": "SANDFORD HOUSE, 1/3/5 SANDFORD ROAD, RANELAGH, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0148",
+      "name": "MEAGHER'S",
+      "address": "283/285 RICHMOND ROAD, FAIRVIEW, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.362794604003106,
+      "longitude": -6.242274112898845
+    },
+    {
+      "licence_ref": "1018821",
+      "name": "MEAGHERS",
+      "address": "3 EDEN QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1002171",
+      "name": "MERCHANTS HALL",
+      "address": "48/49 WELLINGTON QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2031",
+      "name": "MERRY PLOUGHBOY PUB",
+      "address": "NEWTOWN, EDMONDSTOWN ROAD, ROCKBROOK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4356",
+      "name": "METRO CAFE BAR",
+      "address": "UNITS 2-4, TRAMWAY COURT, OLD BLESSINGTON ROAD, TALLAGHT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0264",
+      "name": "MICHAEL O'LOUGHLIN",
+      "address": "26 LOWER GEORGE'S STREET, DUN LAOIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1008645",
+      "name": "MOLLOY'S",
+      "address": "59 TALBOT STREET AND, 28 TALBOT PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3511395,
+      "longitude": -6.2513336
+    },
+    {
+      "licence_ref": "S1451",
+      "name": "MOLLY'S BAR",
+      "address": "101/102/103 FRANCIS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1494",
+      "name": "MORRISSEYS",
+      "address": "80/81 CORK STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0032",
+      "name": "MOSS LANE",
+      "address": "37B PEARSE STREET AND 2 SHAW STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34487769308112,
+      "longitude": -6.2520987586122985
+    },
+    {
+      "licence_ref": "N0008",
+      "name": "MULLETTS PUBLIC HOUSE",
+      "address": "45 AMIEN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4607",
+      "name": "MULLIGAN AND HAINES",
+      "address": "32 DAME STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3440757,
+      "longitude": -6.2634747
+    },
+    {
+      "licence_ref": "N0249",
+      "name": "MULLINGAR HOUSE",
+      "address": "NEW CONSTRUCTED AND ALTERED PREMISES, SITUATE AT 9 MULLINGAR TERRACE, AND NEWLY EXTENSIONS ATT & ADJ THERETO, CHAPELIZOD, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3484377868165,
+      "longitude": -6.342285611626302
+    },
+    {
+      "licence_ref": "N1556",
+      "name": "MURAYS",
+      "address": "33 UPPER O'CONNELL STREET, 34 UPPER O'CONNELL STREET (GROUND FLOOR BASEMENT & 1ST 2ND 3RD FLOORS), DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0239",
+      "name": "MURPHY'S",
+      "address": "93/95 UPPER RATHMINES ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0276",
+      "name": "MURRAYS",
+      "address": "THE SQUARE, LUSK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1122",
+      "name": "MURRAYS DEADMANS INN",
+      "address": "OLD LUCAN ROAD, QUARRY VALE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0242",
+      "name": "MYOS OF CASTLEKNOCK",
+      "address": "(AND PREMISES ADJOINING THERETO), CASTLEKNOCK VILLAGE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0206",
+      "name": "NANCY HANDS",
+      "address": "30, 31 AND 32 PARKGATE STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.348240678142616,
+      "longitude": -6.2940078310045315
+    },
+    {
+      "licence_ref": "DG0495",
+      "name": "NEALONS",
+      "address": "12 CHURCH STREET, SKERRIES, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0077",
+      "name": "NEARYS",
+      "address": "1 CHATHAM STREET, AND PART OF 63 GRAFTON STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1009868",
+      "name": "NEWMARKET VC LIMITED",
+      "address": "TEELING WHISKEY DISTILLERY, 13-17 NEWMARKET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1054",
+      "name": "NEWTOWN HOUSE",
+      "address": "MALAHIDE ROAD, NEWTOWN, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.396518787720645,
+      "longitude": -6.188878751492388
+    },
+    {
+      "licence_ref": "N0039",
+      "name": "NOCTOR'S PUBLIC HOUSE",
+      "address": "34 LOWER SHERIFF STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0014",
+      "name": "NOTE",
+      "address": "24/25/26 FENIAN STREET AND, 1/2 DENZILLE LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0167",
+      "name": "O' REILLY",
+      "address": "5 SEAFORT AVENUE, SANDYMOUNT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0185",
+      "name": "O'BRIENS",
+      "address": "8/9 SUSSEX TERRACE, UPPER LEESON STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0772",
+      "name": "O'CONNELLS",
+      "address": "4 EAST PIER, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.388225,
+      "longitude": -6.0639896
+    },
+    {
+      "licence_ref": "N2307",
+      "name": "O'CONNELLS",
+      "address": "30 BACHELOR'S WALK, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.347443010386286,
+      "longitude": -6.260285095363956
+    },
+    {
+      "licence_ref": "S0213",
+      "name": "O'CONNELLS",
+      "address": "133/135 MOREHAMPTON ROAD, 1 BELMONT AVENUE, RERE 1A BELMONT AVENUE, DONNYBROOK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1476",
+      "name": "O'CONNOR'S OF CRUMLIN CROSS",
+      "address": "CROMWELLSFORT ROAD/WHITEHALL ROAD WEST, AND QUARRY ROAD, CRUMLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013043",
+      "name": "O'DONOGHUE'S PUBLIC HOUSE",
+      "address": "15 SUFFOLK STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0029",
+      "name": "O'DONOGHUES",
+      "address": "14 MERRION ROW AND 15 MERRION ROW, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.338156005389955,
+      "longitude": -6.254180960986229
+    },
+    {
+      "licence_ref": "S0254",
+      "name": "O'DWYER'S",
+      "address": "116/118/118A LOWER KILMACUD ROAD, STILLORGAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1633",
+      "name": "O'GARA INNS LIMITED",
+      "address": "LAUREL LODGE, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0155",
+      "name": "O'KEEFFE'S",
+      "address": "7/8 BATH STREET, IRISHTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0112",
+      "name": "O'NEILLS",
+      "address": "(GROUND FLOOR AND BASEMENT OF ALL), 1/2 SUFFOLK STREET AND, 2A AND 3/4 CHURCH LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3438336,
+      "longitude": -6.260743
+    },
+    {
+      "licence_ref": "S0270",
+      "name": "O'NEILLS",
+      "address": "17 GEORGES STREET UPPER, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0031",
+      "name": "O'NEILLS VICTORIAN PUB AND TOWNHOUSE",
+      "address": "36/37 PEARSE STREET AND, 22 SHAW STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1433",
+      "name": "O'SHEAS MERCHANT",
+      "address": "11,12,13 AND 14 LOWER BRIDGE STREET AND, 30A AND 31/34 MERCHANTS QUAY AND PART OF 6A AND 6B MERCHANTS HOUSE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0150",
+      "name": "OIL CAN HARRYS",
+      "address": "31/32 LOWER MOUNT STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0271",
+      "name": "OLDTOWN HOUSE LIMITED",
+      "address": "OLDTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1001292",
+      "name": "OLYMPIA THEATRE",
+      "address": "72 DAME STREET, 6-8 CRAMPTON COURT, 13-15 CRAMPTON COURT, 1-8 SYCAMORE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015067",
+      "name": "ONE BALLSBRIDGE RESTAURANT AND BAR",
+      "address": "PEMBROKE PLAZA, RETAIL UNIT 1,BULIDING NUMBER ONE, SHELBOURNE ROAD, BALLSBRIDGE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1002519",
+      "name": "ONGAR HOUSE",
+      "address": "42/44 MAIN STREET, ONGAR VILLAGE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010753",
+      "name": "OPEN GATE BREWERY DUBLIN",
+      "address": "ST. JAMES'S GATE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1006303",
+      "name": "OPIUM",
+      "address": "26 WEXFORD STREET, 13 AND 14 LIBERTY LANE & 37 & 38 CAMDEN ROW, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.336695113741044,
+      "longitude": -6.266057449799724
+    },
+    {
+      "licence_ref": "1006953",
+      "name": "OSCAR'S CAFE BAR",
+      "address": "UNIT 6A (FORMERLY NUMBER 39), BLOCK A SMITHFIELD PLAZA, SMITHFIELD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4096",
+      "name": "OSTERIA LUCIO",
+      "address": "THE MALTING TOWER, GRAND CANAL QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0236",
+      "name": "P. HEDIGAN - THE BRIAN BORU",
+      "address": "BRIAN BORU HOUSE, NO. 5 PROSPECT ROAD, GLASNEVIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0163",
+      "name": "PADDY CULLENS AND MARY MACS",
+      "address": "14 MERRION ROAD (BASE GROUND AND UPPER FLOOR) AND, 12 MERRION ROAD (UPPER FLOOR) AND NEWLY CONSTRUCTED PREMISES, ATTATCHED AND ADJOINING BALLSBRIDGE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0033",
+      "name": "PADRAIG PEARSE",
+      "address": "81/82 PEARSE STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3433493,
+      "longitude": -6.2447418
+    },
+    {
+      "licence_ref": "N0191",
+      "name": "PANTIBAR",
+      "address": "6-7 CAPEL STREET AND, 68-71 GREAT STRAND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1098",
+      "name": "PARNELL MOONEY",
+      "address": "72/74 PARNELL STREET AND AN EXTENSION, ATTACHED TO & ADJOINING THE SAID LICENSED PREMISES, WHICH COMPRISES A SEATING AREA TO THE EXISTING ROOF AT SECOND FLOOR LE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0082",
+      "name": "PATRICK MCGRATH",
+      "address": "1 GRATTAN PARADE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1344",
+      "name": "PEBBLE BEACH",
+      "address": "18 CONQUER HILL ROAD, CLONTARF, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3594872,
+      "longitude": -6.1896797
+    },
+    {
+      "licence_ref": "S0247",
+      "name": "PEGGY KELLYS",
+      "address": "159, 161 & 163 HAROLD'S CROSS ROAD, AND REAR OF 157 AND 165 HAROLD'S CROSS ROAD, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3237548,
+      "longitude": -6.278506
+    },
+    {
+      "licence_ref": "1015498",
+      "name": "PENNY LANE CAFE",
+      "address": "2 GREAT STRAND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1008082",
+      "name": "PERUKE AND PERIWIG",
+      "address": "31 DAWSON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1007737",
+      "name": "PETER'S PUB",
+      "address": "NO 1 AND 2 JOHNSON' PLACE, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0024",
+      "name": "PHIL RYANS",
+      "address": "512 AND 514 NORTH CIRCULAR ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4467",
+      "name": "PHILOMENA CROWE",
+      "address": "FORTUNESTOWN SHOPPING CENTRE, COOKSTOWN ROAD, MAPLE WOOD, (PREMISES ATTACHED AND ADJOINING THERETO) TALLAGHT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1084",
+      "name": "PIPERS CORNER",
+      "address": "105/106 MARLBOROUGH STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34904729274277,
+      "longitude": -6.257945325109169
+    },
+    {
+      "licence_ref": "1021725",
+      "name": "PITCH",
+      "address": "UNIT 3A, 60-63 DAWSON STREET (GRAFTON PLACE), DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021705",
+      "name": "PORTERS OF CAMDEN STREET",
+      "address": "9 CAMDEN PLACE,16 CAMDEN STREET LOWER, 8 CAMDEN, PLACE, 8A CAMDEN PLACE AND 2 CAMDEN VILLAS, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1007719",
+      "name": "PRIME STEAK RESTAURANT 2012 LIMITED",
+      "address": "NO. 4, 5 AND 6 FADE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022267",
+      "name": "PRIORY MARKET LIMITED",
+      "address": "TALLAGHT ENTERPRISE CENTRE, MAIN STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0250",
+      "name": "PYE",
+      "address": "MAIN STREET, DUNDRUM, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.289046,
+      "longitude": -6.243152
+    },
+    {
+      "licence_ref": "S3903",
+      "name": "PYGMALION",
+      "address": "UNITS 17A, 18,19A,19B AND 19C, POWERSCOURT TOWNHOUSE CENTRE, 59 SOUTH WILLIAM STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1017068",
+      "name": "RASCALS BREWING COMPANY LIMITED",
+      "address": "UNIT 5 GOLDENBRIDGE INDUSTRIAL ESTATE, INCHICORE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1580",
+      "name": "RATHCOOLE INN",
+      "address": "1 MAIN STREET, RATHCOOLE, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.281024365125745,
+      "longitude": -6.470410650144724
+    },
+    {
+      "licence_ref": "1009574",
+      "name": "RAW",
+      "address": "72/73 CAMDEN STREET LOWER, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0204",
+      "name": "REAS PUBLIC HOUSE",
+      "address": "25 PARKGATE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1023039",
+      "name": "RED COW INN",
+      "address": "RED COW INN COMPLEX, CLONDALKIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2410",
+      "name": "REDGROVE PROPERTIES LIMITED",
+      "address": "EDMONSTOWN GREEN, WHITECHURCH, RATHFARNHAM, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4583",
+      "name": "RESIDENCE",
+      "address": "41 ST. STEPHENS GREEN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0227",
+      "name": "REVELS BAR",
+      "address": "37 MAIN STREET, RATHFARNHAM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1019974",
+      "name": "REZZ D2",
+      "address": "2-4 DAME COURT AND 2 DAME LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011776",
+      "name": "RIU PLAZA THE GRESHAM DUBLIN",
+      "address": "20-24 UPPER O'CONNELL STREET, 7 CATHAL, BRUGHA STREET, 69-81 MARLBOROUGH STREET AND, EXTENSIONS ATTACHED AND ADJOINING THERETO, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013039",
+      "name": "ROBERTA'S",
+      "address": "ESSEX STREET EAST OF DOLLARD HOUSE, 2/5 WELLINGTON QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0238",
+      "name": "RODY BOLANDS",
+      "address": "12 AND 14 UPPER RATHMINES ROAD, AND 26B CHURCH GARDENS, RATHMINES, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015607",
+      "name": "ROE & CO. VISITOR CENTRE",
+      "address": "FORMER GUINNESS POWER HOUSE BUILDING, JAMES'S STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1493",
+      "name": "ROUND TWO PUBS LIMITED",
+      "address": "536/538 SOUTH CIRCULAR ROAD, RIALTO, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1112",
+      "name": "RUBY FINNEGANS",
+      "address": "1A FIRST AVENUE, INCHICORE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015426",
+      "name": "RUBY'S PIZZA & GRILL",
+      "address": "UNIT 5, POINT SHOPPING CENTRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4097",
+      "name": "RUSH",
+      "address": "BASEMENT AND GROUND FLOOR OF NO, 65 SOUTH WILLIAM STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0041",
+      "name": "RYAN'S BAR AND CAFE",
+      "address": "19 STORE STREET AND EXTENSION ATTACHED AND ADJOINING TO, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0205",
+      "name": "RYANS OF PARKGATE STREET",
+      "address": "28 PARKGATE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2258",
+      "name": "SALMON'S PUBLIC HOUSE",
+      "address": "MOUNTVIEW SHOPPING CENTRE, MOUNTVIEW ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0251",
+      "name": "SANDYFORD HOUSE",
+      "address": "SANDYFORD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0166",
+      "name": "SANDYMOUNT HOUSE",
+      "address": "1 SANDYMOUNT GREEN, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3323885,
+      "longitude": -6.2152784
+    },
+    {
+      "licence_ref": "S3735",
+      "name": "SCHOLARS",
+      "address": "KILLININNY, BALLYCRAGH, TALLAGHT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0021",
+      "name": "SEABANK HOUSE",
+      "address": "8 EAST ROAD AND EXTENSIONS ATTACHED, AND ADJOINING TO 5A, 6 AND 7 EAST ROAD, 124, 125 AND 126 EAST WALL ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0173",
+      "name": "SEARSONS",
+      "address": "42-44 UPPER BAGGOT STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010888",
+      "name": "SHEARYS",
+      "address": "1,3 AND 5 BANGOR DRIVE, CRUMLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0078",
+      "name": "SHEEHANS",
+      "address": "17 CHATHAM STREET UPPER, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34098015388063,
+      "longitude": -6.2617653097999
+    },
+    {
+      "licence_ref": "S3214",
+      "name": "SHELBOURNE GREYHOUND STADIUM",
+      "address": "SHELBOURNE PARK, SOUTH LOTTS ROAD AND PREMISES ATTACHED, DONNYBROOK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2481",
+      "name": "SIAM THAI RESTAURANT",
+      "address": "PORTION OF 1-3 THE GREEN, MALAHIDE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0395",
+      "name": "SILVER TASSIE LOUNGE AND RESTAURANT",
+      "address": "LOUGHLINSTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1068",
+      "name": "SLATTERYS",
+      "address": "129, 130 AND 131 CAPEL STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34827681875915,
+      "longitude": -6.268936177682453
+    },
+    {
+      "licence_ref": "N1123",
+      "name": "SLATTS",
+      "address": "126A TYRCONNELL PARK, INCHICORE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.337787863546446,
+      "longitude": -6.3288636175259265
+    },
+    {
+      "licence_ref": "S0191",
+      "name": "SMYTH'S OF RANELAGH",
+      "address": "75-77 RANELAGH, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3781",
+      "name": "SODER AND KO",
+      "address": "64/65 SOUTH GREAT GEORGE'S STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0007",
+      "name": "SOHO",
+      "address": "D'OLIER HOUSE, 21 D'OLIER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2493",
+      "name": "SPEAKER CONOLLY",
+      "address": "WOODLAWN PARK ESTATE, OFF FIRHOUSE ROAD, TALLAGHT, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.28189489602186,
+      "longitude": -6.341013175034726
+    },
+    {
+      "licence_ref": "S1440",
+      "name": "SPITALFIELDS",
+      "address": "T/A SPITALFIELDS, 25 THE COOMBE, MERCHANTS QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1776",
+      "name": "ST. MARGARET'S GOLF AND COUNTRY CLUB",
+      "address": "ST. MARGARETS GOLF COURSE, SKEPHUBBLE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0160",
+      "name": "STAFFORD ARMS LIMITED",
+      "address": "78, 80, 82 IRISHTOWN ROAD, AND REAR OF 17/19 BATH STREET, IRISHTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "DG0499",
+      "name": "STOOP YOUR HEAD",
+      "address": "19 HARBOUR ROAD, SKERRIES, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0244",
+      "name": "STRAWBERRY HALL",
+      "address": "ASTAGOB, STRAWBERRY BEDS, CHAPELIZOD, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3178",
+      "name": "STREET 66",
+      "address": "3/6 UPPER EXCHANGE STREET, GROUND FLOOR AND BASEMENT 33/34 PARLIAMENT STREET, 3-6 UPPER EXCHANGE STREET, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.34450711660843,
+      "longitude": -6.267606531193361
+    },
+    {
+      "licence_ref": "N0049",
+      "name": "SUMMERHILL OFF LICENCE",
+      "address": "1 SUMMERHILL PARADE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021852",
+      "name": "SUPER SOCIAL",
+      "address": "PART OF THE PAVILION BUILDING, LEOPARDSTOWN RACECOURSE, LEOPARDSTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1470",
+      "name": "SWIFT",
+      "address": "131 THOMAS STREET, BRIDGEFOOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3433017,
+      "longitude": -6.2810822
+    },
+    {
+      "licence_ref": "N1080",
+      "name": "T P SMITHS",
+      "address": "18 UPPER ABBEY STREET AND, 9/10 JERVIS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34746669889114,
+      "longitude": -6.265976788676539
+    },
+    {
+      "licence_ref": "N2114",
+      "name": "TGI FRIDAYS",
+      "address": "BLANCHARDSTOWN TOWN CENTRE, BLANCHARDSTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1017593",
+      "name": "THE  GUINNESS STOREHOUSE",
+      "address": "THE ADJOINING HUB BUILDING AND A DEMARCATED PART OF ROBERT STREET, MARKET STREET SOUTH, GRAND CANAL PLACE, PORTLAND STREET WEST AND ROBERT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0181",
+      "name": "THE 1884",
+      "address": "74 MALAHIDE ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3676901688589,
+      "longitude": -6.226870546577988
+    },
+    {
+      "licence_ref": "S0181",
+      "name": "THE 51",
+      "address": "51 HADDINGTON ROAD, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.334610265542196,
+      "longitude": -6.242354996021685
+    },
+    {
+      "licence_ref": "N1058",
+      "name": "THE 79 INN",
+      "address": "367 BALLYFERMOT ROAD, BALLYFERMOT & EXTENSION ATTACHED, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34242073809646,
+      "longitude": -6.358917905253897
+    },
+    {
+      "licence_ref": "N0163",
+      "name": "THE ABBEY TAVERN",
+      "address": "28 ABBEY STREET, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.38699874309806,
+      "longitude": -6.065763075117159
+    },
+    {
+      "licence_ref": "N0243",
+      "name": "THE ANGLERS REST",
+      "address": "KNOCKMAROON HILL, CHAPELIZOD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0302",
+      "name": "THE ARCH BAR",
+      "address": "MAIN STREET, SWORDS, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0064",
+      "name": "THE AULD DUBLINER",
+      "address": "17 ANGLESEA STREET AND 24/25 TEMPLE BAR BASEMENT AND GROUND FLOOR AND, THE EXTENSIONS TO AND ADJOINING THE FIRST AND SECOND FLOOR, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.345566600000005,
+      "longitude": -6.261976450000001
+    },
+    {
+      "licence_ref": "N0017",
+      "name": "THE AULD TRIANGLE",
+      "address": "28/29 LOWER DORSET STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0175",
+      "name": "THE AUTOBAHN",
+      "address": "73/75 GLASNEVIN AVENUE AND, GROUND FLOOR OF 77 GLASNEVIN AVENUE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1066",
+      "name": "THE BACHELOR INN",
+      "address": "31 BACHELORS WALK AND, 1 AND 2 WILLIAMS ROW (BACHELOR INN), DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1008141",
+      "name": "THE BAD ASS CAFE",
+      "address": "NO'S 9, 10 AND 11 CROWN ALLEY AND, NO. 6 TEMPLE BAR SQUARE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0056",
+      "name": "THE BAILEY",
+      "address": "1/4 DUKE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2186",
+      "name": "THE BALALLY INN",
+      "address": "BALALLY SHOPPING CENTRE, DUNDRUM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0311",
+      "name": "THE BALGRIFFIN INN",
+      "address": "BALGRIFFIN, MALAHIDE ROAD, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.40895934739779,
+      "longitude": -6.178495420651317
+    },
+    {
+      "licence_ref": "S4095",
+      "name": "THE BANK ON COLLEGE GREEN",
+      "address": "20/21/22 COLLEGE GREEN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0115",
+      "name": "THE BANKERS LOUNGE",
+      "address": "16 TRINITY STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0196",
+      "name": "THE BARBERS",
+      "address": "1 AND 2 FITZWILLIAM PLACE NORTH, (OTHERWISE 19 GRANGEGORMAN LOWER), DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0177",
+      "name": "THE BATH",
+      "address": "26 BATH AVENUE, SANDYMOUNT, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.337473565542304,
+      "longitude": -6.23216039025237
+    },
+    {
+      "licence_ref": "N0902",
+      "name": "THE BAYSIDE INN",
+      "address": "KILBARRACK, SUTTON, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0131",
+      "name": "THE BEACHCOMBER",
+      "address": "179A AND 179B HOWTH ROAD, KILLESTER, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.37070095909105,
+      "longitude": -6.20612585871009
+    },
+    {
+      "licence_ref": "N0123",
+      "name": "THE BEAUMONT HOUSE",
+      "address": "1/3 SHANTALLA ROAD, BEAUMONT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0183",
+      "name": "THE BEGGARS BUSH",
+      "address": "115 HADDINGTON ROAD, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0224",
+      "name": "THE BELFRY",
+      "address": "NO. 37 STONEYBATTER AND NO. 1 ARBOUR HILL, TOGETHER WITH PREMISES ATTACHED, AND ADJOINING THERETO, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.350406717825194,
+      "longitude": -6.282086689351101
+    },
+    {
+      "licence_ref": "1007597",
+      "name": "THE BELL/DAVY AND PHELANS BAR",
+      "address": "NAVAN ROAD/CASTLEKNOCK ROAD, BLANCHARDSTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0099",
+      "name": "THE BIG ROMANCE",
+      "address": "98 PARNELL STREET, (PORTIONS OF GROUND FLOOR, 1ST FLOOR AND BASEMENT, AND SECOND PREMISES ATTACHED), DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3534835,
+      "longitude": -6.2592195
+    },
+    {
+      "licence_ref": "S1519",
+      "name": "THE BIRD FLANAGAN",
+      "address": "471/477 SOUTH CIRCULAR ROAD, RIALTO, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3365462,
+      "longitude": -6.299192
+    },
+    {
+      "licence_ref": "1020776",
+      "name": "THE BLACK FORGE INN",
+      "address": "163-165 DRIMNAGH RD & AN EXTENSION ATTTACHED TO, & ADJOINING THE SAID LICENSED PREMISES, SITUATE AT REAR 159 DRIMNAGH RD, WALKINSTOWN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1485",
+      "name": "THE BLACK LION",
+      "address": "CLONDALKIN VILLAGE, CLONDALKIN, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0084",
+      "name": "THE BLACK SHEEP",
+      "address": "61/63 CAPEL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34976166029616,
+      "longitude": -6.269093937662656
+    },
+    {
+      "licence_ref": "1009755",
+      "name": "THE BLACKROCK BAR/EATERY/TERRACE",
+      "address": "2 CARYSFORT AVENUE, 1/3/5 TEMPLE ROAD BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0201",
+      "name": "THE BLEEDING HORSE",
+      "address": "24 AND 25 UPPER CAMDEN STREET AND, 33 AND 34 CHARLOTTE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0768",
+      "name": "THE BLUE HAVEN",
+      "address": "1A BALLYROAN ROAD, BUTTERFIELD, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.29355541002925,
+      "longitude": -6.308383575051586
+    },
+    {
+      "licence_ref": "S0368",
+      "name": "THE BLUE LIGHT",
+      "address": "BARNACULLIA, SANDYFORD, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.25463885,
+      "longitude": -6.231364200000002
+    },
+    {
+      "licence_ref": "1019912",
+      "name": "THE BOAR'S HEAD",
+      "address": "149 CAPEL STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.347373696985855,
+      "longitude": -6.268599194285108
+    },
+    {
+      "licence_ref": "N0232",
+      "name": "THE BOHEMIAN HOUSE",
+      "address": "66 AND PART OF 67 PHIBSBOROUGH ROAD, CELLAR OF 355/357 NORTH CIRCULAR ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0079",
+      "name": "THE BOTANIC DUBLIN",
+      "address": "22/26 BOTANIC ROAD, GLASNEVIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0260",
+      "name": "THE BOTTLE TOWER",
+      "address": "NOWLAN (BEAUMONT) AVENUE, CHURCHTOWN, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.29498682212793,
+      "longitude": -6.256859044031506
+    },
+    {
+      "licence_ref": "1000734",
+      "name": "THE BRACKEN COURT HOTEL",
+      "address": "THE SQUARE, BALBRIGGAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1475",
+      "name": "THE BRAZEN HEAD",
+      "address": "19/20 LOWER BRIDGE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011804",
+      "name": "THE BRIDGE 1859",
+      "address": "13 BALLSBIRDGE TERRACE AND PART OF BOTH 15 AND 17 BALLSBRIDGE TERRACE, EXTENSIONS ATTACHING & ADJOINING TO INCORPORATE 11 BALLSBRIDGE TERRACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3292911,
+      "longitude": -6.2320003
+    },
+    {
+      "licence_ref": "N0274",
+      "name": "THE BROOK",
+      "address": "PORTRANE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0104",
+      "name": "THE BULL AND CASTLE",
+      "address": "5/7 LORD EDWARD STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1023254",
+      "name": "THE BURTON",
+      "address": "18/19 DUKE STREET AND 8 DUKE LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0283",
+      "name": "THE CARLYAN",
+      "address": "MAIN STREET, RUSH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0304",
+      "name": "THE CARNAGIE COURT HOTEL",
+      "address": "EAST SIDE OF NORTH STREET, & EXT ATT & ADJ WITHOUT AREAS DE-LICENSED PER PLANS LODGED IN COURT, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2070",
+      "name": "THE CARPENTER",
+      "address": "CARPENTERSTOWN ROAD, CASTLEKNOCK, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.37194883505383,
+      "longitude": -6.389173788863601
+    },
+    {
+      "licence_ref": "S0228",
+      "name": "THE CASTLESIDE TAVERNS",
+      "address": "38/39 MAIN STREET, RATHFARNHAM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0146",
+      "name": "THE CAT AND CAGE",
+      "address": "74/76 UPPER DRUMCONDRA ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0594",
+      "name": "THE CEDAR LOUNGE",
+      "address": "76 AND 78 ST. ASSAMS PARK, AND EXTENTIONS, RAHENY, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1102",
+      "name": "THE CELT BAR",
+      "address": "81 TALBOT STREET, & EXTENSION ATTACHED & ADJOINING, 82 TALBOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "DG0482",
+      "name": "THE CENTRAL - MRS. O'S",
+      "address": "20 BRIDGE STREET, BALBRIGGAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2678",
+      "name": "THE CHARLES STEWART ACCOMMODATION LIMITED",
+      "address": "BASEMENT GROUND & UPPER GROUND FLOORS, 12 PARNELL SQUARE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1478",
+      "name": "THE CHERRY TREE",
+      "address": "3 AND 4 WALKINSTOWN CROSS, CRUMLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4470",
+      "name": "THE CHOP HOUSE",
+      "address": "86/90 SANDYMOUNT ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2540",
+      "name": "THE CHURCH",
+      "address": "MARY STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34857023141929,
+      "longitude": -6.266917239717848
+    },
+    {
+      "licence_ref": "N0211",
+      "name": "THE CITY ARMS",
+      "address": "55 PRUSSIA STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0140",
+      "name": "THE CLARENCE HOTEL AND THE KITCHEN NITECLUB",
+      "address": "6, 7, 8 AND PART OF 9 WELLINGTON QUAY, AND 2/8 EAST ESSEX STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0011",
+      "name": "THE CLONLIFFE HOUSE",
+      "address": "43/44 BALLYBOUGH ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.36115880428026,
+      "longitude": -6.242586591420548
+    },
+    {
+      "licence_ref": "N0758",
+      "name": "THE CLONSILLA INN",
+      "address": "WEAVERS ROW, CLONSILLA, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0282",
+      "name": "THE CLUB",
+      "address": "107/108 COLIEMORE ROAD, AND EXTENSION ATTACHED, DALKEY, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.2773116,
+      "longitude": -6.1025984
+    },
+    {
+      "licence_ref": "S1177",
+      "name": "THE COACH HOUSE",
+      "address": "WOODLAWN, BALLINTEER, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0198",
+      "name": "THE COBBLESTONE",
+      "address": "77 NORTH KING STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34991962101075,
+      "longitude": -6.277854941969931
+    },
+    {
+      "licence_ref": "N0120",
+      "name": "THE COCK AND BULL",
+      "address": "COOLOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0160",
+      "name": "THE COCK TAVERN",
+      "address": "18 CHURCH STREET, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0303",
+      "name": "THE COCK TAVERN",
+      "address": "31 MAIN STREET, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.45780612044105,
+      "longitude": -6.220143140699089
+    },
+    {
+      "licence_ref": "N0172",
+      "name": "THE COMET",
+      "address": "243/245 SWORDS ROAD, WHITEHALL, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.388452,
+      "longitude": -6.2460311
+    },
+    {
+      "licence_ref": "N0852",
+      "name": "THE CONCORDE LOUNGE",
+      "address": "EDENMORE AVENUE, RAHENY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1081",
+      "name": "THE CONFESSION BOX",
+      "address": "88 MARLBOROUGH STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3503397,
+      "longitude": -6.2584406999999995
+    },
+    {
+      "licence_ref": "N0128",
+      "name": "THE CONNOLLY PARTNERSHIP",
+      "address": "198 AND 199 CLONTARF ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1132",
+      "name": "THE COUNTY BAR",
+      "address": "COOLDRINAGH, LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0010",
+      "name": "THE DAWSON LOUNGE",
+      "address": "25 DAWSON STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.33975947828107,
+      "longitude": -6.258863939170616
+    },
+    {
+      "licence_ref": "1009296",
+      "name": "THE DEAN HOTEL",
+      "address": "32-34 HARCOURT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1020014",
+      "name": "THE DEAN TOWNHOUSE",
+      "address": "36 HARCOURT STREET, AND THE REAR OF 37 & 38 HARCOURT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2704",
+      "name": "THE DEPUTY MAYOR",
+      "address": "MEAKSTOWN NEIGHBOURHOOD CENTRE BETWEEN ST. MARGARET'S ROAD AND, JAMESTOWN ROAD ADJACENT TO JAMESTOWN AND CENTURY BUSINESS PARKS, MEAKSTOWN, FINGLAS, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1014840",
+      "name": "THE DEVLIN",
+      "address": "117-119 RANELAGH, RANELAGH, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1588",
+      "name": "THE DRAGON INN",
+      "address": "TALLAGHT, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0284",
+      "name": "THE DRUIDS CHAIR",
+      "address": "KILLINEY HILL ROAD, KILLINEY, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.26445939681337,
+      "longitude": -6.1153343678785745
+    },
+    {
+      "licence_ref": "S0012",
+      "name": "THE DUKE",
+      "address": "THE DUKE PUBLIC HOUSE, 9 DUKE STREET AND BASEMENT AND GROUND FLOOR OF, 8 DUKE STREET AND REAR, 54 DAWSON STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0236",
+      "name": "THE DUNMORE",
+      "address": "196 LOWER RATHMINES ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021731",
+      "name": "THE EAGLE",
+      "address": "18/19 GLASTHULE ROAD, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.2870206,
+      "longitude": -6.1231501
+    },
+    {
+      "licence_ref": "N0169",
+      "name": "THE ELPHIN",
+      "address": "36 BALDOYLE ROAD, SUTTON, CO. DUBLIN",
+      "status": "visited",
+      "latitude": 53.38934,
+      "longitude": -6.12375
+    },
+    {
+      "licence_ref": "S0153",
+      "name": "THE FERRYMAN",
+      "address": "35 AND 36 SIR JOHN ROGERSON'S QUAY, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34600812447344,
+      "longitude": -6.240701593343608
+    },
+    {
+      "licence_ref": "N1062",
+      "name": "THE FLOWING TIDE",
+      "address": "9 LOWER ABBEY STREET, 108 MARLBOROUGH STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1019365",
+      "name": "THE FOODHALL",
+      "address": "UCD VILLAGE, UNIVERSITY COLLEGE DUBLIN, STILLORGAN ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011790",
+      "name": "THE FOURTH CORNER",
+      "address": "50 PATRICK STREET, AND 31 AND 31A UPPER KEVIN STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3389208,
+      "longitude": -6.2722998
+    },
+    {
+      "licence_ref": "N1130",
+      "name": "THE FOX HUNTER",
+      "address": "BALLYDOWD, LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1589",
+      "name": "THE FOXES COVERT/ MOLLOY'S PUB/ FABLES",
+      "address": "TALLAGHT, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3252",
+      "name": "THE GALLOP'S",
+      "address": "BALLYOGAN ROAD, RATHDOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0092",
+      "name": "THE GEORGE",
+      "address": "89 SOUTH GREAT GEORGE'S STREET AND UNIT 4 WICKLOW HOUSE, AND UNIT 3 WICKLOW HOUSE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2311",
+      "name": "THE GIN PALACE",
+      "address": "42 MIDDLE ABBEY STREET AND, 15 LOWER LIFFEY STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.34775572924975,
+      "longitude": -6.263429827782866
+    },
+    {
+      "licence_ref": "S0015",
+      "name": "THE GINGER MAN",
+      "address": "39 FENIAN STREET (BASEMENT GROUND AND 1ST FLOORS), 40 FENIAN STREET (BASEMENT GROUND 1ST AND PART 2ND FLOORS), DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.341898726352845,
+      "longitude": -6.249515618899251
+    },
+    {
+      "licence_ref": "DG0492",
+      "name": "THE GLADSTONE INN",
+      "address": "423 THE CROSS, SKERRIES, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1020980",
+      "name": "THE GLASSHOUSE DUBLIN",
+      "address": "POINT SQUARE, POINT VILLAGE, NORTH DOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1110",
+      "name": "THE GLEN OF AHERLOW",
+      "address": "29 EMMET ROAD, INCHICORE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0232",
+      "name": "THE GLENSIDE",
+      "address": "LANDSCAPE ROAD, CHURCHTOWN, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.29972608085243,
+      "longitude": -6.268012296698624
+    },
+    {
+      "licence_ref": "N0221",
+      "name": "THE GLIMMERMAN",
+      "address": "14/15 STONEYBATTER (INCLUDING STORE IN UPPER PART OF 13E ), DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022738",
+      "name": "THE GLOBE",
+      "address": "11 SOUTH GREAT GEORGE'S STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1001184",
+      "name": "THE GOLDEN BALL",
+      "address": "ENNISKERRY ROAD, KILTERNAN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0354",
+      "name": "THE GOLF LINKS INN",
+      "address": "& ADDITIONAL PREMISES, STRAND ROAD, PORTMARNOCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0140",
+      "name": "THE GOOSE TAVERN",
+      "address": "18/24 SION HILL ROAD, DRUMCONDRA, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.37578405,
+      "longitude": -6.239927299999999
+    },
+    {
+      "licence_ref": "1002229",
+      "name": "THE GRADUATE",
+      "address": "KILLINEY SHOPPING CENTRE, ROCHESTOWN AVENUE, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0317",
+      "name": "THE GRAND HOTEL",
+      "address": "AND PREMISES ATTACHED AND ADJOINING THERETO, COAST ROAD, MALAHIDE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1994",
+      "name": "THE GRAND SOCIAL",
+      "address": "35 LOWER LIFFEY STREET AND, 40 LOWER ORMOND QUAY, AND EXTENSION ATTACHED TO AND ADJOINING, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0402",
+      "name": "THE GRANGE PUB",
+      "address": "DEANSGRANGE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2244",
+      "name": "THE GREAT WOOD",
+      "address": "WEST END COMMERCIAL VILLAGE, OFF SNUGSBOROUGH ROAD, BLANCHARDSTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1000012",
+      "name": "THE GREEN ROOM",
+      "address": "117-126 UPPER SHERIFF STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3498005,
+      "longitude": -6.2299289
+    },
+    {
+      "licence_ref": "N0241",
+      "name": "THE HALFWAY HOUSE",
+      "address": "NAVAN ROAD, ASHTOWN ( AND EXTENSIONS ATTACHED AND ADJOINING THERETO), CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.372444733871205,
+      "longitude": -6.331112452757691
+    },
+    {
+      "licence_ref": "N1118",
+      "name": "THE HALFWAY HOUSE",
+      "address": "LONGMILE ROAD AND PREMISES ATTACHED, WALKINSTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0284",
+      "name": "THE HARBOUR BAR",
+      "address": "MAIN STREET, RUSH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4106",
+      "name": "THE HARD ROCK CAFE",
+      "address": "PORTION OF BASEMENT 7-12 FLEET STREET AND, GROUND FLOOR 10-12, FLEET STREETL,TEMPLE BAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015550",
+      "name": "THE HENDRICK",
+      "address": "6-11 HENDRICK STREET, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1012782",
+      "name": "THE HIDEOUT",
+      "address": "THE HIDEOUT, 1-2 CAMPBELLS ROW, NORTH CIRCULAR ROAD, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0194",
+      "name": "THE HILL",
+      "address": "1 AND 2 OLD MOUNT PLEASANT, RANELAGH, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0237",
+      "name": "THE HOMESTEAD",
+      "address": "QUARRY ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0394",
+      "name": "THE HORSE AND HOUND",
+      "address": "CABINTEELY, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0234",
+      "name": "THE HUT",
+      "address": "159 PHIBSBOROUGH ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3610075,
+      "longitude": -6.2725355
+    },
+    {
+      "licence_ref": "N0170",
+      "name": "THE INN",
+      "address": "RAHENY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0110",
+      "name": "THE INTERNATIONAL BAR",
+      "address": "8 ST ANDREW STREET & 23 WICKLOW STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.343129545645134,
+      "longitude": -6.26180941360084
+    },
+    {
+      "licence_ref": "1012980",
+      "name": "THE IRISH WHISKEY MUSEUM",
+      "address": "119 GRAFTON STREET AND 37 COLLEGE GREEN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2030",
+      "name": "THE ISAAC BUTT BAR AND RESTAURANT",
+      "address": "PART OF NUMBERS 21,22 AND 23 STORE STREET, AND PART OF 5 AND 6 FRENCHMAN'S LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0147",
+      "name": "THE IVY HOUSE",
+      "address": "114 UPPER DRUMCONDRA ROAD, AND PREMISES ATTACHED AND ADJOINING, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1983",
+      "name": "THE JAMESON DISTILLERY, BOWE STREET",
+      "address": "BOW STREET DISTILLERY & AN EXTENSION ATTACHED, TO & ADJOINING THE SAID LICENCED PREMISES, SMITHFIELD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0122",
+      "name": "THE JAR",
+      "address": "31 WEXFORD STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.336949,
+      "longitude": -6.2657418
+    },
+    {
+      "licence_ref": "1002238",
+      "name": "THE JOBSTOWN HOUSE",
+      "address": "BLESSINGTON ROAD, TALLAGHT, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0057",
+      "name": "THE KINGS INN",
+      "address": "42 BOLTON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.352345657046875,
+      "longitude": -6.26919964811353
+    },
+    {
+      "licence_ref": "1003568",
+      "name": "THE LANSDOWNE BAR",
+      "address": "14 BATH AVENUE, SANDYMOUNT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1456",
+      "name": "THE LARK INN",
+      "address": "80/81 MEATH STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.341684,
+      "longitude": -6.278673
+    },
+    {
+      "licence_ref": "1009200",
+      "name": "THE LAURELS",
+      "address": "CLONDALKIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1762",
+      "name": "THE LAURELS",
+      "address": "184/186 WHITEHALL ROAD WEST, TERENURE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1223",
+      "name": "THE LAURENCE LOUNGE",
+      "address": "7/9 LOWER BALLYFERMOT ROAD, BALLYFERMOT, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0087",
+      "name": "THE LEFT BANK ALSO AS THE OLIVER ST. JOHN GOGARTY",
+      "address": "57/58 FLEET STREET & 18 - 21 ANGLESEA STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0060",
+      "name": "THE LEGAL EAGLE",
+      "address": "CHANCERY PLACE, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3458363,
+      "longitude": -6.2721543
+    },
+    {
+      "licence_ref": "S0149",
+      "name": "THE LEINSTER",
+      "address": "7/8  MOUNT STREET LOWER, & REAR OF 36 MERRION SQUARE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1448",
+      "name": "THE LIBERTY BELLE",
+      "address": "33 FRANCIS STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34158133561929,
+      "longitude": -6.274715581483554
+    },
+    {
+      "licence_ref": "S1472",
+      "name": "THE LIFFEY SAINT",
+      "address": "40/43 USHERS QUAY AND, 37 BRIDGEFOOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1003470",
+      "name": "THE LOCK KEEPER",
+      "address": "72/73 THE VILLAGE CENTRE, RATHBOURNE VILLAGE, ASHTOWN, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0027",
+      "name": "THE LOMBARD",
+      "address": "1 LOMBARD STREET EAST (GROUND FLOOR AND BASEMENT), 2 LOMBARD STREET EAST (GROUND FLOOR), 44 PEARSE STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34420221673431,
+      "longitude": -6.248965011071877
+    },
+    {
+      "licence_ref": "S0091",
+      "name": "THE LONG HALL",
+      "address": "51 SOUTH GREAT GEORGE'S STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.341868026346994,
+      "longitude": -6.2653315783732
+    },
+    {
+      "licence_ref": "S0117",
+      "name": "THE LORD EDWARD",
+      "address": "1 WERBURGH STREET, AND 1ST FLOOR OF 2 WERBURGH STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0207",
+      "name": "THE LOWER DECK",
+      "address": "1/2/3 PORTOBELLO HARBOUR, BASEMENT GROUND FLOOR & YARD OF 1 RICHMOND ROW, PORTOBELLO, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.330686,
+      "longitude": -6.2652379
+    },
+    {
+      "licence_ref": "N1127",
+      "name": "THE LUCAN INN",
+      "address": "LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1133",
+      "name": "THE LUCAN SPA HOTEL",
+      "address": "COOLDRINAGH, LUCAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1002785",
+      "name": "THE MALTHOUSE",
+      "address": "27 AND 28 JAMES STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1120",
+      "name": "THE MANHATTAN",
+      "address": "GRANGE CROSS, JUNCTION LE FANU ROAD/BALLYFERMOT ROAD, BALLYFERMOT, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1769",
+      "name": "THE MANOR INN",
+      "address": "MANOR SHOPPING CENTRE, BRACKENSTOWN ROAD, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1428",
+      "name": "THE MARBLE ARCH",
+      "address": "1 BENBULBIN ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010890",
+      "name": "THE MARKET BAR",
+      "address": "14A FADE STREET, & THE REAR OF 25 ST GEORGE'S STREET, THE REAR OF 29 MARKET ARCADE EXTENSION, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3420522,
+      "longitude": -6.2640363
+    },
+    {
+      "licence_ref": "N1090",
+      "name": "THE MARKET HACIENDA BAR",
+      "address": "15 MARY STREET LITTLE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1016228",
+      "name": "THE MAYSON",
+      "address": "80, 81 AND 82 NORTH WALL QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0068",
+      "name": "THE MEETING POINT PUBLIC HOUSE",
+      "address": "100 UPPER DORSET STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0165",
+      "name": "THE MERRION INN",
+      "address": "188, 190 AND 192 MERRION ROAD  (ENCLOSED YARD ATTACHED AND ADJACENT), AND NEW EXTENSION ATTACHED, BALLSBRIDGE, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0282",
+      "name": "THE MICHAEL COLLINS",
+      "address": "MAIN STREET, RUSH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0210",
+      "name": "THE MILL PUBLIC HOUSE",
+      "address": "199 PHIBSBORO ROAD, PHIBSBORO, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1597",
+      "name": "THE MILLENIUM",
+      "address": "RIVER VALLEY SHOPPING CENTRE, FOREST ROAD HILLTOWN, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013865",
+      "name": "THE MILLHOUSE",
+      "address": "1 LOWER KILMACUD ROAD, STILLORGAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1001237",
+      "name": "THE MORGUE",
+      "address": "GROUND FLOOR ONLY, TEMPLEOGUE ROAD, TEMPLEOGUE, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.29831711960929,
+      "longitude": -6.302805263017993
+    },
+    {
+      "licence_ref": "S0234",
+      "name": "THE MOUNTPLEASANT INN",
+      "address": "27/28 MOUNTPLEASANT AVENUE, RATHMINES, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0084",
+      "name": "THE NORSEMAN",
+      "address": "29 EAST ESSEX STREET AND ADJOINING EXIT 28 EAST ESSEX STREEY AND, REAR 27 EAST ESSEX STREET (OTHERWISE KNOWN AS 12/13 TEMPLE LANE, AND 25/26/27 EAST ESSEX STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3454",
+      "name": "THE ODEON",
+      "address": "57 AND 57C HARCOURT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2538",
+      "name": "THE OLD BOROUGH",
+      "address": "MAIN STREET, SWORDS, CO. DUBLIN",
+      "status": "visited",
+      "latitude": 53.45649067347611,
+      "longitude": -6.222231658623728
+    },
+    {
+      "licence_ref": "S1592",
+      "name": "THE OLD MILL",
+      "address": "OLD BAWN, TALLAGHT, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0261",
+      "name": "THE OLD ORCHARD",
+      "address": "BUTTERFIELD AVENUE, RATHFARNHAM, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.2946756986885,
+      "longitude": -6.299264296906444
+    },
+    {
+      "licence_ref": "1022495",
+      "name": "THE OLD ROYAL OAK",
+      "address": "11 KILMAINHAM LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2783",
+      "name": "THE OLD SCHOOLHOUSE",
+      "address": "COOLBANAGHER, CHURCH ROAD, SWORDS, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0111",
+      "name": "THE OLD STAND",
+      "address": "37 EXCHEQUER STREET AND, 9/10 ANDREW STREET (INCLUDING OPEN YARD AT REAR OF 10 ANDREW STREET), DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34314144835829,
+      "longitude": -6.262148789107513
+    },
+    {
+      "licence_ref": "S2949",
+      "name": "THE OLD STOREHOUSE",
+      "address": "3A CROWN ALLEY, TEMPLE BAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3451323,
+      "longitude": -6.2626746
+    },
+    {
+      "licence_ref": "1017710",
+      "name": "THE ORCHARD",
+      "address": "APPLEWOOD VILLAGE, GLEN ELLEN, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1064",
+      "name": "THE OVAL",
+      "address": "78 MIDDLE ABBEY STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34845353520554,
+      "longitude": -6.260339226024134
+    },
+    {
+      "licence_ref": "N2417",
+      "name": "THE PADDOCKS",
+      "address": "LITTLEPACE, MULHUDDART, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0086",
+      "name": "THE PALACE BAR",
+      "address": "21 FLEET STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.345909908649126,
+      "longitude": -6.259615541224306
+    },
+    {
+      "licence_ref": "N1121",
+      "name": "THE PALMERSTOWN HOUSE",
+      "address": "INCLUDING NEW EXTENSION, PALMERSTOWN, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2046",
+      "name": "THE PENNY HILL",
+      "address": "BALLYOWEN CASTLE SHOPPING CENTRE, LUCAN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1464",
+      "name": "THE PIMLICO TAVERN",
+      "address": "61 AND 62 PIMLICO AND EXTENSION ATTACHED AND ADJOINING THERETO, NAMELY FACILITIES AT 35 BRAITHWAITE STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3400639,
+      "longitude": -6.2807211
+    },
+    {
+      "licence_ref": "S0210",
+      "name": "THE PORTOBELLO",
+      "address": "33 SOUTH RICHMOND STREET AND, 2, 3 AND PART OF 4 CHARLEMONT MALL, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0307",
+      "name": "THE POUND PUB",
+      "address": "BRIDGE STREET, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4239",
+      "name": "THE PUB MONKSTOWN",
+      "address": "NO 3 THE CRESCENT, MONKSTOWN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0298",
+      "name": "THE PUNCH BOWL",
+      "address": "116 BLACKROCK ROAD (OTHERWISE ROCK ROAD) AND 1 BOOTERSTOWN AVENUE, BLACKROCK, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1486",
+      "name": "THE PURTY CENTRAL",
+      "address": "MAIN STREET, CLONDALKIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3211955,
+      "longitude": -6.3932185
+    },
+    {
+      "licence_ref": "N0183",
+      "name": "THE QUARRY PUBLIC HOUSE",
+      "address": "BALLYGALL ROAD EAST, GLASNEVIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3230",
+      "name": "THE QUAYS",
+      "address": "10/13 TEMPLE BAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0314",
+      "name": "THE QUEENS",
+      "address": "12 CASTLE STREET, DALKEY, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0139",
+      "name": "THE RAMBLE INN",
+      "address": "145/147 KILLESTER AVENUE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0242",
+      "name": "THE RATHGAR 108",
+      "address": "108 RATHGAR ROAD, RATHGAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.31210321444412,
+      "longitude": -6.274533021584668
+    },
+    {
+      "licence_ref": "1011136",
+      "name": "THE RESTAURANT",
+      "address": "PORTION OF THIRD FLOOR NUMBERS 41,42,421/2 AND 43 WICKLOW STREET, THE BROWN THOMAS DEPARTMENT STORE, 85-95 GRAFTON STREET, 38-46 WICKLOW STREET AND 1-5 CLARENDON STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4500",
+      "name": "THE ROCKFIELD LOUNGE",
+      "address": "BLOCK 14 (WEST BLOCK), ROCKFIELD CENTRAL, BALLALY LUAS STOP, DUNDRUM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0971",
+      "name": "THE ROSELAWN INN",
+      "address": "UNIT O, ROSELAWN SHOPPING CENTRE, CASTLEKNOCK, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0124",
+      "name": "THE ROUNDABOUT",
+      "address": "2 ARDCOLLUM AVENUE, ARTANE, DUBLIN CITY",
+      "status": "remaining",
+      "latitude": 53.383917,
+      "longitude": -6.2068448
+    },
+    {
+      "licence_ref": "S0311",
+      "name": "THE ROYAL MARINE HOTEL",
+      "address": "GRESHAM TERRACE, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0287",
+      "name": "THE SALLYNOGGIN INN",
+      "address": "SALLYNOGGIN ROAD, SALLYNOGGIN, CO. DUBLIN",
+      "status": "remaining",
+      "latitude": 53.2769722,
+      "longitude": -6.1433942
+    },
+    {
+      "licence_ref": "1011787",
+      "name": "THE SALMON LEAP",
+      "address": "COOLDRINAGH, LEIXLIP, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0107",
+      "name": "THE SHAKESPEARE BAR",
+      "address": "160/161 PARNELL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1009700",
+      "name": "THE SNUG BAR",
+      "address": "15 UPPER STEPHEN STREET, TOGETHER WITH ADJOINING PREMISES SITUATE AT, NO. 79 AUNGIER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S4345",
+      "name": "THE SOUTH STRAND",
+      "address": "THE CORNER OF HANOVER QUAY AND, FORBES STREET, GRAND CANAL DOCK, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.3443705,
+      "longitude": -6.2381732
+    },
+    {
+      "licence_ref": "1007830",
+      "name": "THE SPEAK EASY CAFE BAR",
+      "address": "GROUND FLOOR AND BASEMENT, 4 SOUTH GREAT GEORGES STREET, 17 DAME COURT AND, 6A DAME LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0411",
+      "name": "THE STAG'S HEAD",
+      "address": "1 DAME COURT, DAME STREET, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.343824198616616,
+      "longitude": -6.263518385751097
+    },
+    {
+      "licence_ref": "S3731",
+      "name": "THE STAPLETON",
+      "address": "UNITS 1, 19D, 24, 24A POWERSCOURT TOWNHOUSE CENTRE, 59 SOUTH WILLIAM STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0171",
+      "name": "THE STATION HOUSE",
+      "address": "AND EXTENSION ATTACHED, 3-5 STATION ROAD, RAHENY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S2026",
+      "name": "THE STEERING WHEEL",
+      "address": "MAIN STREET, CLONDALKIN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0369",
+      "name": "THE STEP INN",
+      "address": "STEPASIDE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0400",
+      "name": "THE STILLORGAN ORCHARD",
+      "address": "1 THE HILL AND PREMISES ATTACHED AND ADJOINING, OLD STILLORGAN ROAD, STILLORGAN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1520",
+      "name": "THE STONEBOAT 35/37 SUNDRIVE ROAD",
+      "address": "REAR 39 SUNDRIVE ROAD AND REAR 15 SUNDRIVE PARK AND EXTENSION, ATTACHED TO AND ADJOINING 39 AND REAR 41 SUNDRIVE ROAD, CRUMLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0144",
+      "name": "THE STORYTELLER",
+      "address": "9-11 LOWER GRAND CANAL STREET AND, 1 ALBERT PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0281",
+      "name": "THE STRAND BAR",
+      "address": "MAIN STREET, RUSH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0135",
+      "name": "THE STRAND HOUSE, FAIRVIEW",
+      "address": "12 FAIRVIEW, AND REAR OF 10/11 FAIRVIEW, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0178",
+      "name": "THE SUMMIT INN HOTEL",
+      "address": "THORNMANBY ROAD, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3046",
+      "name": "THE SWALLOWS",
+      "address": "NEIGHBOURHOOD SHOPPING CENTRE, DEANSRATH, CLONDALKIN, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0197",
+      "name": "THE TAP",
+      "address": "45/46 AND 47 NORTH KING STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0089",
+      "name": "THE TEMPLE",
+      "address": "71 UPPER DORSET STREET AND 1 HARDWICK PLACE, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1009287",
+      "name": "THE TEMPLE BAR",
+      "address": "BASEMENT AND GROUND FLOORS 48 TEMPLE BAR AND 46 TEMPLE BAR AND, EXTENSIONS SITUATED BASEMENT 47 TEMPLE BAR PART BASEMENT AND GROUND, FLOOR 46 TEMPLE BAR AND PART OF BASEMENT 15/16 TEMPLE LANE SOUTH, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3454670367516,
+      "longitude": -6.264086013895353
+    },
+    {
+      "licence_ref": "1012867",
+      "name": "THE TEMPLE BAR INN HOTEL",
+      "address": "PORTION OF NUMBERS 40-47, FLEET STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1760",
+      "name": "THE TERENURE INN",
+      "address": "94/96 TERENURE ROAD NORTH, AND PREMISES ATTACHED AND ADJOINING, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3113561,
+      "longitude": -6.2830549
+    },
+    {
+      "licence_ref": "N0277",
+      "name": "THE TOP SHOP",
+      "address": "MAIN STREET, LUSK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1017978",
+      "name": "THE TRADERS PUBLICANS",
+      "address": "SAINT JAMES ROAD, WALKINSTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1481",
+      "name": "THE TWO SISTERS",
+      "address": "2-6 WAINSFORT DRIVE, TERENURE, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0270",
+      "name": "THE VILLAGE INN",
+      "address": "MAIN STREET, BALLYBOUGHAL, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1482",
+      "name": "THE VILLAGE INN",
+      "address": "2/4/6 LISLE ROAD, CRUMLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0250",
+      "name": "THE VILLAGER",
+      "address": "31 MAIN STREET AND 31 MARTINS ROW, CHAPELIZOD, DUBLIN CITY",
+      "status": "visited",
+      "latitude": 53.34967496837872,
+      "longitude": -6.344398998596645
+    },
+    {
+      "licence_ref": "S0159",
+      "name": "THE VINTAGE PUBLIC HOUSE",
+      "address": "74 IRISHTOWN ROAD, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0141",
+      "name": "THE VISCOUNT HOUSE",
+      "address": "89 SWORDS ROAD, WHITEHALL, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015219",
+      "name": "THE VISITOR CENTRE",
+      "address": "33 AND 33A MILL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1020285",
+      "name": "THE VOYAGER",
+      "address": "NO. 33 AND 34 DAME STREET, DUBLIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0172",
+      "name": "THE WATERLOO",
+      "address": "36 UPPER BAGGOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1487",
+      "name": "THE WATERSIDE",
+      "address": "UNIT 4, THE NINTH LOCK CENTRE, NINTH LOCK ROAD, CLONDALKIN, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0162",
+      "name": "THE WATERSIDE BAR",
+      "address": "51 AND 52 CHURCH STREET, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0170",
+      "name": "THE WELLINGTON",
+      "address": "1 AND 1A UPPER BAGGOT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0292",
+      "name": "THE WICKED WOLF",
+      "address": "2 MAIN STREET, BLACKROCK, CO. DUBLIN",
+      "status": "visited",
+      "latitude": 53.3019262,
+      "longitude": -6.1780007
+    },
+    {
+      "licence_ref": "N0869",
+      "name": "THE WILD DUCK",
+      "address": "GRANGE, BALDOYLE, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1008947",
+      "name": "THE WILEY FOX",
+      "address": "28 EDEN QUAY, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.348344379213,
+      "longitude": -6.255966139787329
+    },
+    {
+      "licence_ref": "N0601",
+      "name": "THE WILLOWS",
+      "address": "WILLOW PARK CRESCENT, BALLYMUN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1021694",
+      "name": "THE WINDJAMMER PUBLIC HOUSE",
+      "address": "THE WINDJAMMER PUBLIC HOUSE, 111 TOWSEND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0399",
+      "name": "THE WISHING WELL",
+      "address": "NEWTOWNPARK, BLACKROCK, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2160",
+      "name": "THE WOOL SHED",
+      "address": "201/215 PARNELL STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1578",
+      "name": "THE WORKMAN BAR",
+      "address": "HAZELHATCH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1018129",
+      "name": "THE WREN",
+      "address": "9-17 SAINT ANDREWS LANE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1014863",
+      "name": "THE YACHT",
+      "address": "72/73 CLONTARF ROAD, CLONTARF, CO. DUBLIN",
+      "status": "visited",
+      "latitude": 53.36175214389728,
+      "longitude": -6.215116020416818
+    },
+    {
+      "licence_ref": "DG0503",
+      "name": "THE YACHT BAR",
+      "address": "BALLYKEA, LOUGHSHINNY, SKERRIES, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0168",
+      "name": "THE YACHT BAR",
+      "address": "8 THORNCASTLE STREET, RINGSEND, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0276",
+      "name": "THE YACHT TAVERN",
+      "address": "8 WELLINGTON STREET AND 14 GEORGE'S PLACE, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": 53.294640410253166,
+      "longitude": -6.139226399254638
+    },
+    {
+      "licence_ref": "S0067",
+      "name": "THOMAS MOORE INN",
+      "address": "BASEMENT AND PORTION OF GROUND FLOOR, 12 AUNGIER STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3405863,
+      "longitude": -6.2654253
+    },
+    {
+      "licence_ref": "1010656",
+      "name": "THREE STORY",
+      "address": "10 ST. STEPHEN'S GREEN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013317",
+      "name": "TITHE TÁBHAIRNE NA GCEITHRE CÚIGÍ LIMITED",
+      "address": "25 RAVENSDALE PARK, KIMMAGE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0081",
+      "name": "TOLKA HOUSE",
+      "address": "10 GLASNEVIN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S1467",
+      "name": "TOM KENNEDY'S (PUBLIC HOUSE)",
+      "address": "65 THOMAS STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013229",
+      "name": "TOMAHAWK STEAKHOUSE",
+      "address": "PORTIONS OF THE BASEMENT AND GROUND FLOOR OF DOLLARD HOUSE, WITH ITS MAIN ENTRANCE TO BE AT 2-5 WELLINGTON QUAY, AND A REAR ENTRANCE TO BE AT ESSEX STREET EAST, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0223",
+      "name": "TOMMY O'GARA'S",
+      "address": "19 STONEYBATTER, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0003",
+      "name": "TONERS",
+      "address": "139 LOWER BAGGOT STREET, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0051",
+      "name": "TRACEY O'GRADY LOWRY",
+      "address": "16 SUMMERHILL PARADE, AND 37/38 AND 39 NORTH WILLIAM STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015469",
+      "name": "URBAN BREWING LIMITED",
+      "address": "VAULT C, THE CHQ BUILDING, CUSTOM HOUSE QUAY, IFSC, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1015609",
+      "name": "VAUGIRARD DESIGNATED ACTIVITY COMPANY",
+      "address": "BASEMENT AND PORTION OF THE GROUND FLOOR, OF 17 HARCOURT STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1004033",
+      "name": "VCC",
+      "address": "15 AND 16 CROWN ALLEY, TEMPLE BAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2365",
+      "name": "VELLA RESTAURANT",
+      "address": "FONTHILL ROAD (OFF N4 LUCAN ROAD), LIFFEY VALLEY SHOPPING CENTRE, PALMERSTOWN, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S3467",
+      "name": "VICAR STREET",
+      "address": "58 AND 59 THOMAS STREET 1/4 VICAR STREET AND REAR OF 56 AND 57 THOMAS, STREET GROUND FLOOR 56 AND 57 THOMAS STREET 1 GRATTAN COURT THOMAS, STREET AND 55 MOLYNEUX YARD AT THE REAR OF 55 THOMAS STREET DUBLIN 2, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0302",
+      "name": "VOR PURTY TAVERNS LIMITED",
+      "address": "3/4 OLD DUNLEARY ROAD AND PREMISES ATTACHED AT  NO.5 OLD DUNLEARY ROAD, SALTHILL, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0280",
+      "name": "WALSH",
+      "address": "MAIN STREET, RUSH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0219",
+      "name": "WALSHS PUB",
+      "address": "6/7 STONEYBATTER, AND 40A NORTH BRUNSWICK STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0271",
+      "name": "WALTERS",
+      "address": "68 UPPER GEORGE'S STREET, DUN LAOGHAIRE, CO. DUBLIN",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1013727",
+      "name": "WASABI SUSHI BAR",
+      "address": "3,4,5 LOWER DORSET STREET AND 3 GEORGES PLACE, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0176",
+      "name": "WATERMILL LOUNGE",
+      "address": "411 HOWTH ROAD, RAHENY, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0120",
+      "name": "WHELANS",
+      "address": "23, 24 AND 25 CAMDEN STREET AND 40 CAMDEN ROW, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1019594",
+      "name": "WHISKEY EMPORIUM",
+      "address": "GROUND FLOOR 17/18 TEMPLE LANE SOUTH, TEMPLE BAR, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2298",
+      "name": "WIGWAM",
+      "address": "54 MIDDLE ABBEY STREET (BASEMENT GROUND FLOOR AND PART OF FIRST FLOOR), DUBLIN CITY",
+      "status": "review",
+      "latitude": 53.3480043,
+      "longitude": -6.2621526
+    },
+    {
+      "licence_ref": "N0245",
+      "name": "WRENS NEST",
+      "address": "ASTAGOB, CHAPELIZOD, DUBLIN CITY",
+      "status": "probable",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N0158",
+      "name": "WRIGHTS FINDLATER HOWTH",
+      "address": "FINDLATER BUILDING, HARBOUR ROAD, HOWTH, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N2211",
+      "name": "WRIGHTS PLAZA CAFE BAR",
+      "address": "JUNCTION OF MALAHIDE ROAD AND NEW STREET, 3 MALAHIDE ROAD AND PREM ATT AND ADJ, SWORDS, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "N1103",
+      "name": "WYNNS HOTEL",
+      "address": "35/37 LOWER ABBEY STREET AND UPPER FLOOR OF 38/39 LOWER ABBEY STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1022785",
+      "name": "XAVIER MANAGEMENT HOLDINGS LIMITED",
+      "address": "1 LOWER KEVIN STREET, AND NUMBERS 38,39 AND 40 WEXFORD STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010212",
+      "name": "YAMAMORI IZAKAYA",
+      "address": "12-13 SOUTH GREAT GEORGES STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1010576",
+      "name": "YAMAMORI SUSHI",
+      "address": "38/39 LOWER ORMOND STREET AND 34-36 GREAT STRAND STREET, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "S0230",
+      "name": "YELLOW HOUSE",
+      "address": "RATHFARNHAM, DUBLIN CITY",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "licence_ref": "1011267",
+      "name": "ZOZIMUS BAR LIMITED",
+      "address": "PART 5 AND 6 ANNE'S LANE, CIVIL PARISH OF ST. ANNE'S, CO. DUBLIN",
+      "status": "review",
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}

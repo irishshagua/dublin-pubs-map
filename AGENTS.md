@@ -11,10 +11,16 @@ This project tracks pubs visited in Dublin and publishes a map. Most changes add
 - The converter emits point coordinates in GeoJSON order (longitude, latitude), carries over names and reviews, and appends the feature from `dublinBoundary.geojson`.
 - Keep the boundary unchanged unless the task requires changing it.
 
+## Licence data (master)
+
+- See README for the Revenue XLS refresh and manual review process. `remaining-pubs.json` is generated; make decisions in `licence-overrides.json`, keyed by licence reference, then rerun `refresh_licences.py`.
+- Keep ambiguous matches as `review`, and decide hotel exclusions manually. Do not infer coordinates or publish a home address. Preserve the per-location OSM source and snapshot when refreshing the cache.
+- After adding a visit, run the licence refresh too and inspect `licence-review.csv` for the corresponding licence. Keep the visit list and its reviews intact.
+
 ## Website (gh-pages)
 
 - The static website source is on the separate `gh-pages` branch, not in the `master` working tree. Inspect that branch before planning website changes.
-- The Leaflet map fetches `postgres-pubs-dump.txt` from the repository's default branch through the GitHub Contents API. It does not consume the generated GeoJSON or share a build pipeline with the converter.
+- The Leaflet map reads `postgres-pubs-dump.txt` and `remaining-pubs.json` from the default branch. The generated GeoJSON is a separate visualisation.
 - Consider both branches when changing the data format or website integration; retain compatibility across them.
 
 ## Verification

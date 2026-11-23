@@ -1,0 +1,11 @@
+{
+  "source_url": "https://www.revenue.ie/en/corporate/documents/statistics/excise/liquor-licences.xls",
+  "source_date": "2026-11-03",
+  "sha256": "b37f55aa1d6457d373daade85c861196d1fb0a83948e7abc0ee9d401a7c6563b",
+  "input": "local workbook",
+  "description": "Publican's Licence (7-Day Ordinary)",
+  "counties": [
+    "CO. DUBLIN",
+    "DUBLIN CITY"
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+  "1000012": {
+    "address": "117-126 UPPER SHERIFF STREET, DUBLIN CITY",
+    "latitude": 53.3498005,
+    "longitude": -6.2299289,
+    "name": "THE GREEN ROOM",
+    "osm_address": "117-126, Upper Sheriff Street",
+    "osm_name": "The Green Room",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2065157408"
+  },
+  "1001237": {
+    "address": "GROUND FLOOR ONLY, TEMPLEOGUE ROAD, TEMPLEOGUE, CO. DUBLIN",
+    "latitude": 53.29831711960929,
+    "longitude": -6.302805263017993,
+    "name": "THE MORGUE",
+    "osm_address": "Templeogue Road, Templeogue",
+    "osm_name": "The Morgue",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/491824106"
+  },
+  "1006303": {
+    "address": "26 WEXFORD STREET, 13 AND 14 LIBERTY LANE & 37 & 38 CAMDEN ROW, DUBLIN CITY",
+    "latitude": 53.336695113741044,
+    "longitude": -6.266057449799724,
+    "name": "OPIUM",
+    "osm_address": "26, Wexford Street, Dublin",
+    "osm_name": "Opium",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/350588958"
+  },
+  "1007394": {
+    "address": "AND ADJOINING PREMISES SITUATE AT 21 DUKE STREET AND, 7A DUKE LANE, CO. DUBLIN",
+    "latitude": 53.34184051441083,
+    "longitude": -6.259358089334266,
+    "name": "DAVY BYRNES",
+    "osm_address": "21, Duke Street, Dublin",
+    "osm_name": "Davy Byrne’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/270968057"
+  },
+  "1008645": {
+    "address": "59 TALBOT STREET AND, 28 TALBOT PLACE, DUBLIN CITY",
+    "latitude": 53.3511395,
+    "longitude": -6.2513336,
+    "name": "MOLLOY'S",
+    "osm_address": "59, Talbot Street, Dublin",
+    "osm_name": "Molloy’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2860454401"
+  },
+  "1008947": {
+    "address": "28 EDEN QUAY, DUBLIN CITY",
+    "latitude": 53.348344379213,
+    "longitude": -6.255966139787329,
+    "name": "THE WILEY FOX",
+    "osm_address": "28, Eden Quay, Dublin",
+    "osm_name": "The Wiley Fox",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/233801731"
+  },
+  "1009287": {
+    "address": "BASEMENT AND GROUND FLOORS 48 TEMPLE BAR AND 46 TEMPLE BAR AND, EXTENSIONS SITUATED BASEMENT 47 TEMPLE BAR PART BASEMENT AND GROUND, FLOOR 46 TEMPLE BAR AND PART OF BASEMENT 15/16 TEMPLE LANE SOUTH, DUBLIN CITY",
+    "latitude": 53.3454670367516,
+    "longitude": -6.264086013895353,
+    "name": "THE TEMPLE BAR",
+    "osm_address": "47-48, Temple Bar, Dublin",
+    "osm_name": "The Temple Bar",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/294962764"
+  },
+  "1010804": {
+    "address": "THE EXCISE BUILDING, MAYOR STREET LOWER, DUBLIN CITY",
+    "latitude": 53.3491745,
+    "longitude": -6.244184,
+    "name": "DRUNKEN FISH",
+    "osm_address": "Mayor Street Lower, Dublin",
+    "osm_name": "Drunken Fish",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/5044580221"
+  },
+  "1010890": {
+    "address": "14A FADE STREET, & THE REAR OF 25 ST GEORGE'S STREET, THE REAR OF 29 MARKET ARCADE EXTENSION, DUBLIN CITY",
+    "latitude": 53.3420522,
+    "longitude": -6.2640363,
+    "name": "THE MARKET BAR",
+    "osm_address": "14A, Fade Street, Dublin",
+    "osm_name": "The Market Bar",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/5155648422"
+  },
+  "1011716": {
+    "address": "THE BASEMENT AND GROUND FLOOR OF, NUMBER 14 FADE STREET, ST. ANDREWS, DUBLIN CITY",
+    "latitude": 53.3420846,
+    "longitude": -6.2641425,
+    "name": "IDLEWILD",
+    "osm_address": "14, Fade Street, Dublin",
+    "osm_name": "IdleWild",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/9238631400"
+  },
+  "1011790": {
+    "address": "50 PATRICK STREET, AND 31 AND 31A UPPER KEVIN STREET, DUBLIN CITY",
+    "latitude": 53.3389208,
+    "longitude": -6.2722998,
+    "name": "THE FOURTH CORNER",
+    "osm_address": "50, Patrick Street, Dublin",
+    "osm_name": "The Fourth Corner",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/5866396179"
+  },
+  "1011804": {
+    "address": "13 BALLSBIRDGE TERRACE AND PART OF BOTH 15 AND 17 BALLSBRIDGE TERRACE, EXTENSIONS ATTACHING & ADJOINING TO INCORPORATE 11 BALLSBRIDGE TERRACE, DUBLIN CITY",
+    "latitude": 53.3292911,
+    "longitude": -6.2320003,
+    "name": "THE BRIDGE 1859",
+    "osm_address": "13, Ballsbridge Terrace, Dublin",
+    "osm_name": "The Bridge 1859",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/4799036110"
+  },
+  "1014863": {
+    "address": "72/73 CLONTARF ROAD, CLONTARF, CO. DUBLIN",
+    "latitude": 53.36175214389728,
+    "longitude": -6.215116020416818,
+    "name": "THE YACHT",
+    "osm_address": "73, Clontarf Road, Clontarf",
+    "osm_name": "The Yacht",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/230948516"
+  },
+  "1017216": {
+    "address": "GROUND FLOOR AND BASEMENT OF, 4 AND 5 SIR JOHN ROGERSON'S QUAY, AND THE BASEMENT OF 6 SIR JOHN ROGERSON'S QUAY, DUBLIN CITY",
+    "latitude": 53.3464282,
+    "longitude": -6.2456211,
+    "name": "DOCKERS",
+    "osm_address": "4-5, Sir John Rogerson's Quay, Dublin",
+    "osm_name": "Dockers",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/9264108045"
+  },
+  "1019912": {
+    "address": "149 CAPEL STREET, DUBLIN CITY",
+    "latitude": 53.347373696985855,
+    "longitude": -6.268599194285108,
+    "name": "THE BOAR'S HEAD",
+    "osm_address": "149, Capel Street, Dublin",
+    "osm_name": "The Boar’s Head",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/229061165"
+  },
+  "1021081": {
+    "address": "GREENDALE ROAD, KILBARRACK, CO. DUBLIN",
+    "latitude": 53.3859746,
+    "longitude": -6.1555082,
+    "name": "BLACKBANKS BAR & GRILL",
+    "osm_address": "Greendale Road, Kilbarrack",
+    "osm_name": "Blackbanks Bar & Grill",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2080832424"
+  },
+  "1021467": {
+    "address": "79 QUEEN STREET AND, 91/92 BENBURB STREET, DUBLIN CITY",
+    "latitude": 53.3471016,
+    "longitude": -6.2802916,
+    "name": "FIDELITY",
+    "osm_address": "79, Queen Street, Dublin",
+    "osm_name": "Fidelity",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/446785628"
+  },
+  "1021731": {
+    "address": "18/19 GLASTHULE ROAD, DUN LAOGHAIRE, CO. DUBLIN",
+    "latitude": 53.2870206,
+    "longitude": -6.1231501,
+    "name": "THE EAGLE",
+    "osm_address": "18-19, Glasthule Road",
+    "osm_name": "The Eagle",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/598519953"
+  },
+  "N0011": {
+    "address": "43/44 BALLYBOUGH ROAD, DUBLIN CITY",
+    "latitude": 53.36115880428026,
+    "longitude": -6.242586591420548,
+    "name": "THE CLONLIFFE HOUSE",
+    "osm_address": "43-44, Ballybough Road, Dublin",
+    "osm_name": "Clonliffe House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/656057654"
+  },
+  "N0027": {
+    "address": "70 NORTH STRAND ROAD AND 1 ANNESLEY PLACE, FAIRVIEW, DUBLIN CITY",
+    "latitude": 53.35966973020829,
+    "longitude": -6.240354320438032,
+    "name": "ANNESLEY HOUSE",
+    "osm_address": "70, North Strand Road, Dublin",
+    "osm_name": "Annesley House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/967072208"
+  },
+  "N0057": {
+    "address": "42 BOLTON STREET, DUBLIN CITY",
+    "latitude": 53.352345657046875,
+    "longitude": -6.26919964811353,
+    "name": "THE KINGS INN",
+    "osm_address": "42, Bolton Street, Dublin",
+    "osm_name": "The King’s Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/281005429"
+  },
+  "N0060": {
+    "address": "CHANCERY PLACE, DUBLIN CITY",
+    "latitude": 53.3458363,
+    "longitude": -6.2721543,
+    "name": "THE LEGAL EAGLE",
+    "osm_address": "1-2, Chancery Place, Dublin",
+    "osm_name": "The Legal Eagle",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2004657419"
+  },
+  "N0084": {
+    "address": "61/63 CAPEL STREET, DUBLIN CITY",
+    "latitude": 53.34976166029616,
+    "longitude": -6.269093937662656,
+    "name": "THE BLACK SHEEP",
+    "osm_address": "61-63, Capel Street, Dublin",
+    "osm_name": "The Black Sheep",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/683240615"
+  },
+  "N0097": {
+    "address": "199 NORTH KING STREET, DUBLIN CITY",
+    "latitude": 53.35090997501351,
+    "longitude": -6.270153699575151,
+    "name": "BAR ANAM",
+    "osm_address": "199, North King Street, Dublin",
+    "osm_name": "Bar Anam",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/993326913"
+  },
+  "N0099": {
+    "address": "98 PARNELL STREET, (PORTIONS OF GROUND FLOOR, 1ST FLOOR AND BASEMENT, AND SECOND PREMISES ATTACHED), DUBLIN CITY",
+    "latitude": 53.3534835,
+    "longitude": -6.2592195,
+    "name": "THE BIG ROMANCE",
+    "osm_address": "98, Parnell Street, Dublin",
+    "osm_name": "The Big Romance",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/7017217477"
+  },
+  "N0124": {
+    "address": "2 ARDCOLLUM AVENUE, ARTANE, DUBLIN CITY",
+    "latitude": 53.383917,
+    "longitude": -6.2068448,
+    "name": "THE ROUNDABOUT",
+    "osm_address": "2, Ardcollum Avenue, Artane",
+    "osm_name": "The Roundabout",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1529996838"
+  },
+  "N0131": {
+    "address": "179A AND 179B HOWTH ROAD, KILLESTER, DUBLIN CITY",
+    "latitude": 53.37070095909105,
+    "longitude": -6.20612585871009,
+    "name": "THE BEACHCOMBER",
+    "osm_address": "179, Howth Road, Killester",
+    "osm_name": "The Beachcomber",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/324346439"
+  },
+  "N0140": {
+    "address": "18/24 SION HILL ROAD, DRUMCONDRA, DUBLIN CITY",
+    "latitude": 53.37578405,
+    "longitude": -6.239927299999999,
+    "name": "THE GOOSE TAVERN",
+    "osm_address": "18-20, Sion Hill Road, Dublin",
+    "osm_name": "Goose Tavern",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/921876024"
+  },
+  "N0142": {
+    "address": "61,61A & 63 COLLINS AVENUE WEST, AND THE REAR OF 65 COLLINS AVENUE WEST, DUBLIN CITY",
+    "latitude": 53.37664729801394,
+    "longitude": -6.223341034954091,
+    "name": "KITTY KIERNANS",
+    "osm_address": "63, Collins Avenue",
+    "osm_name": "Kitty Kiernans",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/974841016"
+  },
+  "N0148": {
+    "address": "283/285 RICHMOND ROAD, FAIRVIEW, DUBLIN CITY",
+    "latitude": 53.362794604003106,
+    "longitude": -6.242274112898845,
+    "name": "MEAGHER'S",
+    "osm_address": "283-285, Richmond Road, Dublin",
+    "osm_name": "Meagher's",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/968532221"
+  },
+  "N0163": {
+    "address": "28 ABBEY STREET, HOWTH, CO. DUBLIN",
+    "latitude": 53.38699874309806,
+    "longitude": -6.065763075117159,
+    "name": "THE ABBEY TAVERN",
+    "osm_address": "28-29, Abbey Street, Howth",
+    "osm_name": "The Abbey Tavern",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/589373498"
+  },
+  "N0169": {
+    "address": "36 BALDOYLE ROAD, SUTTON, CO. DUBLIN",
+    "latitude": 53.3893347,
+    "longitude": -6.1236878,
+    "name": "THE ELPHIN",
+    "osm_address": "36, Baldoyle Road",
+    "osm_name": "The Elphin",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2004412421"
+  },
+  "N0172": {
+    "address": "243/245 SWORDS ROAD, WHITEHALL, DUBLIN CITY",
+    "latitude": 53.388452,
+    "longitude": -6.2460311,
+    "name": "THE COMET",
+    "osm_address": "243, Swords Road, Dublin",
+    "osm_name": "The Comet",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1496777115"
+  },
+  "N0181": {
+    "address": "74 MALAHIDE ROAD, DUBLIN CITY",
+    "latitude": 53.3676901688589,
+    "longitude": -6.226870546577988,
+    "name": "THE 1884",
+    "osm_address": "74, Malahide Road",
+    "osm_name": "The 1884",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/661632319"
+  },
+  "N0198": {
+    "address": "77 NORTH KING STREET, DUBLIN CITY",
+    "latitude": 53.34991962101075,
+    "longitude": -6.277854941969931,
+    "name": "THE COBBLESTONE",
+    "osm_address": "77, North King Street, Dublin",
+    "osm_name": "The Cobblestone",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/1084218455"
+  },
+  "N0206": {
+    "address": "30, 31 AND 32 PARKGATE STREET, DUBLIN CITY",
+    "latitude": 53.348240678142616,
+    "longitude": -6.2940078310045315,
+    "name": "NANCY HANDS",
+    "osm_address": "30-32, Parkgate Street, Dublin",
+    "osm_name": "Nancy Hands",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/870583668"
+  },
+  "N0224": {
+    "address": "NO. 37 STONEYBATTER AND NO. 1 ARBOUR HILL, TOGETHER WITH PREMISES ATTACHED, AND ADJOINING THERETO, DUBLIN CITY",
+    "latitude": 53.350406717825194,
+    "longitude": -6.282086689351101,
+    "name": "THE BELFRY",
+    "osm_address": "37, Stoneybatter, Dublin",
+    "osm_name": "The Belfry",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/383992493"
+  },
+  "N0234": {
+    "address": "159 PHIBSBOROUGH ROAD, DUBLIN CITY",
+    "latitude": 53.3610075,
+    "longitude": -6.2725355,
+    "name": "THE HUT",
+    "osm_address": "159, Phibsborough Road, Dublin",
+    "osm_name": "The Hut",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/538103859"
+  },
+  "N0241": {
+    "address": "NAVAN ROAD, ASHTOWN ( AND EXTENSIONS ATTACHED AND ADJOINING THERETO), CO. DUBLIN",
+    "latitude": 53.372444733871205,
+    "longitude": -6.331112452757691,
+    "name": "THE HALFWAY HOUSE",
+    "osm_address": "399, Navan Road, Dublin",
+    "osm_name": "Halfway House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/298356152"
+  },
+  "N0249": {
+    "address": "NEW CONSTRUCTED AND ALTERED PREMISES, SITUATE AT 9 MULLINGAR TERRACE, AND NEWLY EXTENSIONS ATT & ADJ THERETO, CHAPELIZOD, DUBLIN CITY",
+    "latitude": 53.3484377868165,
+    "longitude": -6.342285611626302,
+    "name": "MULLINGAR HOUSE",
+    "osm_address": "Mullingar Terrace, Dublin",
+    "osm_name": "Mullingar House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/606830451"
+  },
+  "N0250": {
+    "address": "31 MAIN STREET AND 31 MARTINS ROW, CHAPELIZOD, DUBLIN CITY",
+    "latitude": 53.34967496837872,
+    "longitude": -6.344398998596645,
+    "name": "THE VILLAGER",
+    "osm_address": "31, Main Street, Dublin",
+    "osm_name": "The Villager",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/608742882"
+  },
+  "N0303": {
+    "address": "31 MAIN STREET, SWORDS, CO. DUBLIN",
+    "latitude": 53.45780612044105,
+    "longitude": -6.220143140699089,
+    "name": "THE COCK TAVERN",
+    "osm_address": "31, Main Street, Swords",
+    "osm_name": "The Cock Tavern",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/228009671"
+  },
+  "N0311": {
+    "address": "BALGRIFFIN, MALAHIDE ROAD, DUBLIN CITY",
+    "latitude": 53.40895934739779,
+    "longitude": -6.178495420651317,
+    "name": "THE BALGRIFFIN INN",
+    "osm_address": "Malahide Road, Dublin",
+    "osm_name": "The Balgriffin Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/33911481"
+  },
+  "N0588": {
+    "address": "27/29 ASHTOWN GROVE, NAVAN ROAD, DUBLIN CITY",
+    "latitude": 53.37071364422351,
+    "longitude": -6.323697732401895,
+    "name": "BREFFNI INN",
+    "osm_address": "Ashtown Grove",
+    "osm_name": "Breffni Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/989064782"
+  },
+  "N0593": {
+    "address": "89 CABRA ROAD, DUBLIN CITY",
+    "latitude": 53.3612004,
+    "longitude": -6.282982570913658,
+    "name": "DOWNEYS",
+    "osm_address": "89, Cabra Road, Dublin",
+    "osm_name": "Downey’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/660054530"
+  },
+  "N0772": {
+    "address": "4 EAST PIER, HOWTH, CO. DUBLIN",
+    "latitude": 53.388225,
+    "longitude": -6.0639896,
+    "name": "O'CONNELLS",
+    "osm_address": "4, East Pier, Howth",
+    "osm_name": "O’Connell’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/880923510"
+  },
+  "N1054": {
+    "address": "MALAHIDE ROAD, NEWTOWN, CO. DUBLIN",
+    "latitude": 53.396518787720645,
+    "longitude": -6.188878751492388,
+    "name": "NEWTOWN HOUSE",
+    "osm_address": "Malahide Road, Belcamp",
+    "osm_name": "Newtown House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/42422825"
+  },
+  "N1058": {
+    "address": "367 BALLYFERMOT ROAD, BALLYFERMOT & EXTENSION ATTACHED, DUBLIN CITY",
+    "latitude": 53.34242073809646,
+    "longitude": -6.358917905253897,
+    "name": "THE 79 INN",
+    "osm_address": "367, Ballyfermot Road, Dublin",
+    "osm_name": "The 79 Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/264029838"
+  },
+  "N1064": {
+    "address": "78 MIDDLE ABBEY STREET, DUBLIN CITY",
+    "latitude": 53.34845353520554,
+    "longitude": -6.260339226024134,
+    "name": "THE OVAL",
+    "osm_address": "78, Middle Abbey Street, Dublin",
+    "osm_name": "The Oval",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/250504040"
+  },
+  "N1068": {
+    "address": "129, 130 AND 131 CAPEL STREET, DUBLIN CITY",
+    "latitude": 53.34827681875915,
+    "longitude": -6.268936177682453,
+    "name": "SLATTERYS",
+    "osm_address": "129-131, Capel Street, Dublin",
+    "osm_name": "Slattery’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/229061164"
+  },
+  "N1072": {
+    "address": "9 CATHEDRAL STREET, DUBLIN CITY",
+    "latitude": 53.35038541396054,
+    "longitude": -6.259788011279088,
+    "name": "BRANNIGANS",
+    "osm_address": "9, Cathedral Street, Dublin",
+    "osm_name": "Brannigan’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/696901408"
+  },
+  "N1074": {
+    "address": "25 NORTH EARL STREET, DUBLIN CITY",
+    "latitude": 53.35008165,
+    "longitude": -6.2593467,
+    "name": "MADIGAN'S",
+    "osm_address": "25, North Earl Street, Dublin",
+    "osm_name": "Madigan’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/696901397"
+  },
+  "N1080": {
+    "address": "18 UPPER ABBEY STREET AND, 9/10 JERVIS STREET, DUBLIN CITY",
+    "latitude": 53.34746669889114,
+    "longitude": -6.265976788676539,
+    "name": "T P SMITHS",
+    "osm_address": "9-10, Jervis Street, Dublin",
+    "osm_name": "T.P. Smith’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/233666288"
+  },
+  "N1081": {
+    "address": "88 MARLBOROUGH STREET, DUBLIN CITY",
+    "latitude": 53.3503397,
+    "longitude": -6.2584406999999995,
+    "name": "THE CONFESSION BOX",
+    "osm_address": "88, Marlborough Street, Dublin",
+    "osm_name": "The Confession Box",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/696901395"
+  },
+  "N1083": {
+    "address": "97 MARLBOROUGH STREET, DUBLIN CITY",
+    "latitude": 53.34958101015036,
+    "longitude": -6.258165549854669,
+    "name": "BRIODY'S",
+    "osm_address": "97, Marlborough Street, Dublin",
+    "osm_name": "Briody’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/696901432"
+  },
+  "N1084": {
+    "address": "105/106 MARLBOROUGH STREET, DUBLIN CITY",
+    "latitude": 53.34904729274277,
+    "longitude": -6.257945325109169,
+    "name": "PIPERS CORNER",
+    "osm_address": "105-106, Marlborough Street, Dublin",
+    "osm_name": "Piper’s Corner",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/517560263"
+  },
+  "N1119": {
+    "address": "4 LONG MILE ROAD AND PREMISES ATTACHED AT NO. 2 LONG MILE ROAD, DUBLIN CITY",
+    "latitude": 53.32420436878204,
+    "longitude": -6.329123058227559,
+    "name": "CASTLE INN",
+    "osm_address": "Long Mile Road",
+    "osm_name": "The Castle Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/935738059"
+  },
+  "N1123": {
+    "address": "126A TYRCONNELL PARK, INCHICORE, DUBLIN CITY",
+    "latitude": 53.337787863546446,
+    "longitude": -6.3288636175259265,
+    "name": "SLATTS",
+    "osm_address": "126A, Tyrconnell Park, Inchicore",
+    "osm_name": "Slatt’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/795671595"
+  },
+  "N1344": {
+    "address": "18 CONQUER HILL ROAD, CLONTARF, DUBLIN CITY",
+    "latitude": 53.3594872,
+    "longitude": -6.1896797,
+    "name": "PEBBLE BEACH",
+    "osm_address": "18, Conquer Hill Road, Clontarf",
+    "osm_name": "Pebble Beach",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1521601306"
+  },
+  "N2070": {
+    "address": "CARPENTERSTOWN ROAD, CASTLEKNOCK, DUBLIN CITY",
+    "latitude": 53.37194883505383,
+    "longitude": -6.389173788863601,
+    "name": "THE CARPENTER",
+    "osm_address": "Carpenterstown Road",
+    "osm_name": "The Carpenter",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/50899754"
+  },
+  "N2298": {
+    "address": "54 MIDDLE ABBEY STREET (BASEMENT GROUND FLOOR AND PART OF FIRST FLOOR), DUBLIN CITY",
+    "latitude": 53.3480043,
+    "longitude": -6.2621526,
+    "name": "WIGWAM",
+    "osm_address": "54, Middle Abbey Street, Dublin",
+    "osm_name": "Wigwam",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/4998192522"
+  },
+  "N2307": {
+    "address": "30 BACHELOR'S WALK, DUBLIN CITY",
+    "latitude": 53.347443010386286,
+    "longitude": -6.260285095363956,
+    "name": "O'CONNELLS",
+    "osm_address": "30, Bachelors Walk, Dublin",
+    "osm_name": "O’Connell’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/227766040"
+  },
+  "N2311": {
+    "address": "42 MIDDLE ABBEY STREET AND, 15 LOWER LIFFEY STREET, DUBLIN CITY",
+    "latitude": 53.34775572924975,
+    "longitude": -6.263429827782866,
+    "name": "THE GIN PALACE",
+    "osm_address": "42, Middle Abbey Street, Dublin",
+    "osm_name": "The Gin Palace",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/250501876"
+  },
+  "N2538": {
+    "address": "MAIN STREET, SWORDS, CO. DUBLIN",
+    "latitude": 53.45649067347611,
+    "longitude": -6.222231658623728,
+    "name": "THE OLD BOROUGH",
+    "osm_address": "72-74, Main Street, Swords",
+    "osm_name": "The Old Borough",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/50216895"
+  },
+  "N2540": {
+    "address": "MARY STREET, DUBLIN CITY",
+    "latitude": 53.34857023141929,
+    "longitude": -6.266917239717848,
+    "name": "THE CHURCH",
+    "osm_address": "Mary Street, Dublin",
+    "osm_name": "The Church",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/80567253"
+  },
+  "S0005": {
+    "address": "1 AND 2 BURGH QUAY, DUBLIN CITY",
+    "latitude": 53.3470014,
+    "longitude": -6.2581487,
+    "name": "J.R MAHONS",
+    "osm_address": "1-2, Burgh Quay, Dublin",
+    "osm_name": "J.R. Mahon's",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/11030599280"
+  },
+  "S0009": {
+    "address": "9 COLLEGE STREET AND 1ST FLOOR OF 8 COLLEGE STREET & EXTENSION, ATTACHED AT NO.28 FLEET STREET & BASEMENT OF 29/30 FLEET STREET AND, FURTHER EXTENSION AT GROUND FLOOR 28/30 FLEET STREET, DUBLIN CITY",
+    "latitude": 53.345769535322084,
+    "longitude": -6.25754224491374,
+    "name": "DOYLES",
+    "osm_address": "8, College Street, Dublin",
+    "osm_name": "Doyle’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/1218481438"
+  },
+  "S0010": {
+    "address": "25 DAWSON STREET, DUBLIN CITY",
+    "latitude": 53.33975947828107,
+    "longitude": -6.258863939170616,
+    "name": "THE DAWSON LOUNGE",
+    "osm_address": "25, Dawson Street, Dublin",
+    "osm_name": "Dawson Lounge",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/268843105"
+  },
+  "S0015": {
+    "address": "39 FENIAN STREET (BASEMENT GROUND AND 1ST FLOORS), 40 FENIAN STREET (BASEMENT GROUND 1ST AND PART 2ND FLOORS), DUBLIN CITY",
+    "latitude": 53.341898726352845,
+    "longitude": -6.249515618899251,
+    "name": "THE GINGER MAN",
+    "osm_address": "39-40, Fenian Street, Dublin",
+    "osm_name": "The Ginger Man",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/257772822"
+  },
+  "S0018": {
+    "address": "31 FLEET STREET, DUBLIN CITY",
+    "latitude": 53.34580694423559,
+    "longitude": -6.257886008972081,
+    "name": "BOWES",
+    "osm_address": "31, Fleet Street, Dublin",
+    "osm_name": "Bowe’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/228290004"
+  },
+  "S0023": {
+    "address": "(BASEMENT GROUND AND 1ST FLOOR), 1/2 HAWKINS STREET, DUBLIN CITY",
+    "latitude": 53.34621083821954,
+    "longitude": -6.2571845044123755,
+    "name": "CHAPLINS",
+    "osm_address": "2, Hawkins Street, Dublin",
+    "osm_name": "Chaplin’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/228286745"
+  },
+  "S0026": {
+    "address": "18 / 19 LINCOLN PLACE, DUBLIN CITY",
+    "latitude": 53.34201904362861,
+    "longitude": -6.252528363378888,
+    "name": "LINCOLN'S INN",
+    "osm_address": "18-19, Lincoln Place, Dublin",
+    "osm_name": "Lincoln’s Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/231265715"
+  },
+  "S0027": {
+    "address": "1 LOMBARD STREET EAST (GROUND FLOOR AND BASEMENT), 2 LOMBARD STREET EAST (GROUND FLOOR), 44 PEARSE STREET, DUBLIN CITY",
+    "latitude": 53.34420221673431,
+    "longitude": -6.248965011071877,
+    "name": "THE LOMBARD",
+    "osm_address": "1, Lombard Street East, Dublin",
+    "osm_name": "The Lombard",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/1086239548"
+  },
+  "S0029": {
+    "address": "14 MERRION ROW AND 15 MERRION ROW, DUBLIN CITY",
+    "latitude": 53.338156005389955,
+    "longitude": -6.254180960986229,
+    "name": "O'DONOGHUES",
+    "osm_address": "15, Merrion Row, Dublin",
+    "osm_name": "O'Donoghue's",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/279140841"
+  },
+  "S0032": {
+    "address": "37B PEARSE STREET AND 2 SHAW STREET, DUBLIN CITY",
+    "latitude": 53.34487769308112,
+    "longitude": -6.2520987586122985,
+    "name": "MOSS LANE",
+    "osm_address": "37B, Pearse Street, Dublin",
+    "osm_name": "Moss Lane",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/244989703"
+  },
+  "S0033": {
+    "address": "81/82 PEARSE STREET, DUBLIN CITY",
+    "latitude": 53.3433493,
+    "longitude": -6.2447418,
+    "name": "PADRAIG PEARSE",
+    "osm_address": "81, Pearse Street, Dublin",
+    "osm_name": "Padraig Pearse",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/303968050"
+  },
+  "S0064": {
+    "address": "17 ANGLESEA STREET AND 24/25 TEMPLE BAR BASEMENT AND GROUND FLOOR AND, THE EXTENSIONS TO AND ADJOINING THE FIRST AND SECOND FLOOR, DUBLIN CITY",
+    "latitude": 53.345566600000005,
+    "longitude": -6.261976450000001,
+    "name": "THE AULD DUBLINER",
+    "osm_address": "24-25, Temple Bar, Dublin",
+    "osm_name": "The Auld Dubliner",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/517592734"
+  },
+  "S0067": {
+    "address": "BASEMENT AND PORTION OF GROUND FLOOR, 12 AUNGIER STREET, DUBLIN CITY",
+    "latitude": 53.3405863,
+    "longitude": -6.2654253,
+    "name": "THOMAS MOORE INN",
+    "osm_address": "12, Aungier Street, Dublin",
+    "osm_name": "Thomas Moore Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/503224346"
+  },
+  "S0078": {
+    "address": "17 CHATHAM STREET UPPER, DUBLIN CITY",
+    "latitude": 53.34098015388063,
+    "longitude": -6.2617653097999,
+    "name": "SHEEHANS",
+    "osm_address": "17, Chatham Street, Dublin",
+    "osm_name": "Sheehan’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/230567954"
+  },
+  "S0080": {
+    "address": "32 CLARENDON STREET, DUBLIN CITY",
+    "latitude": 53.341086780998346,
+    "longitude": -6.262434222223734,
+    "name": "BAR RUA",
+    "osm_address": "32, Clarendon Street, Dublin",
+    "osm_name": "Bar Rua",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/230567953"
+  },
+  "S0081": {
+    "address": "18 DAME COURT, (OFF DAME STREET), DUBLIN CITY",
+    "latitude": 53.3438207,
+    "longitude": -6.263915,
+    "name": "DAME TAVERN",
+    "osm_address": "18, Dame Court, Dublin",
+    "osm_name": "Dame Tavern",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1300613610"
+  },
+  "S0086": {
+    "address": "21 FLEET STREET, DUBLIN CITY",
+    "latitude": 53.345909908649126,
+    "longitude": -6.259615541224306,
+    "name": "THE PALACE BAR",
+    "osm_address": "21, Fleet Street, Dublin",
+    "osm_name": "The Palace Bar",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/271055200"
+  },
+  "S0091": {
+    "address": "51 SOUTH GREAT GEORGE'S STREET, DUBLIN CITY",
+    "latitude": 53.341868026346994,
+    "longitude": -6.2653315783732,
+    "name": "THE LONG HALL",
+    "osm_address": "51, South Great George's Street, Dublin",
+    "osm_name": "The Long Hall",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/351409390"
+  },
+  "S0093": {
+    "address": "3 HARRY STREET, DUBLIN CITY",
+    "latitude": 53.34122768717764,
+    "longitude": -6.261001338030643,
+    "name": "MCDAIDS",
+    "osm_address": "3, Harry Street, Dublin",
+    "osm_name": "McDaid's",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/273202992"
+  },
+  "S0110": {
+    "address": "8 ST ANDREW STREET & 23 WICKLOW STREET, DUBLIN CITY",
+    "latitude": 53.343129545645134,
+    "longitude": -6.26180941360084,
+    "name": "THE INTERNATIONAL BAR",
+    "osm_address": "23, Wicklow Street, Dublin",
+    "osm_name": "The International Bar",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/260307464"
+  },
+  "S0111": {
+    "address": "37 EXCHEQUER STREET AND, 9/10 ANDREW STREET (INCLUDING OPEN YARD AT REAR OF 10 ANDREW STREET), DUBLIN CITY",
+    "latitude": 53.34314144835829,
+    "longitude": -6.262148789107513,
+    "name": "THE OLD STAND",
+    "osm_address": "37, Exchequer Street, Dublin",
+    "osm_name": "The Old Stand",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/275159990"
+  },
+  "S0112": {
+    "address": "(GROUND FLOOR AND BASEMENT OF ALL), 1/2 SUFFOLK STREET AND, 2A AND 3/4 CHURCH LANE, DUBLIN CITY",
+    "latitude": 53.3438336,
+    "longitude": -6.260743,
+    "name": "O'NEILLS",
+    "osm_address": "2, Suffolk Street, Dublin",
+    "osm_name": "O’Neill’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2859655009"
+  },
+  "S0116": {
+    "address": "42 WELLINGTON QUAY, DUBLIN CITY",
+    "latitude": 53.34586268943863,
+    "longitude": -6.2633146924728935,
+    "name": "HA'PENNY BRIDGE INN",
+    "osm_address": "42, Wellington Quay, Dublin",
+    "osm_name": "Ha'penny Bridge Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/281685663"
+  },
+  "S0122": {
+    "address": "31 WEXFORD STREET, DUBLIN CITY",
+    "latitude": 53.336949,
+    "longitude": -6.2657418,
+    "name": "THE JAR",
+    "osm_address": "31, Wexford Street, Dublin",
+    "osm_name": "The Jar",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/503224354"
+  },
+  "S0153": {
+    "address": "35 AND 36 SIR JOHN ROGERSON'S QUAY, DUBLIN CITY",
+    "latitude": 53.34600812447344,
+    "longitude": -6.240701593343608,
+    "name": "THE FERRYMAN",
+    "osm_address": "35-36, Sir John Rogerson's Quay, Dublin",
+    "osm_name": "The Ferryman",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/102694943"
+  },
+  "S0162": {
+    "address": "10 MERRION ROAD, BALLSBRIDGE, DUBLIN CITY",
+    "latitude": 53.3291081,
+    "longitude": -6.2305605,
+    "name": "CROWES",
+    "osm_address": "10, Merrion Road, Dublin",
+    "osm_name": "Crowe’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/312577264"
+  },
+  "S0166": {
+    "address": "1 SANDYMOUNT GREEN, DUBLIN CITY",
+    "latitude": 53.3323885,
+    "longitude": -6.2152784,
+    "name": "SANDYMOUNT HOUSE",
+    "osm_address": "1, Sandymount Green, Sandymount",
+    "osm_name": "Sandymount House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/312574900"
+  },
+  "S0177": {
+    "address": "26 BATH AVENUE, SANDYMOUNT, DUBLIN CITY",
+    "latitude": 53.337473565542304,
+    "longitude": -6.23216039025237,
+    "name": "THE BATH",
+    "osm_address": "26, Bath Avenue, Dublin",
+    "osm_name": "The Bath",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/96196917"
+  },
+  "S0181": {
+    "address": "51 HADDINGTON ROAD, DUBLIN CITY",
+    "latitude": 53.334610265542196,
+    "longitude": -6.242354996021685,
+    "name": "THE 51",
+    "osm_address": "51, Haddington Road, Dublin",
+    "osm_name": "The 51",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/80580032"
+  },
+  "S0193": {
+    "address": "127/129 RANELAGH, GROUND FLOOR AND PREMISES AT REAR, DUBLIN CITY",
+    "latitude": 53.3233904,
+    "longitude": -6.2503391,
+    "name": "BIRCHALLS",
+    "osm_address": "127-129, Ranelagh, Ranelagh",
+    "osm_name": "Birchall’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/565770327"
+  },
+  "S0207": {
+    "address": "1/2/3 PORTOBELLO HARBOUR, BASEMENT GROUND FLOOR & YARD OF 1 RICHMOND ROW, PORTOBELLO, DUBLIN CITY",
+    "latitude": 53.330686,
+    "longitude": -6.2652379,
+    "name": "THE LOWER DECK",
+    "osm_address": "3, Portobello Harbour, Dublin",
+    "osm_name": "The Lower Deck",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/279464425"
+  },
+  "S0232": {
+    "address": "LANDSCAPE ROAD, CHURCHTOWN, DUBLIN CITY",
+    "latitude": 53.29972608085243,
+    "longitude": -6.268012296698624,
+    "name": "THE GLENSIDE",
+    "osm_address": "20, Landscape Road",
+    "osm_name": "The Glenside",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/116716323"
+  },
+  "S0241": {
+    "address": "2/5 RATHGAR ROAD, RATHMINES, DUBLIN CITY",
+    "latitude": 53.3218142,
+    "longitude": -6.2664357,
+    "name": "GRACE'S",
+    "osm_address": "2-5, Rathgar Road, Dublin",
+    "osm_name": "Grace’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2885369320"
+  },
+  "S0242": {
+    "address": "108 RATHGAR ROAD, RATHGAR, DUBLIN CITY",
+    "latitude": 53.31210321444412,
+    "longitude": -6.274533021584668,
+    "name": "THE RATHGAR 108",
+    "osm_address": "108, Rathgar Road, Dublin",
+    "osm_name": "The Rathgar 108",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/935134063"
+  },
+  "S0247": {
+    "address": "159, 161 & 163 HAROLD'S CROSS ROAD, AND REAR OF 157 AND 165 HAROLD'S CROSS ROAD, DUBLIN CITY",
+    "latitude": 53.3237548,
+    "longitude": -6.278506,
+    "name": "PEGGY KELLYS",
+    "osm_address": "159-163, Harold's Cross Road, Dublin",
+    "osm_name": "Peggy Kelly’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/3005899379"
+  },
+  "S0248": {
+    "address": "105/107 TERENURE ROAD NORTH, RATHFARNHAM, DUBLIN CITY",
+    "latitude": 53.3100178,
+    "longitude": -6.2832522,
+    "name": "DOLLYS",
+    "osm_address": "105-107, Terenure Road North",
+    "osm_name": "Dolly’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/13892664101"
+  },
+  "S0249": {
+    "address": "57 MAIN STREET, DUNDRUM, DUBLIN CITY",
+    "latitude": 53.28941368972636,
+    "longitude": -6.243298623251481,
+    "name": "DUNDRUM HOUSE",
+    "osm_address": "57, Main Street, Dundrum",
+    "osm_name": "Dundrum House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/85389367"
+  },
+  "S0250": {
+    "address": "MAIN STREET, DUNDRUM, DUBLIN CITY",
+    "latitude": 53.289046,
+    "longitude": -6.243152,
+    "name": "PYE",
+    "osm_address": "Main Street, Dundrum",
+    "osm_name": "Pye",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/11572594365"
+  },
+  "S0260": {
+    "address": "NOWLAN (BEAUMONT) AVENUE, CHURCHTOWN, DUBLIN CITY",
+    "latitude": 53.29498682212793,
+    "longitude": -6.256859044031506,
+    "name": "THE BOTTLE TOWER",
+    "osm_address": "1, Beaumont Avenue, Churchtown",
+    "osm_name": "The Bottle Tower",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/129750575"
+  },
+  "S0261": {
+    "address": "BUTTERFIELD AVENUE, RATHFARNHAM, CO. DUBLIN",
+    "latitude": 53.2946756986885,
+    "longitude": -6.299264296906444,
+    "name": "THE OLD ORCHARD",
+    "osm_address": "74, Butterfield Avenue, Rathfarnham",
+    "osm_name": "The Old Orchard",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/511570994"
+  },
+  "S0276": {
+    "address": "8 WELLINGTON STREET AND 14 GEORGE'S PLACE, DUN LAOGHAIRE, CO. DUBLIN",
+    "latitude": 53.294640410253166,
+    "longitude": -6.139226399254638,
+    "name": "THE YACHT TAVERN",
+    "osm_address": "8, Wellington Street, Dún Laoghaire",
+    "osm_name": "The Yacht Tavern",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/58692970"
+  },
+  "S0280": {
+    "address": "45 CASTLE STREET, DALKEY, CO. DUBLIN",
+    "latitude": 53.27746351329752,
+    "longitude": -6.104896741195036,
+    "name": "KING'S INN",
+    "osm_address": "45, Castle Street, Dalkey",
+    "osm_name": "The King’s Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/237916664"
+  },
+  "S0282": {
+    "address": "107/108 COLIEMORE ROAD, AND EXTENSION ATTACHED, DALKEY, CO. DUBLIN",
+    "latitude": 53.2773116,
+    "longitude": -6.1025984,
+    "name": "THE CLUB",
+    "osm_address": "107, Coliemore Road, Dalkey",
+    "osm_name": "The Club",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2457893964"
+  },
+  "S0284": {
+    "address": "KILLINEY HILL ROAD, KILLINEY, CO. DUBLIN",
+    "latitude": 53.26445939681337,
+    "longitude": -6.1153343678785745,
+    "name": "THE DRUIDS CHAIR",
+    "osm_address": "Killiney Hill Road, Killiney",
+    "osm_name": "The Druid’s Chair",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/263098036"
+  },
+  "S0287": {
+    "address": "SALLYNOGGIN ROAD, SALLYNOGGIN, CO. DUBLIN",
+    "latitude": 53.2769722,
+    "longitude": -6.1433942,
+    "name": "THE SALLYNOGGIN INN",
+    "osm_address": "47a, Sallynoggin Road",
+    "osm_name": "The Sallynoggin Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/14129789961"
+  },
+  "S0292": {
+    "address": "2 MAIN STREET, BLACKROCK, CO. DUBLIN",
+    "latitude": 53.3019262,
+    "longitude": -6.1780007,
+    "name": "THE WICKED WOLF",
+    "osm_address": "2, Main Street, Blackrock",
+    "osm_name": "The Wicked Wolf",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1425999505"
+  },
+  "S0295": {
+    "address": "15 MAIN STREET, AND FIRST FLOOR EXTENSION, BLACKROCK, CO. DUBLIN",
+    "latitude": 53.3015086,
+    "longitude": -6.1778326,
+    "name": "JACK O'ROURKE'S",
+    "osm_address": "15, Main Street, Blackrock",
+    "osm_name": "Jack O’Rourke’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/662938466"
+  },
+  "S0301": {
+    "address": "99 MONKSTOWN ROAD AND EXTENSIONS, 101 MONKSTOWN ROAD (PART OF GROUND FLOOR), BLACKROCK, CO. DUBLIN",
+    "latitude": 53.29357425449093,
+    "longitude": -6.154590401025466,
+    "name": "GOGGINS",
+    "osm_address": "99, Monkstown Road",
+    "osm_name": "Goggins",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/58647449"
+  },
+  "S0368": {
+    "address": "BARNACULLIA, SANDYFORD, CO. DUBLIN",
+    "latitude": 53.25463885,
+    "longitude": -6.231364200000002,
+    "name": "THE BLUE LIGHT",
+    "osm_address": "Barnacullia, Sandyford",
+    "osm_name": "The Blue Light",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/83614077"
+  },
+  "S0411": {
+    "address": "1 DAME COURT, DAME STREET, DUBLIN CITY",
+    "latitude": 53.343824198616616,
+    "longitude": -6.263518385751097,
+    "name": "THE STAG'S HEAD",
+    "osm_address": "1, Dame Court, Dublin",
+    "osm_name": "The Stag's Head",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/228968680"
+  },
+  "S0768": {
+    "address": "1A BALLYROAN ROAD, BUTTERFIELD, CO. DUBLIN",
+    "latitude": 53.29355541002925,
+    "longitude": -6.308383575051586,
+    "name": "THE BLUE HAVEN",
+    "osm_address": "1A, Ballyroan Road, Rathfarnham",
+    "osm_name": "The Blue Haven",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/100689637"
+  },
+  "S0971": {
+    "address": "LEOPARDSTOWN AVENUE, BREWERY ROAD, STILLORGAN, CO. DUBLIN",
+    "latitude": 53.2792395,
+    "longitude": -6.1967897,
+    "name": "LEOPARDSTOWN INN",
+    "osm_address": "Brewery Road, Stillorgan",
+    "osm_name": "The Leopardstown Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/2625914025"
+  },
+  "S1328": {
+    "address": "BALLINTEER AVENUE, DUBLIN CITY",
+    "latitude": 53.2747643,
+    "longitude": -6.2545959,
+    "name": "BALLINTEER HOUSE",
+    "osm_address": "Ballinteer Avenue, Balinteer",
+    "osm_name": "Ballinteer House",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/132186038"
+  },
+  "S1448": {
+    "address": "33 FRANCIS STREET, DUBLIN CITY",
+    "latitude": 53.34158133561929,
+    "longitude": -6.274715581483554,
+    "name": "THE LIBERTY BELLE",
+    "osm_address": "33, Francis Street, Dublin",
+    "osm_name": "The Liberty Belle",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/665875674"
+  },
+  "S1456": {
+    "address": "80/81 MEATH STREET, DUBLIN CITY",
+    "latitude": 53.341684,
+    "longitude": -6.278673,
+    "name": "THE LARK INN",
+    "osm_address": "80-81, Meath Street, Dublin",
+    "osm_name": "The Lark Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1404763943"
+  },
+  "S1464": {
+    "address": "61 AND 62 PIMLICO AND EXTENSION ATTACHED AND ADJOINING THERETO, NAMELY FACILITIES AT 35 BRAITHWAITE STREET, DUBLIN CITY",
+    "latitude": 53.3400639,
+    "longitude": -6.2807211,
+    "name": "THE PIMLICO TAVERN",
+    "osm_address": "62, Pimlico",
+    "osm_name": "The Pimlico Tavern",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1404772647"
+  },
+  "S1465": {
+    "address": "47 THOMAS STREET AND, GROUND FLOOR AND BASEMENT OF, 48 THOMAS STREET, DUBLIN CITY",
+    "latitude": 53.34264730615041,
+    "longitude": -6.278945859795308,
+    "name": "DUDLEY'S",
+    "osm_address": "47-48, Thomas Street, Dublin",
+    "osm_name": "Dudley’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/229456566"
+  },
+  "S1470": {
+    "address": "131 THOMAS STREET, BRIDGEFOOT STREET, DUBLIN CITY",
+    "latitude": 53.3433017,
+    "longitude": -6.2810822,
+    "name": "SWIFT",
+    "osm_address": "131, Thomas Street, Dublin",
+    "osm_name": "Swift",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1373919801"
+  },
+  "S1480": {
+    "address": "147A/149 AND RERE OF 147 DRIMNAGH ROAD, DUBLIN CITY",
+    "latitude": 53.32415394794418,
+    "longitude": -6.325487740089842,
+    "name": "ELEANORA'S",
+    "osm_address": "149, Drimnagh Road",
+    "osm_name": "Eleanora's",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/935099918"
+  },
+  "S1486": {
+    "address": "MAIN STREET, CLONDALKIN, DUBLIN CITY",
+    "latitude": 53.3211955,
+    "longitude": -6.3932185,
+    "name": "THE PURTY CENTRAL",
+    "osm_address": "Main Street, Clondalkin",
+    "osm_name": "The Purty Central",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/1811909881"
+  },
+  "S1516": {
+    "address": "28 THOMAS STREET, DUBLIN CITY",
+    "latitude": 53.34309131532835,
+    "longitude": -6.281710164434309,
+    "name": "ARTHUR'S",
+    "osm_address": "28, Thomas Street, Dublin",
+    "osm_name": "Arthur’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/229376152"
+  },
+  "S1519": {
+    "address": "471/477 SOUTH CIRCULAR ROAD, RIALTO, DUBLIN CITY",
+    "latitude": 53.3365462,
+    "longitude": -6.299192,
+    "name": "THE BIRD FLANAGAN",
+    "osm_address": "471-477, South Circular Road, Dublin",
+    "osm_name": "The Bird Flanagan",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/358543587"
+  },
+  "S1575": {
+    "address": "MAIN STREET, NEWCASTLE, CO. DUBLIN",
+    "latitude": 53.2997095,
+    "longitude": -6.5009707,
+    "name": "ANNIE MAY'S",
+    "osm_address": "Main Street, Newcastle",
+    "osm_name": "Annie May’s",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/3139297357"
+  },
+  "S1580": {
+    "address": "1 MAIN STREET, RATHCOOLE, CO. DUBLIN",
+    "latitude": 53.281024365125745,
+    "longitude": -6.470410650144724,
+    "name": "RATHCOOLE INN",
+    "osm_address": "Main Street, Rathcoole",
+    "osm_name": "The Rathcoole Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/613557219"
+  },
+  "S1760": {
+    "address": "94/96 TERENURE ROAD NORTH, AND PREMISES ATTACHED AND ADJOINING, DUBLIN CITY",
+    "latitude": 53.3113561,
+    "longitude": -6.2830549,
+    "name": "THE TERENURE INN",
+    "osm_address": "94-96, Terenure Road North, Dublin",
+    "osm_name": "The Terenure Inn",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/315252689"
+  },
+  "S2493": {
+    "address": "WOODLAWN PARK ESTATE, OFF FIRHOUSE ROAD, TALLAGHT, CO. DUBLIN",
+    "latitude": 53.28189489602186,
+    "longitude": -6.341013175034726,
+    "name": "SPEAKER CONOLLY",
+    "osm_address": "Firhouse Road, Tallaght",
+    "osm_name": "Speaker Conolly",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/25690893"
+  },
+  "S2949": {
+    "address": "3A CROWN ALLEY, TEMPLE BAR, DUBLIN CITY",
+    "latitude": 53.3451323,
+    "longitude": -6.2626746,
+    "name": "THE OLD STOREHOUSE",
+    "osm_address": "3, Crown Alley, Dublin",
+    "osm_name": "The Old Storehouse",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/467744860"
+  },
+  "S3053": {
+    "address": "39 DAWSON STREET, 40 DAWSON STREET, AND 39 ANNE'S LANE, DUBLIN CITY",
+    "latitude": 53.3407232,
+    "longitude": -6.2585998,
+    "name": "CAFE EN SEINE",
+    "osm_address": "39-40, Dawson Street, Dublin",
+    "osm_name": "Café en Seine",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/10601110758"
+  },
+  "S3178": {
+    "address": "3/6 UPPER EXCHANGE STREET, GROUND FLOOR AND BASEMENT 33/34 PARLIAMENT STREET, 3-6 UPPER EXCHANGE STREET, CO. DUBLIN",
+    "latitude": 53.34450711660843,
+    "longitude": -6.267606531193361,
+    "name": "STREET 66",
+    "osm_address": "33-34, Parliament Street, Dublin",
+    "osm_name": "Street 66",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/way/611618541"
+  },
+  "S4345": {
+    "address": "THE CORNER OF HANOVER QUAY AND, FORBES STREET, GRAND CANAL DOCK, DUBLIN CITY",
+    "latitude": 53.3443705,
+    "longitude": -6.2381732,
+    "name": "THE SOUTH STRAND",
+    "osm_address": "1, Hanover Quay, Dublin",
+    "osm_name": "The South Strand",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/516031805"
+  },
+  "S4607": {
+    "address": "32 DAME STREET, DUBLIN CITY",
+    "latitude": 53.3440757,
+    "longitude": -6.2634747,
+    "name": "MULLIGAN AND HAINES",
+    "osm_address": "32, Dame Street, Dublin",
+    "osm_name": "Mulligan and Haines",
+    "snapshot_date": "2026-11-21",
+    "source": "https://www.openstreetmap.org/node/3470507586"
+  }
+}
