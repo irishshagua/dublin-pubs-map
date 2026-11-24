@@ -42,14 +42,14 @@ Select up to nine orange markers on desktop, or three on a mobile browser, using
 
 Find the recorded visit in [visits.json](visits.json) by name and coordinates, and click the orange candidate for its OSM ID. Check they really are the same venue: nearby pubs, duplicate OSM objects, old names and moves can be misleading. For an unlinked visit, use `python3 osm_pubs.py link <visit-id> <osm-id>`, then validate and push `visits.json` as above. If a link is wrong or already belongs to another visit, record the old ID, set the incorrect visit's `osm_id` to `null` in `visits.json`, and then link the correct visit. The validator rejects duplicate or unknown OSM IDs; do not change historical names or reviews. A pub that moved can legitimately have two historical visits: don't link its old location to the new location just because the name matches.
 
-The first-pass notes and remaining suggestions are preserved in [osm-unmatched-next.md](osm-unmatched-next.md). Unmatched historical visits remain visible in Done, including closed pubs; unlinked OSM candidates remain visible in Undone.
+The first-pass notes and county-wide suggestions are preserved in [osm-unmatched-county-next.md](osm-unmatched-county-next.md); the previous checklists are unchanged. Unmatched historical visits remain visible in Done, including closed pubs; unlinked OSM candidates remain visible in Undone.
 
 ## Match visits to OpenStreetMap pubs
 
-Open [osm-unmatched-next.md](osm-unmatched-next.md) for the current unlinked visits. Suggestions show a candidate name, distance and OpenStreetMap link; bar-tagged suggestions are labelled. Change `[ ]` to `[x]` only for the same place, at most one per visit. Nearby-only suggestions may be different pubs or renamed venues: proximity alone is not proof. Leave uncertainty unchecked. Previously linked high-confidence estimates are listed in [the original matches](osm-high-confidence-links.md), [fuzzy-name matches](osm-fuzzy-confidence-links.md) and [bar matches](osm-bar-confidence-links.md); they have not been independently verified.
+Open [osm-unmatched-county-next.md](osm-unmatched-county-next.md) for the current unlinked visits. Suggestions show a candidate name, distance and OpenStreetMap link; bar-tagged suggestions are labelled. Change `[ ]` to `[x]` only for the same place, at most one per visit. Nearby-only suggestions may be different pubs or renamed venues: proximity alone is not proof. Leave uncertainty unchecked. Previously linked high-confidence estimates are listed in [the original matches](osm-high-confidence-links.md), [fuzzy-name matches](osm-fuzzy-confidence-links.md), [bar matches](osm-bar-confidence-links.md) and [county matches](osm-county-high-confidence-links.md); they have not been independently verified.
 
 ```sh
-python3 osm_pubs.py apply osm-unmatched-next.md
+python3 osm_pubs.py apply osm-unmatched-county-next.md
 python3 validate_pubs.py
 ```
 
@@ -59,17 +59,19 @@ The checklist is tied to the matcher version, OSM snapshot and visit details oth
 
 ## Refresh OpenStreetMap pubs
 
-The snapshot contains named `amenity=pub` and `amenity=bar` features inside `dublinBoundary.geojson`. Both are used to match existing visits, but only pub-tagged venues are shown as Undone candidates. Same-name duplicate representations can be grouped while preserving their source IDs. Some venues may be missing, closed, duplicated or incorrectly tagged. Undone candidates can already be visited until their links are recorded.
+The snapshot contains named `amenity=pub` and `amenity=bar` features within [the OSM County Dublin boundary](dublin-county-boundary.geojson), including Dublin city, Fingal, South Dublin and Dún Laoghaire–Rathdown. Both are used to match existing visits, but only pub-tagged venues are shown as Undone candidates. The boundary is OSM [relation 282800](https://www.openstreetmap.org/relation/282800), version 382; the older `dublinBoundary.geojson` is retained for the historical GeoJSON visualisation. Some venues may be missing, closed, duplicated or incorrectly tagged, and unlinked candidates can already have been visited.
 
-Download the Dublin PBF from [BBBike](https://download.bbbike.org/osm/bbbike/Dublin/) and record its snapshot date. Install `osmium` and `shapely`, then run:
+The current snapshot uses Geofabrik's 2026-11-23 Ireland and Northern Ireland PBF (replication timestamp `2026-11-23T21:21:17Z`, SHA-256 `378fdc3991b235c0ac0f29f517eeae167c6f4fec7fffdb242a30e21893bb2eee`).
+
+Download a full-coverage [Ireland and Northern Ireland PBF](https://download.geofabrik.de/europe/ireland-and-northern-ireland.html) from Geofabrik and record its snapshot date. The smaller BBBike Dublin extract stops south of Rush. Install `osmium` and `shapely`, then run:
 
 ```sh
 python3 -m pip install osmium shapely
-python3 osm_pubs.py extract /path/to/Dublin.osm.pbf --source-date YYYY-MM-DD --replace
+python3 osm_pubs.py extract /path/to/ireland-and-northern-ireland.osm.pbf --source-date YYYY-MM-DD --replace
 python3 osm_pubs.py review new-review.md
 ```
 
-The extractor refuses to replace the snapshot if a confirmed OSM ID is missing or would conflict; resolve the changed feature before refreshing. The generated data is derived from [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) and available under the ODbL.
+The extractor rejects a missing or too-small PBF header bounding box and refuses to replace the snapshot if a recorded OSM link is missing or would conflict. A bounding box alone does not prove a polygon extract is complete, so use a full-region source. Resolve changed features before refreshing and preserve existing review files and notes. The generated boundary and pub data are derived from [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) and available under the ODbL.
 
 ## Refreshing the licence list
 

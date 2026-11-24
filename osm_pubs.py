@@ -18,7 +18,7 @@ from datetime import date
 ROOT = Path(__file__).resolve().parent
 VISITS = ROOT / 'visits.json'
 PUBS = ROOT / 'osm-pubs.json'
-BOUNDARY = ROOT / 'dublinBoundary.geojson'
+BOUNDARY = ROOT / 'dublin-county-boundary.geojson'
 OSM_ID = re.compile(r'(node|way|relation)/[1-9][0-9]*\Z')
 VISIT_ID = re.compile(r'visit-[0-9]+\Z')
 HEADER = re.compile(r'<!-- osm-review-v3 visits=([0-9a-f]{64}) pubs=([0-9a-f]{64}) -->\Z')
@@ -116,6 +116,16 @@ def deduplicate(features):
     return sorted(groups, key=lambda item: id_key(item['id']))
 
 
+def validate_coverage(source_bounds, boundary_bounds):
+    """Reject extracts whose declared bounding box cannot cover the target boundary."""
+    if source_bounds is None:
+        raise ValueError('OSM extract has no declared bounding box; its coverage cannot be checked')
+    west, south, east, north = source_bounds
+    minx, miny, maxx, maxy = boundary_bounds
+    if west > minx or south > miny or east < maxx or north < maxy:
+        raise ValueError(f'OSM extract bounds {source_bounds} do not cover the Dublin boundary {boundary_bounds}; use a wider extract')
+
+
 def extract(args):
     try:
         import osmium
@@ -130,6 +140,14 @@ def extract(args):
     boundary = shape(boundary_data['geometry'] if boundary_data['type'] == 'Feature' else boundary_data)
     if boundary.is_empty or not boundary.is_valid:
         raise ValueError('The boundary geometry is empty or invalid')
+    reader = osmium.io.Reader(str(args.pbf))
+    try:
+        bounds = reader.header().box()
+        source_bounds = ((bounds.bottom_left.lon, bounds.bottom_left.lat,
+                          bounds.top_right.lon, bounds.top_right.lat) if bounds.valid() else None)
+    finally:
+        reader.close()
+    validate_coverage(source_bounds, boundary.bounds)
     features = []
     relation_ids = set()
     emitted_relations = set()

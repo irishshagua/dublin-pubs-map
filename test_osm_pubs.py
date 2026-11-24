@@ -68,6 +68,14 @@ class ReviewTests(unittest.TestCase):
         self.write_json(self.visits_path, self.visits)
         self.assertEqual(validate(), 0)
 
+    def test_incomplete_and_missing_extract_bounds_are_rejected(self):
+        dublin = (-6.5475, 53.1778, -6.0445, 53.6343)
+        with self.assertRaisesRegex(ValueError, 'do not cover'):
+            osm_pubs.validate_coverage((-6.549, 53.147, -6.032, 53.510), dublin)
+        with self.assertRaisesRegex(ValueError, 'no declared bounding box'):
+            osm_pubs.validate_coverage(None, dublin)
+        osm_pubs.validate_coverage((-11.0, 51.0, -5.0, 56.0), dublin)
+
     def test_common_name_variants_require_close_location_for_high_confidence(self):
         visit = {'name': 'Crowes Pub', 'latitude': 53.32905, 'longitude': -6.23048}
         nearby = {'name': 'Crowe’s', 'latitude': 53.32912, 'longitude': -6.23048}

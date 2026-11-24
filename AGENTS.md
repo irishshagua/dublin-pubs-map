@@ -9,6 +9,7 @@ This project tracks pubs visited in Dublin and publishes a map. Most changes add
 - Validate the visit data and regenerate `dublin-pubs.geojson` after changes; include both source and generated files.
 - The converter emits point coordinates in GeoJSON order (longitude, latitude), carries over names and reviews, and appends the feature from `dublinBoundary.geojson`.
 - Keep the boundary unchanged unless the task requires changing it.
+- OSM candidate extraction uses `dublin-county-boundary.geojson` (the OSM County Dublin relation), not the older visualisation outline. Use a full-region source: the BBBike Dublin extract cuts off northern County Dublin.
 
 ## Licence data (master)
 
