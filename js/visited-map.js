@@ -111,8 +111,6 @@
     if (!map) return;
     visits.forEach(function(visit) {
       var popup = popupText(visit.name, visit.review);
-      popup.appendChild(document.createElement('br'));
-      popup.appendChild(document.createTextNode('Visit ID: ' + visit.id));
       if (visit.osm_id) {
         popup.appendChild(document.createElement('br'));
         popup.appendChild(sourceLink({ id: visit.osm_id }));
