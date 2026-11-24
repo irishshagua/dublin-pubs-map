@@ -1,36 +1,20 @@
 #!/usr/bin/env python3
 
-import csv
 import json
 
-with open("dublinBoundary.geojson") as dublinPolygonJsonFile:
-	dublinPolygon = json.load(dublinPolygonJsonFile)
+with open('dublinBoundary.geojson', encoding='utf-8') as source:
+    boundary = json.load(source)
+with open('visits.json', encoding='utf-8') as source:
+    visits = json.load(source)
 
-	with open("postgres-pubs-dump.txt", newline='') as file: 
-	    reader = csv.reader(file, delimiter='\t')
-
-	    data = {}
-	    data['type'] = 'FeatureCollection'
-	    features = []
-	    for row in reader:
-	    	feature = {}
-	    	feature['type'] = 'Feature'
-	    	
-	    	geometry = {}
-	    	geometry['type'] = 'Point'
-	    	geometry['coordinates'] = [float(row[1]), float(row[0])]
-	    	feature['geometry'] = geometry
-	    	
-	    	properties = {}
-	    	properties['marker-symbol'] = 'beer'
-	    	properties['name'] = row[2]
-	    	properties['review'] = row[3]
-	    	feature['properties'] = properties
-
-	    	features.append(feature)
-
-	    features.append(dublinPolygon)
-	    data['features'] = features
-
-	    with open('dublin-pubs.geojson', 'w') as outfile:
-		    json.dump(data, outfile, indent = 2)
+features = [
+    {
+        'type': 'Feature',
+        'geometry': {'type': 'Point', 'coordinates': [visit['longitude'], visit['latitude']]},
+        'properties': {'marker-symbol': 'beer', 'name': visit['name'], 'review': visit['review']},
+    }
+    for visit in visits
+]
+features.append(boundary)
+with open('dublin-pubs.geojson', 'w', encoding='utf-8') as outfile:
+    json.dump({'type': 'FeatureCollection', 'features': features}, outfile, indent=2)

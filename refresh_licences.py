@@ -71,14 +71,17 @@ def point(lat, lon):
 
 
 def load_visits():
-    visits = []
-    with (ROOT / 'postgres-pubs-dump.txt').open(encoding='utf-8', newline='') as file:
-        for row_no, row in enumerate(csv.reader(file, delimiter='\t'), 1):
-            if len(row) != 4 or not all(s.strip() for s in row):
-                raise ValueError(f'Invalid visit row {row_no}')
-            lat, lon = point(row[0], row[1])
-            visits.append({'name': row[2], 'latitude': lat, 'longitude': lon})
-    return visits
+    with (ROOT / 'visits.json').open(encoding='utf-8') as file:
+        visits = json.load(file)
+    if not isinstance(visits, list):
+        raise ValueError('Visits must be an array')
+    result = []
+    for row_no, visit in enumerate(visits, 1):
+        if not isinstance(visit, dict) or not isinstance(visit.get('name'), str) or not visit['name'].strip():
+            raise ValueError(f'Invalid visit {row_no}')
+        lat, lon = point(visit.get('latitude'), visit.get('longitude'))
+        result.append({'name': visit['name'], 'latitude': lat, 'longitude': lon})
+    return result
 
 
 def distance(a, b):

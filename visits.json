@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "visit-0001",
+    "latitude": 53.33972,
+    "longitude": -6.25886,
+    "name": "Dawson Lounge",
+    "review": "Smallest Pub In Ireland",
+    "osm_id": "way/268843105"
+  },
+  {
+    "id": "visit-0002",
+    "latitude": 53.329,
+    "longitude": -6.23036,
+    "name": "Paddy Cullens",
+    "review": "Rugger Bar, but not bad",
+    "osm_id": "node/312576639"
+  },
+  {
+    "id": "visit-0003",
+    "latitude": 53.32905,
+    "longitude": -6.23048,
+    "name": "Crowes Pub",
+    "review": "Can't Remember. Possibly Drunk",
+    "osm_id": "node/312577264"
+  },
+  {
+    "id": "visit-0004",
+    "latitude": 53.33387,
+    "longitude": -6.24527,
+    "name": "The Wellington",
+    "review": "Decent Boozer. On the Lansdowne route.",
+    "osm_id": "way/109246484"
+  },
+  {
+    "id": "visit-0005",
+    "latitude": 53.33332,
+    "longitude": -6.24303,
+    "name": "Searsons",
+    "review": "Cock Pub. Think its closed.",
+    "osm_id": "way/84018119"
+  },
+  {
+    "id": "visit-0006",
+    "latitude": 53.33788,
+    "longitude": -6.24276,
+    "name": "Scruffy Murphys",
+    "review": "Good Pub for pre Ireland match drinks. Always a decent crowd and sometimes free nibbles",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0007",
+    "latitude": 53.33837,
+    "longitude": -6.24317,
+    "name": "Oil Can Harrys",
+    "review": "Quiet Pub, nice feel to it.",
+    "osm_id": "node/592066036"
+  },
+  {
+    "id": "visit-0008",
+    "latitude": 53.34418,
+    "longitude": -6.2491,
+    "name": "The Lombard",
+    "review": "Near Pearse St Dart station. Not mad about it.",
+    "osm_id": "way/1086239548"
+  },
+  {
+    "id": "visit-0009",
+    "latitude": 53.34688,
+    "longitude": -6.25551,
+    "name": "Mulligans",
+    "review": "Auld farts pub. Usually a good crowd",
+    "osm_id": "way/228284414"
+  },
+  {
+    "id": "visit-0010",
+    "latitude": 53.34741,
+    "longitude": -6.25589,
+    "name": "White Horse",
+    "review": "Meh... More of a restaurant bar",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0011",
+    "latitude": 53.34511,
+    "longitude": -6.27575,
+    "name": "O'Sheas The Merchant",
+    "review": "Went in here for a relief pint after the horrifying experience that was The Brazen Head. FUCK YOU AMERICANS",
+    "osm_id": "node/14338435298"
+  },
+  {
+    "id": "visit-0012",
+    "latitude": 53.34568,
+    "longitude": -6.25753,
+    "name": "Doyles",
+    "review": "Cunt Pub Cunt Pub Cunt Pub",
+    "osm_id": "way/1218481438"
+  },
+  {
+    "id": "visit-0013",
+    "latitude": 53.33164,
+    "longitude": -6.26441,
+    "name": "George Bernard Shaw",
+    "review": "Decent Bar. Pitchers of Buckfast. Ouch",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0014",
+    "latitude": 53.34685,
+    "longitude": -6.25914,
+    "name": "Fitzgeralds",
+    "review": "Da Mhamais hangout",
+    "osm_id": "way/227764081"
+  },
+  {
+    "id": "visit-0015",
+    "latitude": 53.34583,
+    "longitude": -6.26346,
+    "name": "Ha'penny Bridge Inn",
+    "review": "Good Pub. Sometimes have blues lads upstairs",
+    "osm_id": "way/281685663"
+  },
+  {
+    "id": "visit-0016",
+    "latitude": 53.35004,
+    "longitude": -6.25088,
+    "name": "Kates Cottage",
+    "review": "Decent Pub. Think its been renamed.",
+    "osm_id": "way/270805425"
+  },
+  {
+    "id": "visit-0017",
+    "latitude": 53.34385,
+    "longitude": -6.26064,
+    "name": "O'Neills",
+    "review": "Bit of a tourist pub. But not the worst",
+    "osm_id": "node/2859655009"
+  },
+  {
+    "id": "visit-0018",
+    "latitude": 53.33814,
+    "longitude": -6.25395,
+    "name": "O'Donoghues",
+    "review": "Good Pub. Proper bar and good night life in the lounge",
+    "osm_id": "way/279140841"
+  },
+  {
+    "id": "visit-0019",
+    "latitude": 53.34029,
+    "longitude": -6.3168,
+    "name": "McDowells",
+    "review": "Supersaints Pub. nuff said",
+    "osm_id": "node/1416582578"
+  },
+  {
+    "id": "visit-0020",
+    "latitude": 53.33965,
+    "longitude": -6.32089,
+    "name": "Black Lion",
+    "review": "Good banter after a game",
+    "osm_id": "node/335569489"
+  },
+  {
+    "id": "visit-0021",
+    "latitude": 53.33687,
+    "longitude": -6.24896,
+    "name": "Larry Murphys",
+    "review": "Decent Boozer. A bit isolated",
+    "osm_id": "way/234082876"
+  },
+  {
+    "id": "visit-0022",
+    "latitude": 53.33057,
+    "longitude": -6.26059,
+    "name": "The Barge",
+    "review": "Great place to sit on the canal with a pint on a warm day",
+    "osm_id": "node/133193958"
+  },
+  {
+    "id": "visit-0023",
+    "latitude": 53.36753,
+    "longitude": -6.25564,
+    "name": "Fagans",
+    "review": "Berties local ;-)",
+    "osm_id": "way/292185701"
+  },
+  {
+    "id": "visit-0024",
+    "latitude": 53.3402,
+    "longitude": -6.31509,
+    "name": "Taveys",
+    "review": "Real nice pub. laptop for a jukebox...",
+    "osm_id": "way/942944691"
+  },
+  {
+    "id": "visit-0025",
+    "latitude": 53.34227,
+    "longitude": -6.33976,
+    "name": "The Laurence",
+    "review": "Has been done up to look like faux Irish pub. tut tut",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0026",
+    "latitude": 53.3449,
+    "longitude": -6.26794,
+    "name": "The Czech Inn",
+    "review": "Czech Beer and Disco Bar...",
+    "osm_id": "way/230101445"
+  },
+  {
+    "id": "visit-0027",
+    "latitude": 53.34479,
+    "longitude": -6.26767,
+    "name": "Turks Head",
+    "review": "Samba lessons downstairs. WTF",
+    "osm_id": "node/460836900"
+  },
+  {
+    "id": "visit-0028",
+    "latitude": 53.3523,
+    "longitude": -6.26041,
+    "name": "Living Room",
+    "review": "Great Sports Bar",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0029",
+    "latitude": 53.34508,
+    "longitude": -6.26595,
+    "name": "Purty Kitchen",
+    "review": "Ok bar. Usually has some music",
+    "osm_id": "node/1423559556"
+  },
+  {
+    "id": "visit-0030",
+    "latitude": 53.33572,
+    "longitude": -6.2568,
+    "name": "Houricans",
+    "review": "Small Pub off Stephens Green. Good Atmosphere",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0031",
+    "latitude": 53.33435,
+    "longitude": -6.26506,
+    "name": "Cassidys",
+    "review": "Think this pub might be gone now",
+    "osm_id": "way/669319433"
+  },
+  {
+    "id": "visit-0032",
+    "latitude": 53.34638,
+    "longitude": -6.25678,
+    "name": "Chaplains",
+    "review": "Small Pub across from the Cinema. Me Da had his Stag there",
+    "osm_id": "way/228286745"
+  },
+  {
+    "id": "visit-0033",
+    "latitude": 53.33389,
+    "longitude": -6.26494,
+    "name": "The Bleedin' Horse",
+    "review": "Not Bad. Gets a big office crowd",
+    "osm_id": "way/283771391"
+  },
+  {
+    "id": "visit-0034",
+    "latitude": 53.34049,
+    "longitude": -6.26123,
+    "name": "Sinnots Bar",
+    "review": "Downstairs Pub. Good for matches",
+    "osm_id": "node/768231204"
+  },
+  {
+    "id": "visit-0035",
+    "latitude": 53.34449,
+    "longitude": -6.26304,
+    "name": "Citi Bar",
+    "review": "COCKtail bar, wont be returning",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0036",
+    "latitude": 53.34408,
+    "longitude": -6.26396,
+    "name": "Mercantile",
+    "review": "Weird. Looks like an old Palace or something. Well. A palace that sells beer",
+    "osm_id": "node/14226948973"
+  },
+  {
+    "id": "visit-0037",
+    "latitude": 53.35268,
+    "longitude": -6.26135,
+    "name": "Murrays",
+    "review": "Right in the heart. Good for football",
+    "osm_id": "node/1348370992"
+  },
+  {
+    "id": "visit-0038",
+    "latitude": 53.34133,
+    "longitude": -6.26357,
+    "name": "The Hairy Lemon",
+    "review": "Decent Pub. Good Area.",
+    "osm_id": "way/264741791"
+  },
+  {
+    "id": "visit-0039",
+    "latitude": 53.34116,
+    "longitude": -6.26357,
+    "name": "Peters Pub",
+    "review": "Cant remember. Possibly drunk",
+    "osm_id": "way/230357177"
+  },
+  {
+    "id": "visit-0040",
+    "latitude": 53.34594,
+    "longitude": -6.25949,
+    "name": "Buskers Bar",
+    "review": "Popular Dubs hangout",
+    "osm_id": "node/2419698552"
+  },
+  {
+    "id": "visit-0041",
+    "latitude": 53.3443,
+    "longitude": -6.26634,
+    "name": "Brogans",
+    "review": "Tis a pub",
+    "osm_id": "way/668344583"
+  },
+  {
+    "id": "visit-0042",
+    "latitude": 53.3418,
+    "longitude": -6.26031,
+    "name": "Bruxelles",
+    "review": "Check out the Phillo tribute",
+    "osm_id": "way/249263084"
+  },
+  {
+    "id": "visit-0043",
+    "latitude": 53.34575,
+    "longitude": -6.25486,
+    "name": "McTurtles",
+    "review": "Too big. No atmosphere",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0044",
+    "latitude": 53.34758,
+    "longitude": -6.34598,
+    "name": "The Bridge Inn",
+    "review": "Good for a pint while waiting for the bus after a Pats match",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0045",
+    "latitude": 53.3583,
+    "longitude": -6.27324,
+    "name": "The Red Windmill",
+    "review": "Kev: \"Worst Pint ever!\"",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0046",
+    "latitude": 53.35811,
+    "longitude": -6.26337,
+    "name": "Kavanaghs",
+    "review": "Pre Irish Match Pint when they played in Croker",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0047",
+    "latitude": 53.33937,
+    "longitude": -6.24144,
+    "name": "Becky Morgans",
+    "review": "Small Pub. Good Atmosphere. Good Paninis",
+    "osm_id": "way/111184730"
+  },
+  {
+    "id": "visit-0048",
+    "latitude": 53.36649,
+    "longitude": -6.27114,
+    "name": "The Botanic House",
+    "review": "Uncle Ronnie!",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0049",
+    "latitude": 53.33728,
+    "longitude": -6.23357,
+    "name": "The Lansdowne",
+    "review": "Small Pub. Good atmosphere. Great before a Lansdowne match",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0050",
+    "latitude": 53.35077,
+    "longitude": -6.25336,
+    "name": "Mother Kellys",
+    "review": "Got the Pints but they didnt have any t-shirts",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0051",
+    "latitude": 53.33356,
+    "longitude": -6.25527,
+    "name": "Kobra Bar",
+    "review": "Cock Pub. Only went to crash the ESB Christmas Party.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0052",
+    "latitude": 53.33855,
+    "longitude": -6.25307,
+    "name": "Foleys",
+    "review": "Famous Persons haunt. We didnt see any. Nice pub.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0053",
+    "latitude": 53.34484,
+    "longitude": -6.25245,
+    "name": "O'Neills",
+    "review": "Put it off for ages because we thought it was closed. May actually be closed now",
+    "osm_id": "way/244989701"
+  },
+  {
+    "id": "visit-0054",
+    "latitude": 53.35028,
+    "longitude": -6.26713,
+    "name": "Woolshed",
+    "review": "Aussie Bar. Good seelction of beers. Great for sport",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0055",
+    "latitude": 53.34217,
+    "longitude": -6.25076,
+    "name": "Kennedys",
+    "review": "Cunt Pub. Refused Kev for being a scummer. Shall never return",
+    "osm_id": "node/10016178636"
+  },
+  {
+    "id": "visit-0056",
+    "latitude": 53.36716,
+    "longitude": -6.25568,
+    "name": "Kennedys",
+    "review": "Pre Croker/Shells matches",
+    "osm_id": "way/681374550"
+  },
+  {
+    "id": "visit-0057",
+    "latitude": 53.34442,
+    "longitude": -6.26344,
+    "name": "The Foggy Dew",
+    "review": "Kev doesnt like. I do. Contentious",
+    "osm_id": "way/281669751"
+  },
+  {
+    "id": "visit-0058",
+    "latitude": 53.29352,
+    "longitude": -6.13341,
+    "name": "Gastro Pub",
+    "review": "More Restaurant than pub. But we were desperate for a pint...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0059",
+    "latitude": 53.33978,
+    "longitude": -6.31906,
+    "name": "Tommy Croughs",
+    "review": "New Pub in Inchicore. A bit too nice looking",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0060",
+    "latitude": 53.33739,
+    "longitude": -6.23204,
+    "name": "Murrays",
+    "review": "Maybe only opens for matches",
+    "osm_id": "way/96196917"
+  },
+  {
+    "id": "visit-0061",
+    "latitude": 53.33665,
+    "longitude": -6.23665,
+    "name": "The Beggars Bush",
+    "review": "Decent Old Looking Pub. Good for a pre match pint. Not too dear",
+    "osm_id": "way/84017579"
+  },
+  {
+    "id": "visit-0062",
+    "latitude": 53.33716,
+    "longitude": -6.23415,
+    "name": "The Shelbourne House",
+    "review": "Aliens once abducted Tom from the Bar",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0063",
+    "latitude": 53.34821,
+    "longitude": -6.26817,
+    "name": "Slatterys",
+    "review": "Early House on Capel St. Decent",
+    "osm_id": "way/229061164"
+  },
+  {
+    "id": "visit-0064",
+    "latitude": 53.33716,
+    "longitude": -6.23415,
+    "name": "Slatterys",
+    "review": "Dont like it. Worst of the pubs near Lansdowne",
+    "osm_id": "way/96255051"
+  },
+  {
+    "id": "visit-0065",
+    "latitude": 53.3494,
+    "longitude": -6.24291,
+    "name": "Laguna",
+    "review": "The Reason Kev flunked out of NCI",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0066",
+    "latitude": 53.34532,
+    "longitude": -6.24871,
+    "name": "Windjammer",
+    "review": "Classic Old Pub. Watched Michael Jacksons Funeral there",
+    "osm_id": "node/282342105"
+  },
+  {
+    "id": "visit-0067",
+    "latitude": 53.3497,
+    "longitude": -6.24897,
+    "name": "The Harbour Master",
+    "review": "Decent Deals an Savage KPMG burds",
+    "osm_id": "way/254319894"
+  },
+  {
+    "id": "visit-0068",
+    "latitude": 53.32826,
+    "longitude": -6.22846,
+    "name": "Madigans",
+    "review": "Nice Pub considering the location",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0069",
+    "latitude": 53.33218,
+    "longitude": -6.23451,
+    "name": "The Dubliner",
+    "review": "Big Pre Croker Pub",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0070",
+    "latitude": 53.33791,
+    "longitude": -6.25264,
+    "name": "Toners",
+    "review": "Good old looking pub, right in the heart",
+    "osm_id": "node/13356563701"
+  },
+  {
+    "id": "visit-0071",
+    "latitude": 53.33592,
+    "longitude": -6.25669,
+    "name": "Hartigans",
+    "review": "Real classic feel. school desk for tables. Good Pub",
+    "osm_id": "way/275483127"
+  },
+  {
+    "id": "visit-0072",
+    "latitude": 53.344,
+    "longitude": -6.26246,
+    "name": "Bankers",
+    "review": "Small Pub. Comedy Club as well.",
+    "osm_id": "way/249268180"
+  },
+  {
+    "id": "visit-0073",
+    "latitude": 53.38346,
+    "longitude": -6.41734,
+    "name": "Clonsilla Inn",
+    "review": "Big Place. Carvery and shit",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0074",
+    "latitude": 53.35852,
+    "longitude": -6.41888,
+    "name": "The Foxhunter",
+    "review": "Closed now I believe.",
+    "osm_id": "node/139590769"
+  },
+  {
+    "id": "visit-0075",
+    "latitude": 53.35706,
+    "longitude": -6.25023,
+    "name": "Sunset House",
+    "review": "They dont trust you with glasses. Says it all really",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0076",
+    "latitude": 53.35705,
+    "longitude": -6.26456,
+    "name": "The Findlater",
+    "review": "Small Pub. Good for pre Croker meetups",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0077",
+    "latitude": 53.32941,
+    "longitude": -6.23141,
+    "name": "Bellamys",
+    "review": "Red Pub. Worst in Ballsbridge",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0078",
+    "latitude": 53.34195,
+    "longitude": -6.24967,
+    "name": "The Ginger Man",
+    "review": "Masters students hangout. No thanks.",
+    "osm_id": "way/257772822"
+  },
+  {
+    "id": "visit-0079",
+    "latitude": 53.3483,
+    "longitude": -6.25686,
+    "name": "The Pint!",
+    "review": "Nice Pub. Bit out of the way of the tourist trap",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0080",
+    "latitude": 53.34875,
+    "longitude": -6.25758,
+    "name": "Lannigan Plough",
+    "review": "Good for a few post theatre pints",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0081",
+    "latitude": 53.34617,
+    "longitude": -6.25959,
+    "name": "The Gin Palace",
+    "review": "Big Pub. Base yourself here and get nibbles from the Epicurean Food Hall",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0082",
+    "latitude": 53.34875,
+    "longitude": -6.25758,
+    "name": "The Flowing Tide",
+    "review": "They have old kegs for tables. Wahey!",
+    "osm_id": "way/245124093"
+  },
+  {
+    "id": "visit-0083",
+    "latitude": 53.37246,
+    "longitude": -6.33114,
+    "name": "The Halfway House",
+    "review": "Kev was uncomfortable",
+    "osm_id": "way/298356152"
+  },
+  {
+    "id": "visit-0084",
+    "latitude": 53.38736,
+    "longitude": -6.06617,
+    "name": "The Cock Tavern",
+    "review": "Nice Pub. Has some local Phillo History",
+    "osm_id": "way/589373498"
+  },
+  {
+    "id": "visit-0085",
+    "latitude": 53.34187,
+    "longitude": -6.25864,
+    "name": "The Duke",
+    "review": "Gets a good work crowd. Nice and cramped so nonchelant ass grabs can occur",
+    "osm_id": "relation/14704472"
+  },
+  {
+    "id": "visit-0086",
+    "latitude": 53.35736,
+    "longitude": -6.26359,
+    "name": "The Temple",
+    "review": "They have burger and chips. Big place",
+    "osm_id": "node/1349656251"
+  },
+  {
+    "id": "visit-0087",
+    "latitude": 53.34596,
+    "longitude": -6.2405,
+    "name": "Ferryman",
+    "review": "Nice Pub. Spent the first Arthurs Day there",
+    "osm_id": "way/102694943"
+  },
+  {
+    "id": "visit-0088",
+    "latitude": 53.34154,
+    "longitude": -6.25943,
+    "name": "John Keoghs",
+    "review": "Gets very busy with shoppers",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0089",
+    "latitude": 53.35679,
+    "longitude": -6.27394,
+    "name": "McGowans",
+    "review": "Nurses Hangout. Frequent before Boez Scum matches",
+    "osm_id": "way/1075891893"
+  },
+  {
+    "id": "visit-0090",
+    "latitude": 53.34384,
+    "longitude": -6.26275,
+    "name": "Dame Tavern",
+    "review": "Tiny place. Drink on the streets when its busy",
+    "osm_id": "node/1300613610"
+  },
+  {
+    "id": "visit-0091",
+    "latitude": 53.33516,
+    "longitude": -6.26355,
+    "name": "Diceys Garden",
+    "review": "Right beside Coppers... Not really a pub",
+    "osm_id": "node/4337347089"
+  },
+  {
+    "id": "visit-0092",
+    "latitude": 53.34383,
+    "longitude": -6.26367,
+    "name": "The Stags Head",
+    "review": "Decent pub. Old style feel and a newer downstairs",
+    "osm_id": "way/228968680"
+  },
+  {
+    "id": "visit-0093",
+    "latitude": 53.34435,
+    "longitude": -6.2649,
+    "name": "Peader Kearneys",
+    "review": "Really nice pub. Always good for a bit of music",
+    "osm_id": "node/2386542318"
+  },
+  {
+    "id": "visit-0094",
+    "latitude": 53.34436,
+    "longitude": -6.26718,
+    "name": "Thomas Read",
+    "review": "Cant remember it. Damn gargle dimmed brain",
+    "osm_id": "way/230134472"
+  },
+  {
+    "id": "visit-0095",
+    "latitude": 53.34651,
+    "longitude": -6.26763,
+    "name": "Nealons",
+    "review": "Decent Pub. Classic feel to it",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0096",
+    "latitude": 53.34737,
+    "longitude": -6.26822,
+    "name": "The Boars Head",
+    "review": "Small bar. Good for a few pints and a natter",
+    "osm_id": "way/229061165"
+  },
+  {
+    "id": "visit-0097",
+    "latitude": 53.34775,
+    "longitude": -6.26814,
+    "name": "McNeills",
+    "review": "Honestly thought this place was a music shop",
+    "osm_id": "way/229061161"
+  },
+  {
+    "id": "visit-0098",
+    "latitude": 53.34856,
+    "longitude": -6.26399,
+    "name": "The Lotts",
+    "review": "Must have been pissed. I cant remember it",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0099",
+    "latitude": 53.34727,
+    "longitude": -6.2541,
+    "name": "O'Reillys",
+    "review": "Rock bar sporting the wheel of death. Right under a tara street station as well, so a good atmosphere",
+    "osm_id": "node/306276661"
+  },
+  {
+    "id": "visit-0100",
+    "latitude": 53.34323,
+    "longitude": -6.24369,
+    "name": "Green Room",
+    "review": "Generic hotel bar. Not Great",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0101",
+    "latitude": 53.34572,
+    "longitude": -6.27142,
+    "name": "Fibbers Rock Bar",
+    "review": "The New Fibbers on the Quays. Grand if you fancy a bit of Metal with ur pint",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0102",
+    "latitude": 53.34574,
+    "longitude": -6.27232,
+    "name": "Legal Eagle",
+    "review": "Went in hoping to see some high class lawyer pussy. Alas, none was forthcoming",
+    "osm_id": "node/2004657419"
+  },
+  {
+    "id": "visit-0103",
+    "latitude": 53.35146,
+    "longitude": -6.24884,
+    "name": "The Vault",
+    "review": "Under Connolly train station. Good drink deals",
+    "osm_id": "node/3677094036"
+  },
+  {
+    "id": "visit-0104",
+    "latitude": 53.34861,
+    "longitude": -6.26024,
+    "name": "The Oval",
+    "review": "Nice old feel to the bar. Nip in when the Mrs is off shopping",
+    "osm_id": "way/250504040"
+  },
+  {
+    "id": "visit-0105",
+    "latitude": 53.35875,
+    "longitude": -6.2732,
+    "name": "Phibsboro House",
+    "review": "Nip in for a quick one before the Boez game",
+    "osm_id": "node/698087515"
+  },
+  {
+    "id": "visit-0106",
+    "latitude": 53.36091,
+    "longitude": -6.27307,
+    "name": "The Bohemian",
+    "review": "Another one before a Boez game",
+    "osm_id": "way/662919753"
+  },
+  {
+    "id": "visit-0107",
+    "latitude": 53.40161,
+    "longitude": -6.24174,
+    "name": "Swiss Cottage",
+    "review": "Pints before a Pats match against Sporting Fingal. Unfortunately they went out of business (the football club I mean)",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0108",
+    "latitude": 53.34174,
+    "longitude": -6.30756,
+    "name": "The Patriots",
+    "review": "So close to Inchicore yet it took us ages to do it.",
+    "osm_id": "way/129774681"
+  },
+  {
+    "id": "visit-0109",
+    "latitude": 53.32905,
+    "longitude": -6.23047,
+    "name": "Mary Macs",
+    "review": "In good company. Good for pre Lansdowne or RDS meetup",
+    "osm_id": "node/312576904"
+  },
+  {
+    "id": "visit-0110",
+    "latitude": 53.3217,
+    "longitude": -6.23525,
+    "name": "Longs",
+    "review": "Donnybrook pub. At least its not as bad as the other ones",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0111",
+    "latitude": 53.32221,
+    "longitude": -6.23656,
+    "name": "Kielys",
+    "review": "Ughh. Did it just to get it off the list",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0112",
+    "latitude": 53.35493,
+    "longitude": -6.25723,
+    "name": "Hill 16",
+    "review": "Always great craic before a Dubs match",
+    "osm_id": "way/1084223124"
+  },
+  {
+    "id": "visit-0113",
+    "latitude": 53.35905,
+    "longitude": -6.26173,
+    "name": "Auld Triangle",
+    "review": "Went jingle Jangle",
+    "osm_id": "way/252713065"
+  },
+  {
+    "id": "visit-0114",
+    "latitude": 53.35979,
+    "longitude": -6.26093,
+    "name": "The Big Tree",
+    "review": "Good auld pub on a busy street for good pubs",
+    "osm_id": "node/9202222409"
+  },
+  {
+    "id": "visit-0115",
+    "latitude": 53.35039,
+    "longitude": -6.25287,
+    "name": "Robert Reade",
+    "review": "Waiting for the Bus? Have a pint!",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0116",
+    "latitude": 53.36105,
+    "longitude": -6.25966,
+    "name": "The Red Parrot",
+    "review": "Classic auld boozer",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0117",
+    "latitude": 53.34064,
+    "longitude": -6.26551,
+    "name": "JJ Smyths",
+    "review": "Good bar for a bit of blues upstairs. Fairly small though",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0118",
+    "latitude": 53.34205,
+    "longitude": -6.26463,
+    "name": "Hogans",
+    "review": "Big enough bar. Was most likely pissed when I was there",
+    "osm_id": "node/367411336"
+  },
+  {
+    "id": "visit-0119",
+    "latitude": 53.34172,
+    "longitude": -6.22777,
+    "name": "The Oarsman",
+    "review": "Nice boozer. Close to lansdowne and a good local atmosphere",
+    "osm_id": "node/312565824"
+  },
+  {
+    "id": "visit-0120",
+    "latitude": 53.34084,
+    "longitude": -6.24478,
+    "name": "Doolans",
+    "review": "Can find many a proud man wetting the babys head in here",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0121",
+    "latitude": 53.33463,
+    "longitude": -6.24243,
+    "name": "The 51",
+    "review": "Tis a pub with beer. good enough by me",
+    "osm_id": "way/80580032"
+  },
+  {
+    "id": "visit-0122",
+    "latitude": 53.24518,
+    "longitude": -6.13497,
+    "name": "The Silver Tassie",
+    "review": "Ah the Tassie... Possibly the Best Pub in the world... Ever...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0123",
+    "latitude": 53.33477,
+    "longitude": -6.24345,
+    "name": "Smyths",
+    "review": "What can I say... Its across the road from 51",
+    "osm_id": "way/109370672"
+  },
+  {
+    "id": "visit-0124",
+    "latitude": 53.35719,
+    "longitude": -6.45023,
+    "name": "Kennys",
+    "review": "Nice Pub. Kind of a food place though",
+    "osm_id": "way/1009147583"
+  },
+  {
+    "id": "visit-0125",
+    "latitude": 53.35541,
+    "longitude": -6.4545,
+    "name": "Ball Alley House",
+    "review": "Dont drive home drunk from this place",
+    "osm_id": "node/506824954"
+  },
+  {
+    "id": "visit-0126",
+    "latitude": 53.35626,
+    "longitude": -6.45023,
+    "name": "Courtneys",
+    "review": "Right next door to a Garda station. How are you meant to enjoy a late pint in peace?",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0127",
+    "latitude": 53.34003,
+    "longitude": -6.22353,
+    "name": "Doyles",
+    "review": "Pre match pint. Was a bit of a shithole",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0128",
+    "latitude": 53.34235,
+    "longitude": -6.22783,
+    "name": "The Yacht",
+    "review": "Like having a pint in someones living room.",
+    "osm_id": "node/10136276602"
+  },
+  {
+    "id": "visit-0129",
+    "latitude": 53.34339,
+    "longitude": -6.24485,
+    "name": "Padraig Pearse",
+    "review": "A real local...",
+    "osm_id": "node/303968050"
+  },
+  {
+    "id": "visit-0130",
+    "latitude": 53.35128,
+    "longitude": -6.25035,
+    "name": "Graingers",
+    "review": "Near to Connolly train station",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0131",
+    "latitude": 53.35298,
+    "longitude": -6.26088,
+    "name": "Hop House",
+    "review": "Mix of Koreans and Dubs. Kinda weird. But still cool. Has a Korean Restaurant as well.",
+    "osm_id": "way/252812514"
+  },
+  {
+    "id": "visit-0132",
+    "latitude": 53.31813,
+    "longitude": -6.51871,
+    "name": "The Hatch",
+    "review": "Lovely setting but a few too many land rovers for my liking",
+    "osm_id": "way/553980577"
+  },
+  {
+    "id": "visit-0133",
+    "latitude": 53.34268,
+    "longitude": -6.25281,
+    "name": "The Pavillion",
+    "review": "Surrounded by Trinners Winners... Wahey!",
+    "osm_id": "way/258651047"
+  },
+  {
+    "id": "visit-0134",
+    "latitude": 53.34666,
+    "longitude": -6.29275,
+    "name": "The Galway Hooker",
+    "review": "Grand for a few pints before the train. A bit pricey...",
+    "osm_id": "node/830659393"
+  },
+  {
+    "id": "visit-0135",
+    "latitude": 53.34135,
+    "longitude": -6.45184,
+    "name": "The Lord Lucan",
+    "review": "Big Roomy Pub in the middle of a soulless megaestate",
+    "osm_id": "node/478929879"
+  },
+  {
+    "id": "visit-0136",
+    "latitude": 53.28195,
+    "longitude": -6.46564,
+    "name": "Muldowneys",
+    "review": "Nice local Big pub",
+    "osm_id": "node/2176085502"
+  },
+  {
+    "id": "visit-0137",
+    "latitude": 53.33243,
+    "longitude": -6.2154,
+    "name": "Sandymount House",
+    "review": "Not bad, maybe a bit snobby but had a nice fire and decent pints",
+    "osm_id": "node/312574900"
+  },
+  {
+    "id": "visit-0138",
+    "latitude": 53.33301,
+    "longitude": -6.21613,
+    "name": "Mulligans",
+    "review": "Fuckin Piano Bar, didnt like the buzz of this place",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0139",
+    "latitude": 53.32104,
+    "longitude": -6.39261,
+    "name": "The Laurels",
+    "review": "Good Size Pub, Decent crowd in on a Sunday. Too many floor staff though..",
+    "osm_id": "node/1811909824"
+  },
+  {
+    "id": "visit-0140",
+    "latitude": 53.31419,
+    "longitude": -6.23872,
+    "name": "O'Sheas",
+    "review": "Nice boozer. Big car park and gets a good sized after work crowd",
+    "osm_id": "way/115772293"
+  },
+  {
+    "id": "visit-0141",
+    "latitude": 53.31614,
+    "longitude": -6.23702,
+    "name": "Ashtons",
+    "review": "More wine bar than pub. Full of tosspots",
+    "osm_id": "way/239198137"
+  },
+  {
+    "id": "visit-0142",
+    "latitude": 53.34603,
+    "longitude": -6.25196,
+    "name": "Neds",
+    "review": "Good pub. Real down to earth, and good prices.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0143",
+    "latitude": 53.45127,
+    "longitude": -6.1536,
+    "name": "Gibneys",
+    "review": "James' first pub. So I suppose it'll always have that",
+    "osm_id": "node/550381074"
+  },
+  {
+    "id": "visit-0144",
+    "latitude": 53.32331,
+    "longitude": -6.25011,
+    "name": "McSorleys",
+    "review": "Watched the 2014 World Cup draw here. Good pub later in the night",
+    "osm_id": "node/543384713"
+  },
+  {
+    "id": "visit-0145",
+    "latitude": 53.32338,
+    "longitude": -6.25028,
+    "name": "Birchalls",
+    "review": "Full of old people but they do a mean toasted cheese sangidge",
+    "osm_id": "node/565770327"
+  },
+  {
+    "id": "visit-0146",
+    "latitude": 53.32424,
+    "longitude": -6.25252,
+    "name": "Smyths",
+    "review": "Alright Pub. Although they have cock rings on sale in the jacks which is a bit much",
+    "osm_id": "node/12543374558"
+  },
+  {
+    "id": "visit-0147",
+    "latitude": 53.32386,
+    "longitude": -6.25129,
+    "name": "Humphreys",
+    "review": "Grand pub. Friendly staff.",
+    "osm_id": "node/12543374557"
+  },
+  {
+    "id": "visit-0148",
+    "latitude": 53.32504,
+    "longitude": -6.2544,
+    "name": "Tap House",
+    "review": "Craft Beer and nice food. The new revolution apparently.",
+    "osm_id": "way/893376289"
+  },
+  {
+    "id": "visit-0149",
+    "latitude": 53.33799,
+    "longitude": -6.25303,
+    "name": "Doheny & Nesbitts",
+    "review": "Good launching location in central dublin. Bar is usually busy too",
+    "osm_id": "relation/14462907"
+  },
+  {
+    "id": "visit-0150",
+    "latitude": 53.34122,
+    "longitude": -6.26423,
+    "name": "P. Macs",
+    "review": "Free Stinger bars, although maybe they werent free",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0151",
+    "latitude": 53.29337,
+    "longitude": -6.13875,
+    "name": "Dunphys",
+    "review": "One of the forgotten bars in Dun Laoghaire. Cowboy joined us.",
+    "osm_id": "way/58693011"
+  },
+  {
+    "id": "visit-0152",
+    "latitude": 53.35731,
+    "longitude": -6.44963,
+    "name": "Carrols",
+    "review": "Not really a pub, its a gastro pub... And it has a feckin tea menu.",
+    "osm_id": "way/324744098"
+  },
+  {
+    "id": "visit-0153",
+    "latitude": 53.35618,
+    "longitude": -6.46487,
+    "name": "The Lucan County",
+    "review": "Any pub that has a Pats scarf on the wall is alright by me",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0154",
+    "latitude": 53.30881,
+    "longitude": -6.19662,
+    "name": "The Punch Bowl",
+    "review": "Not a bad boozer. Some craft beers and free crisps.",
+    "osm_id": "node/132228340"
+  },
+  {
+    "id": "visit-0155",
+    "latitude": 53.30549,
+    "longitude": -6.19759,
+    "name": "Gleesons",
+    "review": "Fuckin cunt hole",
+    "osm_id": "node/1418302667"
+  },
+  {
+    "id": "visit-0156",
+    "latitude": 53.31842,
+    "longitude": -6.21121,
+    "name": "The Merrion Inn",
+    "review": "Kind of a restaurant and in a shit location anyways",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0157",
+    "latitude": 53.34506,
+    "longitude": -6.26741,
+    "name": "The Porterhouse",
+    "review": "Typical Porterhouse, full of tourists",
+    "osm_id": "way/230133865"
+  },
+  {
+    "id": "visit-0158",
+    "latitude": 53.34417,
+    "longitude": -6.26154,
+    "name": "The Bank on the Green",
+    "review": "Posh Posh Posh",
+    "osm_id": "relation/3375611"
+  },
+  {
+    "id": "visit-0159",
+    "latitude": 53.28793,
+    "longitude": -6.36212,
+    "name": "The Dragon",
+    "review": "Went here before the Pats v Legia game. Grand pub, was early though so no atmosphere",
+    "osm_id": "node/638722447"
+  },
+  {
+    "id": "visit-0160",
+    "latitude": 53.28807,
+    "longitude": -6.35959,
+    "name": "Molloys",
+    "review": "Good big pub. Was there early during the day but still a few in.",
+    "osm_id": "node/390324314"
+  },
+  {
+    "id": "visit-0161",
+    "latitude": 53.3211,
+    "longitude": -6.26547,
+    "name": "Rody Bolands",
+    "review": "Surprisingly big pub. was dead when we were there but I'd say its a good laugh at night",
+    "osm_id": "node/3040092718"
+  },
+  {
+    "id": "visit-0162",
+    "latitude": 53.32178,
+    "longitude": -6.26567,
+    "name": "Copan",
+    "review": "Love the name.. Cop On.. Good selection of craft beer but a small smell of tosspot off the place",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0163",
+    "latitude": 53.32184,
+    "longitude": -6.26629,
+    "name": "Graces",
+    "review": "A real auld fellas pub. Dark and Dingey... I love it.",
+    "osm_id": "node/2885369320"
+  },
+  {
+    "id": "visit-0164",
+    "latitude": 53.32214,
+    "longitude": -6.2659,
+    "name": "Slatterys",
+    "review": "An alright pub. Didnt seem to be full of muppets but didnt have anything special",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0165",
+    "latitude": 53.32693,
+    "longitude": -6.26476,
+    "name": "Blackbird",
+    "review": "Yeah.. eh... They had a fuckin bed for a table... Maybe I'm just getting old",
+    "osm_id": "way/271450113"
+  },
+  {
+    "id": "visit-0166",
+    "latitude": 53.36265,
+    "longitude": -6.24235,
+    "name": "Meaghers",
+    "review": "I have absolutely zero recollection about this place... my bad...",
+    "osm_id": "way/968532221"
+  },
+  {
+    "id": "visit-0167",
+    "latitude": 53.32432,
+    "longitude": -6.26512,
+    "name": "Toast",
+    "review": "More cafe than pub. Who calls a pub toast... come on.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0168",
+    "latitude": 53.3459,
+    "longitude": -6.25967,
+    "name": "Palace Bar",
+    "review": "Tipp bar. Not bad. Good crowd. One for firsts. First Dublin Porter on tap and first pub logged on the app",
+    "osm_id": "way/271055200"
+  },
+  {
+    "id": "visit-0169",
+    "latitude": 53.30073,
+    "longitude": -6.17685,
+    "name": "Three Tun Tavern",
+    "review": "First Wetherspoons in the Republic. Wasn't bad. Decent food and definitely cheap drink but dunno if I'd like it as me local... Strange atmosphere",
+    "osm_id": "way/381661513"
+  },
+  {
+    "id": "visit-0170",
+    "latitude": 53.30151,
+    "longitude": -6.17763,
+    "name": "O'Donohoes",
+    "review": "Tiny pub. Was pretty good actually. Relaxed and books and shit in the window",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0171",
+    "latitude": 53.30161,
+    "longitude": -6.17779,
+    "name": "Jack O'Rourkes",
+    "review": "Snobby shit hole...",
+    "osm_id": "node/662938466"
+  },
+  {
+    "id": "visit-0172",
+    "latitude": 53.34832,
+    "longitude": -6.29407,
+    "name": "Nancy Hands",
+    "review": "Nice pub. Bit touristy.",
+    "osm_id": "way/870583668"
+  },
+  {
+    "id": "visit-0173",
+    "latitude": 53.34819,
+    "longitude": -6.2934,
+    "name": "Eamon Reas",
+    "review": "Good pub. Real auld fart feel to it. Owner is very proud of his Limerick hurling background also.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0174",
+    "latitude": 53.34331,
+    "longitude": -6.2701,
+    "name": "Bull & Castle",
+    "review": "Nearly 14 quid for a pint and a long neck. WTF. Rip off merchants.... And the cunts barred me from upstairs.... Grrrrrr....",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0175",
+    "latitude": 53.34299,
+    "longitude": -6.27021,
+    "name": "Lord Edward",
+    "review": "Decent boozer. A bit quiet but nice and relaxed. Plus there's a Leo Burdocks around the corner. Score.",
+    "osm_id": "node/583412899"
+  },
+  {
+    "id": "visit-0176",
+    "latitude": 53.34386,
+    "longitude": -6.26833,
+    "name": "Legends",
+    "review": "Kind of a hotel bar but pretty nice feel to it. Grand for a pint before popping into the Olympia for some legitimate theatre.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0177",
+    "latitude": 53.33836,
+    "longitude": -6.25213,
+    "name": "McGrattans",
+    "review": "Snobby snobby snobby... Not the type of place you'd feel comfortable having a pint and a packet of crisps.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0178",
+    "latitude": 53.34805,
+    "longitude": -6.29356,
+    "name": "Ryans",
+    "review": "Alright pub, nice view out the window. But no crisps or nuts except for some home made crazy expensive jars of nuts... wtf...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0179",
+    "latitude": 53.34286,
+    "longitude": -6.2604,
+    "name": "Marys Hardware",
+    "review": "Bags of sugar and jams of jar behind the bar designed to make the hipsters feel like they're drinkin down in some shithole in Kerry without having to risk being away from <insert favourite coffee shop here> for too long.",
+    "osm_id": "node/6245890989"
+  },
+  {
+    "id": "visit-0180",
+    "latitude": 53.37335,
+    "longitude": -6.26861,
+    "name": "Tolla House",
+    "review": "Nice pub. Right beside the Botanic Gardens which are beautiful. More of a gastro pub. Probably grand if you want to bring the Granny out for a Sunday Roast",
+    "osm_id": "node/1423546555"
+  },
+  {
+    "id": "visit-0181",
+    "latitude": 53.32162,
+    "longitude": -6.23562,
+    "name": "Arthur Maynes",
+    "review": "Trendy. A load of cameras. Bit quiet though. But they did give me free beer with me lunch. I'll give it a mediocre 3 thumbs up",
+    "osm_id": "node/3028480445"
+  },
+  {
+    "id": "visit-0182",
+    "latitude": 53.3387,
+    "longitude": -6.22318,
+    "name": "The village Inn",
+    "review": "Tis grand sure. Bice pub. Tree tarded bar peoples....",
+    "osm_id": "node/312569767"
+  },
+  {
+    "id": "visit-0183",
+    "latitude": 53.33914,
+    "longitude": -6.22261,
+    "name": "Beach Tavern",
+    "review": "Nice pub. Good auld fella feel....",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0184",
+    "latitude": 53.33856,
+    "longitude": -6.22314,
+    "name": "Sober Lane",
+    "review": "Dickheads",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0185",
+    "latitude": 53.35381,
+    "longitude": -6.25041,
+    "name": "Lloyds",
+    "review": "Grand pub. Was early in the day and lashing so just happy to get a pint in a dry place. Would come again.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0186",
+    "latitude": 53.35273,
+    "longitude": -6.24842,
+    "name": "Mulletts",
+    "review": "Ooh Ahh Up The Ra... Auld farts bar. Kev said Don't  forget your Easter Lilly",
+    "osm_id": "node/2071381885"
+  },
+  {
+    "id": "visit-0187",
+    "latitude": 53.35268,
+    "longitude": -6.2502,
+    "name": "J&M Clearys",
+    "review": "Choo Choo. Lots of model trains. Nice layout good boozer.",
+    "osm_id": "node/890854720"
+  },
+  {
+    "id": "visit-0188",
+    "latitude": 53.42506,
+    "longitude": -6.23039,
+    "name": "Kealys",
+    "review": "Can barely count it. Only had a glass of Guinness. But we were here. Violet O'Sheas birthday. Kinda remote. Cant see meself being back.",
+    "osm_id": "way/49612559"
+  },
+  {
+    "id": "visit-0189",
+    "latitude": 53.33692,
+    "longitude": -6.2658,
+    "name": "The Jar",
+    "review": "Shit pub. There was nobody there. Although they did have a lovely Christmas Ale... ☺",
+    "osm_id": "node/503224354"
+  },
+  {
+    "id": "visit-0190",
+    "latitude": 53.34318,
+    "longitude": -6.28164,
+    "name": "Arthurs",
+    "review": "Bit hipstery. No TV for the footie wtf. Decent selection of beers though",
+    "osm_id": "way/229376152"
+  },
+  {
+    "id": "visit-0191",
+    "latitude": 53.34323,
+    "longitude": -6.28729,
+    "name": "Open Gate Brewery",
+    "review": "More brewery than pub. Really enjoyed it in there",
+    "osm_id": "node/5044959521"
+  },
+  {
+    "id": "visit-0192",
+    "latitude": 53.26499,
+    "longitude": -6.29729,
+    "name": "Merry Ploughboy",
+    "review": "More restaurant than pub but really nice for a tourist pub. Good food.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0193",
+    "latitude": 53.35714,
+    "longitude": -6.28897,
+    "name": "Hanlons",
+    "review": "For some reason Dad is petrified of this place. Must be the Boez proximity. Was grand. Tried Roundstone Ale. Have never had it before",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0194",
+    "latitude": 53.30994,
+    "longitude": -6.28203,
+    "name": "Bradys",
+    "review": "Alright feel. Was early in the day but had a nice creamy pint and the racing on the telly. There was a weird fella who followed Kev into the jacks over a newspaper though...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0195",
+    "latitude": 53.30999,
+    "longitude": -6.28334,
+    "name": "Vaughans",
+    "review": "Good boozer for the racing. Was the birth place of James Joyces mother don't ya know.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0196",
+    "latitude": 53.3121,
+    "longitude": -6.27457,
+    "name": "The 108",
+    "review": "Toss pot craft beer pub. I like the beer but can't take to the atmosphere.... 😠",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0197",
+    "latitude": 53.34726,
+    "longitude": -6.28029,
+    "name": "McGettigans",
+    "review": "Nice local feel to the place. Pint of Guinness and a bag of nobbys nuts for a fiver, not fuckin bad.",
+    "osm_id": "way/384344469"
+  },
+  {
+    "id": "visit-0198",
+    "latitude": 53.34709,
+    "longitude": -6.28038,
+    "name": "Dice Bar",
+    "review": "Too hipsterish. Bar man was trying too hard to be cool. Not a fan",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0199",
+    "latitude": 53.34701,
+    "longitude": -6.28008,
+    "name": "Frank Ryan's",
+    "review": "Nice feel to the bar. Pool table at the back. And.... This was our 200th pub. Fuck yeah",
+    "osm_id": "node/446785642"
+  },
+  {
+    "id": "visit-0200",
+    "latitude": 53.34982,
+    "longitude": -6.2785,
+    "name": "Delaneys",
+    "review": "Nice roomy pub. Good smoking area out the back. And the old dude collecting the glasses seemed a bit mad.. I likey",
+    "osm_id": "node/632666705"
+  },
+  {
+    "id": "visit-0201",
+    "latitude": 53.34981,
+    "longitude": -6.27785,
+    "name": "Cobblestone",
+    "review": "Touristy bar. Always have a bit of diddley-eye-dil-eye but wouldn't really settle in here for the evening",
+    "osm_id": "way/1084218455"
+  },
+  {
+    "id": "visit-0202",
+    "latitude": 53.34601,
+    "longitude": -6.2803,
+    "name": "Pifko",
+    "review": "Czechsolvanian bar, nearly a restaurant. Bar man didn't even know Ireland were playing. But at least they had some nice different beers.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0203",
+    "latitude": 53.34728,
+    "longitude": -6.26011,
+    "name": "Bachelor Inn",
+    "review": "Kip. Loud music. No people cept for the drunk lad chuxkin coins into the stupid machine. There's possibly a metaphor in there....",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0204",
+    "latitude": 53.3474,
+    "longitude": -6.26024,
+    "name": "O'Connell Bar",
+    "review": "Nice roomy bar. Cool looking tunnel design. Some shit singer song writer while we were there but hey...  they had beer.",
+    "osm_id": "way/227766040"
+  },
+  {
+    "id": "visit-0205",
+    "latitude": 53.34356,
+    "longitude": -6.23885,
+    "name": "Cafe H",
+    "review": "Where do I start with this cunt hole...  The door to the jacks looks like a wall and you have to push the left hand side to open it. They left Kev waiting for fuckin ever for just a bottle of beer and a vodka. Oh... And it's full of tossers...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0206",
+    "latitude": 53.33049,
+    "longitude": -6.26505,
+    "name": "The Lower Deck",
+    "review": "I like this place. Proper auld fella boozer feel to it. Drink was grand. Barman was good....  7 thumbs up",
+    "osm_id": "node/279464425"
+  },
+  {
+    "id": "visit-0207",
+    "latitude": 53.33031,
+    "longitude": -6.26407,
+    "name": "The Portobello",
+    "review": "Not bad.  Front bar is better than the lounge. A few dick tourists in but that was offset by some bang on locals...",
+    "osm_id": "node/1426048610"
+  },
+  {
+    "id": "visit-0208",
+    "latitude": 53.3309,
+    "longitude": -6.25036,
+    "name": "The Leeson Lounge",
+    "review": "Bit of an auld jazz bar. If you 30 - 40 and past ur best but still think you're cool,  this is the cunt hole for you.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0209",
+    "latitude": 53.33138,
+    "longitude": -6.25157,
+    "name": "O'Briens",
+    "review": "May be full of auld ones but it's a proper pub. Barmen know what their doing....  COYBIG",
+    "osm_id": "node/10568217814"
+  },
+  {
+    "id": "visit-0210",
+    "latitude": 53.30802,
+    "longitude": -6.25506,
+    "name": "The Dropping Well",
+    "review": "Good bar. Chatty bar man and nice look to the place. Old trinkets and shit. A little isolated though",
+    "osm_id": "way/106056173"
+  },
+  {
+    "id": "visit-0211",
+    "latitude": 53.2952,
+    "longitude": -6.24657,
+    "name": "Uncle Toms Cabin",
+    "review": "Nithing wrong with the place but was absolutely empty. Shit atmosphere",
+    "osm_id": "way/334694813"
+  },
+  {
+    "id": "visit-0212",
+    "latitude": 53.28938,
+    "longitude": -6.2434,
+    "name": "Dundrum House",
+    "review": "Bar seemed alright but lounge was a little too fancy. Too many eating food to be comfortable. Really hot bar girl though",
+    "osm_id": "way/85389367"
+  },
+  {
+    "id": "visit-0213",
+    "latitude": 53.28907,
+    "longitude": -6.24322,
+    "name": "The Eagle",
+    "review": "Nice down to earth bar and lounge. Darts team in the corner. Decent drink selection... not bad...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0214",
+    "latitude": 53.29505,
+    "longitude": -6.25695,
+    "name": "The Bottle Tower",
+    "review": "Shit new age shite hole... fuckin leopard skin chairs and stuff. Cock hole",
+    "osm_id": "way/129750575"
+  },
+  {
+    "id": "visit-0215",
+    "latitude": 53.34598,
+    "longitude": -6.25559,
+    "name": "The Long Stone",
+    "review": "The drink is fuckin expensive here. Its an old haunt of me aul fella and its close to the dart, so good location, good selection of beers but mug prices.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0216",
+    "latitude": 53.27812,
+    "longitude": -6.10728,
+    "name": "The Daffy Duck",
+    "review": "A bit posh looking. Price of a pint was alright though. They showed the football and the bar girl was nice and chatty. Dont get served by the dickhead with the slicked back hairdo",
+    "osm_id": "way/237947227"
+  },
+  {
+    "id": "visit-0217",
+    "latitude": 53.27778,
+    "longitude": -6.10515,
+    "name": "The Queens",
+    "review": "Snobby foodatorium. Shithole with a retard barman",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0218",
+    "latitude": 53.27756,
+    "longitude": -6.10475,
+    "name": "The Kings Inn",
+    "review": "Not bad, good crowd, showed the footy. Barman was good. No complaints... Wuda liked to stay longer",
+    "osm_id": "way/237916664"
+  },
+  {
+    "id": "visit-0219",
+    "latitude": 53.27708,
+    "longitude": -6.10324,
+    "name": "The Magpie Inn",
+    "review": "Nice. Feels closest to a proper pub in the town so far. Bit of a craft bar but nice layout and they have bacon fries... :)",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0220",
+    "latitude": 53.27646,
+    "longitude": -6.10308,
+    "name": "Finnegans",
+    "review": "Good crowd in the pub. Cuda showed the match on more TVs but seemed a good buzz in the place. Oh and the ridiculously young bargiel had an ass that Kev said he would nuke Tahiti for. I mean.. it was nice like... but it was prob more to do with the fact that she was wearin them skin tight pants which push the ass up. I definitely wouldnt say no meself. But I'd prob need a longer view before I could say whether or not nuking Tahiti was actually justified. Who even knows anyone from Tahiti. Fuck Tahiti. Pretentious cunts...",
+    "osm_id": "way/127529552"
+  },
+  {
+    "id": "visit-0221",
+    "latitude": 53.33733,
+    "longitude": -6.23947,
+    "name": "The Schoolhouse",
+    "review": "Nice layout and feel to the palce but the bar stuff were fuckin clueless. Kev seemed to like it though.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0222",
+    "latitude": 53.33808,
+    "longitude": -6.23737,
+    "name": "Gasworks",
+    "review": "Great selection of craft beer. Bit pricey, but perfect location for a sneaky one on the way to the train station. TBH, I can't actually remember being here with Kev but he swears we were in it. Must've been drunk. ¯\\_(ツ)_/¯",
+    "osm_id": "way/115086421"
+  },
+  {
+    "id": "visit-0223",
+    "latitude": 53.37294,
+    "longitude": -6.36243,
+    "name": "Myos",
+    "review": "Hard to judge. Place was empty due to renovations. Certainly plenty of room in the place and the Guinness was alright, so... meh...",
+    "osm_id": "way/375706578"
+  },
+  {
+    "id": "visit-0224",
+    "latitude": 53.384,
+    "longitude": -6.3677,
+    "name": "Bradys",
+    "review": "Big generic gastro pub. If you've been in one you've been in them all. Nice tiles on the ceiling I suppose.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0225",
+    "latitude": 53.36261,
+    "longitude": -6.25894,
+    "name": "McGraths",
+    "review": "Really impressed. Nice layout, lovely food. They dropped Kevs burger on the ground but fuck it... it was Kevs burger. Good fuckin pub. I'll be back.",
+    "osm_id": "way/741013943"
+  },
+  {
+    "id": "visit-0226",
+    "latitude": 53.36359,
+    "longitude": -6.25801,
+    "name": "Quinns",
+    "review": "Nice boozer. Local. Barman fuckin hates 12 pubs of Christmas people.... he possibly hates everyone",
+    "osm_id": "node/13103448936"
+  },
+  {
+    "id": "visit-0227",
+    "latitude": 53.35562,
+    "longitude": -6.26579,
+    "name": "Delahuntys",
+    "review": "Grand bar, Darts team playin away. We figured out the 10 Alans who played for Ireland between 2000 and 2017. Hint, there's only 9.",
+    "osm_id": "node/2372309923"
+  },
+  {
+    "id": "visit-0228",
+    "latitude": 53.35549,
+    "longitude": -6.26591,
+    "name": "Wellington",
+    "review": "Good pub, roomy. Pool table... Beer... I don't fuckin know, no obvious cunts anyways",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0229",
+    "latitude": 53.355841,
+    "longitude": -6.26524,
+    "name": "Mayes",
+    "review": "The jacks are down in an auld WWII bomb shelter... which smells like WWII piss. But it's the official Irish Spurs supporters club pub (and all three of them were even in tonight) so Kev insisted we give it our highest rating ever... 7 thumbs up!",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0230",
+    "latitude": 53.355244,
+    "longitude": -6.26609,
+    "name": "Joxer Dalys",
+    "review": "Good pub. A bit RA. Proclamations and portraits of Collins all over the gaff but a nice fire down the back. Kev reckons one of the old lads at the bar thought we were cops... :-P",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0231",
+    "latitude": 53.230068,
+    "longitude": -6.12431,
+    "name": "Bradys",
+    "review": "Nice pub. Plenty of room, racing on the telly. Was early so was a bit quiet and Kev had his under armour on so was sweating balls but no complaints about the place or the price.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0232",
+    "latitude": 53.343316,
+    "longitude": -6.281042,
+    "name": "Agnes Brownes",
+    "review": "Real local. Kids in the corner with the bottle of seven up. reminds me of me own youth... How sad... Pint was fine. Lots of pix about the Titanic so maybe the owner has some interest in that.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0233",
+    "latitude": 53.342493,
+    "longitude": -6.288514,
+    "name": "Harkins The Old Harbour",
+    "review": "I like it. Nice mix of locals and people working in Guinesses. Big mural across the road about some IRA lad who used to drink there.",
+    "osm_id": "node/298721803"
+  },
+  {
+    "id": "visit-0234",
+    "latitude": 53.343532,
+    "longitude": -6.289117,
+    "name": "McCanns Bar",
+    "review": "Was in the middle of renovations so was in a bit of a mess. Small place but good buzz. A few in even though it was early.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0235",
+    "latitude": 53.343464,
+    "longitude": -6.290492,
+    "name": "J.K. Stoutmans",
+    "review": "Looks like its been recently done up. Tons of photos on the ceiling so you won't be bored when you fall over..",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0236",
+    "latitude": 53.34296,
+    "longitude": -6.290975,
+    "name": "The Malth House",
+    "review": "Ha, I love this place. Belting out the classics at half 5. Good barmen. Big enough pub as well... Has everything going for it.",
+    "osm_id": "node/1260538148"
+  },
+  {
+    "id": "visit-0237",
+    "latitude": 53.342405,
+    "longitude": -6.294543,
+    "name": "Kennys",
+    "review": "Very big pub. Was a bit quiet when we were there. No issues with the pint or the crisps.",
+    "osm_id": "node/3124957096"
+  },
+  {
+    "id": "visit-0238",
+    "latitude": 53.342057,
+    "longitude": -6.252509,
+    "name": "The Lincoln Inn",
+    "review": "Bit of a snobby crowd but there was a cracker of a burd drinkin a pint of Guinness while the lad she was with had the white wine Chardonay or some shite. Kev fell in love with her and instantly wanted to rescue her from the menstruatin muppet. Plus they had the volume turned up for the match so a decent score for this place.",
+    "osm_id": "way/231265715"
+  },
+  {
+    "id": "visit-0239",
+    "latitude": 53.343122,
+    "longitude": -6.261744,
+    "name": "The International Bar",
+    "review": "Was alright. Considering the company of pubs in the area, this place is a bit of a safe haven. Had the match on. A few tourists in. Can't really say much beyond that.",
+    "osm_id": "way/260307464"
+  },
+  {
+    "id": "visit-0240",
+    "latitude": 53.343131,
+    "longitude": -6.262119,
+    "name": "The Old Stand",
+    "review": "Meh. Nice marble bar. Nicely dressed people drinking their nicely presented gins in their nicely expensive glasses. Just too.... nice...",
+    "osm_id": "way/275159990"
+  },
+  {
+    "id": "visit-0241",
+    "latitude": 53.342915,
+    "longitude": -6.261974,
+    "name": "Johnny Rushes",
+    "review": "Was quiet. Empty really. Hard to get a feel for the place. Barman wasn't a complete knob jockey but they didnt have the match on. Why u no like football....",
+    "osm_id": "way/273646173"
+  },
+  {
+    "id": "visit-0242",
+    "latitude": 53.342785,
+    "longitude": -6.262908,
+    "name": "The Rag Trader",
+    "review": "Fuckin arsehole barman can't take a joke.",
+    "osm_id": "way/273652089"
+  },
+  {
+    "id": "visit-0243",
+    "latitude": 53.342668,
+    "longitude": -6.262327,
+    "name": "Dakota",
+    "review": "I think The Rag Trader backs on to this place. They must be the same place. Both shite anyways...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0244",
+    "latitude": 53.34334,
+    "longitude": -6.264284,
+    "name": "The Globe",
+    "review": "Didn't really see the place. Met an old friend at the bar and was just yappin to him for a while instead. Seemed alright... No match though. Just play the fuckin amatch...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0245",
+    "latitude": 53.341849,
+    "longitude": -6.265308,
+    "name": "The Long Hall",
+    "review": "Small bar. Always busy. Kev didn't like it. I did. If ya can secure a little corner for yourself, it's certainly not the worst.",
+    "osm_id": "way/351409390"
+  },
+  {
+    "id": "visit-0246",
+    "latitude": 53.371012,
+    "longitude": -6.205843,
+    "name": "Beachcomber",
+    "review": "Big place. Seemed to be the only boozer in the town. Attentive bar staff, racing on the telly, bacon fries and lovely slurpy Guinness.... What's not to like?",
+    "osm_id": "way/324346439"
+  },
+  {
+    "id": "visit-0247",
+    "latitude": 53.367197,
+    "longitude": -6.216601,
+    "name": "Harry Byrnes",
+    "review": "Another big one. Really cool layout to the bar. Runs along three little snugs.  Large smoking area. A bit too expensive though.",
+    "osm_id": "way/47936694"
+  },
+  {
+    "id": "visit-0248",
+    "latitude": 53.367853,
+    "longitude": -6.227163,
+    "name": "Graingers",
+    "review": "Nice place. They serve either peas or beans.... So you've a fuck ton of choice.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0249",
+    "latitude": 53.365788,
+    "longitude": -6.228875,
+    "name": "Kavanaghs",
+    "review": "Had to play hide and seek with the bar man for a little while but apart from that was grand. Plenty of room. Nice pints and SCAMPI FRIES.... YAY",
+    "osm_id": "node/249426205"
+  },
+  {
+    "id": "visit-0250",
+    "latitude": 53.346026,
+    "longitude": -6.262716,
+    "name": "Merchants Arch",
+    "review": "What kind of a cunt hole can charge 14 euro for two bottles of piss and keep a straight face. Some poor fuckin tourist got quoted 85 quid for a single measure. Rip off central. Shall not be back...",
+    "osm_id": "way/281683058"
+  },
+  {
+    "id": "visit-0251",
+    "latitude": 53.346872,
+    "longitude": -6.258454,
+    "name": "River Bar",
+    "review": "Meh... Over the hill hangout. And Kev reckons the barman was the cunt from Doyles",
+    "osm_id": "node/677596888"
+  },
+  {
+    "id": "visit-0252",
+    "latitude": 53.347011,
+    "longitude": -6.258131,
+    "name": "Sweetmans",
+    "review": "Not a bad bar. Jacks are up 27 flights of stairs which is a bit annoyin and their own Stout is utter piss but the place is grand. Very central so gets a crowd.",
+    "osm_id": "node/11030599280"
+  },
+  {
+    "id": "visit-0253",
+    "latitude": 53.339533,
+    "longitude": -6.321399,
+    "name": "The Richmond",
+    "review": "Kev was a Meh... I was a little less impressed. Trying too much to be a restaurant kills the bar atmosphere. Not great tbh...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0254",
+    "latitude": 53.340704,
+    "longitude": -6.310706,
+    "name": "The Geln of Aherlow",
+    "review": "I can't remember this at all. Kev assures me we did it though. Apparently the smoking ban was optional in there...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0255",
+    "latitude": 53.294701,
+    "longitude": -6.139319,
+    "name": "McKennas",
+    "review": "I liked this pub. A few in watching the racing, barman offered to sell me tennis balls. Friendly locals....",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0256",
+    "latitude": 53.293926,
+    "longitude": -6.140055,
+    "name": "O'Loughlins",
+    "review": "Auld fart bar. Good old country bar look to the place. Jacks are out the back somewhere. Yappy enough punters",
+    "osm_id": "node/3939811610"
+  },
+  {
+    "id": "visit-0257",
+    "latitude": 53.292989,
+    "longitude": -6.137471,
+    "name": "The Lighthouse",
+    "review": "Kev was put off by all the board games. Bit expensive as well. But they had a pic of Phillo behind the bar so some saving grace at least. A little too hipster for the tastes though",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0258",
+    "latitude": 53.29178,
+    "longitude": -6.135145,
+    "name": "O'Neills",
+    "review": "Wouldnt be a massive fan. Nothing wrong with the place when we were in, it just seemed a little too nice. fancy carpets... fancy lighting... meh",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0259",
+    "latitude": 53.290068,
+    "longitude": -6.130662,
+    "name": "McLoughlins",
+    "review": "Must be the local celebrity hang out. Saw PJ Gallagher in there. Although the fact that he's Boez Scum has to drag the place down in terms of points. Drink was grand though",
+    "osm_id": "node/593844444"
+  },
+  {
+    "id": "visit-0260",
+    "latitude": 53.292478,
+    "longitude": -6.134219,
+    "name": "Hardys",
+    "review": "As in Laurel and fuckin Hardy... This one is a bit controversial. First things first, it was a snobbish cunt hole that ya wouldnt feel comfortable drinking in anyways... But the controversial thing is that its basically a hotel bar. And the rules specifically state that hotel bars arent allowed. I wanted very much to exclude this place from the list but I checked the revenue site and apparently they are operating under a pub license, so... (shrug)",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0261",
+    "latitude": 53.347958,
+    "longitude": -6.258063,
+    "name": "Lanigans",
+    "review": "A regular of the Mammy. Not a bad bar. A load of shite on the walls for decoration and staff are generally friendly but they refused Kev after an Ireland match, so fuck ye. fuck ye in ur fuckin nancy pancy little arses.",
+    "osm_id": "way/233791363"
+  },
+  {
+    "id": "visit-0262",
+    "latitude": 53.279509,
+    "longitude": -6.446417,
+    "name": "The Maple Tree",
+    "review": "Very friendly staff but smacks off a hotel. Drinks are too expensive and layout is too fancy. A big meh...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0263",
+    "latitude": 53.245715,
+    "longitude": -6.233533,
+    "name": "The Blue Light",
+    "review": "Stunning views over Dublin from the many outdoor tables. Seems a good atmosphere in the boozer as well. Liked this place a lot. Although the roads on the way to it are fuckin tiny. Oh and they even had Nobbys Nuts. So extra bonus points.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0264",
+    "latitude": 53.485187,
+    "longitude": -6.15104,
+    "name": "Smyths",
+    "review": "Oscar the barman has the best cross Chinese/Dub accent I've ever heard. Also Joe O'Shea wired the place and said they never paid him for it but fuck it at least the pint was nice",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0265",
+    "latitude": 53.264647,
+    "longitude": -6.240209,
+    "name": "Lamb Doyles",
+    "review": "I'd say the last time this place was done up was sometime in the 70's. Went with the kids to check out The Exploratorium beside it which just left me confused and scared. Food is shite. Bar is pretty good apart from that though. Friendly relaxed feel to the place. Very remote, so prob won't be back.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0266",
+    "latitude": 53.388288,
+    "longitude": -6.167217,
+    "name": "Madigans",
+    "review": "Larger than you'd think from the outside. Nice local boozer. There was a one eyed dog asleep on the floor when we got in. Guiness wasn't the best but there was a lad actually working on the taps so that's my bad for going for a fuckin Guinness... ",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0267",
+    "latitude": 53.385984,
+    "longitude": -6.15548,
+    "name": "The Foxhound Inn",
+    "review": "Like walking down a players tunnel to get into it. Big pub but the Sky box was busted so no racing on... Ended up having to talk to Kev... Ughhhh",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0268",
+    "latitude": 53.381192,
+    "longitude": -6.164922,
+    "name": "Cedar Lounge",
+    "review": "Good boozer. Friendly locals. They had the Dublin v Kerry game on repeat in the bar...",
+    "osm_id": "way/660641613"
+  },
+  {
+    "id": "visit-0269",
+    "latitude": 53.37999,
+    "longitude": -6.174249,
+    "name": "Raheny Inn",
+    "review": "Pool hall upstairs if you're bored. Local feel to the place.... Scampi fries... they did have scampi fries... I do likes me scampi fries",
+    "osm_id": "way/313838460"
+  },
+  {
+    "id": "visit-0270",
+    "latitude": 53.380493,
+    "longitude": -6.174902,
+    "name": "The Manhattan Beer Co",
+    "review": "Ginger Beer and some fuckin bitters addin thing... I dunno what the fuck Kev was drinking tbh. The place is modern and hipstery. Hog heads on the wall and animal hair backed bar stools... Although I'm sure the animal hair is fake. I can't imagine the hipsters would be for killing the poor animals and all that. A bit foody and full of auld ones but sure fuck it.. A pints a pint",
+    "osm_id": "way/313838456"
+  },
+  {
+    "id": "visit-0271",
+    "latitude": 53.379881,
+    "longitude": -6.177264,
+    "name": "The Watermill",
+    "review": "Yeah good pub. Discout for OAPs which was kinda cool. Although I'm not an OAP. Good barman, good crowd in... decent boozer",
+    "osm_id": "way/313827641"
+  },
+  {
+    "id": "visit-0272",
+    "latitude": 53.378408,
+    "longitude": -6.193521,
+    "name": "Horse and Hound",
+    "review": "Kev gave me some very solid advice here to not laugh at people when their horse comes last... He's a very wise zen master indeed.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0273",
+    "latitude": 53.349079,
+    "longitude": -6.257905,
+    "name": "Pipers Corner",
+    "review": "Chipboard walls. 3 staff on to cater for the 6 people in the bar. More gin than ya cud shake a fist at... All a bit hipstery.. Not bad though",
+    "osm_id": "way/517560263"
+  },
+  {
+    "id": "visit-0274",
+    "latitude": 53.348929,
+    "longitude": -6.259016,
+    "name": "Sackville Louge",
+    "review": "Small but good. Warm feel to the place. Barman was good and chatty. And there was a lad in swapping door handles for pints... Love that...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0275",
+    "latitude": 53.349503,
+    "longitude": -6.258027,
+    "name": "Briodys",
+    "review": "Normal down to earth bar. Nothing special. Barman on was handling the place well. Signed McManamon montage on the wall look kinda cool. More pissers than the DunLeary/Rathdown head office...",
+    "osm_id": "way/696901432"
+  },
+  {
+    "id": "visit-0276",
+    "latitude": 53.348624,
+    "longitude": -6.258838,
+    "name": "Madigans",
+    "review": "Ok pub. Seemed a bit touristy. This is where things start to go south though. Sure who wants to go see fuckin Bulgaria anyways...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0277",
+    "latitude": 53.348318,
+    "longitude": -6.259181,
+    "name": "Grand Central",
+    "review": "Ughhh... Wasn't mad about it. Bit too nice... or whatever. They had lights on the table that when turned upside down electrocuted the heroin addicted barstaff though. So that was kinda fun to play with",
+    "osm_id": "way/233790935"
+  },
+  {
+    "id": "visit-0278",
+    "latitude": 53.350227,
+    "longitude": -6.259351,
+    "name": "Madigans",
+    "review": "Once Kev wanted a breakfast from Annes... But Annes wasnt open... So he went in here and had a pint instead... Oh the hilarity of it all... Laugh Laugh Laugh.... Seriously though... Shite!",
+    "osm_id": "way/696901397"
+  },
+  {
+    "id": "visit-0279",
+    "latitude": 53.350458,
+    "longitude": -6.259787,
+    "name": "Brannigans",
+    "review": "Zap wasn't in which was a bit dissapointing but apart from that tis a standard city centre pub. A load of food orders going out which is meh.. but pints and service was generally good...",
+    "osm_id": "way/696901408"
+  },
+  {
+    "id": "visit-0280",
+    "latitude": 53.349043,
+    "longitude": -6.256529,
+    "name": "The Silver Penny",
+    "review": "A weatherspoons pub. Was hooping when we were there and food and drink are piss cheap. It's hard not to like these places... :shrug:",
+    "osm_id": "way/233516827"
+  },
+  {
+    "id": "visit-0281",
+    "latitude": 53.299756,
+    "longitude": -6.500937,
+    "name": "The Gondola",
+    "review": "Recently done up so was looking very well. Very large food area out the back but still a well seperated bar at the front. Bar is small enough but had a good atmosphere with a few people in for the match. Seems to be a small bar only area out in the lounge as well which might suit people also. Good parking available here too... Good shout for a Sunday lunch out with the kids or whatever... Kev said the bargirls in the lounge were cracking as well although I was only served by Eamonn... so...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0282",
+    "latitude": 53.362474,
+    "longitude": -6.486088,
+    "name": "The Salmon Leap",
+    "review": "Was our first post Covid world pub. To be honest we didn't even know the place was in Dublin until someone highlighted the stupidity of the localized lockdowns being placed along county lines... Cool pub though. They put the effort in to make social distancing possible. Ya can rent a horse box to have ur 9 euro meal and few scoops, which sounds a lot worse than it actually is. After nearly 5 months without a pint in the pub, the Guinness here was possibly the best Guinness I've ever had. Fuckin loved it. Kev only had the one though. He was driving. Aghgghhhahahagahagahagahagahhahahahhahaahhahhahhahahahahaahahaha...",
+    "osm_id": "way/33516835"
+  },
+  {
+    "id": "visit-0283",
+    "latitude": 53.587506,
+    "longitude": -6.188535,
+    "name": "The Balrothery Inn",
+    "review": "These are strange covid times we're livinig in. So hard to rate a place. First pub we've been to in a year.... Staff were bang on anyways. Only had the one here so not much to say. Layout is grand. Wayyyyy out for us. Only reason we made it here was by bringing the kids out to Ardgillan castle for a trip. Defo not the worst though. ",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0284",
+    "latitude": 53.362317,
+    "longitude": -6.385769,
+    "name": "The Strawberry Hall",
+    "review": "Impressive outdoor setup. Lots of parking space which is handy as the place is a bit out of the way. Savage views of the underside of the M50 are unique I guess.",
+    "osm_id": "way/293274347"
+  },
+  {
+    "id": "visit-0285",
+    "latitude": 53.362486,
+    "longitude": -6.401808,
+    "name": "The Wrens Nest",
+    "review": "Beautiful looking bar. Will definitely be back as we had to drink outside due to covid. Quiet bar, good vibes and they did a savage little blueberry cocktail for Kev.",
+    "osm_id": "way/521230125"
+  },
+  {
+    "id": "visit-0286",
+    "latitude": 53.350611,
+    "longitude": -6.255036,
+    "name": "The Celt",
+    "review": "Gary, the barman, does not give a fuck what you do. Nice pub, good decor, very music oriented. Good mix of tourists and locals as well.",
+    "osm_id": "node/467744856"
+  },
+  {
+    "id": "visit-0287",
+    "latitude": 53.346311,
+    "longitude": -6.261513,
+    "name": "Riot",
+    "review": "Friendly barman, a little bit hipstery. Lots of deals on shots and stuff like that. Great location but prob geared for a younger crowd than me",
+    "osm_id": "node/5367355656"
+  },
+  {
+    "id": "visit-0288",
+    "latitude": 53.344608,
+    "longitude": -6.265803,
+    "name": "The Wild Duck",
+    "review": "Looks like a hotel bar. Loads of boats hanging out of the ceiling for some reason. Was pretty good though. Kev flip-flopped on the place a bit but the cycling motif in the jacks really upper the tierage.",
+    "osm_id": "node/3224845421"
+  },
+  {
+    "id": "visit-0289",
+    "latitude": 53.343032,
+    "longitude": -6.258935,
+    "name": "The Portehouse",
+    "review": "Bargirl definitely had a thing for me here. In another life it could've been magical. What can I say, the place is a purveryor of porters and lots of other stuff. Great selection but steep prices",
+    "osm_id": "way/271989540"
+  },
+  {
+    "id": "visit-0290",
+    "latitude": 53.344626,
+    "longitude": -6.230806,
+    "name": "BrewDog",
+    "review": "What a pile of wank this place is. I don't know if it's the fuckin 7.50 pints or the stupid beards and hats. Feels anything like a pub. The beer was watery and shite or else made from the anal drippings of a rare albino tree ferret.... ya know.... just to be cool.... fuckin waste of space.",
+    "osm_id": "way/928261032"
+  },
+  {
+    "id": "visit-0291",
+    "latitude": 53.341727,
+    "longitude": -6.227644,
+    "name": "John Clarke & Sons",
+    "review": "Decent selection of beers on tap. Great base for a pre lansdowne drink. A little bit on the pricey side but sure blame the fuckin tax on that. Also tried Islands Edge for the first time here, It won't be replacing me Guinness. No salt & vinegar though. WTF is that about?",
+    "osm_id": "node/312566081"
+  },
+  {
+    "id": "visit-0292",
+    "latitude": 53.369644,
+    "longitude": -6.272034,
+    "name": "Gravediggers",
+    "review": "Have to admit I was a little bit overawed in here. Massive reputation. Of course went with the Guinness and Coddle. Bang on. No complaints. Outside of that, they have a savage little menu. Really want to try the bacon and cabbage spring roll.... If you're reading this, and yer not me, just fuckin go here and do a tour of the Glasnevin cementary and then sink a few Guinness and have some coddle and batch. Fuckin perfect things dont happen often.",
+    "osm_id": "way/128942373"
+  },
+  {
+    "id": "visit-0293",
+    "latitude": 53.365231,
+    "longitude": -6.272124,
+    "name": "The Brian Boru",
+    "review": "Apart from the savage name it's not a bad little boozer. Not cheap but fuckin where is these days. No complaints. Even if itis in the heart of Boez Scum land.",
+    "osm_id": "way/130774599"
+  },
+  {
+    "id": "visit-0294",
+    "latitude": 53.36468,
+    "longitude": -6.271447,
+    "name": "The Berndar Shaw (Part Deux)",
+    "review": "Ok let's be honest for a sec. I'm too old for shiholes like this. It's not the beanie hats. It's not the fact that the bar staff are fuckin young enough to play with me kids. It's not even the stupid fuckin disco ball swirling around the bar at fuckin 2 o'clock on a Wednesday. It's just... not a fuckin bar. Let it off to the young wans. Fuck it. I'll resign meself as an unknowing dinosaur in this sense.",
+    "osm_id": "way/52304330"
+  },
+  {
+    "id": "visit-0295",
+    "latitude": 53.32129,
+    "longitude": -6.393518,
+    "name": "Quinlans - The Black Lion",
+    "review": "Massive pub. was in with the kids for a bit of a lunch. Scampi was bang on. Guinness was nice and slurpy. Hard to rate a place when it's midday but nothing to object about anyways.",
+    "osm_id": "node/1811909362"
+  },
+  {
+    "id": "visit-0296",
+    "latitude": 53.336108,
+    "longitude": -6.324064,
+    "name": "Rascals",
+    "review": "Doesn't really feel like a pub and they've no fuckin crisps but I won't hear a bad word said about the place. They support Pat so I support them with my drunken endeavours. Also the pizza looked nice.",
+    "osm_id": "node/9322108900"
+  },
+  {
+    "id": "visit-0297",
+    "latitude": 53.32407,
+    "longitude": -6.32656,
+    "name": "The Black Forge Inn",
+    "review": "Owned by a scumbag. And they don't have crisps. ",
+    "osm_id": "way/935099879"
+  },
+  {
+    "id": "visit-0298",
+    "latitude": 53.3242,
+    "longitude": -6.32553,
+    "name": "Eleanoras",
+    "review": "Auld farts feel to the place. I like it. For some reason they didn't seem to want me to pay. Kev said mention that they had very small bags of nuts. But they didnt charge for them anyways, so can't gripe.",
+    "osm_id": "way/935099918"
+  },
+  {
+    "id": "visit-0299",
+    "latitude": 53.32388,
+    "longitude": -6.32846,
+    "name": "The Halfway House",
+    "review": "Massive place. Modern gastropub feel to the place. Watched the first half of Ireland v Portugal here. Why not at the match you ask? Because every muppet in the country wanted to lick the sweat off Ronaldos balls. Fuck em. Let them at it. I was happy enough drinking instead",
+    "osm_id": "node/2004412428"
+  },
+  {
+    "id": "visit-0300",
+    "latitude": 53.32868,
+    "longitude": -6.30332,
+    "name": "The gate Bar",
+    "review": "Was well oiled by the time I got here so can't remember too much about it. Kev recognised the barman from The Black Lion. Also he was very adamant that the wrong drink was just a mistake. Grand boozer. No complaints.",
+    "osm_id": "way/261598465"
+  },
+  {
+    "id": "visit-0301",
+    "latitude": 53.3492,
+    "longitude": -6.24823,
+    "name": "Urban Brewing",
+    "review": "Meh. Nice selection of beers and downstairs looks kinda cool but it doesn't really feel like a pub. Nothing bad about it but just not my style.",
+    "osm_id": "node/5073432440"
+  },
+  {
+    "id": "visit-0302",
+    "latitude": 53.34066,
+    "longitude": -6.2587,
+    "name": "Cafe Insane",
+    "review": "Oh god. Do not like. Kev enjoyed the singing. fuck it... its done... i never have to go back",
+    "osm_id": "node/10601110758"
+  },
+  {
+    "id": "visit-0303",
+    "latitude": 53.34403,
+    "longitude": -6.2634,
+    "name": "Mulligan & Haines",
+    "review": "Small bar but seemed popular. Nothing overly memorable about it but nothing wrong with it either",
+    "osm_id": "node/3470507586"
+  },
+  {
+    "id": "visit-0304",
+    "latitude": 53.34533,
+    "longitude": -6.26476,
+    "name": "The Norseman",
+    "review": "Very touristy but the prices weren't ridiculously higher than other places. Maybe everywhere in Dublin is just a rip off anyways. If ya don't mind dodging coked up tourists then it's fine... I guess...",
+    "osm_id": "way/281359242"
+  },
+  {
+    "id": "visit-0305",
+    "latitude": 53.239551,
+    "longitude": -6.196718,
+    "name": "Farmer Browns",
+    "review": "Fairly standard housing estate type pub. A good few in for Sunday lunch. Lots of staff buzzing around. No complaints though. We were in after doing a little hike in the mountains there. Its a nice area.",
+    "osm_id": "way/680768194"
+  },
+  {
+    "id": "visit-0306",
+    "latitude": 53.34646,
+    "longitude": -6.24568,
+    "name": "Dockers",
+    "review": "Pretentious overpriced kip. Fuckin 4.50 for nuts. Yis arent fuckin New Yrok. FUck off will ya.",
+    "osm_id": "node/9264108045"
+  },
+  {
+    "id": "visit-0307",
+    "latitude": 53.34438,
+    "longitude": -6.23814,
+    "name": "The South Strand",
+    "review": "Another fuckin Weatherspoons. I really want to hate these places so much. Soul-less. But fuck me they do some perfectly priced drink. Stopped in on the way to a match in Lansdowne and the previous pub, the round was 14, this place the round is 8. Like how can ya argue with that. Even if it is an assembly line hammer blow to real locals... conflicted...",
+    "osm_id": "node/516031805"
+  },
+  {
+    "id": "visit-0308",
+    "latitude": 53.33236,
+    "longitude": -6.27543,
+    "name": "57 The Headline",
+    "review": "Good chat at the bar. Barman was from Mayo and a punter was a closet Combat 18 fan so plenty of sporty banter. Place looks more like a restaurant than a pub but they have Ambush on tap (which is fuckin heavenly) and good chat == happy punters",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0309",
+    "latitude": 53.33217,
+    "longitude": -6.27541,
+    "name": "Leonards Corner",
+    "review": "Looks like a good local bar. Was quiet when we were there. Cheaper than its neighbour but nothing massively standoutish about it.",
+    "osm_id": "way/554939990"
+  },
+  {
+    "id": "visit-0310",
+    "latitude": 53.33041,
+    "longitude": -6.27563,
+    "name": "MVP",
+    "review": "Same owner/operator as Square Ball and very much the same vibe. Barman was a god yap though. He's the first lad to actually ask for a link to the review site, so hello if yer reading. In terms of the place, its a bit pricey and the furniture is a bit poncey. I'm sure we're not their target audience but a decent drink selection on tap, so no complaints.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0311",
+    "latitude": 53.33002,
+    "longitude": -6.27523,
+    "name": "Harold House",
+    "review": "Old bar feel to the place. Football was on the TV. No fuckin salt and vinegar though. WTF. Plenty of Dubs licence plates on the wall so say it'd be a good shout for watching a match.",
+    "osm_id": "node/943350478"
+  },
+  {
+    "id": "visit-0312",
+    "latitude": 53.38934,
+    "longitude": -6.12375,
+    "name": "The Elphin Bar",
+    "review": "Nice bar. Plenty of room. Most importantly though it was open by half 11 on a bank holiday Monday unlike all the kips in Howth... :D",
+    "osm_id": "node/2004412421"
+  },
+  {
+    "id": "visit-0313",
+    "latitude": 53.34481,
+    "longitude": -6.25212,
+    "name": "Moss Lane",
+    "review": "Some expensive-ass whiskey in the place but has a nice feel to it. Little snug in the corner as well. Owner apparently has another place out in Donabate but it wasn't Oscars place...",
+    "osm_id": "way/244989703"
+  },
+  {
+    "id": "visit-0314",
+    "latitude": 53.34331,
+    "longitude": -6.27336,
+    "name": "The Beer Market",
+    "review": "Standard enough Galway brewhouse type deal. Beers on a chalk board. Lots of wooly hats for no discernable reason. The window at the front of the bar is a savage little view out on the world though. Nice to sink a pint and stare at randos walking by",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0315",
+    "latitude": 53.34292,
+    "longitude": -6.27925,
+    "name": "The Clock",
+    "review": "Real local bar but the owner is a Pats fan so immediately in the good books. Scarf up behind the bar. Schlurpy pints. No complaints",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0316",
+    "latitude": 53.3427,
+    "longitude": -6.27896,
+    "name": "Dudleys",
+    "review": "Ambush on tap. Fuck yeah. Bargirl confused Kev though... Another great cross Brazilian/Dublin accent",
+    "osm_id": "way/229456566"
+  },
+  {
+    "id": "visit-0317",
+    "latitude": 53.34269,
+    "longitude": -6.27756,
+    "name": "Johns Bar & Haerdashery",
+    "review": "We were all set to hate this place. Made up to look like an old shop and then suddenly morphs into a fuckin American diner in the middle and then the jacks at the back. Seems to be putting a lot of effort in to look like something but it wasnt too bad tbh. Good crowd in for pre-gig drinks so the atmosphere was alright",
+    "osm_id": "node/3125025423"
+  },
+  {
+    "id": "visit-0318",
+    "latitude": 53.34274,
+    "longitude": -6.27725,
+    "name": "Tom Kennedys",
+    "review": "Standard enough place. Some world class Darts lads warming up. Or maybe they were shit. Da Fuck do I know about Darts. Another one that gets a bit of atmosphere from pre gig crowds so there's an interesting mix in the place",
+    "osm_id": "node/1403120910"
+  },
+  {
+    "id": "visit-0319",
+    "latitude": 53.37585,
+    "longitude": -6.33204,
+    "name": "The Lock Keeper",
+    "review": "Nice location alongside the canal. Nice food and reasonably priced. ",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0320",
+    "latitude": 53.34785,
+    "longitude": -6.25858,
+    "name": "Meaghers",
+    "review": "Tis a magical wonderous place where bartenders use some kind of vulcan mind meld power to guess what crisps you secretly desire most and your first round is always free. We were even joined by two Mexican lads Francisco and Alvaro. Unfortunately they forgot to bring the Tortillas... much sadness...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0321",
+    "latitude": 53.34581,
+    "longitude": -6.25788,
+    "name": "Bowes",
+    "review": "So lets be clear from the get go. It may be owned by the same owner as a certain kip hole cunt place.... BUT ITS A DIFFERENT BAR. Dodgey gray area sure. Bar is nice though. Francis joined us for a pint but he was a little bit scared of all the old women wandering around stealing glasses. Still... Pints were schlurpy",
+    "osm_id": "way/228290004"
+  },
+  {
+    "id": "visit-0322",
+    "latitude": 53.35725,
+    "longitude": -6.24894,
+    "name": "Bridge Tavern",
+    "review": "Brilliant Dubs mural means ya can spot this place from a mile away. Tunes from the flats were blasting and the place was hopping before the Dubs Kerry game. Fast bar service, brilliant weather. Had a good time here...",
+    "osm_id": "way/350231324"
+  },
+  {
+    "id": "visit-0323",
+    "latitude": 53.347411,
+    "longitude": -6.424008,
+    "name": "Penny Hill",
+    "review": "Big roomy middle estate style pub. Things to like and dislike so could go either way. Was busy when we were there, was a cracking day so lots sitting outside for food. Plenty of staff on and the bar staff seemed decent but one of the lounge boys knicked me change... 🤣. Not the usual style of bar I like but nothing seriously wrong with it tbh",
+    "osm_id": "node/263366607"
+  },
+  {
+    "id": "visit-0324",
+    "latitude": 53.344773,
+    "longitude": -6.398057,
+    "name": "The Finches",
+    "review": "Bit of a kip this tbh. Nothing wrong with the place just old and mostly unmaintained. Atmosphere iside was grand. Its big and roomy but stick some new fuckin padding in the couches",
+    "osm_id": "way/938615740"
+  },
+  {
+    "id": "visit-0325",
+    "latitude": 53.35283,
+    "longitude": -6.39431,
+    "name": "Hudson Shithole",
+    "review": "I really wanted to exclude this place from the list in the hope that it was a restaraunt licence or something but I was too lazy to check. Fuckin wank stain of a place anyways. Avoid.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0326",
+    "latitude": 53.38105,
+    "longitude": -6.24556,
+    "name": "The Viscount",
+    "review": "The bar appears to be named after a plane which crashed while flying from Cork to London in the 60s. Was quiet when we were here but the decor was pretty cool. No complaints. Seems a good local.",
+    "osm_id": "way/916905416"
+  },
+  {
+    "id": "visit-0327",
+    "latitude": 53.45935,
+    "longitude": -6.22076,
+    "name": "The Pound & The Attic",
+    "review": "First bar that we did in Swords and tbh, we peaked early. Prob the best boozer in the town. Barman was very friendly, helped us plan the route for the rest of the pubs. Bar was a nice feel. Would defo return.",
+    "osm_id": "way/228050469"
+  },
+  {
+    "id": "visit-0328",
+    "latitude": 53.45678,
+    "longitude": -6.223,
+    "name": "The Old Schoolhouse",
+    "review": "Absolutely massive place. Completely devoid of any kind of atmosphere though. No charger behind the bar either... and there probably was a charger behind the bar. Also, why fuckin play CHristmas songs over the football commentary. Not a fan.",
+    "osm_id": "way/228009652"
+  },
+  {
+    "id": "visit-0329",
+    "latitude": 53.45643,
+    "longitude": -6.22204,
+    "name": "The Old Borough",
+    "review": "Nearly didnt do this place as we thought it was a hotel but a quick scan of the revenue site confirmed they have a 7 day pub licence so it counts. Yes its a Widdershins but tbh it's better than the Schoolhouse place behind it. Also 20 quid for two dinners and two pints, can't fuckin argue with that. And the barman gave me a charger for the phone as well. No complaints",
+    "osm_id": "way/50216895"
+  },
+  {
+    "id": "visit-0330",
+    "latitude": 53.45622,
+    "longitude": -6.22068,
+    "name": "Wrights Cafe Bar",
+    "review": "Got a bang of auld lad trying to pick up young wans from this place. Seems to be disco bar style. Not a massive fan but nice beers on tap at least.",
+    "osm_id": "node/913567411"
+  },
+  {
+    "id": "visit-0331",
+    "latitude": 53.45864,
+    "longitude": -6.22016,
+    "name": "The Arch Bar",
+    "review": "Not a bad bar. Good staff, plenty of viewing angles for the TV but still places to hide away from the TV. Decent crowd in for a Tuesday. Would use the place again for a bit of food but very big so doesnt have that cozy bar feel.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0332",
+    "latitude": 53.4579,
+    "longitude": -6.22057,
+    "name": "The Cock Tavern",
+    "review": "It's like a seven mile trek from the front bar down to the jacks. Maybe third best pub in the town. Nothing against it though. Except the fact they don't have salt & vinegar crips. WTF. Anyways, beer was nice.",
+    "osm_id": "way/228009671"
+  },
+  {
+    "id": "visit-0333",
+    "latitude": 53.36583,
+    "longitude": -6.32294,
+    "name": "Hole In The Wall",
+    "review": "Popped in for a quick pint in the Presidents snug after bursting James' nose open with an over-zealous challenge in the Phoenix Park. Crisps and coke solve all woes though. Great bit of history in the place. Would have loved to stay for another few.",
+    "osm_id": "way/266390284"
+  },
+  {
+    "id": "visit-0334",
+    "latitude": 53.36325,
+    "longitude": -6.23567,
+    "name": "Bru House",
+    "review": "Same as all the Galway Bay pubs, there's a great selection of beers but the prices are definitely steep. Nice feel to the place though, not too hipster. Nice old library in one of the corners. Fairview park across the road is great for a play as well so the pub works well after you've built up a thirst.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0335",
+    "latitude": 53.363,
+    "longitude": -6.23651,
+    "name": "Gaffneys",
+    "review": "Great little snug at the front of the bar. Nice classic feel to the place. Liked this place, would defo be back. Close enough to let the kids play in the park as well... :D",
+    "osm_id": "way/314131921"
+  },
+  {
+    "id": "visit-0336",
+    "latitude": 53.3165,
+    "longitude": -6.33298,
+    "name": "Cherrytree",
+    "review": "Exciting enough visit with Spurs going 5 nil down to Newcastle inside 20 mins. But the free pastries perked Kev back up a bit. Nice pub. Plenty of space and a good local feel. ",
+    "osm_id": "node/4913827407"
+  },
+  {
+    "id": "visit-0337",
+    "latitude": 53.3174,
+    "longitude": -6.33226,
+    "name": "Kestrel",
+    "review": "Very large and was full of people getting their carvery on while we were there. Wouldnt be a massive fan. Nearly too large to feel like a proper pub but no major complaints against it.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0338",
+    "latitude": 53.27534,
+    "longitude": -6.3546,
+    "name": "The Old Mill",
+    "review": "We were doing a couple pubs and I was driving so switched onto a zero after a bottle. Barman looked absolutely disgusted with me. TBH that's prob a plus point for the place. Nice local feel. Nothing against it",
+    "osm_id": "node/282917369"
+  },
+  {
+    "id": "visit-0339",
+    "latitude": 53.2779,
+    "longitude": -6.35844,
+    "name": "Ahernes",
+    "review": "Nice roomy bar. Plenty of room in the place and a good smattering of TVs. Kev was mucho impressed with the lemony scent in the jacks. He's an odd fuck though.",
+    "osm_id": "way/32674130"
+  },
+  {
+    "id": "visit-0340",
+    "latitude": 53.35978,
+    "longitude": -6.25697,
+    "name": "The Hideout",
+    "review": "Savage location for the bar, tucked away in a tiny little housing estate just around the corner from Croker. Got in for a quick pint before the Kilkenny v Clare semi final. Friendly staff, bit of banter, great location.... 3 thumbs up.",
+    "osm_id": "way/1084437112"
+  },
+  {
+    "id": "visit-0341",
+    "latitude": 53.35839,
+    "longitude": -6.25594,
+    "name": "Ryans Hogan Stand",
+    "review": "Gets a decent crowd in on a match day. Does be absolutely wedged. Staff still churn out the pints though. Always a joy to watch quality bar staff in action",
+    "osm_id": "way/1078043031"
+  },
+  {
+    "id": "visit-0342",
+    "latitude": 53.29647,
+    "longitude": -6.21144,
+    "name": "Kennedys",
+    "review": "Brought Emma and Jenny here for some grub after a camogie blitz in UCD. Fuck me the place was expensive. Nothing wrong with apart. The food was nice, the staff were nice, the beer was fine.... Just the prices in pubs now if feckin mental",
+    "osm_id": "node/3926668805"
+  },
+  {
+    "id": "visit-0343",
+    "latitude": 53.28834,
+    "longitude": -6.20469,
+    "name": "The Millhouse",
+    "review": "Was a flying visit. Hard to rate. Fuckin expensive. But sure every fuckin place seems to be expensive now. Plenty of staff. Quick service. No real complaints. Just.... expensive",
+    "osm_id": "node/11975728519"
+  },
+  {
+    "id": "visit-0344",
+    "latitude": 53.28115,
+    "longitude": -6.47703,
+    "name": "An Poitin Stil",
+    "review": "Lots of old antique stuff and a well run bar. Gets a good crowd in and they have people managing parking etc. Prob an interesting spot to show off to people. Can't imagine that it'd ever feel like a regular to me.",
+    "osm_id": "way/553047965"
+  },
+  {
+    "id": "visit-0345",
+    "latitude": 53.34667,
+    "longitude": -6.25885,
+    "name": "Pillar Bar",
+    "review": "Decent tunes in the place. Good selection of beers. Bit expensive but ya can't really get more central with the location. Not really a bar feel. More disco bar / lounge type deal but nothing wrong with the place I suppose. Barman had very shakey hands.",
+    "osm_id": "node/1348371058"
+  },
+  {
+    "id": "visit-0346",
+    "latitude": 53.34637,
+    "longitude": -6.25885,
+    "name": "Cassidys",
+    "review": "Real Berlin style grunge bar look. Meanies and burger buns crisps. Not fuckin bad. Barman had hair like the dude from Static-X as well. Cool bar. Daycent beers.",
+    "osm_id": "way/228287775"
+  },
+  {
+    "id": "visit-0347",
+    "latitude": 53.35033,
+    "longitude": -6.25841,
+    "name": "The Confession Box",
+    "review": "Tiny little bar. real mix of locals and blow ins. Lovely slurpy Guinness. I likes it",
+    "osm_id": "way/696901395"
+  },
+  {
+    "id": "visit-0348",
+    "latitude": 53.34126,
+    "longitude": -6.261,
+    "name": "McDaids",
+    "review": "Able to spy on the fancy lookin cars parking up in the Westbury. Pub is grand, the trek to jacks can be lethal if you've had a few. Honest clientelle though, left me laptop here after a drink and only realised two pubs later and it was still there. Bonus points for that",
+    "osm_id": "way/273202992"
+  },
+  {
+    "id": "visit-0349",
+    "latitude": 53.34076,
+    "longitude": -6.26123,
+    "name": "Nearys",
+    "review": "All the barmen are wearing fancy dicky bos. And Kev spotted Bo Martin at the bar. Who's Bo Martin you ask? Shane Lowrys ex caddy. Why ex? Fuck knows, apparently Lowry is a bit of a prick with the caddies. Sure what do I know. Pub is grand anyways. Did I mention they wear dicky bos?",
+    "osm_id": "way/230566047"
+  },
+  {
+    "id": "visit-0350",
+    "latitude": 53.34096,
+    "longitude": -6.2618,
+    "name": "Sheehans",
+    "review": "They've a wall of whiskey bottles locked behind little doors. Reminded me of that second wizard of oz film where yer one had a lot of heads locked in little cabinets. Anyways pub was fine. Upstairs is more restauranty but no complaints.",
+    "osm_id": "way/230567954"
+  },
+  {
+    "id": "visit-0351",
+    "latitude": 53.33964,
+    "longitude": -6.26565,
+    "name": "Swan Bar",
+    "review": "Has a statue of some Rugger Bugger in the corner. Bar was grand. Nice old wooden bar. No complaints but nothing standoutish",
+    "osm_id": "way/281772553"
+  },
+  {
+    "id": "visit-0352",
+    "latitude": 53.33751,
+    "longitude": -6.26594,
+    "name": "The Landmark",
+    "review": "Had a few tunes going and the bar sang happy birthday to some lad and he was scarlet. Also took me way longer than it should have to find the jacks. No complaints though, nice bar.",
+    "osm_id": "node/911170200"
+  },
+  {
+    "id": "visit-0353",
+    "latitude": 53.33657,
+    "longitude": -6.26566,
+    "name": "Whelans",
+    "review": "Went to see a Pat McManus gig here... but there was no Pat McManus... Where the fuck was Pat McManus????",
+    "osm_id": "way/154508547"
+  },
+  {
+    "id": "visit-0354",
+    "latitude": 53.33638,
+    "longitude": -6.2657,
+    "name": "Ryans",
+    "review": "Fuck me I'm old...",
+    "osm_id": "way/154508544"
+  },
+  {
+    "id": "visit-0355",
+    "latitude": 53.35075,
+    "longitude": -6.24486,
+    "name": "Noctors",
+    "review": "Lovely auld one behind the bar. Real local place. First time in a long time that I've been in a Dublin pub that was cash only. Friendly locals though and reasonably priced pint. The Guinness was fuckin top notch too.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0356",
+    "latitude": 53.33891,
+    "longitude": -6.27234,
+    "name": "The Fourth Corner",
+    "review": "Hipstery type place. Decent selection of beers but doesn't have that homely pub feel to the place",
+    "osm_id": "node/5866396179"
+  },
+  {
+    "id": "visit-0357",
+    "latitude": 53.33898,
+    "longitude": -6.2734,
+    "name": "Fallons (The Capstan)",
+    "review": "I like it. Good classic bar feel. Was busy enough. Ling used to live in the area and its near the best named Guitar shop ever. What's not to like",
+    "osm_id": "node/280958210"
+  },
+  {
+    "id": "visit-0358",
+    "latitude": 53.33724,
+    "longitude": -6.27524,
+    "name": "Tenters",
+    "review": "A bit meh. Felt like a hotel lobby. It did have a cool old map of DUblin on the wall. I liked that. Also the barman ran out after me when I fogot me cap so nice peoples. Just the atmosphere was a bit meh. They seemed to have take home dinners though which was kinda novel",
+    "osm_id": "node/10004624748"
+  },
+  {
+    "id": "visit-0359",
+    "latitude": 53.34155,
+    "longitude": -6.27483,
+    "name": "The Liberty Belle",
+    "review": "Nice local pub feel to the place. I don't really remember it well tbh. Guinness was taking it's toll at this stage",
+    "osm_id": "way/665875674"
+  },
+  {
+    "id": "visit-0360",
+    "latitude": 53.34154,
+    "longitude": -6.27861,
+    "name": "Luckys",
+    "review": "More of a restaurant feel than a bar. But sure fuck it, its done now",
+    "osm_id": "way/1008215352"
+  },
+  {
+    "id": "visit-0361",
+    "latitude": 53.287,
+    "longitude": -6.12315,
+    "name": "The Greedy Eagle",
+    "review": "Nothing particularly against the place. It's an expensive part of Dublin, so was prepared for the prices. Its big and roomy. It just doesn't have a pub vibe tbh. More restauranty. No complaints though. Had a pint. The darts were on. Grand place.",
+    "osm_id": "node/598519953"
+  },
+  {
+    "id": "visit-0362",
+    "latitude": 53.286,
+    "longitude": -6.11864,
+    "name": "Fitzgeralds",
+    "review": "If I ever win the lotto and move to this part of Dublin, this would prob be me local. I liked it. Decent selection of pints on tap. Good bar feel. Also, the jacks handle are made out of old pennies which was pretty cool. Not a bad pub.",
+    "osm_id": "way/754373373"
+  },
+  {
+    "id": "visit-0363",
+    "latitude": 53.28978,
+    "longitude": -6.13008,
+    "name": "Walters",
+    "review": "What an absolute waste of space. Staff were shite, couldn't pull a pint to save their lives and absolutely reeked of lack of interest. Decor was crap. Clientelle was boring. Just a really shit pub. Only reason we stayed in the kip so long was because it took so long to get served. It wasn't even fuckin busy. Useless kip.",
+    "osm_id": "node/658492392"
+  },
+  {
+    "id": "visit-0364",
+    "latitude": 53.29478,
+    "longitude": -6.14164,
+    "name": "Buck Mulligans",
+    "review": "It's a weird fuckin layout. They've stupid fuckin low tables in the middle of the walkways. Big sofa style chairs. Only one person in the jacks at a time. Just weird. Prob be a decent boozer with a better interior design. But meh.... Seems to be one for the hipsters",
+    "osm_id": "way/59546680"
+  },
+  {
+    "id": "visit-0365",
+    "latitude": 53.2952,
+    "longitude": -6.14807,
+    "name": "The Purty Kitchen",
+    "review": "They had a staff to customer ratio of about 27 to 1 and there was like 20 customers in. But apart from that, it was fine. Introduced Kev to yellow spot. No complaints though. Grand pub.",
+    "osm_id": "node/593844518"
+  },
+  {
+    "id": "visit-0366",
+    "latitude": 53.27643,
+    "longitude": -6.24915,
+    "name": "The Coach House Pub",
+    "review": "Lovely ornate interior. A library wall is actually a great idea and something I'd love to see more of. It's an expensive area, so ya pay for it but definitely one of the more impressive look & feels to a pub",
+    "osm_id": "way/292099733"
+  },
+  {
+    "id": "visit-0367",
+    "latitude": 53.27473,
+    "longitude": -6.25447,
+    "name": "Ballinteer House",
+    "review": "Big modern gastro pub feel for it. No great enjoyment off the interior and not exactly cheap. Nothing particularly against the place but most likely will never frequent it.",
+    "osm_id": "node/132186038"
+  },
+  {
+    "id": "visit-0368",
+    "latitude": 53.56659,
+    "longitude": -6.38394,
+    "name": "Gormleys Pub",
+    "review": "Lovely rustic local. Raging fire in the corner. Quiet day time drink. Only a few lads and the racing. If I was living in the middle of fuckin no-where, this is the type of pub I'd want as me local.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0369",
+    "latitude": 53.43313,
+    "longitude": -6.33253,
+    "name": "The Brock Inn",
+    "review": "Was there with the kids so was in the lounge for food. Lovely grub. Busy place, does a good trade. There's a pnp course beside it which me Da loves and it's right in the path for Dublin airport so nice for any airplane spotters.",
+    "osm_id": "way/548630763"
+  },
+  {
+    "id": "visit-0370",
+    "latitude": 53.35037,
+    "longitude": -6.28168,
+    "name": "Walshs",
+    "review": "Great pub. Was heaving on a Saturday evening. Has a cool little front bar as well. Also.... Spicy Nuts... Fuck Yeah",
+    "osm_id": "way/383996326"
+  },
+  {
+    "id": "visit-0371",
+    "latitude": 53.35038,
+    "longitude": -6.28205,
+    "name": "The Belfry",
+    "review": "Slightly weird American cocktail bar feel to the place but it's not too bad. Decent 70s playlist on and the Guinness was fine. Was starting to grow on Kev by the end",
+    "osm_id": "way/383992493"
+  },
+  {
+    "id": "visit-0372",
+    "latitude": 53.35083,
+    "longitude": -6.28202,
+    "name": "The Glimmer Man",
+    "review": "One of the few pubs in Dublin that's cash only. I guess it's a hipster thing. There wasn't a fuckin inch of wall space that didnt have some poster or milk float or suitcase. Just seemed to be random. Not sure what effect they were going for. Also.... The Guinness was shite. Watery. Just badly pured tbh. There was a good crowd in though",
+    "osm_id": "way/383974966"
+  },
+  {
+    "id": "visit-0373",
+    "latitude": 53.351,
+    "longitude": -6.28227,
+    "name": "Mulligans",
+    "review": "Hipster bar. Big fuckin beard on the Cark barman, Locally produced ales, People sitting at the bar playing D&D... Nothing wrong with the place but quite pricey and not my scene",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0374",
+    "latitude": 53.35107,
+    "longitude": -6.28236,
+    "name": "Tommy O'Garas",
+    "review": "Had everything going for it.... Except the fuckin Boez jersey on the wall. Nice bar. Meant to be a good trad sesh in the place as well but there was no music when we were there. ",
+    "osm_id": "way/383974977"
+  },
+  {
+    "id": "visit-0375",
+    "latitude": 53.34883,
+    "longitude": -6.27854,
+    "name": "Oscars",
+    "review": "I feel harsh saying this because there was nothing really bad about the place but it's everything that's wrong with modern trendy pubs. The staff are pretty useless, the drink is expensive(ish), it feels more like a restaurant by asking you to wait for a table (there were like 3 fuckin occupied tables when we were in). Decor was shite as well. Oh and they refuse tracksuits, I always find that a bit snobby too.",
+    "osm_id": "node/2365544967"
+  },
+  {
+    "id": "visit-0376",
+    "latitude": 53.34762,
+    "longitude": -6.28017,
+    "name": "Token",
+    "review": "One of the most interesting non-local type pubs that I've been too. We made a little effort to get here seeing as the pub is closing down. The place was filled with arcard games and pinball machines. Decent selection of beers as well (although the Ambush was out... arrrggghhhhh). Kev kicked my ass in Street Fighter. He picked Ken. He always fuckin picks Ken. Anyways, enjoyable as something different. Sad to see it shutting down.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0377",
+    "latitude": 53.37258,
+    "longitude": -6.05806,
+    "name": "The Summit Inn",
+    "review": "More restaurant than pub. Yet they don't do breakfasts. Why not do breakfasts. All the constituent parts were in the menu just allow them to be added to a plate. Inside looks kinda nice and the chowder was good but not the place you'd go for a sesh",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0378",
+    "latitude": 53.38465,
+    "longitude": -6.06532,
+    "name": "McNeills",
+    "review": "Yeah nice proper boozer feel to the place. Was prob the best pub that we visited on the day in Howth. Pool table, good barman... Would prob be me local if I lived there",
+    "osm_id": "node/941319049"
+  },
+  {
+    "id": "visit-0379",
+    "latitude": 53.38823,
+    "longitude": -6.06404,
+    "name": "O'Connells",
+    "review": "Fuckin useless American tourist focussed wank stain of a place. Every table has a reserved sign on it by default. Just not a welcoming pub feel. Didn't like it",
+    "osm_id": "node/880923510"
+  },
+  {
+    "id": "visit-0380",
+    "latitude": 53.3886,
+    "longitude": -6.07243,
+    "name": "Findlater",
+    "review": "Meh. Another fuckin tourist experiment more than a pub. Shit staff. Shit drinks. Shit atmosphere. Just avoid if yer looking for a drink",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0381",
+    "latitude": 53.38897,
+    "longitude": -6.07422,
+    "name": "The Bloody Stream",
+    "review": "What can ya say about the best pub in the world ever (well.. in Fingla in 2015)... It's not actually that bad. The owner seemed drunk and his idiot roided up son seemed a little retarded but it had a nice open fire. And the drinks were grand. Borderline pub/restaurant vibes again but not as bad as O'Connels or Findlater. Enjoyed the pint so no mad complaints.",
+    "osm_id": "node/368883560"
+  },
+  {
+    "id": "visit-0382",
+    "latitude": 53.38893,
+    "longitude": -6.14121,
+    "name": "The Bayside Inn",
+    "review": "Ah this place is a little gem. Good access to TVs. Good b6356arman. Good pints. Even a fuckin buffalo skull on the wall. WTF. Would defo drink here if I lived in the area.",
+    "osm_id": "way/183239723"
+  },
+  {
+    "id": "visit-0383",
+    "latitude": 53.35635,
+    "longitude": -6.3707,
+    "name": "Palmerstown House",
+    "review": "Massive pub. Loads of room. We were there early for a bit of lunch with the kids and was eerily empty but I'd say it's good when there's a crowd in.",
+    "osm_id": "node/132811831"
+  },
+  {
+    "id": "visit-0384",
+    "latitude": 53.35,
+    "longitude": -6.37728,
+    "name": "The Silver Granite",
+    "review": "Looks a bit run down from teh front and was dead when we were there except for two eegits arguing about riding each others sisters. Looks big though. I'd say it's better with a crwd in.",
+    "osm_id": "node/132814618"
+  },
+  {
+    "id": "visit-0385",
+    "latitude": 53.34167,
+    "longitude": -6.32144,
+    "name": "Clearys",
+    "review": "Great price for a pint. One of the cheapest in Dublin. Savage little Mexican place (that's defo more expensive though) next door and ya can eat it in the pub. Great option for a pint and a taco before a Pats game.",
+    "osm_id": "node/2893532903"
+  },
+  {
+    "id": "visit-0386",
+    "latitude": 53.45071,
+    "longitude": -6.15445,
+    "name": "Duffys",
+    "review": "Large and modern. Bar staff were a bit shit. But was a bit of craic watching the Milton hurricane buildup on the TV. Most likely wouldn't bother with the palce if it was me local",
+    "osm_id": "node/550381063"
+  },
+  {
+    "id": "visit-0387",
+    "latitude": 53.45112,
+    "longitude": -6.15388,
+    "name": "Fowlers",
+    "review": "Best bar in Malahide. Savage little snug in the place. Also, Kev didnt know who was the 2008 Gold Cup winner.... And he says he likes horses... <eye-roll>",
+    "osm_id": "node/550381051"
+  },
+  {
+    "id": "visit-0388",
+    "latitude": 53.45169,
+    "longitude": -6.15351,
+    "name": "Gilbert & Wright",
+    "review": "Meh... Not great tbh. Looks more like a nightclub. Also, the weird shape of the wall suggests that maybe some people have been killed and hidden in the walls there",
+    "osm_id": "node/1981729348"
+  },
+  {
+    "id": "visit-0389",
+    "latitude": 53.42054,
+    "longitude": -6.13792,
+    "name": "O'Dwyers",
+    "review": "Only bar in Portmarnock I think. It was grand. A goo spot for plane watching actually. Also, they had YunYun rings at the bar!",
+    "osm_id": "way/586576112"
+  },
+  {
+    "id": "visit-0390",
+    "latitude": 53.39799,
+    "longitude": -6.1271,
+    "name": "The White House",
+    "review": "Savage bar. Lovely range going in the corner. Nice friendly fella handing out beer mats. Would defo drink here again",
+    "osm_id": "node/9518890001"
+  },
+  {
+    "id": "visit-0391",
+    "latitude": 53.39666,
+    "longitude": -6.1375,
+    "name": "Racecourse Inn",
+    "review": "Nothing wrong with the bar. Seemed a few in, was a good buzz in the place but the building is one of them altogether type shop things and looks a bit shit.",
+    "osm_id": "way/42419325"
+  },
+  {
+    "id": "visit-0392",
+    "latitude": 53.34372,
+    "longitude": -6.26356,
+    "name": "Disndat",
+    "review": "Kudos for being the cheapest pint of Guinness in Dublin Monday to Friday between 1 and 4. Head on the Guinness was a bit manky tbh but we'll cut them some slack as it was prob the first pour of the day. Pint and a sangidg for 10 euro. Not bad",
+    "osm_id": "node/11522240569"
+  },
+  {
+    "id": "visit-0393",
+    "latitude": 53.34147,
+    "longitude": -6.26601,
+    "name": "The Snug",
+    "review": "A real local boozer. Good characters in the place. Dont mind the lad that was doing his methdaone beside us",
+    "osm_id": "node/5362108727"
+  },
+  {
+    "id": "visit-0394",
+    "latitude": 53.33635,
+    "longitude": -6.27287,
+    "name": "Kavanghs",
+    "review": "Grand auld local. A few lads propping up the bar. Bit of birthday cake doing the rounds. Would have no problem drinking here",
+    "osm_id": "node/1593209605"
+  },
+  {
+    "id": "visit-0395",
+    "latitude": 53.33626,
+    "longitude": -6.27347,
+    "name": "Peader Browns",
+    "review": "Ooh Ah Up the Ra say Ooh Ah Up the Ra... Also, they sell vintage jerseys in the hall",
+    "osm_id": "node/583257143"
+  },
+  {
+    "id": "visit-0396",
+    "latitude": 53.32372,
+    "longitude": -6.27858,
+    "name": "Peggy Kellys",
+    "review": "Lovely big spacious place. Nice fire going. Just fuckin dead. Pricey as well.",
+    "osm_id": "node/3005899379"
+  },
+  {
+    "id": "visit-0397",
+    "latitude": 53.32333,
+    "longitude": -6.28009,
+    "name": "McGowans",
+    "review": "Is it a Chinese, is it a pub, is it a Golf memorial.... Who knows... Who cares.... Was grand",
+    "osm_id": "way/422874523"
+  },
+  {
+    "id": "visit-0398",
+    "latitude": 53.32164,
+    "longitude": -6.27947,
+    "name": "Lysters",
+    "review": "Nothing wrong with it. Bit of sport on the telly. Pizza available if so inclined. Pints flowing. Nothing remarkable but nothing bad",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0399",
+    "latitude": 53.32068,
+    "longitude": -6.2922,
+    "name": "The Stone Boat",
+    "review": "Officially pub number 400... So it'll always have that. ",
+    "osm_id": "node/2065197334"
+  },
+  {
+    "id": "visit-0400",
+    "latitude": 53.25252,
+    "longitude": -6.12308,
+    "name": "The Igo Inn",
+    "review": "I always maintain that the barman makes the pub and the Igo is the eiptomy of that. Fine roomy pub, nothing particularly special but the barman was bang on. Popped in for a couple of scoops and bit of food with the kids after climbing Kiliney Hill. Barman was bang on. Guinness was lovely. Would def return if it wasnt a million miles away from me.",
+    "osm_id": "way/780238802"
+  },
+  {
+    "id": "visit-0401",
+    "latitude": 53.36167,
+    "longitude": -6.21511,
+    "name": "The Yacht",
+    "review": "Expensive gastro pub with kids working instead of barmen. Really not a great experience for a pint. Expensive too. Shan't be back daaarling",
+    "osm_id": "way/230948516"
+  },
+  {
+    "id": "visit-0402",
+    "latitude": 53.35913,
+    "longitude": -6.19575,
+    "name": "Connollys The Sheds",
+    "review": "Pretty expensive but maybe understandable for the area. Seems an alright bar. There was a funeral starting when we were there so maybe not the best time to rate but wouldnt have a problem drinking here again..... if the drink was bought for me.....",
+    "osm_id": "way/233507006"
+  },
+  {
+    "id": "visit-0403",
+    "latitude": 53.34597,
+    "longitude": -6.26951,
+    "name": "Sin é",
+    "review": "Dark and trendy vibe to the place. There was a chess club in having a games night when we were there. I think I'd like the place but it's fuckin expensive. 16:60 for two pints is mad.",
+    "osm_id": "node/305312829"
+  },
+  {
+    "id": "visit-0404",
+    "latitude": 53.34394,
+    "longitude": -6.26991,
+    "name": "Darkie Kellys",
+    "review": "Very much targeted at Americans. Not that it's bad though. Good sport on. Nice session going in the corner. Looked to have some savage food. But it's priced to match all that. Apparently there are local prices but it wasn't offered to me no matter how much I bemoaned the Dubs losing to Tyrone",
+    "osm_id": "node/2349855098"
+  },
+  {
+    "id": "visit-0405",
+    "latitude": 53.34532,
+    "longitude": -6.26714,
+    "name": "The Giddy Dolphin",
+    "review": "Massive place. Lots of game options (pool, digital darts) and even a wow burger in the place. TBH, it doesn't feel like a pub. More an event space. Another one that's quite pricey.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0406",
+    "latitude": 53.34518,
+    "longitude": -6.26623,
+    "name": "Annes Bar & Hardware",
+    "review": "Ughhh. This is just everything that's wrong with pubs in Dublin atm. Stupid faux interior made to look like an old hardware store. Staff that don't give a fuck. ZERO atmospohere. And expensive drinks. Just..... Shite.....",
+    "osm_id": "way/619884575"
+  },
+  {
+    "id": "visit-0407",
+    "latitude": 53.34547,
+    "longitude": -6.26506,
+    "name": "Fitzsimons",
+    "review": "I need to compose meself here. Yes, yer in Temple Bar and the rent is prob high. Yes, you've stuck on some shit guitarist during the day. Yes, you have more fuckin bar stafff than rats in New York. But No. Just fuckin NO WAY can you justify charging twenty one fuckin euro for two pints. I was just lost for words. Fuckin insanity",
+    "osm_id": "node/1431043154"
+  },
+  {
+    "id": "visit-0408",
+    "latitude": 53.35852,
+    "longitude": -6.25433,
+    "name": "Gills",
+    "review": "Nearest bar to Croke park. And by fuck do they do some trade when there's game on. Respect to the barmen here.",
+    "osm_id": "way/934991746"
+  },
+  {
+    "id": "visit-0409",
+    "latitude": 53.3532,
+    "longitude": -6.26044,
+    "name": "Memas",
+    "review": "It's a bit hipstery but it was alright tbh. An attempt to gentrify the area. A lot of space around the back and smelt like the food was nice",
+    "osm_id": "way/252812519"
+  },
+  {
+    "id": "visit-0410",
+    "latitude": 53.3507,
+    "longitude": -6.25539,
+    "name": "Morris bar",
+    "review": "We thought we'd found the cheapest bar in the Dublin till we realised the barman just forgot to charge for the nuts. Still not the worst in terms of prices. Small enough place and Kev got accosted by some drunk one complaining about someone taking a shit in the snug but sure all part of the fun.",
+    "osm_id": "node/12920142701"
+  },
+  {
+    "id": "visit-0411",
+    "latitude": 53.33165,
+    "longitude": -6.37142,
+    "name": "The Park West Tavern",
+    "review": "Big gastro pub in the middle of an industrial estate so never gonna have that homely pub feel. Nothing wrong with the place though. Lots of staff on. Quick service. Bar man seemed a friendly fella",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0412",
+    "latitude": 53.34242,
+    "longitude": -6.35884,
+    "name": "O'Sheas The 79 Inn",
+    "review": "Big roomy pub. Loads of music stuff on the walls which was kinda cool but the most impressive thing by far was that they had NOBBYS NUTS. Fuck yeah.",
+    "osm_id": "way/264029838"
+  },
+  {
+    "id": "visit-0413",
+    "latitude": 53.34235,
+    "longitude": -6.35711,
+    "name": "Downeys",
+    "review": "Bit of a bomb shelter this one. Apparently me Das favourite pub in Ballyer though. Was v quiet when there but nothing wrong with the place.",
+    "osm_id": "node/2697063080"
+  },
+  {
+    "id": "visit-0414",
+    "latitude": 53.34269,
+    "longitude": -6.35645,
+    "name": "The Manhattan",
+    "review": "An upstairs pub. Now that's a novelty. Massive bar to be fair. I'd say it used to be downstairs as well but there's a Chinese in there now",
+    "osm_id": "node/8521097190"
+  },
+  {
+    "id": "visit-0415",
+    "latitude": 53.34168,
+    "longitude": -6.35676,
+    "name": "Tim Younges",
+    "review": "Reminded me of The Roost in Maynooth with the shape of the bar. Kev was dazzling the lad sitting next to him with his galactical knowledge of Womens Tennis. Fucker just wouldn't take a hint...",
+    "osm_id": "node/2612014313"
+  },
+  {
+    "id": "visit-0416",
+    "latitude": 53.34246,
+    "longitude": -6.35361,
+    "name": "Chasers",
+    "review": "Another upstairs pub in Ballyer. Comfy place, nothing wrong with it but nothing particularly special either",
+    "osm_id": "node/8521097200"
+  },
+  {
+    "id": "visit-0417",
+    "latitude": 53.34969,
+    "longitude": -6.34441,
+    "name": "The Villager",
+    "review": "Lovely small homely feel to this bar. Althoguh the barman seemed to be a coke fiend. And they had the ginger beer and bitters for Kev so three thumbs up",
+    "osm_id": "way/608742882"
+  },
+  {
+    "id": "visit-0418",
+    "latitude": 53.34834,
+    "longitude": -6.34243,
+    "name": "The Mullingar House",
+    "review": "Who's round is it? Kevs? Throw on a bowl of wings onto the round. Gettin hungy now. Really wanted to get into the rampart thingy but didnt know how. Brain wasn't functioning. Also, it's a bitch of a walk down to Heuston from there. Who's stupid idea was that.",
+    "osm_id": "way/606830451"
+  },
+  {
+    "id": "visit-0419",
+    "latitude": 53.52498,
+    "longitude": -6.31496,
+    "name": "Oldtown House",
+    "review": "Very remote so can't see meself being back but it's a lovely pub. Roaring fire in the corner, lots of sport memorabilia on the walls. A mug collection overhanging the bar and a barman who will serve you when the race is done.... so wait yer turn.... Oh and the stained glass GAA windows are cool. Would defo be a regular if I was local.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0420",
+    "latitude": 56.61103,
+    "longitude": -6.18526,
+    "name": "The Milestone",
+    "review": "Great little boozer. Lots of racing TVs setup. Bit of a crowd in even at 12 in the day. Talking about Might Mouse but fuck it at least there were people. Big roomy pub.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0421",
+    "latitude": 56.60965,
+    "longitude": -6.18361,
+    "name": "Mrs O's",
+    "review": "I can't remember the last pub that had a snooker table in it, never mind two. Massive place. Was very quiet when we were there though.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0422",
+    "latitude": 53.60843,
+    "longitude": -6.18327,
+    "name": "Dempseys",
+    "review": "Nice comfy little bar. Friendly staff and patrons. No complaints about this place. A lad at the bar was pissed already at 1 o'clock.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0423",
+    "latitude": 53.61363,
+    "longitude": -6.20683,
+    "name": "Hamlet Bar",
+    "review": "Fuckin miles away from the town. Tis the typical centre of a housing estate type bar. Loads of room, doesnt really feel like a bar from the outside but nothing wrong with the place. Except the location.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0424",
+    "latitude": 53.61094,
+    "longitude": -6.18554,
+    "name": "The Harvest",
+    "review": "We fucked up here. Went into the lounge by mistake. Looked like a plush fancy yoke. All cushions and shit. Should've went into the bar. But... There was a drunk lad who stores his wine behind the bar.... at elast there was him...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0425",
+    "latitude": 53.5848,
+    "longitude": -6.10483,
+    "name": "Joe Mays",
+    "review": "Beautiful location. Barman was sound as well. Had a good yap. Nothing special inside but felt like a bar so we were happy enough.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0426",
+    "latitude": 53.58499,
+    "longitude": -6.10495,
+    "name": "Blue Bar",
+    "review": "Tis basically a restaurant but it has a bar licence so it had to be done. More staff than customers when we were there and while I don't think I'll be backl, there was nothing really wrong with the place. Just no bar feels.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0427",
+    "latitude": 53.58436,
+    "longitude": -6.1047,
+    "name": "Stoop Your Head",
+    "review": "Another restaurant but had a bar licence. Meh is the best I can say...",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0428",
+    "latitude": 53.58043,
+    "longitude": -6.10722,
+    "name": "The Bus Bar",
+    "review": "Big tall American lad behind the bar. Always seems a little awkward. A few in, not a bad atmosphere. Barman served one pint through the front door for some fuckin reason.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0429",
+    "latitude": 53.58078,
+    "longitude": -6.10829,
+    "name": "The Gladstone Inn",
+    "review": "Kevs favourite pub of the crawl. Bunch of retards sitting at the bar and cash only... What's not to like.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0430",
+    "latitude": 53.5793,
+    "longitude": -6.10857,
+    "name": "Nealons Bar",
+    "review": "Cosy little snug in front of a fire. Felt a little snobbish but was grand",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0431",
+    "latitude": 53.57894,
+    "longitude": -6.10865,
+    "name": "The Coast Skerries Inn",
+    "review": "Nice layout to the place. Circular bar type thing. The fat bald lad (no not me) was nearly fighting with a bunch of yung lads. Think he was protecting a yung wans honour or something. But all was good in the end.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0432",
+    "latitude": 53.32863,
+    "longitude": -6.3965,
+    "name": "The Waterside",
+    "review": "Massive place. Even the bar has tns of space but still retains that local feel. If yer going for a walk along the canal it's a great stopping off point and the Pattaya restaurant beside it has some savage food for the soakage.",
+    "osm_id": "node/639367124"
+  },
+  {
+    "id": "visit-0433",
+    "latitude": 53.29412,
+    "longitude": -6.15345,
+    "name": "Franks Bar",
+    "review": "Basically just a waiting room for FX Buckleys restaurant. Nothing wrong with the place, very well maintained etc but no local vibes",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0434",
+    "latitude": 53.30192,
+    "longitude": -6.17803,
+    "name": "The Wicked Wolf",
+    "review": "Barman was nice and frindly and seemed a decent atmosphere inside. Was quite expensive for a round comapred to other local places.",
+    "osm_id": "node/1425999505"
+  },
+  {
+    "id": "visit-0435",
+    "latitude": 53.30101,
+    "longitude": -6.17728,
+    "name": "Kelly & Coopers",
+    "review": "Borderline restaura53.nt but was drinking room at the bar. Had a nice enough garden out the back but nothing particularly run-backableto about the place.",
+    "osm_id": "node/662970909"
+  },
+  {
+    "id": "visit-0436",
+    "latitude": 53.30805,
+    "longitude": -6.31961,
+    "name": "The Laurels",
+    "review": "Grand roomy place. We were first in the door so expected it to be quiet except there was an auld lad kicking off because he'd been barred. Well dealt with by Tom though. Who funnily enough used to work in The Village Inn in Celbridge back when it was Norris's.",
+    "osm_id": "node/612427114"
+  },
+  {
+    "id": "visit-0437",
+    "latitude": 53.30735,
+    "longitude": -6.31884,
+    "name": "The Pines",
+    "review": "Gastro pub. Not particularly memorable. Pretty roomy though and there was a guitar hanging on the wall so it was a nice ambiance.",
+    "osm_id": "node/612427116"
+  },
+  {
+    "id": "visit-0438",
+    "latitude": 53.30916,
+    "longitude": -6.30537,
+    "name": "The Two Sisters",
+    "review": "Racing was on. Bar was quiet enough. Seems like a nice boozer but nothing particularly memorable about the place.",
+    "osm_id": "node/1425374427"
+  },
+  {
+    "id": "visit-0439",
+    "latitude": 53.31461,
+    "longitude": -6.30014,
+    "name": "The Four Provinces",
+    "review": "I like this place. Was a good bit of character in the regulars although I'd say they could be a head wreck. The prices were great for a craft bar. And they even had a Feile Pale Ale in honour of Jenny's adventures in the GAA. Would defo come back",
+    "osm_id": "relation/20011885"
+  },
+  {
+    "id": "visit-0440",
+    "latitude": 53.3196,
+    "longitude": -6.31306,
+    "name": "Frehills Tavern",
+    "review": "Racing was on the TV. Was a good buzz in the place to be fair. Nothing wrong with the bar, the Guinness was grand.",
+    "osm_id": "node/988809177"
+  },
+  {
+    "id": "visit-0441",
+    "latitude": 53.316,
+    "longitude": -6.3174,
+    "name": "Rory O'Connors Bar",
+    "review": "Massive pub. A few in so was a bit of a buzz. There was a lad really struggling to open a bag of nuts at the bar for a while... He got them open eventually though.",
+    "osm_id": "node/1500501221"
+  },
+  {
+    "id": "visit-0442",
+    "latitude": 53.32012,
+    "longitude": -6.31612,
+    "name": "The Horse Shoe",
+    "review": "It looked like a cafe from outside but turned out to be a savage bar. The Barman doesn't move fast but he runs a good show to be fair. Kegs for pissers and poker machines down the back of the bar. Was a good buzz in the place. Also, the womens golf was on the telly. I've a massive appreciation of womens golf. Although the leader was definitely a man.",
+    "osm_id": "node/2995285120"
+  },
+  {
+    "id": "visit-0443",
+    "latitude": 53.32022,
+    "longitude": -6.31679,
+    "name": "The Village Inn",
+    "review": "Great crowd in the place. They've curtains to be pulled across the windows whichw as different. Nice sporty feel to the pub. Would come back.",
+    "osm_id": null
+  },
+  {
+    "id": "visit-0444",
+    "latitude": 53.32808,
+    "longitude": -6.30491,
+    "name": "Birchalls",
+    "review": "Nice bar. They let me use their phone charger after Kevs block charger failed. Nice glass partition between the bar and the lounge as well. Nothing particularly memorable but nothing wrong with the place.",
+    "osm_id": "node/612623532"
+  },
+  {
+    "id": "visit-0445",
+    "latitude": 53.33652,
+    "longitude": -6.29919,
+    "name": "The Bird Flanagans",
+    "review": "We obviously took someones regular table as yer man nearly broke his snot rushing over to the seat as soon as we were leaving. Good location. Good pub. No complaints.",
+    "osm_id": "node/358543587"
+  },
+  {
+    "id": "visit-0446",
+    "latitude": 53.33621,
+    "longitude": -6.29788,
+    "name": "The Circular",
+    "review": "Hip, Modern, Cool, whatever. This seems to be the youngsters hang out. Has some pizza window thing for food. The place was busy. And Kev was even on the fuckin Whisky Sours by this stage. Prob trying to blend with the youth.",
+    "osm_id": "way/645050835"
+  },
+  {
+    "id": "visit-0447",
+    "latitude": 53.385907,
+    "longitude": -6.374456,
+    "name": "The Black Wolf",
+    "review": "Big roomy pub in the centre of Blanch village. Lovely ice cream options on the menu but the cow skin seat coverings were a bit much. Also, the snug was weirdly positioned. I'd say it does a good trade though.",
+    "osm_id": "way/391799129"
+  },
+  {
+    "id": "visit-0448",
+    "latitude": 53.384784,
+    "longitude": -6.371733,
+    "name": "The Bell",
+    "review": "Another large pub. Was a decent crowd in for a Monday. Seems to go a good family dinner trade. Prices were fuckin steep but sure everywhere is now.",
+    "osm_id": "way/31799202"
+  },
+  {
+    "id": "visit-0449",
+    "latitude": 53.38676,
+    "longitude": -6.377727,
+    "name": "The Greyhound",
+    "review": "Prob the best bar feel in the village. Nice Monday crowd in watching the races. Had Mam with us on the absolute tear... three bottles for her is a tear... Has a cocktail bar in the Lounge so maybe gets a good crowd in the evenings.",
+    "osm_id": "way/270248783"
+  },
+  {
+    "id": "visit-0450",
+    "latitude": 53.561893,
+    "longitude": -6.184251,
+    "name": "Man O'War",
+    "review": "Absolutely loved this place. The decor is great, the bar is lovely, the price of the pint is right and they even let doggo sit with us while we grabbed a bit of lunch. Food prices are on the steep side but well backed up by the quality. Only dissapointing this is the remoteness, I may never get a chance to return.",
+    "osm_id": null
+  }
+]

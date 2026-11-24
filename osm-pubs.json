@@ -1,0 +1,7548 @@
+{
+  "source_date": "2026-11-21",
+  "pubs": [
+    {
+      "id": "node/122079566",
+      "name": "Boot Inn",
+      "latitude": 53.4318903,
+      "longitude": -6.2642817,
+      "osm_ids": [
+        "node/122079566"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/130156802",
+      "name": "Le Monde Café Bar",
+      "latitude": 53.3501917,
+      "longitude": -6.2527615,
+      "osm_ids": [
+        "node/130156802"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/132186038",
+      "name": "Ballinteer House",
+      "latitude": 53.2747643,
+      "longitude": -6.2545959,
+      "osm_ids": [
+        "node/132186038"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/132228340",
+      "name": "The Old Punch Bowl",
+      "latitude": 53.3087656,
+      "longitude": -6.1966601,
+      "osm_ids": [
+        "node/132228340"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/132811831",
+      "name": "Palmerstown House",
+      "latitude": 53.356444,
+      "longitude": -6.3706215,
+      "osm_ids": [
+        "node/132811831"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/132814618",
+      "name": "Silver Granite",
+      "latitude": 53.3500748,
+      "longitude": -6.3774029,
+      "osm_ids": [
+        "node/132814618"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/132831833",
+      "name": "The Ark",
+      "latitude": 53.3541515,
+      "longitude": -6.4028674,
+      "osm_ids": [
+        "node/132831833"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/133193958",
+      "name": "The Barge",
+      "latitude": 53.3305512,
+      "longitude": -6.2605878,
+      "osm_ids": [
+        "node/133193958"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/135547952",
+      "name": "The Gallops",
+      "latitude": 53.2582331,
+      "longitude": -6.1974199,
+      "osm_ids": [
+        "node/135547952"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/139590769",
+      "name": "The Foxhunter",
+      "latitude": 53.3586043,
+      "longitude": -6.4188935,
+      "osm_ids": [
+        "node/139590769"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/249426205",
+      "name": "Marino House (Kavanagh's)",
+      "latitude": 53.365756,
+      "longitude": -6.2288162,
+      "osm_ids": [
+        "node/249426205"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/256258286",
+      "name": "The Clubhouse",
+      "latitude": 53.3082485,
+      "longitude": -6.22707,
+      "osm_ids": [
+        "node/256258286"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/263366607",
+      "name": "The Penny Hill",
+      "latitude": 53.3473896,
+      "longitude": -6.4238869,
+      "osm_ids": [
+        "node/263366607"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/279464425",
+      "name": "The Lower Deck",
+      "latitude": 53.330686,
+      "longitude": -6.2652379,
+      "osm_ids": [
+        "node/279464425"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/279915988",
+      "name": "Arlington Bar & Restaurant",
+      "latitude": 53.3472522,
+      "longitude": -6.2609325,
+      "osm_ids": [
+        "node/279915988"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/280958210",
+      "name": "John Fallon's \"The Capstan Bar\"",
+      "latitude": 53.3389839,
+      "longitude": -6.2733761,
+      "osm_ids": [
+        "node/280958210"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/282342105",
+      "name": "The Wind Jammer",
+      "latitude": 53.3452765,
+      "longitude": -6.2483476,
+      "osm_ids": [
+        "node/282342105"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/282917369",
+      "name": "The Old Mill",
+      "latitude": 53.2751247,
+      "longitude": -6.354174,
+      "osm_ids": [
+        "node/282917369"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/286817205",
+      "name": "Bugler's Pub",
+      "latitude": 53.2840791,
+      "longitude": -6.2954161,
+      "osm_ids": [
+        "node/286817205"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/293524291",
+      "name": "Scholars",
+      "latitude": 53.2750936,
+      "longitude": -6.3449534,
+      "osm_ids": [
+        "node/293524291"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/298721803",
+      "name": "Harkin’s",
+      "latitude": 53.3424988,
+      "longitude": -6.2885248,
+      "osm_ids": [
+        "node/298721803"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/299225092",
+      "name": "Brady’s",
+      "latitude": 53.3098046,
+      "longitude": -6.2841368,
+      "osm_ids": [
+        "node/299225092"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/303968050",
+      "name": "Padraig Pearse",
+      "latitude": 53.3433493,
+      "longitude": -6.2447418,
+      "osm_ids": [
+        "node/303968050"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/305312829",
+      "name": "Sin É",
+      "latitude": 53.345976,
+      "longitude": -6.2695992,
+      "osm_ids": [
+        "node/305312829"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/306276661",
+      "name": "O'Reilly's",
+      "latitude": 53.3470972,
+      "longitude": -6.254074,
+      "osm_ids": [
+        "node/306276661"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/311099928",
+      "name": "Woolshed Baa & Grill",
+      "latitude": 53.3502671,
+      "longitude": -6.2674686,
+      "osm_ids": [
+        "node/311099928"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312565824",
+      "name": "Oarsman",
+      "latitude": 53.3416674,
+      "longitude": -6.2277525,
+      "osm_ids": [
+        "node/312565824"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312566081",
+      "name": "John Clarke and Sons",
+      "latitude": 53.3416873,
+      "longitude": -6.2275843,
+      "osm_ids": [
+        "node/312566081"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312569767",
+      "name": "The Vintage Inn",
+      "latitude": 53.3386993,
+      "longitude": -6.2228824,
+      "osm_ids": [
+        "node/312569767"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312569935",
+      "name": "The Merry Cobbler",
+      "latitude": 53.3385836,
+      "longitude": -6.2225999,
+      "osm_ids": [
+        "node/312569935"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312574900",
+      "name": "Sandymount House",
+      "latitude": 53.3323885,
+      "longitude": -6.2152784,
+      "osm_ids": [
+        "node/312574900"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312574927",
+      "name": "O’Reilly’s",
+      "latitude": 53.3328247,
+      "longitude": -6.2152427,
+      "osm_ids": [
+        "node/312574927"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312576602",
+      "name": "Horse Show House",
+      "latitude": 53.3285197,
+      "longitude": -6.2289281,
+      "osm_ids": [
+        "node/312576602"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312576639",
+      "name": "Paddy Cullen",
+      "latitude": 53.3290182,
+      "longitude": -6.230281,
+      "osm_ids": [
+        "node/312576639"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312576904",
+      "name": "Mary Mac’s",
+      "latitude": 53.3290475,
+      "longitude": -6.2303733,
+      "osm_ids": [
+        "node/312576904"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/312577264",
+      "name": "Crowe’s",
+      "latitude": 53.3291081,
+      "longitude": -6.2305605,
+      "osm_ids": [
+        "node/312577264"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/315252689",
+      "name": "The Terenure Inn",
+      "latitude": 53.3113561,
+      "longitude": -6.2830549,
+      "osm_ids": [
+        "node/315252689"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/335569489",
+      "name": "The Black Lion",
+      "latitude": 53.3395798,
+      "longitude": -6.3208057,
+      "osm_ids": [
+        "node/335569489"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/335980359",
+      "name": "The Saint",
+      "latitude": 53.3395627,
+      "longitude": -6.3187768,
+      "osm_ids": [
+        "node/335980359"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/358543320",
+      "name": "Lowes Bar",
+      "latitude": 53.333764,
+      "longitude": -6.2906371,
+      "osm_ids": [
+        "node/358543320"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/358543587",
+      "name": "The Bird Flanagan",
+      "latitude": 53.3365462,
+      "longitude": -6.299192,
+      "osm_ids": [
+        "node/358543587"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/367411336",
+      "name": "Hogan’s Bar",
+      "latitude": 53.3419933,
+      "longitude": -6.2646102,
+      "osm_ids": [
+        "node/367411336"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/368883560",
+      "name": "The Bloody Stream",
+      "latitude": 53.3889795,
+      "longitude": -6.0743615,
+      "osm_ids": [
+        "node/368883560"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/390324314",
+      "name": "Molloy’s The Foxes Covert",
+      "latitude": 53.2879405,
+      "longitude": -6.3594067,
+      "osm_ids": [
+        "node/390324314"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/415802976",
+      "name": "McGarry’s Bar",
+      "latitude": 53.3216994,
+      "longitude": -6.2795312,
+      "osm_ids": [
+        "node/415802976"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/415803254",
+      "name": "Coman's",
+      "latitude": 53.312007,
+      "longitude": -6.2748056,
+      "osm_ids": [
+        "node/415803254"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/444529271",
+      "name": "The Orchard",
+      "latitude": 53.4712932,
+      "longitude": -6.2322338,
+      "osm_ids": [
+        "node/444529271"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/446783419",
+      "name": "Anseo",
+      "latitude": 53.3353226,
+      "longitude": -6.264995,
+      "osm_ids": [
+        "node/446783419"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/446785628",
+      "name": "Fidelity",
+      "latitude": 53.3471016,
+      "longitude": -6.2802916,
+      "osm_ids": [
+        "node/446785628"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/446785642",
+      "name": "Frank Ryan’s",
+      "latitude": 53.3470056,
+      "longitude": -6.2800493,
+      "osm_ids": [
+        "node/446785642"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/460836900",
+      "name": "Turk's Head",
+      "latitude": 53.3448099,
+      "longitude": -6.2676308,
+      "osm_ids": [
+        "node/460836900"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/467744840",
+      "name": "Madigan’s",
+      "latitude": 53.3514196,
+      "longitude": -6.2605498,
+      "osm_ids": [
+        "node/467744840"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/467744856",
+      "name": "The Celt",
+      "latitude": 53.3505727,
+      "longitude": -6.2548867,
+      "osm_ids": [
+        "node/467744856"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/467744860",
+      "name": "The Old Storehouse",
+      "latitude": 53.3451323,
+      "longitude": -6.2626746,
+      "osm_ids": [
+        "node/467744860"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/475642367",
+      "name": "The Grattan",
+      "latitude": 53.3394911,
+      "longitude": -6.3213412,
+      "osm_ids": [
+        "node/475642367"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/478929879",
+      "name": "The Lord Lucan",
+      "latitude": 53.3413059,
+      "longitude": -6.4516682,
+      "osm_ids": [
+        "node/478929879"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/479092745",
+      "name": "McCloskeys",
+      "latitude": 53.3244334,
+      "longitude": -6.2404236,
+      "osm_ids": [
+        "node/479092745"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/503224346",
+      "name": "Thomas Moore Inn",
+      "latitude": 53.3405863,
+      "longitude": -6.2654253,
+      "osm_ids": [
+        "node/503224346"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/504990897",
+      "name": "Ollie's Lounge & Bar",
+      "latitude": 53.2767305,
+      "longitude": -6.2240158,
+      "osm_ids": [
+        "node/504990897"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/506824954",
+      "name": "Ball Alley House",
+      "latitude": 53.3554596,
+      "longitude": -6.4546703,
+      "osm_ids": [
+        "node/506824954"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/516031805",
+      "name": "The South Strand",
+      "latitude": 53.3443705,
+      "longitude": -6.2381732,
+      "osm_ids": [
+        "node/516031805"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/538103859",
+      "name": "The Hut",
+      "latitude": 53.3610075,
+      "longitude": -6.2725355,
+      "osm_ids": [
+        "node/538103859"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/543384713",
+      "name": "R. McSorley’s",
+      "latitude": 53.3233007,
+      "longitude": -6.2500808,
+      "osm_ids": [
+        "node/543384713"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/550381051",
+      "name": "Fowler’s",
+      "latitude": 53.4513054,
+      "longitude": -6.1539054,
+      "osm_ids": [
+        "node/550381051"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/550381063",
+      "name": "Duffy’s",
+      "latitude": 53.4507081,
+      "longitude": -6.1543875,
+      "osm_ids": [
+        "node/550381063"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/550381074",
+      "name": "Gibney’s",
+      "latitude": 53.4513197,
+      "longitude": -6.1536649,
+      "osm_ids": [
+        "node/550381074"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/560602898",
+      "name": "Martin B. Slattery",
+      "latitude": 53.3221545,
+      "longitude": -6.26589,
+      "osm_ids": [
+        "node/560602898"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/562072082",
+      "name": "74 Talbot",
+      "latitude": 53.350879,
+      "longitude": -6.2529113,
+      "osm_ids": [
+        "node/562072082"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/564399648",
+      "name": "Corrigan’s",
+      "latitude": 53.3275519,
+      "longitude": -6.2616703,
+      "osm_ids": [
+        "node/564399648"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/565770327",
+      "name": "Birchall’s",
+      "latitude": 53.3233904,
+      "longitude": -6.2503391,
+      "osm_ids": [
+        "node/565770327"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/583257143",
+      "name": "Peadar Browns",
+      "latitude": 53.3362336,
+      "longitude": -6.2734533,
+      "osm_ids": [
+        "node/583257143"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/583411333",
+      "name": "The Secret Bar / The Bar With No Name",
+      "latitude": 53.3418854,
+      "longitude": -6.2641559,
+      "osm_ids": [
+        "node/583411333"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/583412899",
+      "name": "The Lord Edward",
+      "latitude": 53.3431186,
+      "longitude": -6.2700507,
+      "osm_ids": [
+        "node/583412899"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/592066036",
+      "name": "Oil Can Harry's",
+      "latitude": 53.3383463,
+      "longitude": -6.2432199,
+      "osm_ids": [
+        "node/592066036"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/593844444",
+      "name": "McLoughlin’s",
+      "latitude": 53.2900598,
+      "longitude": -6.1306744,
+      "osm_ids": [
+        "node/593844444"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/593844510",
+      "name": "The Forty Foot",
+      "latitude": 53.2940117,
+      "longitude": -6.1337719,
+      "osm_ids": [
+        "node/593844510"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/593844518",
+      "name": "The Purty Kitchen",
+      "latitude": 53.2951939,
+      "longitude": -6.1481504,
+      "osm_ids": [
+        "node/593844518"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/597119697",
+      "name": "Hardy’s Bar & Bistro",
+      "latitude": 53.2919874,
+      "longitude": -6.1341504,
+      "osm_ids": [
+        "node/597119697"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/598519953",
+      "name": "The Eagle",
+      "latitude": 53.2870206,
+      "longitude": -6.1231501,
+      "osm_ids": [
+        "node/598519953"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/612427114",
+      "name": "The Laurels",
+      "latitude": 53.3079564,
+      "longitude": -6.3195456,
+      "osm_ids": [
+        "node/612427114"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/612427116",
+      "name": "The Pines",
+      "latitude": 53.3073383,
+      "longitude": -6.3188972,
+      "osm_ids": [
+        "node/612427116"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/612623532",
+      "name": "Birchall’s",
+      "latitude": 53.328038,
+      "longitude": -6.304945,
+      "osm_ids": [
+        "node/612623532"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/613230592",
+      "name": "The Lotts",
+      "latitude": 53.3473835,
+      "longitude": -6.2633194,
+      "osm_ids": [
+        "node/613230592"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/632666705",
+      "name": "Delaney’s",
+      "latitude": 53.3498059,
+      "longitude": -6.2784995,
+      "osm_ids": [
+        "node/632666705"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/635273448",
+      "name": "Bar 1661",
+      "latitude": 53.3492625,
+      "longitude": -6.2704646,
+      "osm_ids": [
+        "node/635273448"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/636958169",
+      "name": "Madigan's Bar & Grill",
+      "latitude": 53.3514108,
+      "longitude": -6.2497907,
+      "osm_ids": [
+        "node/636958169"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/638722447",
+      "name": "The Dragon Inn",
+      "latitude": 53.2879375,
+      "longitude": -6.3621661,
+      "osm_ids": [
+        "node/638722447"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/639367124",
+      "name": "The Waterside",
+      "latitude": 53.3286777,
+      "longitude": -6.3964111,
+      "osm_ids": [
+        "node/639367124"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/658492175",
+      "name": "The Two Foxes",
+      "latitude": 53.291744,
+      "longitude": -6.1350718,
+      "osm_ids": [
+        "node/658492175"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/658492392",
+      "name": "Walter’s",
+      "latitude": 53.2897873,
+      "longitude": -6.1300465,
+      "osm_ids": [
+        "node/658492392"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/658999927",
+      "name": "Paidi Ogs",
+      "latitude": 53.4027495,
+      "longitude": -6.3974174,
+      "osm_ids": [
+        "node/658999927"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/662938466",
+      "name": "Jack O’Rourke’s",
+      "latitude": 53.3015086,
+      "longitude": -6.1778326,
+      "osm_ids": [
+        "node/662938466"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/662970909",
+      "name": "Kelly and Coopers",
+      "latitude": 53.3010267,
+      "longitude": -6.1772278,
+      "osm_ids": [
+        "node/662970909"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/689479314",
+      "name": "Keeling’s",
+      "latitude": 53.4876672,
+      "longitude": -6.1484896,
+      "osm_ids": [
+        "node/689479314"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/698087515",
+      "name": "Phibsborough House, Clarke's",
+      "latitude": 53.3588257,
+      "longitude": -6.2734242,
+      "osm_ids": [
+        "node/698087515"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/736892767",
+      "name": "The Twelfth Lock",
+      "latitude": 53.3821395,
+      "longitude": -6.3672381,
+      "osm_ids": [
+        "node/736892767"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/739778204",
+      "name": "Krystle",
+      "latitude": 53.3358434,
+      "longitude": -6.2635641,
+      "osm_ids": [
+        "node/739778204"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/768231201",
+      "name": "The Exchequer",
+      "latitude": 53.3431203,
+      "longitude": -6.263866,
+      "osm_ids": [
+        "node/768231201"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/768231204",
+      "name": "Sinnott’s",
+      "latitude": 53.3400902,
+      "longitude": -6.2617022,
+      "osm_ids": [
+        "node/768231204"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/768231205",
+      "name": "Caribou",
+      "latitude": 53.3412009,
+      "longitude": -6.2642908,
+      "osm_ids": [
+        "node/768231205"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/768231918",
+      "name": "DV8 Bar & Venue",
+      "latitude": 53.3434972,
+      "longitude": -6.2905632,
+      "osm_ids": [
+        "node/768231918"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/768520263",
+      "name": "Bonobo",
+      "latitude": 53.3503544,
+      "longitude": -6.2746953,
+      "osm_ids": [
+        "node/768520263"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/775278278",
+      "name": "Graingers The Manor Inn",
+      "latitude": 53.4604175,
+      "longitude": -6.2449135,
+      "osm_ids": [
+        "node/775278278"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/775415430",
+      "name": "D-Two",
+      "latitude": 53.3344059,
+      "longitude": -6.2629302,
+      "osm_ids": [
+        "node/775415430"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/778699196",
+      "name": "J. O'Connell",
+      "latitude": 53.3306448,
+      "longitude": -6.2641688,
+      "osm_ids": [
+        "node/778699196"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/830659393",
+      "name": "The Galway Hooker",
+      "latitude": 53.3467462,
+      "longitude": -6.2924467,
+      "osm_ids": [
+        "node/830659393"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/880923510",
+      "name": "O’Connell’s",
+      "latitude": 53.388225,
+      "longitude": -6.0639896,
+      "osm_ids": [
+        "node/880923510"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/880923549",
+      "name": "Harbour Bar",
+      "latitude": 53.3870047,
+      "longitude": -6.0663234,
+      "osm_ids": [
+        "node/880923549"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/882292497",
+      "name": "The Barn House",
+      "latitude": 53.3322249,
+      "longitude": -6.2927681,
+      "osm_ids": [
+        "node/882292497"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/890854720",
+      "name": "J. & M. Cleary",
+      "latitude": 53.3523358,
+      "longitude": -6.2495435,
+      "osm_ids": [
+        "node/890854720"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/911170200",
+      "name": "The Landmark",
+      "latitude": 53.3374409,
+      "longitude": -6.2659032,
+      "osm_ids": [
+        "node/911170200"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/932249376",
+      "name": "The Dunmore",
+      "latitude": 53.3242854,
+      "longitude": -6.2651445,
+      "osm_ids": [
+        "node/932249376"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/937866728",
+      "name": "The Kingswood Lodge",
+      "latitude": 53.3074073,
+      "longitude": -6.3672745,
+      "osm_ids": [
+        "node/937866728"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/941285841",
+      "name": "The Oasis Bar & Grill",
+      "latitude": 53.4351695,
+      "longitude": -6.1239719,
+      "osm_ids": [
+        "node/941285841"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/941319049",
+      "name": "McNeill’s",
+      "latitude": 53.3846515,
+      "longitude": -6.0653171,
+      "osm_ids": [
+        "node/941319049"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/943350478",
+      "name": "The Harold House",
+      "latitude": 53.3300206,
+      "longitude": -6.2752027,
+      "osm_ids": [
+        "node/943350478"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/988809177",
+      "name": "Frehill's Tavern",
+      "latitude": 53.3195923,
+      "longitude": -6.3131127,
+      "osm_ids": [
+        "node/988809177"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1030106427",
+      "name": "Kodiak",
+      "latitude": 53.3218115,
+      "longitude": -6.2656362,
+      "osm_ids": [
+        "node/1030106427"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1039619303",
+      "name": "Tower Bar and Bistro",
+      "latitude": 53.478949,
+      "longitude": -6.11525,
+      "osm_ids": [
+        "node/1039619303"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1260538148",
+      "name": "The Malt",
+      "latitude": 53.3429392,
+      "longitude": -6.291006,
+      "osm_ids": [
+        "node/1260538148"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1263991636",
+      "name": "The Graduate Bar and Restaurant",
+      "latitude": 53.2670882,
+      "longitude": -6.135798,
+      "osm_ids": [
+        "node/1263991636"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1300613610",
+      "name": "Dame Tavern",
+      "latitude": 53.3438207,
+      "longitude": -6.263915,
+      "osm_ids": [
+        "node/1300613610"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1320104241",
+      "name": "Furry Bog",
+      "latitude": 53.2781494,
+      "longitude": -6.2882697,
+      "osm_ids": [
+        "node/1320104241"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1320207694",
+      "name": "Boomers",
+      "latitude": 53.3235135,
+      "longitude": -6.3792415,
+      "osm_ids": [
+        "node/1320207694"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1326700611",
+      "name": "The Mission",
+      "latitude": 53.3470952,
+      "longitude": -6.2836885,
+      "osm_ids": [
+        "node/1326700611"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1332272327",
+      "name": "The Millennium",
+      "latitude": 53.3480466,
+      "longitude": -6.2900462,
+      "osm_ids": [
+        "node/1332272327"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1348370992",
+      "name": "Murray’s",
+      "latitude": 53.3525164,
+      "longitude": -6.2610978,
+      "osm_ids": [
+        "node/1348370992"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1349656251",
+      "name": "The Temple",
+      "latitude": 53.3573517,
+      "longitude": -6.2637116,
+      "osm_ids": [
+        "node/1349656251"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1361340484",
+      "name": "Porters",
+      "latitude": 53.3354339,
+      "longitude": -6.2650027,
+      "osm_ids": [
+        "node/1361340484"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1373919801",
+      "name": "Swift",
+      "latitude": 53.3433017,
+      "longitude": -6.2810822,
+      "osm_ids": [
+        "node/1373919801"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1373977813",
+      "name": "Lynott’s",
+      "latitude": 53.3406636,
+      "longitude": -6.27815,
+      "osm_ids": [
+        "node/1373977813"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1373979474",
+      "name": "The Lamplighter",
+      "latitude": 53.3397428,
+      "longitude": -6.2780884,
+      "osm_ids": [
+        "node/1373979474"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1403120910",
+      "name": "Tom Kennedy’s",
+      "latitude": 53.3427402,
+      "longitude": -6.2772127,
+      "osm_ids": [
+        "node/1403120910"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1404763943",
+      "name": "The Lark Inn",
+      "latitude": 53.341684,
+      "longitude": -6.278673,
+      "osm_ids": [
+        "node/1404763943"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1404772647",
+      "name": "The Pimlico Tavern",
+      "latitude": 53.3400639,
+      "longitude": -6.2807211,
+      "osm_ids": [
+        "node/1404772647"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1416582578",
+      "name": "McDowell’s",
+      "latitude": 53.3402486,
+      "longitude": -6.3168219,
+      "osm_ids": [
+        "node/1416582578"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1418302667",
+      "name": "Gleesons of Booterstown",
+      "latitude": 53.3054689,
+      "longitude": -6.197606,
+      "osm_ids": [
+        "node/1418302667"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1423546555",
+      "name": "Tolka House",
+      "latitude": 53.3738004,
+      "longitude": -6.2689642,
+      "osm_ids": [
+        "node/1423546555"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1423559526",
+      "name": "Trinity Bar & Venue",
+      "latitude": 53.3443282,
+      "longitude": -6.2636793,
+      "osm_ids": [
+        "node/1423559526"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1423559556",
+      "name": "Bad Bob's",
+      "latitude": 53.3450328,
+      "longitude": -6.2659898,
+      "osm_ids": [
+        "node/1423559556"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1425374427",
+      "name": "The Two Sisters",
+      "latitude": 53.3091194,
+      "longitude": -6.305349,
+      "osm_ids": [
+        "node/1425374427"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1425999505",
+      "name": "The Wicked Wolf",
+      "latitude": 53.3019262,
+      "longitude": -6.1780007,
+      "osm_ids": [
+        "node/1425999505"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1426048610",
+      "name": "The Portobello Bar",
+      "latitude": 53.3303497,
+      "longitude": -6.2640955,
+      "osm_ids": [
+        "node/1426048610"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1426051344",
+      "name": "The Hill",
+      "latitude": 53.3266615,
+      "longitude": -6.25838,
+      "osm_ids": [
+        "node/1426051344"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1426100409",
+      "name": "Morrissey's",
+      "latitude": 53.3368452,
+      "longitude": -6.2876954,
+      "osm_ids": [
+        "node/1426100409"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1432780730",
+      "name": "Edenmore House",
+      "latitude": 53.3882621,
+      "longitude": -6.1834132,
+      "osm_ids": [
+        "node/1432780730"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1432780731",
+      "name": "The Concorde",
+      "latitude": 53.3888986,
+      "longitude": -6.1809861,
+      "osm_ids": [
+        "node/1432780731"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1484713985",
+      "name": "Quarry House",
+      "latitude": 53.382084,
+      "longitude": -6.2767253,
+      "osm_ids": [
+        "node/1484713985"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1484733482",
+      "name": "Autobahn Roadhouse",
+      "latitude": 53.3897043,
+      "longitude": -6.2712214,
+      "osm_ids": [
+        "node/1484733482"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1496722632",
+      "name": "The Slipper",
+      "latitude": 53.3853244,
+      "longitude": -6.2656088,
+      "osm_ids": [
+        "node/1496722632"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1496775243",
+      "name": "Nubar",
+      "latitude": 53.3850696,
+      "longitude": -6.2589215,
+      "osm_ids": [
+        "node/1496775243"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1496777115",
+      "name": "The Comet",
+      "latitude": 53.388452,
+      "longitude": -6.2460311,
+      "osm_ids": [
+        "node/1496777115"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1500501221",
+      "name": "Rory O'Connor's",
+      "latitude": 53.3159336,
+      "longitude": -6.3173081,
+      "osm_ids": [
+        "node/1500501221"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1500501224",
+      "name": "The Submarine",
+      "latitude": 53.3161733,
+      "longitude": -6.3173858,
+      "osm_ids": [
+        "node/1500501224"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1509769787",
+      "name": "Barcode",
+      "latitude": 53.3629792,
+      "longitude": -6.2287076,
+      "osm_ids": [
+        "node/1509769787"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1521409481",
+      "name": "Brewery Bar",
+      "latitude": 53.3404859,
+      "longitude": -6.2868779,
+      "osm_ids": [
+        "node/1521409481"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1521570233",
+      "name": "EpiCenter",
+      "latitude": 53.3572808,
+      "longitude": -6.2269266,
+      "osm_ids": [
+        "node/1521570233"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1521601306",
+      "name": "Pebble Beach",
+      "latitude": 53.3594872,
+      "longitude": -6.1896797,
+      "osm_ids": [
+        "node/1521601306"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1521660943",
+      "name": "Kyle’s",
+      "latitude": 53.3888556,
+      "longitude": -6.2008612,
+      "osm_ids": [
+        "node/1521660943"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1529996763",
+      "name": "Ardlea Inn",
+      "latitude": 53.3866526,
+      "longitude": -6.2115954,
+      "osm_ids": [
+        "node/1529996763"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1529996838",
+      "name": "The Roundabout",
+      "latitude": 53.383917,
+      "longitude": -6.2068448,
+      "osm_ids": [
+        "node/1529996838"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1530024649",
+      "name": "The Goblet",
+      "latitude": 53.3803132,
+      "longitude": -6.2100929,
+      "osm_ids": [
+        "node/1530024649"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1560022630",
+      "name": "K Sixty Seven",
+      "latitude": 53.4623533,
+      "longitude": -6.2179398,
+      "osm_ids": [
+        "node/1560022630"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1560022633",
+      "name": "Peacocks Steakhouse",
+      "latitude": 53.4527893,
+      "longitude": -6.2433328,
+      "osm_ids": [
+        "node/1560022633"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1593209605",
+      "name": "Kavanagh’s",
+      "latitude": 53.3363545,
+      "longitude": -6.2728363,
+      "osm_ids": [
+        "node/1593209605"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1615384981",
+      "name": "An Cappagh Nua",
+      "latitude": 53.395102,
+      "longitude": -6.3111759,
+      "osm_ids": [
+        "node/1615384981"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1694469691",
+      "name": "Jacobs",
+      "latitude": 53.2805016,
+      "longitude": -6.4445633,
+      "osm_ids": [
+        "node/1694469691"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1712118211",
+      "name": "O’Shea’s",
+      "latitude": 53.3508625,
+      "longitude": -6.2542696,
+      "osm_ids": [
+        "node/1712118211"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1811909362",
+      "name": "The Black Lion",
+      "latitude": 53.3213469,
+      "longitude": -6.3933861,
+      "osm_ids": [
+        "node/1811909362"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1811909824",
+      "name": "The Laurels",
+      "latitude": 53.3209592,
+      "longitude": -6.3929596,
+      "osm_ids": [
+        "node/1811909824"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1811909881",
+      "name": "The Purty Central",
+      "latitude": 53.3211955,
+      "longitude": -6.3932185,
+      "osm_ids": [
+        "node/1811909881"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/1811909944",
+      "name": "The Steering Wheel",
+      "latitude": 53.3207853,
+      "longitude": -6.3941733,
+      "osm_ids": [
+        "node/1811909944"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2004412421",
+      "name": "The Elphin",
+      "latitude": 53.3893347,
+      "longitude": -6.1236878,
+      "osm_ids": [
+        "node/2004412421"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2004412428",
+      "name": "The Halfway House",
+      "latitude": 53.3238179,
+      "longitude": -6.328425,
+      "osm_ids": [
+        "node/2004412428"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2004488756",
+      "name": "Marble Arch",
+      "latitude": 53.3359111,
+      "longitude": -6.3120401,
+      "osm_ids": [
+        "node/2004488756"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2004491253",
+      "name": "The Hub (The Shaw Arms)",
+      "latitude": 53.3206892,
+      "longitude": -6.3162604,
+      "osm_ids": [
+        "node/2004491253"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2004657419",
+      "name": "The Legal Eagle",
+      "latitude": 53.3458363,
+      "longitude": -6.2721543,
+      "osm_ids": [
+        "node/2004657419"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2065157408",
+      "name": "The Green Room",
+      "latitude": 53.3498005,
+      "longitude": -6.2299289,
+      "osm_ids": [
+        "node/2065157408"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2065167226",
+      "name": "Seabank House",
+      "latitude": 53.3548879,
+      "longitude": -6.2291889,
+      "osm_ids": [
+        "node/2065167226"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2065197334",
+      "name": "The Stone Boat",
+      "latitude": 53.3206435,
+      "longitude": -6.2921726,
+      "osm_ids": [
+        "node/2065197334"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2065207024",
+      "name": "K.C.R. House",
+      "latitude": 53.3141966,
+      "longitude": -6.2964378,
+      "osm_ids": [
+        "node/2065207024"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2066250086",
+      "name": "The Old County",
+      "latitude": 53.3273937,
+      "longitude": -6.3060022,
+      "osm_ids": [
+        "node/2066250086"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2071381884",
+      "name": "The Strand House",
+      "latitude": 53.3550033,
+      "longitude": -6.2460175,
+      "osm_ids": [
+        "node/2071381884"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2071381885",
+      "name": "Mullet’s",
+      "latitude": 53.3525793,
+      "longitude": -6.2493006,
+      "osm_ids": [
+        "node/2071381885"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2080832424",
+      "name": "Blackbanks Bar & Grill",
+      "latitude": 53.3859746,
+      "longitude": -6.1555082,
+      "osm_ids": [
+        "node/2080832424"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2131267850",
+      "name": "Cumiskey’s",
+      "latitude": 53.3543418,
+      "longitude": -6.2720059,
+      "osm_ids": [
+        "node/2131267850"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2131267852",
+      "name": "The Berkeley",
+      "latitude": 53.3561569,
+      "longitude": -6.2678426,
+      "osm_ids": [
+        "node/2131267852"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2176085502",
+      "name": "Muldowney’s",
+      "latitude": 53.2818989,
+      "longitude": -6.4660302,
+      "osm_ids": [
+        "node/2176085502"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2349855098",
+      "name": "Darkey Kelly’s",
+      "latitude": 53.3439563,
+      "longitude": -6.2699696,
+      "osm_ids": [
+        "node/2349855098"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2372306728",
+      "name": "Glynn’s",
+      "latitude": 53.3555164,
+      "longitude": -6.2659646,
+      "osm_ids": [
+        "node/2372306728"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2372309923",
+      "name": "Delahunty's",
+      "latitude": 53.3556298,
+      "longitude": -6.2658025,
+      "osm_ids": [
+        "node/2372309923"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2386542318",
+      "name": "Peadar Kearney's",
+      "latitude": 53.3442729,
+      "longitude": -6.265415,
+      "osm_ids": [
+        "node/2386542318"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2419698552",
+      "name": "Busker's Bar",
+      "latitude": 53.345838,
+      "longitude": -6.2604831,
+      "osm_ids": [
+        "node/2419698552"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2435852904",
+      "name": "Conway’s",
+      "latitude": 53.3017544,
+      "longitude": -6.1781923,
+      "osm_ids": [
+        "node/2435852904"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2457893964",
+      "name": "The Club",
+      "latitude": 53.2773116,
+      "longitude": -6.1025984,
+      "osm_ids": [
+        "node/2457893964"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2625914025",
+      "name": "The Leopardstown Inn",
+      "latitude": 53.2792395,
+      "longitude": -6.1967897,
+      "osm_ids": [
+        "node/2625914025"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2681367476",
+      "name": "The Blarney Inn",
+      "latitude": 53.3421258,
+      "longitude": -6.2548307,
+      "osm_ids": [
+        "node/2681367476"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2689455361",
+      "name": "The Laurence Lounge",
+      "latitude": 53.3430467,
+      "longitude": -6.3380322,
+      "osm_ids": [
+        "node/2689455361"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2697063080",
+      "name": "Downey's",
+      "latitude": 53.3423356,
+      "longitude": -6.3571492,
+      "osm_ids": [
+        "node/2697063080"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2859655009",
+      "name": "O’Neill’s",
+      "latitude": 53.3438336,
+      "longitude": -6.260743,
+      "osm_ids": [
+        "node/2859655009"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2860454401",
+      "name": "Molloy’s",
+      "latitude": 53.3511395,
+      "longitude": -6.2513336,
+      "osm_ids": [
+        "node/2860454401"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2885369320",
+      "name": "Grace’s",
+      "latitude": 53.3218142,
+      "longitude": -6.2664357,
+      "osm_ids": [
+        "node/2885369320"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2893532903",
+      "name": "Cleary's",
+      "latitude": 53.3416481,
+      "longitude": -6.3213608,
+      "osm_ids": [
+        "node/2893532903"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/2995285120",
+      "name": "The Horse Shoe",
+      "latitude": 53.3200915,
+      "longitude": -6.3161146,
+      "osm_ids": [
+        "node/2995285120"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3005899379",
+      "name": "Peggy Kelly’s",
+      "latitude": 53.3237548,
+      "longitude": -6.278506,
+      "osm_ids": [
+        "node/3005899379"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3028480445",
+      "name": "Arthur Mayne’s",
+      "latitude": 53.3216783,
+      "longitude": -6.2352699,
+      "osm_ids": [
+        "node/3028480445"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3040092718",
+      "name": "Rody Boland’s",
+      "latitude": 53.3211247,
+      "longitude": -6.2654634,
+      "osm_ids": [
+        "node/3040092718"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3040139014",
+      "name": "Mother Reilly’s Bar & Restaurant",
+      "latitude": 53.3207806,
+      "longitude": -6.2651459,
+      "osm_ids": [
+        "node/3040139014"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3124957096",
+      "name": "Kenny’s",
+      "latitude": 53.3424332,
+      "longitude": -6.2944638,
+      "osm_ids": [
+        "node/3124957096"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3139297357",
+      "name": "Annie May’s",
+      "latitude": 53.2997095,
+      "longitude": -6.5009707,
+      "osm_ids": [
+        "node/3139297357"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3158435067",
+      "name": "Cú Chulainn's at Croke Park",
+      "latitude": 53.3563652,
+      "longitude": -6.2507754,
+      "osm_ids": [
+        "node/3158435067"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3219472687",
+      "name": "Hartstown House",
+      "latitude": 53.3926692,
+      "longitude": -6.4197547,
+      "osm_ids": [
+        "node/3219472687"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3470507586",
+      "name": "Mulligan and Haines",
+      "latitude": 53.3440757,
+      "longitude": -6.2634747,
+      "osm_ids": [
+        "node/3470507586"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3567190069",
+      "name": "Camden Exchange",
+      "latitude": 53.3351088,
+      "longitude": -6.2654328,
+      "osm_ids": [
+        "node/3567190069"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3571512403",
+      "name": "The Forty Four Bar",
+      "latitude": 53.4575968,
+      "longitude": -6.2210221,
+      "osm_ids": [
+        "node/3571512403"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3705003678",
+      "name": "The Willows",
+      "latitude": 53.2842099,
+      "longitude": -6.2508159,
+      "osm_ids": [
+        "node/3705003678"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3718522031",
+      "name": "The Roselawn Inn",
+      "latitude": 53.3837011,
+      "longitude": -6.38172,
+      "osm_ids": [
+        "node/3718522031"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3834934497",
+      "name": "The Carlisle Bar",
+      "latitude": 53.2920491,
+      "longitude": -6.1303773,
+      "osm_ids": [
+        "node/3834934497"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3909986251",
+      "name": "The Lough Inn",
+      "latitude": 53.2466751,
+      "longitude": -6.1288763,
+      "osm_ids": [
+        "node/3909986251"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/3939811610",
+      "name": "M O'Loughlin",
+      "latitude": 53.2939394,
+      "longitude": -6.1400615,
+      "osm_ids": [
+        "node/3939811610"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4336908151",
+      "name": "The Coach Inn",
+      "latitude": 53.2094649,
+      "longitude": -6.1156235,
+      "osm_ids": [
+        "node/4336908151"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4337347089",
+      "name": "Dicey’s Garden",
+      "latitude": 53.3359091,
+      "longitude": -6.2635598,
+      "osm_ids": [
+        "node/4337347089"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4337941791",
+      "name": "Leggs pub",
+      "latitude": 53.3341764,
+      "longitude": -6.254773,
+      "osm_ids": [
+        "node/4337941791"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4511368747",
+      "name": "An Cosán",
+      "latitude": 53.2788418,
+      "longitude": -6.4010508,
+      "osm_ids": [
+        "node/4511368747"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4770224022",
+      "name": "Robert Reade Bar and Cafe",
+      "latitude": 53.3513605,
+      "longitude": -6.2513919,
+      "osm_ids": [
+        "node/4770224022"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4799036110",
+      "name": "The Bridge 1859",
+      "latitude": 53.3292911,
+      "longitude": -6.2320003,
+      "osm_ids": [
+        "node/4799036110"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4804586774",
+      "name": "D’Arcy McGee’s",
+      "latitude": 53.2934407,
+      "longitude": -6.3236249,
+      "osm_ids": [
+        "node/4804586774"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4913827407",
+      "name": "Cherry Tree Pub and Restaurant",
+      "latitude": 53.3164631,
+      "longitude": -6.3327284,
+      "osm_ids": [
+        "node/4913827407"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/4952552579",
+      "name": "Angler’s Rest",
+      "latitude": 53.3591428,
+      "longitude": -6.3587854,
+      "osm_ids": [
+        "node/4952552579"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5044959521",
+      "name": "Open Gate Brewery",
+      "latitude": 53.3432314,
+      "longitude": -6.2869606,
+      "osm_ids": [
+        "node/5044959521"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5073432440",
+      "name": "Urban Brewing",
+      "latitude": 53.3491172,
+      "longitude": -6.2480644,
+      "osm_ids": [
+        "node/5073432440"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5142751224",
+      "name": "Churchtown Stores",
+      "latitude": 53.2957712,
+      "longitude": -6.2603223,
+      "osm_ids": [
+        "node/5142751224"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5301569915",
+      "name": "Fibber Magee’s",
+      "latitude": 53.3528545,
+      "longitude": -6.2605121,
+      "osm_ids": [
+        "node/5301569915"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5673840263",
+      "name": "Bob’s",
+      "latitude": 53.3563012,
+      "longitude": -6.4500685,
+      "osm_ids": [
+        "node/5673840263"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5787220032",
+      "name": "Alfred's",
+      "latitude": 53.342004,
+      "longitude": -6.2866892,
+      "osm_ids": [
+        "node/5787220032"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/5866396179",
+      "name": "The Fourth Corner",
+      "latitude": 53.3389208,
+      "longitude": -6.2722998,
+      "osm_ids": [
+        "node/5866396179"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/6245890989",
+      "name": "Mary’s Bar & Hardware Shop",
+      "latitude": 53.3428631,
+      "longitude": -6.2603751,
+      "osm_ids": [
+        "node/6245890989"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/6313378889",
+      "name": "Crough's Pub",
+      "latitude": 53.2867241,
+      "longitude": -6.3898849,
+      "osm_ids": [
+        "node/6313378889"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/6344025089",
+      "name": "Cú Chulainn's",
+      "latitude": 53.3959848,
+      "longitude": -6.4400019,
+      "osm_ids": [
+        "node/6344025089"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/6969068085",
+      "name": "P. Duggan’s",
+      "latitude": 53.3481815,
+      "longitude": -6.2932243,
+      "osm_ids": [
+        "node/6969068085"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/7017217477",
+      "name": "The Big Romance",
+      "latitude": 53.3534835,
+      "longitude": -6.2592195,
+      "osm_ids": [
+        "node/7017217477"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/7659422639",
+      "name": "The Library Bar",
+      "latitude": 53.2920486,
+      "longitude": -6.1302061,
+      "osm_ids": [
+        "node/7659422639"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9122380611",
+      "name": "The Bottle Boy",
+      "latitude": 53.3471813,
+      "longitude": -6.2325515,
+      "osm_ids": [
+        "node/9122380611"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9161175040",
+      "name": "Molloy’s Bar & Grill",
+      "latitude": 53.2876286,
+      "longitude": -6.359426,
+      "osm_ids": [
+        "node/9161175040"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9202222409",
+      "name": "The Big Tree",
+      "latitude": 53.3598337,
+      "longitude": -6.2608887,
+      "osm_ids": [
+        "node/9202222409"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9264108045",
+      "name": "Dockers",
+      "latitude": 53.3464282,
+      "longitude": -6.2456211,
+      "osm_ids": [
+        "node/9264108045"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9322108900",
+      "name": "Rascals HQ",
+      "latitude": 53.3359672,
+      "longitude": -6.3240536,
+      "osm_ids": [
+        "node/9322108900"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9334710259",
+      "name": "Open Gate Taproom",
+      "latitude": 53.3432175,
+      "longitude": -6.2870532,
+      "osm_ids": [
+        "node/9334710259"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9352848206",
+      "name": "Raheny United Clubhouse Bar",
+      "latitude": 53.378369,
+      "longitude": -6.1791168,
+      "osm_ids": [
+        "node/9352848206"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/9518890001",
+      "name": "The White House",
+      "latitude": 53.3979933,
+      "longitude": -6.1271007,
+      "osm_ids": [
+        "node/9518890001"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10004624748",
+      "name": "Tenters",
+      "latitude": 53.3371927,
+      "longitude": -6.2752551,
+      "osm_ids": [
+        "node/10004624748"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10013398691",
+      "name": "The Brazen Head",
+      "latitude": 53.3449368,
+      "longitude": -6.2763108,
+      "osm_ids": [
+        "node/10013398691"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10016178636",
+      "name": "Kennedy's",
+      "latitude": 53.3421535,
+      "longitude": -6.2507516,
+      "osm_ids": [
+        "node/10016178636"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10078115749",
+      "name": "Keavan's Port",
+      "latitude": 53.3334693,
+      "longitude": -6.2651754,
+      "osm_ids": [
+        "node/10078115749"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10136276602",
+      "name": "The Yacht",
+      "latitude": 53.3420529,
+      "longitude": -6.2274854,
+      "osm_ids": [
+        "node/10136276602"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10275525043",
+      "name": "Thomas Clarke’s",
+      "latitude": 53.3525394,
+      "longitude": -6.2611108,
+      "osm_ids": [
+        "node/10275525043"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10568217814",
+      "name": "M. O’Brien",
+      "latitude": 53.331314,
+      "longitude": -6.2516295,
+      "osm_ids": [
+        "node/10568217814"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/10994405522",
+      "name": "Molly's",
+      "latitude": 53.3406332,
+      "longitude": -6.2744931,
+      "osm_ids": [
+        "node/10994405522"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/11027856209",
+      "name": "Forrest Little Golf Club Bar",
+      "latitude": 53.4394296,
+      "longitude": -6.2496872,
+      "osm_ids": [
+        "node/11027856209"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/11572594365",
+      "name": "Pye",
+      "latitude": 53.289046,
+      "longitude": -6.243152,
+      "osm_ids": [
+        "node/11572594365"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/11621600199",
+      "name": "Tailor's Hall Tavern",
+      "latitude": 53.3429288,
+      "longitude": -6.2732298,
+      "osm_ids": [
+        "node/11621600199"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/11975728519",
+      "name": "Mill House",
+      "latitude": 53.288397,
+      "longitude": -6.2046435,
+      "osm_ids": [
+        "node/11975728519"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/11975728522",
+      "name": "Bolands",
+      "latitude": 53.2887722,
+      "longitude": -6.198286,
+      "osm_ids": [
+        "node/11975728522"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12165523255",
+      "name": "Ned O'Shea's",
+      "latitude": 53.3448912,
+      "longitude": -6.2759004,
+      "osm_ids": [
+        "node/12165523255"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12167965955",
+      "name": "Harty's bar",
+      "latitude": 53.3430247,
+      "longitude": -6.2588249,
+      "osm_ids": [
+        "node/12167965955"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12543374557",
+      "name": "T. Humphrey’s",
+      "latitude": 53.3241037,
+      "longitude": -6.2522877,
+      "osm_ids": [
+        "node/12543374557"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12543374558",
+      "name": "Smyth’s",
+      "latitude": 53.324124,
+      "longitude": -6.252349,
+      "osm_ids": [
+        "node/12543374558"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12691947431",
+      "name": "Cooper’s Corner",
+      "latitude": 53.342514,
+      "longitude": -6.2966716,
+      "osm_ids": [
+        "node/12691947431"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12920142701",
+      "name": "The Morris Bar",
+      "latitude": 53.3507243,
+      "longitude": -6.2553477,
+      "osm_ids": [
+        "node/12920142701"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/12968907045",
+      "name": "The Leopardstown Inn",
+      "latitude": 53.2793169,
+      "longitude": -6.1969315,
+      "osm_ids": [
+        "node/12968907045"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/13103448936",
+      "name": "Quinn's",
+      "latitude": 53.3635433,
+      "longitude": -6.258056,
+      "osm_ids": [
+        "node/13103448936"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/13910959935",
+      "name": "Pronto: Pizza & Pasta",
+      "latitude": 53.3448291,
+      "longitude": -6.2521083,
+      "osm_ids": [
+        "node/13910959935"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/14040039662",
+      "name": "Tucker Reilly's",
+      "latitude": 53.3351389,
+      "longitude": -6.265443,
+      "osm_ids": [
+        "node/14040039662"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/14040175489",
+      "name": "The Voyager Bar & Restaurant Dublin",
+      "latitude": 53.3440311,
+      "longitude": -6.2632262,
+      "osm_ids": [
+        "node/14040175489"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/14129789961",
+      "name": "The Sallynoggin Inn",
+      "latitude": 53.2769722,
+      "longitude": -6.1433942,
+      "osm_ids": [
+        "node/14129789961"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "node/14183862401",
+      "name": "O'Regan's",
+      "latitude": 53.3421642,
+      "longitude": -6.2644577,
+      "osm_ids": [
+        "node/14183862401"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/23577264",
+      "name": "The Sarah Curran",
+      "latitude": 53.29889265,
+      "longitude": -6.286353598692357,
+      "osm_ids": [
+        "way/23577264"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/25690893",
+      "name": "Speaker Conolly",
+      "latitude": 53.28192595,
+      "longitude": -6.341031580913064,
+      "osm_ids": [
+        "way/25690893"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/27823980",
+      "name": "Salmon's",
+      "latitude": 53.39061995,
+      "longitude": -6.406174797579858,
+      "osm_ids": [
+        "way/27823980"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/29291801",
+      "name": "The Merry Ploughboy",
+      "latitude": 53.264193750000004,
+      "longitude": -6.296915673700159,
+      "osm_ids": [
+        "way/29291801"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/31799202",
+      "name": "The Bell",
+      "latitude": 53.3847397,
+      "longitude": -6.371582256973021,
+      "osm_ids": [
+        "way/31799202"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/32674130",
+      "name": "Aherne's",
+      "latitude": 53.277918400000004,
+      "longitude": -6.358285105752213,
+      "osm_ids": [
+        "way/32674130"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/33516835",
+      "name": "The Salmon Leap Inn",
+      "latitude": 53.36251565,
+      "longitude": -6.486218187858108,
+      "osm_ids": [
+        "way/33516835"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/33911481",
+      "name": "The Balgriffin Inn",
+      "latitude": 53.4089274,
+      "longitude": -6.178505866800791,
+      "osm_ids": [
+        "way/33911481"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/42419325",
+      "name": "The Racecourse Inn",
+      "latitude": 53.39671075,
+      "longitude": -6.137050256609467,
+      "osm_ids": [
+        "way/42419325"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/42422825",
+      "name": "Newtown House",
+      "latitude": 53.39652465,
+      "longitude": -6.188875759086761,
+      "osm_ids": [
+        "way/42422825"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/47936694",
+      "name": "Harry Byrne’s",
+      "latitude": 53.36698965,
+      "longitude": -6.216421413566243,
+      "osm_ids": [
+        "way/47936694"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/49519842",
+      "name": "Coachmans Inn",
+      "latitude": 53.4324287,
+      "longitude": -6.229169887138927,
+      "osm_ids": [
+        "way/49519842"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/49612559",
+      "name": "Kealy’s",
+      "latitude": 53.4250159,
+      "longitude": -6.229967882443941,
+      "osm_ids": [
+        "way/49612559"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/50216895",
+      "name": "The Old Borough",
+      "latitude": 53.456495399999994,
+      "longitude": -6.222238319433215,
+      "osm_ids": [
+        "way/50216895"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/50810725",
+      "name": "The Brookwood Inn",
+      "latitude": 53.39954575,
+      "longitude": -6.374733149999997,
+      "osm_ids": [
+        "way/50810725"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/50823150",
+      "name": "The Great Wood",
+      "latitude": 53.389226199999996,
+      "longitude": -6.388840486451704,
+      "osm_ids": [
+        "way/50823150"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/50899754",
+      "name": "The Carpenter",
+      "latitude": 53.3719421,
+      "longitude": -6.389194574644364,
+      "osm_ids": [
+        "way/50899754"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/50903382",
+      "name": "Johnnie Fox’s",
+      "latitude": 53.2217513,
+      "longitude": -6.219187107960538,
+      "osm_ids": [
+        "way/50903382"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/52304330",
+      "name": "The Bernard Shaw",
+      "latitude": 53.3647,
+      "longitude": -6.271361160670732,
+      "osm_ids": [
+        "way/52304330"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/57680624",
+      "name": "The Brook",
+      "latitude": 53.49481385,
+      "longitude": -6.1106454521181055,
+      "osm_ids": [
+        "way/57680624"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/57706557",
+      "name": "The Pennyblack",
+      "latitude": 53.29589885,
+      "longitude": -6.3413334655010605,
+      "osm_ids": [
+        "way/57706557"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/58647449",
+      "name": "Goggins",
+      "latitude": 53.2935852,
+      "longitude": -6.154581162321316,
+      "osm_ids": [
+        "way/58647449"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/58692970",
+      "name": "The Yacht Tavern",
+      "latitude": 53.29463925,
+      "longitude": -6.13922520434369,
+      "osm_ids": [
+        "way/58692970"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/58693011",
+      "name": "Dunphy’s",
+      "latitude": 53.293196449999996,
+      "longitude": -6.13882169850411,
+      "osm_ids": [
+        "way/58693011"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/59546680",
+      "name": "Buck Mulligan's",
+      "latitude": 53.2947879,
+      "longitude": -6.141559234447081,
+      "osm_ids": [
+        "way/59546680"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/62047299",
+      "name": "The White House",
+      "latitude": 53.4404462,
+      "longitude": -6.3377060020246585,
+      "osm_ids": [
+        "way/62047299"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/73924185",
+      "name": "The Paddocks",
+      "latitude": 53.4041214,
+      "longitude": -6.426203372119344,
+      "osm_ids": [
+        "way/73924185"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/79686684",
+      "name": "Taylor's Three Rock",
+      "latitude": 53.26836985,
+      "longitude": -6.262027978282376,
+      "osm_ids": [
+        "way/79686684"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/80567253",
+      "name": "The Church",
+      "latitude": 53.3485803,
+      "longitude": -6.266917427375566,
+      "osm_ids": [
+        "way/80567253"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/80580032",
+      "name": "The 51",
+      "latitude": 53.33460695,
+      "longitude": -6.242356786511694,
+      "osm_ids": [
+        "way/80580032"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/82213108",
+      "name": "Clonsilla Inn",
+      "latitude": 53.38237985,
+      "longitude": -6.40783100499712,
+      "osm_ids": [
+        "way/82213108"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/82482459",
+      "name": "Delany's",
+      "latitude": 53.286925499999995,
+      "longitude": -6.328027112942476,
+      "osm_ids": [
+        "way/82482459"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/83614077",
+      "name": "The Blue Light",
+      "latitude": 53.254638850000006,
+      "longitude": -6.231364200000003,
+      "osm_ids": [
+        "way/83614077"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/84017579",
+      "name": "Ryan’s Beggar’s Bush",
+      "latitude": 53.3363054,
+      "longitude": -6.236713892802206,
+      "osm_ids": [
+        "way/84017579"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/84018113",
+      "name": "The Waterloo",
+      "latitude": 53.33343505,
+      "longitude": -6.243161886181879,
+      "osm_ids": [
+        "way/84018113"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/84018119",
+      "name": "Searsons",
+      "latitude": 53.33332775,
+      "longitude": -6.242901208326091,
+      "osm_ids": [
+        "way/84018119"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/85389367",
+      "name": "Dundrum House",
+      "latitude": 53.28939845,
+      "longitude": -6.243310052922756,
+      "osm_ids": [
+        "way/85389367"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/90611807",
+      "name": "O'Dywers",
+      "latitude": 53.2885743,
+      "longitude": -6.215899906841415,
+      "osm_ids": [
+        "way/90611807"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/96196917",
+      "name": "The Bath",
+      "latitude": 53.3374739,
+      "longitude": -6.232160246477893,
+      "osm_ids": [
+        "way/96196917"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/96255051",
+      "name": "Slattery’s",
+      "latitude": 53.3373242,
+      "longitude": -6.2342543611964345,
+      "osm_ids": [
+        "way/96255051"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/96255067",
+      "name": "The Cow",
+      "latitude": 53.3370338,
+      "longitude": -6.2340529306772625,
+      "osm_ids": [
+        "way/96255067"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/100689637",
+      "name": "The Blue Haven",
+      "latitude": 53.293539550000006,
+      "longitude": -6.308377456783683,
+      "osm_ids": [
+        "way/100689637"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/102694943",
+      "name": "The Ferryman",
+      "latitude": 53.34600795,
+      "longitude": -6.240701522935703,
+      "osm_ids": [
+        "way/102694943"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/104268909",
+      "name": "The Step Inn",
+      "latitude": 53.25309335,
+      "longitude": -6.2140536110693665,
+      "osm_ids": [
+        "way/104268909"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/105915585",
+      "name": "The Bottler’s Bank",
+      "latitude": 53.312057100000004,
+      "longitude": -6.274966845825331,
+      "osm_ids": [
+        "way/105915585"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/106056173",
+      "name": "The Dropping Well",
+      "latitude": 53.3080726,
+      "longitude": -6.254878240935572,
+      "osm_ids": [
+        "way/106056173"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/109246484",
+      "name": "Bar Eile",
+      "latitude": 53.33385605,
+      "longitude": -6.245295975262859,
+      "osm_ids": [
+        "way/109246484"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/109370672",
+      "name": "Smyth’s",
+      "latitude": 53.3348239,
+      "longitude": -6.243505852241892,
+      "osm_ids": [
+        "way/109370672"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/110901730",
+      "name": "Sandyford House",
+      "latitude": 53.2696702,
+      "longitude": -6.225067086962335,
+      "osm_ids": [
+        "way/110901730"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/110954570",
+      "name": "The Goat Grill",
+      "latitude": 53.2925827,
+      "longitude": -6.230022736269611,
+      "osm_ids": [
+        "way/110954570"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/111184730",
+      "name": "Becky Morgan's",
+      "latitude": 53.339689899999996,
+      "longitude": -6.2420916026572435,
+      "osm_ids": [
+        "way/111184730"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/115086421",
+      "name": "The Gasworks",
+      "latitude": 53.3380079,
+      "longitude": -6.237479589595201,
+      "osm_ids": [
+        "way/115086421"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/115772293",
+      "name": "Farmer Brown’s",
+      "latitude": 53.31416325,
+      "longitude": -6.238776492892747,
+      "osm_ids": [
+        "way/115772293"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/116716323",
+      "name": "The Glenside",
+      "latitude": 53.2997267,
+      "longitude": -6.26801243491423,
+      "osm_ids": [
+        "way/116716323"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/121745854",
+      "name": "The Gables",
+      "latitude": 53.267042149999995,
+      "longitude": -6.184304118496234,
+      "osm_ids": [
+        "way/121745854"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/127529552",
+      "name": "Finnegan’s",
+      "latitude": 53.27650765,
+      "longitude": -6.103011240446955,
+      "osm_ids": [
+        "way/127529552"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/127544001",
+      "name": "Horse and Hound",
+      "latitude": 53.26095875,
+      "longitude": -6.150139407260845,
+      "osm_ids": [
+        "way/127544001"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/128942373",
+      "name": "John Kavanagh’s \"The Gravediggers\"",
+      "latitude": 53.3696571,
+      "longitude": -6.271929832542856,
+      "osm_ids": [
+        "way/128942373"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/128974701",
+      "name": "Jobstown House",
+      "latitude": 53.2776841,
+      "longitude": -6.396784056707853,
+      "osm_ids": [
+        "way/128974701"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/129744241",
+      "name": "Blue Gardenia",
+      "latitude": 53.23687345,
+      "longitude": -6.45477505,
+      "osm_ids": [
+        "way/129744241"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/129750566",
+      "name": "Flood’s",
+      "latitude": 53.32448085,
+      "longitude": -6.296358872210302,
+      "osm_ids": [
+        "way/129750566"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/129750575",
+      "name": "The Bottle Tower",
+      "latitude": 53.29498685,
+      "longitude": -6.25685904467681,
+      "osm_ids": [
+        "way/129750575"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/129774681",
+      "name": "The Patriot’s Inn",
+      "latitude": 53.3416717,
+      "longitude": -6.307562962600471,
+      "osm_ids": [
+        "way/129774681"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/129924270",
+      "name": "Artane House",
+      "latitude": 53.38443945,
+      "longitude": -6.21435974472451,
+      "osm_ids": [
+        "way/129924270"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/130774599",
+      "name": "Hedigan's - The Brian Boru",
+      "latitude": 53.3652103,
+      "longitude": -6.272176269169698,
+      "osm_ids": [
+        "way/130774599"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/138138405",
+      "name": "The Grange",
+      "latitude": 53.2787906,
+      "longitude": -6.163607350556523,
+      "osm_ids": [
+        "way/138138405"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/154508544",
+      "name": "Ryan’s",
+      "latitude": 53.336333550000006,
+      "longitude": -6.265963844497857,
+      "osm_ids": [
+        "way/154508544"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/154508547",
+      "name": "Whelan’s",
+      "latitude": 53.33656980000001,
+      "longitude": -6.265872447336067,
+      "osm_ids": [
+        "way/154508547"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/154518581",
+      "name": "Devitt’s",
+      "latitude": 53.335550999999995,
+      "longitude": -6.265552823348411,
+      "osm_ids": [
+        "way/154518581"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/175757862",
+      "name": "The Eden House",
+      "latitude": 53.2811669,
+      "longitude": -6.275729858741258,
+      "osm_ids": [
+        "way/175757862"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/183239723",
+      "name": "The Bayside Inn",
+      "latitude": 53.3888801,
+      "longitude": -6.141134589536598,
+      "osm_ids": [
+        "way/183239723"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/227764081",
+      "name": "Fitzgerald's",
+      "latitude": 53.34663245,
+      "longitude": -6.259643236130024,
+      "osm_ids": [
+        "way/227764081"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/227766040",
+      "name": "O’Connell’s",
+      "latitude": 53.3474457,
+      "longitude": -6.260285040239655,
+      "osm_ids": [
+        "way/227766040"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228009652",
+      "name": "The Old Schoolhouse",
+      "latitude": 53.4567391,
+      "longitude": -6.222741882869251,
+      "osm_ids": [
+        "way/228009652"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228009671",
+      "name": "The Cock Tavern",
+      "latitude": 53.457810499999994,
+      "longitude": -6.220179688034587,
+      "osm_ids": [
+        "way/228009671"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228050462",
+      "name": "The Estuary",
+      "latitude": 53.4631086,
+      "longitude": -6.218380853845492,
+      "osm_ids": [
+        "way/228050462"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228050469",
+      "name": "The Pound & The Attic",
+      "latitude": 53.4594114,
+      "longitude": -6.220706595717727,
+      "osm_ids": [
+        "way/228050469"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228284413",
+      "name": "The Workshop",
+      "latitude": 53.3473194,
+      "longitude": -6.254783248781779,
+      "osm_ids": [
+        "way/228284413"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228284414",
+      "name": "Mulligan's",
+      "latitude": 53.34695935,
+      "longitude": -6.255554785362806,
+      "osm_ids": [
+        "way/228284414"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228286745",
+      "name": "Chaplin’s",
+      "latitude": 53.34620925,
+      "longitude": -6.2571850002331235,
+      "osm_ids": [
+        "way/228286745"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228287775",
+      "name": "Cassidy's",
+      "latitude": 53.34636055,
+      "longitude": -6.258736776953819,
+      "osm_ids": [
+        "way/228287775"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228290004",
+      "name": "Bowe’s",
+      "latitude": 53.34582455,
+      "longitude": -6.257889330372699,
+      "osm_ids": [
+        "way/228290004"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228762046",
+      "name": "Jack Nealon",
+      "latitude": 53.3463834,
+      "longitude": -6.268193003574613,
+      "osm_ids": [
+        "way/228762046"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228968680",
+      "name": "The Stag's Head",
+      "latitude": 53.343833200000006,
+      "longitude": -6.2635190674904955,
+      "osm_ids": [
+        "way/228968680"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/228968686",
+      "name": "4 Dame Lane",
+      "latitude": 53.343762850000005,
+      "longitude": -6.262858755337691,
+      "osm_ids": [
+        "way/228968686"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/229061161",
+      "name": "J. McNeill",
+      "latitude": 53.3477633,
+      "longitude": -6.268754239098099,
+      "osm_ids": [
+        "way/229061161"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/229061164",
+      "name": "Slattery’s",
+      "latitude": 53.348274950000004,
+      "longitude": -6.2689335638307675,
+      "osm_ids": [
+        "way/229061164"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/229061165",
+      "name": "The Boar’s Head",
+      "latitude": 53.347373700000006,
+      "longitude": -6.2685992000000015,
+      "osm_ids": [
+        "way/229061165"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/229316784",
+      "name": "J. Grogan's",
+      "latitude": 53.3422403,
+      "longitude": -6.2627051,
+      "osm_ids": [
+        "way/229316784"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/229376152",
+      "name": "Arthur’s",
+      "latitude": 53.34312645,
+      "longitude": -6.281701944058145,
+      "osm_ids": [
+        "way/229376152"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/229456566",
+      "name": "Dudley’s",
+      "latitude": 53.3426549,
+      "longitude": -6.278944755757153,
+      "osm_ids": [
+        "way/229456566"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230101445",
+      "name": "Lundy Foot’s",
+      "latitude": 53.34490905,
+      "longitude": -6.267948570892353,
+      "osm_ids": [
+        "way/230101445"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230134472",
+      "name": "Thomas Reads",
+      "latitude": 53.3442955,
+      "longitude": -6.26711175360469,
+      "osm_ids": [
+        "way/230134472"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230357177",
+      "name": "Peter's Pub",
+      "latitude": 53.3408989,
+      "longitude": -6.263215539518926,
+      "osm_ids": [
+        "way/230357177"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230566047",
+      "name": "Neary’s Bar & Lounge",
+      "latitude": 53.34069665,
+      "longitude": -6.261142400018377,
+      "osm_ids": [
+        "way/230566047"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230567953",
+      "name": "Bar Rua",
+      "latitude": 53.34110055,
+      "longitude": -6.2624458287842195,
+      "osm_ids": [
+        "way/230567953"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230567954",
+      "name": "Sheehan’s",
+      "latitude": 53.340974700000004,
+      "longitude": -6.261766343893127,
+      "osm_ids": [
+        "way/230567954"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230613179",
+      "name": "Kehoe’s Pub",
+      "latitude": 53.341216599999996,
+      "longitude": -6.259448714831082,
+      "osm_ids": [
+        "way/230613179"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/230948516",
+      "name": "The Yacht",
+      "latitude": 53.361765,
+      "longitude": -6.215135073975913,
+      "osm_ids": [
+        "way/230948516"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/231199022",
+      "name": "JL O'Neill",
+      "latitude": 53.338324799999995,
+      "longitude": -6.253771617777359,
+      "osm_ids": [
+        "way/231199022"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/231265715",
+      "name": "Lincoln’s Inn",
+      "latitude": 53.3420142,
+      "longitude": -6.252525323313458,
+      "osm_ids": [
+        "way/231265715"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233243884",
+      "name": "McGrattan’s Café Bar",
+      "latitude": 53.33862005,
+      "longitude": -6.251170533900481,
+      "osm_ids": [
+        "way/233243884"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233507006",
+      "name": "Connolly’s",
+      "latitude": 53.3592236,
+      "longitude": -6.195495999602425,
+      "osm_ids": [
+        "way/233507006"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233516827",
+      "name": "The Silver Penny",
+      "latitude": 53.349143600000005,
+      "longitude": -6.2565441100702595,
+      "osm_ids": [
+        "way/233516827"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233666288",
+      "name": "T.P. Smith’s",
+      "latitude": 53.34747935,
+      "longitude": -6.265894719583333,
+      "osm_ids": [
+        "way/233666288"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233790935",
+      "name": "The Grand Central Bar",
+      "latitude": 53.3483224,
+      "longitude": -6.259195130627706,
+      "osm_ids": [
+        "way/233790935"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233801731",
+      "name": "The Wiley Fox",
+      "latitude": 53.3483376,
+      "longitude": -6.255963245682237,
+      "osm_ids": [
+        "way/233801731"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/233804973",
+      "name": "The Grand Social",
+      "latitude": 53.34682385,
+      "longitude": -6.263575555285714,
+      "osm_ids": [
+        "way/233804973"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/234082876",
+      "name": "Sally McLennane's",
+      "latitude": 53.33682795,
+      "longitude": -6.248675937854758,
+      "osm_ids": [
+        "way/234082876"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/237916664",
+      "name": "The King’s Inn",
+      "latitude": 53.2774246,
+      "longitude": -6.1049324515334025,
+      "osm_ids": [
+        "way/237916664"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/237947227",
+      "name": "The Dalkey Duck",
+      "latitude": 53.27783995,
+      "longitude": -6.107289035225415,
+      "osm_ids": [
+        "way/237947227"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/239198137",
+      "name": "Ashtons",
+      "latitude": 53.315923049999995,
+      "longitude": -6.237066118314863,
+      "osm_ids": [
+        "way/239198137"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/239628782",
+      "name": "The Yellow House",
+      "latitude": 53.296697300000005,
+      "longitude": -6.2849701542464365,
+      "osm_ids": [
+        "way/239628782"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/244989701",
+      "name": "O’Neill’s of Pearse Street",
+      "latitude": 53.3449128,
+      "longitude": -6.252394212390216,
+      "osm_ids": [
+        "way/244989701"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/244989703",
+      "name": "Moss Lane",
+      "latitude": 53.344853349999994,
+      "longitude": -6.252104413957974,
+      "osm_ids": [
+        "way/244989703"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/245124093",
+      "name": "The Flowing Tide",
+      "latitude": 53.34884315,
+      "longitude": -6.2578355184856145,
+      "osm_ids": [
+        "way/245124093"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/249212894",
+      "name": "James Toner",
+      "latitude": 53.3377292,
+      "longitude": -6.2524689352404135,
+      "osm_ids": [
+        "way/249212894"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/249263084",
+      "name": "Bruxelles",
+      "latitude": 53.3413724,
+      "longitude": -6.260844443178138,
+      "osm_ids": [
+        "way/249263084"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/249268180",
+      "name": "The Bankers",
+      "latitude": 53.34397105,
+      "longitude": -6.262493759757243,
+      "osm_ids": [
+        "way/249268180"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/250345931",
+      "name": "Matt the Thresher",
+      "latitude": 53.33697955,
+      "longitude": -6.2515838883103765,
+      "osm_ids": [
+        "way/250345931"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/250369416",
+      "name": "Dolly Heffernan's",
+      "latitude": 53.416359650000004,
+      "longitude": -6.357942278825357,
+      "osm_ids": [
+        "way/250369416"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/250501870",
+      "name": "W.Plunket",
+      "latitude": 53.347935899999996,
+      "longitude": -6.262466999999999,
+      "osm_ids": [
+        "way/250501870"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/250501876",
+      "name": "The Gin Palace",
+      "latitude": 53.34776415,
+      "longitude": -6.2634116998565705,
+      "osm_ids": [
+        "way/250501876"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/250504040",
+      "name": "The Oval",
+      "latitude": 53.348453,
+      "longitude": -6.26033921712313,
+      "osm_ids": [
+        "way/250504040"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/250755940",
+      "name": "P. McCormack and Sons",
+      "latitude": 53.28636145,
+      "longitude": -6.145759869297297,
+      "osm_ids": [
+        "way/250755940"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/251194993",
+      "name": "The Vat House",
+      "latitude": 53.3446503,
+      "longitude": -6.2619831525510214,
+      "osm_ids": [
+        "way/251194993"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/252713065",
+      "name": "The Auld Triangle",
+      "latitude": 53.35902815,
+      "longitude": -6.261584185377179,
+      "osm_ids": [
+        "way/252713065"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/252809417",
+      "name": "The Deer’s Head",
+      "latitude": 53.353385599999996,
+      "longitude": -6.260160399632062,
+      "osm_ids": [
+        "way/252809417"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/252812514",
+      "name": "Hophouse",
+      "latitude": 53.3530491,
+      "longitude": -6.260802089827194,
+      "osm_ids": [
+        "way/252812514"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/254319894",
+      "name": "The Harbourmaster Pub",
+      "latitude": 53.3499937,
+      "longitude": -6.24900515,
+      "osm_ids": [
+        "way/254319894"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/257772822",
+      "name": "The Ginger Man",
+      "latitude": 53.34189885,
+      "longitude": -6.249517201317097,
+      "osm_ids": [
+        "way/257772822"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/260307464",
+      "name": "The International Bar",
+      "latitude": 53.34312845,
+      "longitude": -6.261807497774788,
+      "osm_ids": [
+        "way/260307464"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/261269400",
+      "name": "O'Donoghue's",
+      "latitude": 53.3434465,
+      "longitude": -6.259684372020202,
+      "osm_ids": [
+        "way/261269400"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/261598465",
+      "name": "The Gate Bar",
+      "latitude": 53.32867145,
+      "longitude": -6.303320886006254,
+      "osm_ids": [
+        "way/261598465"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/262608239",
+      "name": "The Deputy Mayor",
+      "latitude": 53.40129125,
+      "longitude": -6.297308905439344,
+      "osm_ids": [
+        "way/262608239"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/263098036",
+      "name": "The Druid’s Chair",
+      "latitude": 53.2644594,
+      "longitude": -6.115334361603139,
+      "osm_ids": [
+        "way/263098036"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/263470974",
+      "name": "The Libertine",
+      "latitude": 53.332393100000004,
+      "longitude": -6.275482170131031,
+      "osm_ids": [
+        "way/263470974"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/264029838",
+      "name": "The 79 Inn",
+      "latitude": 53.342373949999995,
+      "longitude": -6.358901109351754,
+      "osm_ids": [
+        "way/264029838"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/264741791",
+      "name": "The Hairy Lemon",
+      "latitude": 53.3412707,
+      "longitude": -6.263829219916765,
+      "osm_ids": [
+        "way/264741791"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/266390284",
+      "name": "Hole in the Wall",
+      "latitude": 53.36608215,
+      "longitude": -6.323447161811375,
+      "osm_ids": [
+        "way/266390284"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/268687348",
+      "name": "The Pawn Shop",
+      "latitude": 53.34398515,
+      "longitude": -6.265265924878699,
+      "osm_ids": [
+        "way/268687348"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/269759932",
+      "name": "The Bailey",
+      "latitude": 53.34202435,
+      "longitude": -6.259437386822703,
+      "osm_ids": [
+        "way/269759932"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/269759933",
+      "name": "The Bailey",
+      "latitude": 53.3420179,
+      "longitude": -6.259352425953352,
+      "osm_ids": [
+        "way/269759933"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/270243789",
+      "name": "Kavanagh's of Castleknock",
+      "latitude": 53.37776715,
+      "longitude": -6.376562899999993,
+      "osm_ids": [
+        "way/270243789"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/270248783",
+      "name": "Greyhound Inn",
+      "latitude": 53.38677475,
+      "longitude": -6.377822203562941,
+      "osm_ids": [
+        "way/270248783"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/270805425",
+      "name": "The Brew Dock",
+      "latitude": 53.350136750000004,
+      "longitude": -6.251041974849093,
+      "osm_ids": [
+        "way/270805425"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/270968057",
+      "name": "Davy Byrne’s",
+      "latitude": 53.341842799999995,
+      "longitude": -6.259357890504985,
+      "osm_ids": [
+        "way/270968057"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/271055200",
+      "name": "The Palace Bar",
+      "latitude": 53.3458959,
+      "longitude": -6.259613359597156,
+      "osm_ids": [
+        "way/271055200"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/271450113",
+      "name": "Blackbird",
+      "latitude": 53.326857149999995,
+      "longitude": -6.26461203490375,
+      "osm_ids": [
+        "way/271450113"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/271989540",
+      "name": "Tapped",
+      "latitude": 53.34301195,
+      "longitude": -6.258933781177758,
+      "osm_ids": [
+        "way/271989540"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/273202992",
+      "name": "McDaid's",
+      "latitude": 53.341224499999996,
+      "longitude": -6.261003417341787,
+      "osm_ids": [
+        "way/273202992"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/273520544",
+      "name": "The George",
+      "latitude": 53.34381325,
+      "longitude": -6.264644628876366,
+      "osm_ids": [
+        "way/273520544"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/273652089",
+      "name": "The Rag Trader",
+      "latitude": 53.34265405,
+      "longitude": -6.262937709769748,
+      "osm_ids": [
+        "way/273652089"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/273993937",
+      "name": "The Oliver St John Gogarty",
+      "latitude": 53.345597749999996,
+      "longitude": -6.261665890384437,
+      "osm_ids": [
+        "way/273993937"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/275159990",
+      "name": "The Old Stand",
+      "latitude": 53.343133550000005,
+      "longitude": -6.262144412228078,
+      "osm_ids": [
+        "way/275159990"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/275482802",
+      "name": "Madigans",
+      "latitude": 53.33613975,
+      "longitude": -6.256853505640291,
+      "osm_ids": [
+        "way/275482802"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/275483127",
+      "name": "Hartigan’s",
+      "latitude": 53.3359903,
+      "longitude": -6.256572066311877,
+      "osm_ids": [
+        "way/275483127"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/279140841",
+      "name": "O'Donoghue's",
+      "latitude": 53.33817175,
+      "longitude": -6.254169415772784,
+      "osm_ids": [
+        "way/279140841"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281005429",
+      "name": "The King’s Inn",
+      "latitude": 53.352345650000004,
+      "longitude": -6.26919964120512,
+      "osm_ids": [
+        "way/281005429"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281357163",
+      "name": "The Mezz",
+      "latitude": 53.34468485,
+      "longitude": -6.264625872310757,
+      "osm_ids": [
+        "way/281357163"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281359242",
+      "name": "The Norseman",
+      "latitude": 53.34535794999999,
+      "longitude": -6.264747396320999,
+      "osm_ids": [
+        "way/281359242"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281650312",
+      "name": "The Oak",
+      "latitude": 53.34431605,
+      "longitude": -6.266924747515529,
+      "osm_ids": [
+        "way/281650312"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281669751",
+      "name": "Foggy Dew",
+      "latitude": 53.34445725,
+      "longitude": -6.263460307910462,
+      "osm_ids": [
+        "way/281669751"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281683058",
+      "name": "Merchant's Arch",
+      "latitude": 53.34594305,
+      "longitude": -6.2628187038753484,
+      "osm_ids": [
+        "way/281683058"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281772553",
+      "name": "The Swan",
+      "latitude": 53.33962475,
+      "longitude": -6.265546339405763,
+      "osm_ids": [
+        "way/281772553"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/281772561",
+      "name": "John O’Dywer’s",
+      "latitude": 53.33847965,
+      "longitude": -6.265894268950675,
+      "osm_ids": [
+        "way/281772561"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/283771391",
+      "name": "The Bleeding Horse",
+      "latitude": 53.3334784,
+      "longitude": -6.264744633247421,
+      "osm_ids": [
+        "way/283771391"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/289743485",
+      "name": "Bottom of the Hill",
+      "latitude": 53.3874419,
+      "longitude": -6.297084331159059,
+      "osm_ids": [
+        "way/289743485"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/291771732",
+      "name": "Ruby Finnegan's",
+      "latitude": 53.34261195,
+      "longitude": -6.330107604061785,
+      "osm_ids": [
+        "way/291771732"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/292099733",
+      "name": "The Coach House",
+      "latitude": 53.276364799999996,
+      "longitude": -6.249129451060888,
+      "osm_ids": [
+        "way/292099733"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/292185700",
+      "name": "Millmount House",
+      "latitude": 53.368912550000005,
+      "longitude": -6.255355294105268,
+      "osm_ids": [
+        "way/292185700"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/292185701",
+      "name": "Fagan’s",
+      "latitude": 53.3674458,
+      "longitude": -6.255968056243685,
+      "osm_ids": [
+        "way/292185701"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/292692332",
+      "name": "The Christchurch",
+      "latitude": 53.343357,
+      "longitude": -6.2733278606721905,
+      "osm_ids": [
+        "way/292692332"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/293274347",
+      "name": "The Strawberry Hall",
+      "latitude": 53.36242065,
+      "longitude": -6.385724213373621,
+      "osm_ids": [
+        "way/293274347"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/294818852",
+      "name": "The Coliemore",
+      "latitude": 53.277093699999995,
+      "longitude": -6.103053541358807,
+      "osm_ids": [
+        "way/294818852"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/294962764",
+      "name": "The Temple Bar",
+      "latitude": 53.34547885,
+      "longitude": -6.2640728232028415,
+      "osm_ids": [
+        "way/294962764"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/296152664",
+      "name": "Shamrock Lodge",
+      "latitude": 53.3903352,
+      "longitude": -6.299883952831995,
+      "osm_ids": [
+        "way/296152664"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/296153007",
+      "name": "The Full Shilling",
+      "latitude": 53.3895793,
+      "longitude": -6.298667444075268,
+      "osm_ids": [
+        "way/296153007"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/298356152",
+      "name": "Halfway House",
+      "latitude": 53.372456,
+      "longitude": -6.3311637259476985,
+      "osm_ids": [
+        "way/298356152"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/300187149",
+      "name": "Lloyd’s",
+      "latitude": 53.3526684,
+      "longitude": -6.249255782808378,
+      "osm_ids": [
+        "way/300187149"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/302342924",
+      "name": "Martin’s",
+      "latitude": 53.390661,
+      "longitude": -6.288051953846987,
+      "osm_ids": [
+        "way/302342924"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/307149426",
+      "name": "J.J. Grainger",
+      "latitude": 53.35123025,
+      "longitude": -6.250411374843251,
+      "osm_ids": [
+        "way/307149426"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/307150002",
+      "name": "Graingers Hanlons Corner",
+      "latitude": 53.35739665,
+      "longitude": -6.2887329802385885,
+      "osm_ids": [
+        "way/307150002"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/307175604",
+      "name": "Clarke's City Arms",
+      "latitude": 53.3560081,
+      "longitude": -6.288092517451522,
+      "osm_ids": [
+        "way/307175604"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/308099353",
+      "name": "Kavanagh’s",
+      "latitude": 53.353358099999994,
+      "longitude": -6.285889485551701,
+      "osm_ids": [
+        "way/308099353"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/313703366",
+      "name": "The Ramble",
+      "latitude": 53.3754618,
+      "longitude": -6.2094999737179535,
+      "osm_ids": [
+        "way/313703366"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/313827641",
+      "name": "The Watermill",
+      "latitude": 53.3798028,
+      "longitude": -6.177135125223769,
+      "osm_ids": [
+        "way/313827641"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/313838456",
+      "name": "The Manhattan",
+      "latitude": 53.3806163,
+      "longitude": -6.174749154263566,
+      "osm_ids": [
+        "way/313838456"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/313838460",
+      "name": "The Inn",
+      "latitude": 53.379929149999995,
+      "longitude": -6.174125138848986,
+      "osm_ids": [
+        "way/313838460"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/314103949",
+      "name": "The Strand House",
+      "latitude": 53.363346050000004,
+      "longitude": -6.235724041595443,
+      "osm_ids": [
+        "way/314103949"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/314131921",
+      "name": "Gaffney & Son",
+      "latitude": 53.36304345,
+      "longitude": -6.236453839810018,
+      "osm_ids": [
+        "way/314131921"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/324346439",
+      "name": "The Beachcomber",
+      "latitude": 53.3706961,
+      "longitude": -6.2061276962014915,
+      "osm_ids": [
+        "way/324346439"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/324744098",
+      "name": "Carroll’s",
+      "latitude": 53.3572765,
+      "longitude": -6.449548572896414,
+      "osm_ids": [
+        "way/324744098"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/325131328",
+      "name": "The Parnell Heritage Pub",
+      "latitude": 53.352121499999996,
+      "longitude": -6.262015105532255,
+      "osm_ids": [
+        "way/325131328"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/334694813",
+      "name": "Uncle Tom’s Cabin",
+      "latitude": 53.2952304,
+      "longitude": -6.246518700235277,
+      "osm_ids": [
+        "way/334694813"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/342139194",
+      "name": "Hollystown Golf Clubhouse",
+      "latitude": 53.4312058,
+      "longitude": -6.3773265146857865,
+      "osm_ids": [
+        "way/342139194"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/350231324",
+      "name": "The Bridge Tavern",
+      "latitude": 53.3572378,
+      "longitude": -6.248852340729485,
+      "osm_ids": [
+        "way/350231324"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/351409390",
+      "name": "The Long Hall",
+      "latitude": 53.34186765,
+      "longitude": -6.265330488428271,
+      "osm_ids": [
+        "way/351409390"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/356323694",
+      "name": "The Ivy House",
+      "latitude": 53.37241635,
+      "longitude": -6.25217304577212,
+      "osm_ids": [
+        "way/356323694"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/362954595",
+      "name": "Drop Dead Twice",
+      "latitude": 53.342448899999994,
+      "longitude": -6.2753584952842205,
+      "osm_ids": [
+        "way/362954595"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/364532043",
+      "name": "Barbers Bar",
+      "latitude": 53.3521548,
+      "longitude": -6.2798134215267725,
+      "osm_ids": [
+        "way/364532043"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/375706578",
+      "name": "Myo’s",
+      "latitude": 53.372754150000006,
+      "longitude": -6.36241046334464,
+      "osm_ids": [
+        "way/375706578"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/381661513",
+      "name": "The Blackrock",
+      "latitude": 53.300689500000004,
+      "longitude": -6.177085456896557,
+      "osm_ids": [
+        "way/381661513"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/383974966",
+      "name": "The Glimmer Man",
+      "latitude": 53.35085505,
+      "longitude": -6.281998305543288,
+      "osm_ids": [
+        "way/383974966"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/383974974",
+      "name": "L. Mulligan Grocer",
+      "latitude": 53.35102485,
+      "longitude": -6.282205772008247,
+      "osm_ids": [
+        "way/383974974"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/383974977",
+      "name": "Tommy O’Gara",
+      "latitude": 53.351085350000005,
+      "longitude": -6.2822877200721585,
+      "osm_ids": [
+        "way/383974977"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/383992493",
+      "name": "The Belfry",
+      "latitude": 53.350403850000006,
+      "longitude": -6.282087811524733,
+      "osm_ids": [
+        "way/383992493"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/383996326",
+      "name": "J. Walsh & Co.",
+      "latitude": 53.350387850000004,
+      "longitude": -6.281634065532991,
+      "osm_ids": [
+        "way/383996326"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/384344469",
+      "name": "McGettigan’s",
+      "latitude": 53.3472931,
+      "longitude": -6.280264370073891,
+      "osm_ids": [
+        "way/384344469"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/391799129",
+      "name": "The Black Wolf",
+      "latitude": 53.38597785,
+      "longitude": -6.374394471994016,
+      "osm_ids": [
+        "way/391799129"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/397314703",
+      "name": "The Wishing Well",
+      "latitude": 53.2877885,
+      "longitude": -6.177772285583941,
+      "osm_ids": [
+        "way/397314703"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/407979343",
+      "name": "Flannery’s",
+      "latitude": 53.336124850000004,
+      "longitude": -6.265025165029023,
+      "osm_ids": [
+        "way/407979343"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/422874523",
+      "name": "McGowan’s of Harold's Cross",
+      "latitude": 53.323231199999995,
+      "longitude": -6.28032163084416,
+      "osm_ids": [
+        "way/422874523"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/426792673",
+      "name": "Purcells",
+      "latitude": 53.281133100000005,
+      "longitude": -6.469086094692738,
+      "osm_ids": [
+        "way/426792673"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/471666565",
+      "name": "Priorswood Inn",
+      "latitude": 53.40336155,
+      "longitude": -6.206662997328623,
+      "osm_ids": [
+        "way/471666565"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/483711535",
+      "name": "Dead Man’s Inn",
+      "latitude": 53.35606415,
+      "longitude": -6.397795857079862,
+      "osm_ids": [
+        "way/483711535"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/491824106",
+      "name": "The Morgue",
+      "latitude": 53.29835285,
+      "longitude": -6.302847809902453,
+      "osm_ids": [
+        "way/491824106"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/507081189",
+      "name": "Byrne's Galloping Green",
+      "latitude": 53.2803306,
+      "longitude": -6.188750426909774,
+      "osm_ids": [
+        "way/507081189"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/511570994",
+      "name": "The Old Orchard",
+      "latitude": 53.29466865,
+      "longitude": -6.299220377064481,
+      "osm_ids": [
+        "way/511570994"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/517560263",
+      "name": "Piper’s Corner",
+      "latitude": 53.3490472,
+      "longitude": -6.257948687340589,
+      "osm_ids": [
+        "way/517560263"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/517592734",
+      "name": "The Auld Dubliner",
+      "latitude": 53.3455666,
+      "longitude": -6.26197645,
+      "osm_ids": [
+        "way/517592734"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/521230125",
+      "name": "Wren's Nest",
+      "latitude": 53.36253465,
+      "longitude": -6.401803575456817,
+      "osm_ids": [
+        "way/521230125"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/530407774",
+      "name": "The Royal Oak",
+      "latitude": 53.3416383,
+      "longitude": -6.303757163314135,
+      "osm_ids": [
+        "way/530407774"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/530415760",
+      "name": "Donoghue’s",
+      "latitude": 53.340804649999995,
+      "longitude": -6.310688761158758,
+      "osm_ids": [
+        "way/530415760"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/548630763",
+      "name": "Brock Inn",
+      "latitude": 53.43313605,
+      "longitude": -6.33251034434732,
+      "osm_ids": [
+        "way/548630763"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/549576988",
+      "name": "Nolita",
+      "latitude": 53.34248255,
+      "longitude": -6.264905249481737,
+      "osm_ids": [
+        "way/549576988"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/553047965",
+      "name": "An Poitín Stil",
+      "latitude": 53.28101905,
+      "longitude": -6.476750053962373,
+      "osm_ids": [
+        "way/553047965"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/553980577",
+      "name": "Mc Evoys",
+      "latitude": 53.3181396,
+      "longitude": -6.518642975526026,
+      "osm_ids": [
+        "way/553980577"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/554939990",
+      "name": "Leonard’s Corner",
+      "latitude": 53.3321489,
+      "longitude": -6.275461321850198,
+      "osm_ids": [
+        "way/554939990"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/554988456",
+      "name": "Kilmardinny Inn",
+      "latitude": 53.3912318,
+      "longitude": -6.235427116914336,
+      "osm_ids": [
+        "way/554988456"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/561372021",
+      "name": "The Cat and Cage",
+      "latitude": 53.37119495,
+      "longitude": -6.253187336245791,
+      "osm_ids": [
+        "way/561372021"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/570457147",
+      "name": "Kavanagh’s",
+      "latitude": 53.29842765,
+      "longitude": -6.285448156843209,
+      "osm_ids": [
+        "way/570457147"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/570457148",
+      "name": "The Revels",
+      "latitude": 53.29833335,
+      "longitude": -6.2855109469474115,
+      "osm_ids": [
+        "way/570457148"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/586576112",
+      "name": "O'Dwyer's Bar & Grill",
+      "latitude": 53.420517149999995,
+      "longitude": -6.1378848032831215,
+      "osm_ids": [
+        "way/586576112"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/589373498",
+      "name": "The Abbey Tavern",
+      "latitude": 53.38699855,
+      "longitude": -6.065762815948517,
+      "osm_ids": [
+        "way/589373498"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/606830451",
+      "name": "Mullingar House",
+      "latitude": 53.34843465,
+      "longitude": -6.342278857425441,
+      "osm_ids": [
+        "way/606830451"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/608742882",
+      "name": "The Villager",
+      "latitude": 53.349667600000004,
+      "longitude": -6.3444162457436235,
+      "osm_ids": [
+        "way/608742882"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/613557219",
+      "name": "The Rathcoole Inn",
+      "latitude": 53.28098935,
+      "longitude": -6.470434354978935,
+      "osm_ids": [
+        "way/613557219"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/619879360",
+      "name": "The Hacienda",
+      "latitude": 53.348147600000004,
+      "longitude": -6.270285572209622,
+      "osm_ids": [
+        "way/619879360"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/619884575",
+      "name": "Anne's Bar",
+      "latitude": 53.34519935,
+      "longitude": -6.266278836329006,
+      "osm_ids": [
+        "way/619884575"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/642677978",
+      "name": "The Ploughman Bar and Grill",
+      "latitude": 53.4458753,
+      "longitude": -6.2005237217314235,
+      "osm_ids": [
+        "way/642677978"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/645050835",
+      "name": "The Circular",
+      "latitude": 53.3363531,
+      "longitude": -6.297856131435465,
+      "osm_ids": [
+        "way/645050835"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/655447232",
+      "name": "Beaumont House",
+      "latitude": 53.38562775,
+      "longitude": -6.232941327857596,
+      "osm_ids": [
+        "way/655447232"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/656057654",
+      "name": "Clonliffe House",
+      "latitude": 53.3611684,
+      "longitude": -6.242629134854956,
+      "osm_ids": [
+        "way/656057654"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/657988244",
+      "name": "Cock & Bull",
+      "latitude": 53.389217099999996,
+      "longitude": -6.200983375236689,
+      "osm_ids": [
+        "way/657988244"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/660054530",
+      "name": "Downey’s",
+      "latitude": 53.3612004,
+      "longitude": -6.282982570913658,
+      "osm_ids": [
+        "way/660054530"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/660641613",
+      "name": "The Cedar Lounge",
+      "latitude": 53.381271,
+      "longitude": -6.164860693412613,
+      "osm_ids": [
+        "way/660641613"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/661632319",
+      "name": "The 1884",
+      "latitude": 53.36768175,
+      "longitude": -6.226869860030609,
+      "osm_ids": [
+        "way/661632319"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/662919753",
+      "name": "The Bohemian",
+      "latitude": 53.36105975,
+      "longitude": -6.273115313780183,
+      "osm_ids": [
+        "way/662919753"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/665875663",
+      "name": "Jackie’s",
+      "latitude": 53.3412845,
+      "longitude": -6.274529130879457,
+      "osm_ids": [
+        "way/665875663"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/665875674",
+      "name": "The Liberty Belle",
+      "latitude": 53.34158185,
+      "longitude": -6.274715733966122,
+      "osm_ids": [
+        "way/665875674"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/668344583",
+      "name": "Brogan's",
+      "latitude": 53.34437265,
+      "longitude": -6.266345372812293,
+      "osm_ids": [
+        "way/668344583"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/669319433",
+      "name": "Cassidy’s",
+      "latitude": 53.334061649999995,
+      "longitude": -6.264937515569107,
+      "osm_ids": [
+        "way/669319433"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/679432837",
+      "name": "Patrick Carthy & Sons",
+      "latitude": 53.372337200000004,
+      "longitude": -6.252205776556522,
+      "osm_ids": [
+        "way/679432837"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/680768194",
+      "name": "Farmer Browns",
+      "latitude": 53.239580000000004,
+      "longitude": -6.196770034882109,
+      "osm_ids": [
+        "way/680768194"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/681374550",
+      "name": "Kennedy’s",
+      "latitude": 53.3671102,
+      "longitude": -6.255955481479949,
+      "osm_ids": [
+        "way/681374550"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/681866900",
+      "name": "The Bald Eagle",
+      "latitude": 53.36396895,
+      "longitude": -6.271660545150862,
+      "osm_ids": [
+        "way/681866900"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/681866902",
+      "name": "The Back Page",
+      "latitude": 53.35852185,
+      "longitude": -6.2729494733824005,
+      "osm_ids": [
+        "way/681866902"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/682430066",
+      "name": "Doyle’s Corner",
+      "latitude": 53.36092635,
+      "longitude": -6.272408231517035,
+      "osm_ids": [
+        "way/682430066"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/683240615",
+      "name": "The Black Sheep",
+      "latitude": 53.34976235,
+      "longitude": -6.269093665997696,
+      "osm_ids": [
+        "way/683240615"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/696901395",
+      "name": "The Confession Box",
+      "latitude": 53.3503397,
+      "longitude": -6.2584406999999995,
+      "osm_ids": [
+        "way/696901395"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/696901397",
+      "name": "Madigan’s",
+      "latitude": 53.35008165,
+      "longitude": -6.2593467,
+      "osm_ids": [
+        "way/696901397"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/696901408",
+      "name": "Brannigan’s",
+      "latitude": 53.35038505,
+      "longitude": -6.259788012396787,
+      "osm_ids": [
+        "way/696901408"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/696901432",
+      "name": "Briody’s",
+      "latitude": 53.349581,
+      "longitude": -6.25816546593981,
+      "osm_ids": [
+        "way/696901432"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/697131606",
+      "name": "Mooney’s",
+      "latitude": 53.34866785,
+      "longitude": -6.258886006845497,
+      "osm_ids": [
+        "way/697131606"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/741013943",
+      "name": "McGrath’s",
+      "latitude": 53.36265245,
+      "longitude": -6.259043038032896,
+      "osm_ids": [
+        "way/741013943"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/752683202",
+      "name": "Brady's of Shankill",
+      "latitude": 53.2301354,
+      "longitude": -6.124612291434907,
+      "osm_ids": [
+        "way/752683202"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/754373373",
+      "name": "Fitzgeralds",
+      "latitude": 53.28594015,
+      "longitude": -6.118611711653774,
+      "osm_ids": [
+        "way/754373373"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/780238802",
+      "name": "Igo Inn",
+      "latitude": 53.25260805,
+      "longitude": -6.123287930169971,
+      "osm_ids": [
+        "way/780238802"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/795671595",
+      "name": "Slatt’s",
+      "latitude": 53.3377904,
+      "longitude": -6.328870145256607,
+      "osm_ids": [
+        "way/795671595"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/870583665",
+      "name": "W. Ryan",
+      "latitude": 53.34819725,
+      "longitude": -6.2934632349255795,
+      "osm_ids": [
+        "way/870583665"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/870583668",
+      "name": "Nancy Hands",
+      "latitude": 53.3482576,
+      "longitude": -6.294028216405856,
+      "osm_ids": [
+        "way/870583668"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/875254368",
+      "name": "The Thomas House",
+      "latitude": 53.34309235,
+      "longitude": -6.276954519762686,
+      "osm_ids": [
+        "way/875254368"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/893376289",
+      "name": "TapHouse",
+      "latitude": 53.3251737,
+      "longitude": -6.2541582423594315,
+      "osm_ids": [
+        "way/893376289"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/916905416",
+      "name": "The Viscount",
+      "latitude": 53.38097795,
+      "longitude": -6.245859666676779,
+      "osm_ids": [
+        "way/916905416"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/921876024",
+      "name": "Goose Tavern",
+      "latitude": 53.37578405,
+      "longitude": -6.2399273,
+      "osm_ids": [
+        "way/921876024"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/928261032",
+      "name": "Brewdog Outpost",
+      "latitude": 53.3447094,
+      "longitude": -6.230784061768473,
+      "osm_ids": [
+        "way/928261032"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/931201803",
+      "name": "Murphy’s Lounge",
+      "latitude": 53.31903785,
+      "longitude": -6.264753222185026,
+      "osm_ids": [
+        "way/931201803"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/934923912",
+      "name": "Ryan’s",
+      "latitude": 53.3502777,
+      "longitude": -6.252932338731165,
+      "osm_ids": [
+        "way/934923912"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/934991746",
+      "name": "Gill's Corner House",
+      "latitude": 53.35853005,
+      "longitude": -6.254329805274005,
+      "osm_ids": [
+        "way/934991746"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/935099879",
+      "name": "Black Forge Inn",
+      "latitude": 53.32404835,
+      "longitude": -6.32649624301292,
+      "osm_ids": [
+        "way/935099879"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/935099918",
+      "name": "Eleanora's",
+      "latitude": 53.32414645,
+      "longitude": -6.325491832509505,
+      "osm_ids": [
+        "way/935099918"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/935134063",
+      "name": "The Rathgar 108",
+      "latitude": 53.31210325,
+      "longitude": -6.274533023831397,
+      "osm_ids": [
+        "way/935134063"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/935738059",
+      "name": "The Castle Inn",
+      "latitude": 53.3242192,
+      "longitude": -6.329097572575074,
+      "osm_ids": [
+        "way/935738059"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/938615740",
+      "name": "Finches",
+      "latitude": 53.3446632,
+      "longitude": -6.397854525,
+      "osm_ids": [
+        "way/938615740"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/942944691",
+      "name": "Tavey’s",
+      "latitude": 53.340258649999996,
+      "longitude": -6.314665900859697,
+      "osm_ids": [
+        "way/942944691"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/963190830",
+      "name": "The Abbey Tavern",
+      "latitude": 53.39518185,
+      "longitude": -6.31124758869466,
+      "osm_ids": [
+        "way/963190830"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/965411035",
+      "name": "The Willows",
+      "latitude": 53.39342095,
+      "longitude": -6.285932796761868,
+      "osm_ids": [
+        "way/965411035"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/967072208",
+      "name": "Annesley House",
+      "latitude": 53.3596656,
+      "longitude": -6.2403445957031245,
+      "osm_ids": [
+        "way/967072208"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/967985039",
+      "name": "The Ref Pub",
+      "latitude": 53.35945315,
+      "longitude": -6.244801210498164,
+      "osm_ids": [
+        "way/967985039"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/968532221",
+      "name": "Meagher's",
+      "latitude": 53.36282855,
+      "longitude": -6.242261498751725,
+      "osm_ids": [
+        "way/968532221"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/969321280",
+      "name": "Cusack’s",
+      "latitude": 53.3574724,
+      "longitude": -6.242421925692911,
+      "osm_ids": [
+        "way/969321280"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/972279383",
+      "name": "The Village Inn",
+      "latitude": 53.3874807,
+      "longitude": -6.301238943561739,
+      "osm_ids": [
+        "way/972279383"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/973141966",
+      "name": "E. McGrath’s",
+      "latitude": 53.36708835,
+      "longitude": -6.293302098684965,
+      "osm_ids": [
+        "way/973141966"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/974841016",
+      "name": "Kitty Kiernans",
+      "latitude": 53.37665595,
+      "longitude": -6.223321116666952,
+      "osm_ids": [
+        "way/974841016"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/976106753",
+      "name": "Lowry’s",
+      "latitude": 53.35750735,
+      "longitude": -6.248209532918844,
+      "osm_ids": [
+        "way/976106753"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/977365000",
+      "name": "The Homestead - Fitzgerald's",
+      "latitude": 53.36259,
+      "longitude": -6.290365263791527,
+      "osm_ids": [
+        "way/977365000"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/989064782",
+      "name": "Breffni Inn",
+      "latitude": 53.37068275,
+      "longitude": -6.323714856337235,
+      "osm_ids": [
+        "way/989064782"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/993326913",
+      "name": "Bar Anam",
+      "latitude": 53.35089765,
+      "longitude": -6.270173879416667,
+      "osm_ids": [
+        "way/993326913"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1008215352",
+      "name": "Lucky’s",
+      "latitude": 53.341574,
+      "longitude": -6.278448803023222,
+      "osm_ids": [
+        "way/1008215352"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1009147583",
+      "name": "Kenny’s",
+      "latitude": 53.35710795,
+      "longitude": -6.4504740323630205,
+      "osm_ids": [
+        "way/1009147583"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1012900428",
+      "name": "The Irishtown House",
+      "latitude": 53.33994495,
+      "longitude": -6.223232313027602,
+      "osm_ids": [
+        "way/1012900428"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1022471493",
+      "name": "Riordan's",
+      "latitude": 53.38948295,
+      "longitude": -6.299505708139712,
+      "osm_ids": [
+        "way/1022471493"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1022471505",
+      "name": "The Full Shilling",
+      "latitude": 53.38953205,
+      "longitude": -6.299201081857846,
+      "osm_ids": [
+        "way/1022471505"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1022471506",
+      "name": "The Drake Inn",
+      "latitude": 53.38929785,
+      "longitude": -6.298868914835555,
+      "osm_ids": [
+        "way/1022471506"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1026167146",
+      "name": "Hynes'",
+      "latitude": 53.354250699999994,
+      "longitude": -6.286802770603755,
+      "osm_ids": [
+        "way/1026167146"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1031727094",
+      "name": "Burke's Bar (Closed)",
+      "latitude": 53.353031900000005,
+      "longitude": -6.248808842029884,
+      "osm_ids": [
+        "way/1031727094"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1074353199",
+      "name": "Juno",
+      "latitude": 53.361084500000004,
+      "longitude": -6.259501972828223,
+      "osm_ids": [
+        "way/1074353199"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1075891893",
+      "name": "McGowan’s",
+      "latitude": 53.3566328,
+      "longitude": -6.27398917984127,
+      "osm_ids": [
+        "way/1075891893"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1078043031",
+      "name": "The Hogan Stand",
+      "latitude": 53.35841125,
+      "longitude": -6.255886211575907,
+      "osm_ids": [
+        "way/1078043031"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1084218455",
+      "name": "The Cobblestone",
+      "latitude": 53.34984755,
+      "longitude": -6.277820314038488,
+      "osm_ids": [
+        "way/1084218455"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1084223124",
+      "name": "Hill 16",
+      "latitude": 53.3549882,
+      "longitude": -6.257224904651164,
+      "osm_ids": [
+        "way/1084223124"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1084437112",
+      "name": "The Hideout",
+      "latitude": 53.35970785,
+      "longitude": -6.257016592133436,
+      "osm_ids": [
+        "way/1084437112"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1154144959",
+      "name": "Killinarden House",
+      "latitude": 53.27674595,
+      "longitude": -6.379552550332042,
+      "osm_ids": [
+        "way/1154144959"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1218481438",
+      "name": "Doyle’s",
+      "latitude": 53.345774750000004,
+      "longitude": -6.25749554196428,
+      "osm_ids": [
+        "way/1218481438"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1260680482",
+      "name": "Mc Evoys",
+      "latitude": 53.31810965,
+      "longitude": -6.51845516146035,
+      "osm_ids": [
+        "way/1260680482"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1288558946",
+      "name": "Cuckoo's Nest",
+      "latitude": 53.30328345,
+      "longitude": -6.351079393407243,
+      "osm_ids": [
+        "way/1288558946"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1352202359",
+      "name": "Gibneys",
+      "latitude": 53.45130735,
+      "longitude": -6.153464825497159,
+      "osm_ids": [
+        "way/1352202359"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1352796820",
+      "name": "Duffy's",
+      "latitude": 53.450794349999995,
+      "longitude": -6.154599721224152,
+      "osm_ids": [
+        "way/1352796820"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "way/1370309957",
+      "name": "The Star",
+      "latitude": 53.45853715,
+      "longitude": -6.219703242117417,
+      "osm_ids": [
+        "way/1370309957"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "relation/13336522",
+      "name": "Cumiskey's",
+      "latitude": 53.3651885,
+      "longitude": -6.3189871267094535,
+      "osm_ids": [
+        "relation/13336522"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "relation/14462907",
+      "name": "Doheny and Nesbitt",
+      "latitude": 53.33808895,
+      "longitude": -6.252885094410152,
+      "osm_ids": [
+        "relation/14462907"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "relation/14704472",
+      "name": "The Duke",
+      "latitude": 53.3419649,
+      "longitude": -6.258728018811526,
+      "osm_ids": [
+        "relation/14704472"
+      ],
+      "amenity": "pub"
+    },
+    {
+      "id": "relation/20011885",
+      "name": "The Four Provinces",
+      "latitude": 53.3146345,
+      "longitude": -6.300121432842356,
+      "osm_ids": [
+        "relation/20011885"
+      ],
+      "amenity": "pub"
+    }
+  ],
+  "bars": [
+    {
+      "id": "node/280123269",
+      "name": "Bar@Tolka",
+      "latitude": 53.3676758,
+      "longitude": -6.2512678,
+      "osm_ids": [
+        "node/280123269"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/310408293",
+      "name": "Dausie's Bar",
+      "latitude": 53.3434574,
+      "longitude": -6.2698697,
+      "osm_ids": [
+        "node/310408293"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/434153487",
+      "name": "J P Mooneys",
+      "latitude": 53.3421487,
+      "longitude": -6.2548436,
+      "osm_ids": [
+        "node/434153487"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/491319647",
+      "name": "The Skylon Bar & Grill",
+      "latitude": 53.3727647,
+      "longitude": -6.253083,
+      "osm_ids": [
+        "node/491319647"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/503224354",
+      "name": "The Jar",
+      "latitude": 53.336949,
+      "longitude": -6.2657418,
+      "osm_ids": [
+        "node/503224354"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/504986812",
+      "name": "Crystal Bar",
+      "latitude": 53.2766878,
+      "longitude": -6.2205303,
+      "osm_ids": [
+        "node/504986812"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/559485123",
+      "name": "The Quays Bar",
+      "latitude": 53.3456434,
+      "longitude": -6.2633552,
+      "osm_ids": [
+        "node/559485123"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/598161343",
+      "name": "Trinity Sports & Leisure Club & Bar",
+      "latitude": 53.4022449,
+      "longitude": -6.1613376,
+      "osm_ids": [
+        "node/598161343"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/629750018",
+      "name": "Gravity Bar",
+      "latitude": 53.3419024,
+      "longitude": -6.286488,
+      "osm_ids": [
+        "node/629750018"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/677596888",
+      "name": "River Bar",
+      "latitude": 53.3469048,
+      "longitude": -6.2584016,
+      "osm_ids": [
+        "node/677596888"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/725068375",
+      "name": "Token",
+      "latitude": 53.3496181,
+      "longitude": -6.2430718,
+      "osm_ids": [
+        "node/725068375"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/739756772",
+      "name": "The Camden",
+      "latitude": 53.3359728,
+      "longitude": -6.2655087,
+      "osm_ids": [
+        "node/739756772"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/759295279",
+      "name": "ely bar & brasserie",
+      "latitude": 53.3492828,
+      "longitude": -6.2480239,
+      "osm_ids": [
+        "node/759295279"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/768231200",
+      "name": "Bartley’s Bar",
+      "latitude": 53.3410955,
+      "longitude": -6.2641191,
+      "osm_ids": [
+        "node/768231200"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/778690166",
+      "name": "C Central",
+      "latitude": 53.3331138,
+      "longitude": -6.2647717,
+      "osm_ids": [
+        "node/778690166"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/882335486",
+      "name": "Level 4 Nightclub",
+      "latitude": 53.287319,
+      "longitude": -6.3663674,
+      "osm_ids": [
+        "node/882335486"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/907142997",
+      "name": "Pygmalion",
+      "latitude": 53.342172,
+      "longitude": -6.2623045,
+      "osm_ids": [
+        "node/907142997"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/913567411",
+      "name": "Wright's Café Bar",
+      "latitude": 53.4562481,
+      "longitude": -6.2206297,
+      "osm_ids": [
+        "node/913567411"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/943350476",
+      "name": "Board",
+      "latitude": 53.3304221,
+      "longitude": -6.275613,
+      "osm_ids": [
+        "node/943350476"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1082061533",
+      "name": "O'Riordan's Bar",
+      "latitude": 53.3456604,
+      "longitude": -6.2648854,
+      "osm_ids": [
+        "node/1082061533"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1146292428",
+      "name": "The Capitol Lounge",
+      "latitude": 53.3412928,
+      "longitude": -6.2653013,
+      "osm_ids": [
+        "node/1146292428"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1146292447",
+      "name": "Egans",
+      "latitude": 53.3402594,
+      "longitude": -6.2655755,
+      "osm_ids": [
+        "node/1146292447"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1171865905",
+      "name": "Sanctuary",
+      "latitude": 53.3955297,
+      "longitude": -6.3898787,
+      "osm_ids": [
+        "node/1171865905"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1326745943",
+      "name": "Magic Glasses",
+      "latitude": 53.3374044,
+      "longitude": -6.2634682,
+      "osm_ids": [
+        "node/1326745943"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1326745948",
+      "name": "The Dyflin Bar",
+      "latitude": 53.3408345,
+      "longitude": -6.2681589,
+      "osm_ids": [
+        "node/1326745948"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1348371058",
+      "name": "Pillar Bar",
+      "latitude": 53.3465755,
+      "longitude": -6.2587894,
+      "osm_ids": [
+        "node/1348371058"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1431043154",
+      "name": "Fitzsimon's",
+      "latitude": 53.3454708,
+      "longitude": -6.2651166,
+      "osm_ids": [
+        "node/1431043154"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1458903111",
+      "name": "The Shack",
+      "latitude": 53.2897005,
+      "longitude": -6.3650119,
+      "osm_ids": [
+        "node/1458903111"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1560022631",
+      "name": "K67",
+      "latitude": 53.4626062,
+      "longitude": -6.2178791,
+      "osm_ids": [
+        "node/1560022631"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1711807593",
+      "name": "Hemidemisemiquaver Bar",
+      "latitude": 53.3487544,
+      "longitude": -6.2285572,
+      "osm_ids": [
+        "node/1711807593"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/1981729348",
+      "name": "Gilbert & Wright",
+      "latitude": 53.4516886,
+      "longitude": -6.1536591,
+      "osm_ids": [
+        "node/1981729348"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2127757454",
+      "name": "The Cellar Bar",
+      "latitude": 53.3387556,
+      "longitude": -6.2526088,
+      "osm_ids": [
+        "node/2127757454"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2175861132",
+      "name": "Bison Bar",
+      "latitude": 53.3454018,
+      "longitude": -6.2663687,
+      "osm_ids": [
+        "node/2175861132"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2365544967",
+      "name": "Oscars",
+      "latitude": 53.348862,
+      "longitude": -6.2785235,
+      "osm_ids": [
+        "node/2365544967"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2573726983",
+      "name": "Eccles Townhouse",
+      "latitude": 53.3574023,
+      "longitude": -6.2641644,
+      "osm_ids": [
+        "node/2573726983"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2612014313",
+      "name": "Tim Young's",
+      "latitude": 53.3416494,
+      "longitude": -6.3568639,
+      "osm_ids": [
+        "node/2612014313"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2940313238",
+      "name": "The Library Bar",
+      "latitude": 53.3431428,
+      "longitude": -6.2641152,
+      "osm_ids": [
+        "node/2940313238"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2980368136",
+      "name": "Camden Bites & Brews",
+      "latitude": 53.3359048,
+      "longitude": -6.2650316,
+      "osm_ids": [
+        "node/2980368136"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2997549697",
+      "name": "Chelsea Drugstore",
+      "latitude": 53.3422541,
+      "longitude": -6.2644346,
+      "osm_ids": [
+        "node/2997549697"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/2998757813",
+      "name": "Huck’s",
+      "latitude": 53.3359626,
+      "longitude": -6.2650767,
+      "osm_ids": [
+        "node/2998757813"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3125025423",
+      "name": "John's Bar & Haberdashery",
+      "latitude": 53.3426862,
+      "longitude": -6.2775224,
+      "osm_ids": [
+        "node/3125025423"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3163587327",
+      "name": "Senior Common Room",
+      "latitude": 53.3448626,
+      "longitude": -6.2575823,
+      "osm_ids": [
+        "node/3163587327"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3224845421",
+      "name": "The Wild Duck",
+      "latitude": 53.3445718,
+      "longitude": -6.2657887,
+      "osm_ids": [
+        "node/3224845421"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3315487523",
+      "name": "Oscars Christchurch",
+      "latitude": 53.3441347,
+      "longitude": -6.2697764,
+      "osm_ids": [
+        "node/3315487523"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3423690446",
+      "name": "Vertigo Bar",
+      "latitude": 53.4275084,
+      "longitude": -6.2338652,
+      "osm_ids": [
+        "node/3423690446"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3466369334",
+      "name": "J.T. Pims",
+      "latitude": 53.3437155,
+      "longitude": -6.2642627,
+      "osm_ids": [
+        "node/3466369334"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3677094036",
+      "name": "The Vaults",
+      "latitude": 53.3513612,
+      "longitude": -6.2494796,
+      "osm_ids": [
+        "node/3677094036"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3803973848",
+      "name": "White Bar",
+      "latitude": 53.3470317,
+      "longitude": -6.2376973,
+      "osm_ids": [
+        "node/3803973848"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/3926668805",
+      "name": "Kennedys Bar",
+      "latitude": 53.296478,
+      "longitude": -6.211426,
+      "osm_ids": [
+        "node/3926668805"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4021198488",
+      "name": "Premier Bar",
+      "latitude": 53.3819717,
+      "longitude": -6.2917626,
+      "osm_ids": [
+        "node/4021198488"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4022703882",
+      "name": "UCD Clubhouse Bar",
+      "latitude": 53.3081294,
+      "longitude": -6.2270405,
+      "osm_ids": [
+        "node/4022703882"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4078397589",
+      "name": "The Liquor Rooms",
+      "latitude": 53.3453384,
+      "longitude": -6.2669388,
+      "osm_ids": [
+        "node/4078397589"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4223248090",
+      "name": "Pat Hanway",
+      "latitude": 53.356763,
+      "longitude": -6.263144,
+      "osm_ids": [
+        "node/4223248090"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4249403390",
+      "name": "House Dublin",
+      "latitude": 53.3340014,
+      "longitude": -6.2551574,
+      "osm_ids": [
+        "node/4249403390"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4266126756",
+      "name": "Brickyard",
+      "latitude": 53.2863405,
+      "longitude": -6.23705,
+      "osm_ids": [
+        "node/4266126756"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4329853451",
+      "name": "Den Bar",
+      "latitude": 53.3322511,
+      "longitude": -6.2412802,
+      "osm_ids": [
+        "node/4329853451"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4357798892",
+      "name": "Charlemont Bar & Bistro",
+      "latitude": 53.3309476,
+      "longitude": -6.259287,
+      "osm_ids": [
+        "node/4357798892"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4383657305",
+      "name": "Vintage Cocktail Club",
+      "latitude": 53.34503,
+      "longitude": -6.2628917,
+      "osm_ids": [
+        "node/4383657305"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4386441803",
+      "name": "No. 2",
+      "latitude": 53.2882365,
+      "longitude": -6.3699037,
+      "osm_ids": [
+        "node/4386441803"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4396351895",
+      "name": "Xico",
+      "latitude": 53.337863,
+      "longitude": -6.2527928,
+      "osm_ids": [
+        "node/4396351895"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4806183922",
+      "name": "Olive Green",
+      "latitude": 53.3362743,
+      "longitude": -6.2485692,
+      "osm_ids": [
+        "node/4806183922"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/4998192522",
+      "name": "Wigwam",
+      "latitude": 53.3480043,
+      "longitude": -6.2621526,
+      "osm_ids": [
+        "node/4998192522"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5044580221",
+      "name": "Drunken Fish",
+      "latitude": 53.3491745,
+      "longitude": -6.244184,
+      "osm_ids": [
+        "node/5044580221"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5155648422",
+      "name": "The Market Bar",
+      "latitude": 53.3420522,
+      "longitude": -6.2640363,
+      "osm_ids": [
+        "node/5155648422"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5166614627",
+      "name": "The Saddle Room",
+      "latitude": 53.3392353,
+      "longitude": -6.2561461,
+      "osm_ids": [
+        "node/5166614627"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5171529312",
+      "name": "Brass",
+      "latitude": 53.2952467,
+      "longitude": -6.2029446,
+      "osm_ids": [
+        "node/5171529312"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5245064896",
+      "name": "Stella Cocktail Club",
+      "latitude": 53.322389,
+      "longitude": -6.2658412,
+      "osm_ids": [
+        "node/5245064896"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5362108727",
+      "name": "The Snug Bar",
+      "latitude": 53.341461,
+      "longitude": -6.2659913,
+      "osm_ids": [
+        "node/5362108727"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5367355656",
+      "name": "r.i.o.t.",
+      "latitude": 53.3462583,
+      "longitude": -6.2615322,
+      "osm_ids": [
+        "node/5367355656"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5373194431",
+      "name": "The Place",
+      "latitude": 53.3516917,
+      "longitude": -6.2501036,
+      "osm_ids": [
+        "node/5373194431"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5590277112",
+      "name": "Grain & Grill Bar",
+      "latitude": 53.2840894,
+      "longitude": -6.3759556,
+      "osm_ids": [
+        "node/5590277112"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5590594966",
+      "name": "Grain & Grill Bar",
+      "latitude": 53.3496315,
+      "longitude": -6.2786626,
+      "osm_ids": [
+        "node/5590594966"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5590610025",
+      "name": "Grain & Grill Bar",
+      "latitude": 53.3131172,
+      "longitude": -6.3929869,
+      "osm_ids": [
+        "node/5590610025"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5590642309",
+      "name": "Grain & Grill Bar",
+      "latitude": 53.3435319,
+      "longitude": -6.2436233,
+      "osm_ids": [
+        "node/5590642309"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5590669322",
+      "name": "Belvedere Bar",
+      "latitude": 53.3550126,
+      "longitude": -6.262401,
+      "osm_ids": [
+        "node/5590669322"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5678239622",
+      "name": "The Bar With No Name",
+      "latitude": 53.3419024,
+      "longitude": -6.264235,
+      "osm_ids": [
+        "node/5678239622"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5729185009",
+      "name": "53 South William",
+      "latitude": 53.34174,
+      "longitude": -6.2626634,
+      "osm_ids": [
+        "node/5729185009"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5759625992",
+      "name": "Grain & Grill",
+      "latitude": 53.3381976,
+      "longitude": -6.2717563,
+      "osm_ids": [
+        "node/5759625992"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/5838769296",
+      "name": "Decies County",
+      "latitude": 53.3410001,
+      "longitude": -6.3354067,
+      "osm_ids": [
+        "node/5838769296"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6073174873",
+      "name": "The Betsy",
+      "latitude": 53.4585272,
+      "longitude": -6.2206176,
+      "osm_ids": [
+        "node/6073174873"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6248574948",
+      "name": "Metzo",
+      "latitude": 53.3966916,
+      "longitude": -6.2637118,
+      "osm_ids": [
+        "node/6248574948"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6551427836",
+      "name": "Zozimus Bar",
+      "latitude": 53.3405771,
+      "longitude": -6.2597707,
+      "osm_ids": [
+        "node/6551427836"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6659452185",
+      "name": "The Mint Bar",
+      "latitude": 53.3456553,
+      "longitude": -6.2589016,
+      "osm_ids": [
+        "node/6659452185"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6659454386",
+      "name": "Crowbar",
+      "latitude": 53.3450768,
+      "longitude": -6.2643305,
+      "osm_ids": [
+        "node/6659454386"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6666742585",
+      "name": "Farrier & Draper Bar & Restaurant",
+      "latitude": 53.3424295,
+      "longitude": -6.2621681,
+      "osm_ids": [
+        "node/6666742585"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6676979026",
+      "name": "The Schooner Bar",
+      "latitude": 53.3887467,
+      "longitude": -6.110215,
+      "osm_ids": [
+        "node/6676979026"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/6796636983",
+      "name": "Howth Yacht Club",
+      "latitude": 53.3887912,
+      "longitude": -6.0678483,
+      "osm_ids": [
+        "node/6796636983"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/7138761089",
+      "name": "Ohana Tiki Bar",
+      "latitude": 53.3362565,
+      "longitude": -6.2634875,
+      "osm_ids": [
+        "node/7138761089"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/8521097190",
+      "name": "Manhattan",
+      "latitude": 53.3426816,
+      "longitude": -6.3564948,
+      "osm_ids": [
+        "node/8521097190"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/8521097200",
+      "name": "Chasers",
+      "latitude": 53.3424752,
+      "longitude": -6.3535971,
+      "osm_ids": [
+        "node/8521097200"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/9238631400",
+      "name": "IdleWild",
+      "latitude": 53.3420846,
+      "longitude": -6.2641425,
+      "osm_ids": [
+        "node/9238631400"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/9350482020",
+      "name": "Oak Cafe Bar",
+      "latitude": 53.4262478,
+      "longitude": -6.2394173,
+      "osm_ids": [
+        "node/9350482020"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/9526776464",
+      "name": "Tap + Brew",
+      "latitude": 53.4304004,
+      "longitude": -6.2480084,
+      "osm_ids": [
+        "node/9526776464"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/9984256982",
+      "name": "Powerhouse Bar and Cocktail Village",
+      "latitude": 53.3438898,
+      "longitude": -6.2857093,
+      "osm_ids": [
+        "node/9984256982"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/10576430555",
+      "name": "Cois Life Bar",
+      "latitude": 53.3483928,
+      "longitude": -6.2556319,
+      "osm_ids": [
+        "node/10576430555"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/10601110758",
+      "name": "Café en Seine",
+      "latitude": 53.3407232,
+      "longitude": -6.2585998,
+      "osm_ids": [
+        "node/10601110758"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/10675853050",
+      "name": "22 Bar & Restaurant",
+      "latitude": 53.3661312,
+      "longitude": -6.3895956,
+      "osm_ids": [
+        "node/10675853050"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/10745666702",
+      "name": "The Local",
+      "latitude": 53.3032488,
+      "longitude": -6.2192105,
+      "osm_ids": [
+        "node/10745666702"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/10765828306",
+      "name": "Zanzibar Locke Bar",
+      "latitude": 53.3465593,
+      "longitude": -6.2640167,
+      "osm_ids": [
+        "node/10765828306"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/10792357138",
+      "name": "Centurion Bar",
+      "latitude": 53.3274636,
+      "longitude": -6.2296624,
+      "osm_ids": [
+        "node/10792357138"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/11026623981",
+      "name": "The Abbey Bar",
+      "latitude": 53.3484357,
+      "longitude": -6.25733,
+      "osm_ids": [
+        "node/11026623981"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/11030599280",
+      "name": "J.R. Mahon's",
+      "latitude": 53.3470014,
+      "longitude": -6.2581487,
+      "osm_ids": [
+        "node/11030599280"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/11038174107",
+      "name": "The Whiskey Reserve",
+      "latitude": 53.3452284,
+      "longitude": -6.2642203,
+      "osm_ids": [
+        "node/11038174107"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/11290217421",
+      "name": "The Bar",
+      "latitude": 53.4126589,
+      "longitude": -6.2184915,
+      "osm_ids": [
+        "node/11290217421"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/11384483172",
+      "name": "The Sin Bin",
+      "latitude": 53.3413348,
+      "longitude": -6.2508466,
+      "osm_ids": [
+        "node/11384483172"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/11522240569",
+      "name": "Disndat",
+      "latitude": 53.3436679,
+      "longitude": -6.2636608,
+      "osm_ids": [
+        "node/11522240569"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12051815620",
+      "name": "The Croft",
+      "latitude": 53.3774492,
+      "longitude": -6.2465241,
+      "osm_ids": [
+        "node/12051815620"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12087084525",
+      "name": "Drury Buildings Bar",
+      "latitude": 53.3419319,
+      "longitude": -6.2634461,
+      "osm_ids": [
+        "node/12087084525"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12101176582",
+      "name": "Love Tempo",
+      "latitude": 53.3429245,
+      "longitude": -6.2792593,
+      "osm_ids": [
+        "node/12101176582",
+        "way/1080799552"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12170327422",
+      "name": "No. 27 Bar & Lounge",
+      "latitude": 53.3390172,
+      "longitude": -6.2562314,
+      "osm_ids": [
+        "node/12170327422"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12178058608",
+      "name": "Knights Bar",
+      "latitude": 53.364874,
+      "longitude": -6.2066272,
+      "osm_ids": [
+        "node/12178058608"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12179155624",
+      "name": "Iveagh Bistro",
+      "latitude": 53.3480666,
+      "longitude": -6.2910693,
+      "osm_ids": [
+        "node/12179155624"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12416156738",
+      "name": "Lemon & Duke",
+      "latitude": 53.3415562,
+      "longitude": -6.2591307,
+      "osm_ids": [
+        "node/12416156738"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12455474554",
+      "name": "The Gate Clock",
+      "latitude": 53.4263366,
+      "longitude": -6.2455787,
+      "osm_ids": [
+        "node/12455474554"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12584654956",
+      "name": "The Mint",
+      "latitude": 53.3455137,
+      "longitude": -6.2582922,
+      "osm_ids": [
+        "node/12584654956"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12596062894",
+      "name": "Dungeon Bar",
+      "latitude": 53.2692813,
+      "longitude": -6.112998,
+      "osm_ids": [
+        "node/12596062894"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12601007283",
+      "name": "Point A Hotel Bar",
+      "latitude": 53.3517334,
+      "longitude": -6.2627375,
+      "osm_ids": [
+        "node/12601007283"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12640604521",
+      "name": "The Fallow Kitchen & Bar",
+      "latitude": 53.4252151,
+      "longitude": -6.2405916,
+      "osm_ids": [
+        "node/12640604521"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/12710702758",
+      "name": "Hyde",
+      "latitude": 53.3415541,
+      "longitude": -6.2593326,
+      "osm_ids": [
+        "node/12710702758"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13246132939",
+      "name": "Arthur Guinness Bar",
+      "latitude": 53.4278999,
+      "longitude": -6.2455366,
+      "osm_ids": [
+        "node/13246132939"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13294228736",
+      "name": "National Concert Hall Bar",
+      "latitude": 53.3346275,
+      "longitude": -6.2592462,
+      "osm_ids": [
+        "node/13294228736"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13356563701",
+      "name": "Toner's Yard",
+      "latitude": 53.3375534,
+      "longitude": -6.252479,
+      "osm_ids": [
+        "node/13356563701"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13668896713",
+      "name": "Candlelight",
+      "latitude": 53.4520177,
+      "longitude": -6.1530308,
+      "osm_ids": [
+        "node/13668896713"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13700912801",
+      "name": "Daphni",
+      "latitude": 53.3420454,
+      "longitude": -6.2370174,
+      "osm_ids": [
+        "node/13700912801"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13724230918",
+      "name": "Barebone",
+      "latitude": 53.3370624,
+      "longitude": -6.2654728,
+      "osm_ids": [
+        "node/13724230918"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13800643958",
+      "name": "WXYZ Cocktails",
+      "latitude": 53.3371541,
+      "longitude": -6.2752888,
+      "osm_ids": [
+        "node/13800643958"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13892664101",
+      "name": "Dolly’s",
+      "latitude": 53.3100178,
+      "longitude": -6.2832522,
+      "osm_ids": [
+        "node/13892664101"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/13981435693",
+      "name": "Lost Lane",
+      "latitude": 53.3427919,
+      "longitude": -6.2591138,
+      "osm_ids": [
+        "node/13981435693"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/14107712956",
+      "name": "Bobby's Wine Bar",
+      "latitude": 53.3335427,
+      "longitude": -6.2446298,
+      "osm_ids": [
+        "node/14107712956"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/14226948973",
+      "name": "The Mercantile",
+      "latitude": 53.3439967,
+      "longitude": -6.2639643,
+      "osm_ids": [
+        "node/14226948973"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/14338435298",
+      "name": "OShea's Merchant",
+      "latitude": 53.3450908,
+      "longitude": -6.2757522,
+      "osm_ids": [
+        "node/14338435298"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "node/14385954349",
+      "name": "Locke Bar & Lounge",
+      "latitude": 53.3479173,
+      "longitude": -6.2294971,
+      "osm_ids": [
+        "node/14385954349"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/57787747",
+      "name": "Saint Peregrine's GAA - Bar",
+      "latitude": 53.39528775,
+      "longitude": -6.405005602211214,
+      "osm_ids": [
+        "way/57787747"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/228762044",
+      "name": "Panti Bar",
+      "latitude": 53.3466149,
+      "longitude": -6.267793452673077,
+      "osm_ids": [
+        "way/228762044"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/230133865",
+      "name": "The Porterhouse",
+      "latitude": 53.34514215,
+      "longitude": -6.267376952373297,
+      "osm_ids": [
+        "way/230133865"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/233791356",
+      "name": "Clifton Court Bar",
+      "latitude": 53.3480007,
+      "longitude": -6.257999983114885,
+      "osm_ids": [
+        "way/233791356"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/233791363",
+      "name": "Lanigan’s",
+      "latitude": 53.3480297,
+      "longitude": -6.257906073374041,
+      "osm_ids": [
+        "way/233791363"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/252812519",
+      "name": "Mema’s",
+      "latitude": 53.35322375,
+      "longitude": -6.260440843079749,
+      "osm_ids": [
+        "way/252812519"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/255386982",
+      "name": "Sarsfield Racing Pigeon Club",
+      "latitude": 53.34260755,
+      "longitude": -6.335694770933533,
+      "osm_ids": [
+        "way/255386982"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/255386983",
+      "name": "Ballyfermot Sports and Social Club",
+      "latitude": 53.3417668,
+      "longitude": -6.357517249074244,
+      "osm_ids": [
+        "way/255386983"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/258651047",
+      "name": "The Pavilion",
+      "latitude": 53.34269385,
+      "longitude": -6.252902723821,
+      "osm_ids": [
+        "way/258651047"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/268843105",
+      "name": "Dawson Lounge",
+      "latitude": 53.339765650000004,
+      "longitude": -6.258865409866312,
+      "osm_ids": [
+        "way/268843105"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/273646173",
+      "name": "Johnny Rush's",
+      "latitude": 53.34288085,
+      "longitude": -6.261845878323076,
+      "osm_ids": [
+        "way/273646173"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/281046955",
+      "name": "Ely Wine Bar",
+      "latitude": 53.3379697,
+      "longitude": -6.254047542597416,
+      "osm_ids": [
+        "way/281046955"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/281685663",
+      "name": "Ha'penny Bridge Inn",
+      "latitude": 53.345877,
+      "longitude": -6.263314410585613,
+      "osm_ids": [
+        "way/281685663"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/310822756",
+      "name": "Ringside Bar",
+      "latitude": 53.33048035,
+      "longitude": -6.280085950000002,
+      "osm_ids": [
+        "way/310822756"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/316971228",
+      "name": "Toddy’s Bar & Brasserie",
+      "latitude": 53.3518428,
+      "longitude": -6.260705520229045,
+      "osm_ids": [
+        "way/316971228"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/350588958",
+      "name": "Opium",
+      "latitude": 53.33668845,
+      "longitude": -6.2660402600459655,
+      "osm_ids": [
+        "way/350588958"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/516629072",
+      "name": "The Chalk Venue",
+      "latitude": 53.456444250000004,
+      "longitude": -6.222621126639285,
+      "osm_ids": [
+        "way/516629072"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/611618541",
+      "name": "Street 66",
+      "latitude": 53.34451785,
+      "longitude": -6.267605594427243,
+      "osm_ids": [
+        "way/611618541"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/657456424",
+      "name": "The Silver Penny",
+      "latitude": 53.349106899999995,
+      "longitude": -6.2564284864248085,
+      "osm_ids": [
+        "way/657456424"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/931386087",
+      "name": "Jimmy Rabbitte’s",
+      "latitude": 53.336098899999996,
+      "longitude": -6.265656179345817,
+      "osm_ids": [
+        "way/931386087"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "way/1086239548",
+      "name": "The Lombard",
+      "latitude": 53.344202499999994,
+      "longitude": -6.248973395118335,
+      "osm_ids": [
+        "way/1086239548"
+      ],
+      "amenity": "bar"
+    },
+    {
+      "id": "relation/3375611",
+      "name": "The Bank on College Green",
+      "latitude": 53.344072350000005,
+      "longitude": -6.261478387172245,
+      "osm_ids": [
+        "relation/3375611"
+      ],
+      "amenity": "bar"
+    }
+  ]
+}

@@ -46,8 +46,10 @@ class RefreshTests(unittest.TestCase):
             root = Path(directory)
             workbook = root / 'register.xls'
             workbook.write_bytes(b'workbook')
-            visits = root / 'postgres-pubs-dump.txt'
-            visits.write_text('53.3\t-6.3\tCity Pub\tOriginal review\n', encoding='utf-8')
+            visits = root / 'visits.json'
+            initial = [{'id': 'visit-0001', 'latitude': 53.3, 'longitude': -6.3,
+                        'name': 'City Pub', 'review': 'Original review', 'osm_id': None}]
+            visits.write_text(json.dumps(initial), encoding='utf-8')
 
             def run_refresh():
                 with patch.object(refresh, 'ROOT', root), \
@@ -59,13 +61,13 @@ class RefreshTests(unittest.TestCase):
                 return next(pub for pub in data['pubs'] if pub['licence_ref'] == 'CITY1')['status']
 
             self.assertEqual(run_refresh(), 'probable')
-            self.assertEqual(visits.read_text(encoding='utf-8'), '53.3\t-6.3\tCity Pub\tOriginal review\n')
+            self.assertEqual(json.loads(visits.read_text(encoding='utf-8')), initial)
             overrides = root / 'licence-overrides.json'
             overrides.write_text(json.dumps({'COUNTY1': {'visit': {'name': 'City Pub', 'latitude': 53.3, 'longitude': -6.3}}}), encoding='utf-8')
             self.assertEqual(run_refresh(), 'review')
             overrides.unlink()
-            with visits.open('a', encoding='utf-8') as file:
-                file.write('53.31\t-6.31\tCity Pub\tOther review\n')
+            visits.write_text(json.dumps(initial + [{'id': 'visit-0002', 'latitude': 53.31,
+                'longitude': -6.31, 'name': 'City Pub', 'review': 'Other review', 'osm_id': None}]), encoding='utf-8')
             self.assertEqual(run_refresh(), 'review')
 
     def test_new_visit_reopens_manual_remaining_and_dismissal_is_specific(self):
@@ -73,8 +75,8 @@ class RefreshTests(unittest.TestCase):
             root = Path(directory)
             workbook = root / 'register.xls'
             workbook.write_bytes(b'workbook')
-            visits = root / 'postgres-pubs-dump.txt'
-            visits.write_text('', encoding='utf-8')
+            visits = root / 'visits.json'
+            visits.write_text('[]', encoding='utf-8')
             overrides = root / 'licence-overrides.json'
             decision = {'decision': 'remaining'}
             overrides.write_text(json.dumps({'CITY1': decision}), encoding='utf-8')
@@ -89,13 +91,15 @@ class RefreshTests(unittest.TestCase):
                 return next(pub for pub in data['pubs'] if pub['licence_ref'] == 'CITY1')['status']
 
             self.assertEqual(run_refresh(), 'remaining')
-            visits.write_text('53.3\t-6.3\tCity Pub\tVisited\n', encoding='utf-8')
+            initial = [{'id': 'visit-0001', 'latitude': 53.3, 'longitude': -6.3,
+                        'name': 'City Pub', 'review': 'Visited', 'osm_id': None}]
+            visits.write_text(json.dumps(initial), encoding='utf-8')
             self.assertEqual(run_refresh(), 'review')
             decision['dismissed_visits'] = [{'name': 'City Pub', 'latitude': 53.3, 'longitude': -6.3}]
             overrides.write_text(json.dumps({'CITY1': decision}), encoding='utf-8')
             self.assertEqual(run_refresh(), 'remaining')
-            with visits.open('a', encoding='utf-8') as file:
-                file.write('53.31\t-6.31\tCity Pub\tAnother visit\n')
+            visits.write_text(json.dumps(initial + [{'id': 'visit-0002', 'latitude': 53.31,
+                'longitude': -6.31, 'name': 'City Pub', 'review': 'Another visit', 'osm_id': None}]), encoding='utf-8')
             self.assertEqual(run_refresh(), 'review')
 
 
