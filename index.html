@@ -169,8 +169,37 @@
       <div class="container">
         <h2 id="tracker-heading">Our Dublin pub map</h2>
         <p id="licence-count" role="status">Loading Dublin licence total…</p>
+        <p>Undone pubs are OpenStreetMap pub candidates without a link to a visit. Some links are automatic estimates, and candidates may already have been visited or may not meet our rules. OSM bars are used only to match visits.</p>
+        <p>Green markers are Done; orange markers are unconfirmed candidates.</p>
+        <fieldset class="map-modes">
+          <legend>Show on map</legend>
+          <label><input type="radio" name="map-mode" value="done" checked> Done</label>
+          <label><input type="radio" name="map-mode" value="undone"> Undone candidates</label>
+          <label><input type="radio" name="map-mode" value="both"> Both</label>
+        </fieldset>
+        <p id="visits-status" role="status">Loading visits…</p>
+        <p id="candidates-status" role="status">Loading OpenStreetMap candidates…</p>
         <p id="map-status" role="status"></p>
-        <div id="osm-map" class="map" aria-label="Map of visited Dublin pubs"></div>
+        <div id="osm-map" class="map" aria-label="Map of Dublin pubs"></div>
+        <div class="route-planner">
+          <h3>Plan a walking route</h3>
+          <p>Choose up to nine unconfirmed candidates on desktop or three on a mobile browser. Your home address is saved only in this browser and is sent to Google only when you open directions.</p>
+          <label for="home-address">Home address (start and finish)</label>
+          <div class="home-controls">
+            <input id="home-address" type="text" autocomplete="street-address" placeholder="Enter your home address">
+            <button id="clear-home" type="button">Clear home</button>
+          </div>
+          <p id="storage-status" role="status"></p>
+          <h4>Selected stops</h4>
+          <ol id="selected-stops"></ol>
+          <p id="route-status" role="status"></p>
+          <a id="directions-link" class="btn btn-primary" target="_blank" rel="noopener noreferrer" hidden>Open walking directions in Google Maps</a>
+          <h4>Find a candidate</h4>
+          <label for="candidate-search">Search by pub name</label>
+          <input id="candidate-search" type="search" placeholder="Search pubs" disabled>
+          <p id="candidate-list-status" role="status">Candidates will appear when both datasets are available.</p>
+          <ul id="candidate-list" class="candidate-list"></ul>
+        </div>
       </div>
     </section>
 
@@ -217,7 +246,6 @@
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
     <script src="vendor/leaflet/js/leaflet.min.js"></script>
     <script src="js/stylish-portfolio.js"></script>
-    <script src="js/github-rest-client.js"></script>
 
     <script src="js/visited-map.js"></script>
   </body>

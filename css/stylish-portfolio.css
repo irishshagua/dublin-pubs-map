@@ -263,6 +263,55 @@ hr.small {
   min-height: 300px;
 }
 
+.map-modes legend {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.map-modes label {
+  margin-right: 1.25rem;
+}
+
+.route-planner {
+  margin-top: 2rem;
+}
+
+.route-planner label {
+  display: block;
+}
+
+.home-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+}
+
+.home-controls input, #candidate-search {
+  width: 100%;
+  max-width: 28rem;
+  padding: .4rem;
+}
+
+.candidate-list {
+  max-height: 20rem;
+  overflow-y: auto;
+  padding: .5rem;
+  border: 1px solid #ddd;
+  list-style: none;
+}
+
+.candidate-list label {
+  margin: .2rem 0;
+}
+
+#selected-stops li {
+  margin-bottom: .4rem;
+}
+
+#directions-link[hidden] {
+  display: none;
+}
+
 @media(max-width:768px) {
   .map {
     height: 60vh;
